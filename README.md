@@ -53,7 +53,8 @@ on a `*/15 * * * *` schedule (and on manual dispatch from the Actions tab), then
 commits and pushes `data/` only if it changed. Scheduled runs can be delayed
 under GitHub load, and GitHub pauses schedules after 60 days with no repo
 activity — neither matters here since the scraper commits whenever the feed
-changes.
+changes. If the feed is briefly unreachable, the run logs a warning and skips
+that cycle rather than failing; the next run continues.
 
 The workflow grants `contents: write` so the built-in `GITHUB_TOKEN` can push. If
 the push step ever fails with a 403, set **Settings → Actions → General →

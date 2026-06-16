@@ -10,8 +10,10 @@ field changes -- so the file preserves the full edit history of every notice,
 including edits the feed itself eventually drops as items roll off.
 
 Only stdlib is used so the GitHub Action needs no pip install. The feed is
-fetched and fully parsed before anything is written to disk, so a failed fetch
-or malformed XML leaves the existing data untouched.
+fetched (with a few retries) and fully parsed before anything is written to
+disk, so a failed fetch or malformed XML leaves the existing data untouched. A
+transient source/network failure is logged as a warning and skipped rather than
+failing the run -- the next scheduled run picks back up.
 """
 
 from __future__ import annotations
@@ -20,6 +22,8 @@ import csv
 import datetime as dt
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -37,12 +41,26 @@ TRACKED = ["title", "link", "description", "pubDate"]
 
 USER_AGENT = "trimarc-git-scraper (+https://github.com/markschaver/TRIMARC)"
 
+# Fetch is retried a few times so a momentary blip doesn't fail the run.
+FETCH_ATTEMPTS = 3
+FETCH_BACKOFF_SECONDS = 3
+# Source/network problems we treat as a transient skip, not a hard failure.
+SOURCE_ERRORS = (urllib.error.URLError, TimeoutError, ET.ParseError)
+
 
 def fetch(url: str) -> bytes:
-    """Return the raw feed bytes, or raise on a network/HTTP error."""
-    request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
-    with urllib.request.urlopen(request, timeout=60) as response:
-        return response.read()
+    """Return the raw feed bytes, retrying briefly on transient network errors."""
+    last_error: Exception = RuntimeError("fetch never attempted")
+    for attempt in range(1, FETCH_ATTEMPTS + 1):
+        try:
+            request = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+            with urllib.request.urlopen(request, timeout=60) as response:
+                return response.read()
+        except (urllib.error.URLError, TimeoutError) as error:
+            last_error = error
+            if attempt < FETCH_ATTEMPTS:
+                time.sleep(FETCH_BACKOFF_SECONDS * attempt)
+    raise last_error
 
 
 def extract_incident_id(title: str) -> str:
@@ -82,9 +100,21 @@ def latest_versions(rows: list[dict[str, str]]) -> dict[str, dict[str, str]]:
     return latest
 
 
+def warn(message: str) -> None:
+    """Emit a GitHub Actions warning annotation (plain text when run locally)."""
+    print(f"::warning::{message}")
+
+
 def main() -> int:
-    raw = fetch(FEED_URL)
-    items = parse_items(raw)  # raises on malformed XML before we touch disk
+    try:
+        raw = fetch(FEED_URL)
+        items = parse_items(raw)  # raises on malformed XML before we touch disk
+    except SOURCE_ERRORS as error:
+        warn(
+            "TRIMARC feed unavailable; skipping this run "
+            f"({type(error).__name__}: {error})."
+        )
+        return 0
 
     existing = load_existing(CSV_PATH)
     latest = latest_versions(existing)
