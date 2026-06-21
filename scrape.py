@@ -63,10 +63,18 @@ def fetch(url: str) -> bytes:
     raise last_error
 
 
-def extract_incident_id(title: str) -> str:
-    """The leading number in the title is TRIMARC's stable incident id."""
-    match = re.match(r"\s*(\d+)", title)
-    return match.group(1) if match else ""
+def split_title_id(title: str) -> tuple[str, str]:
+    """Split TRIMARC's "NNNNNN : Location" title into (incident_id, title).
+
+    The leading number is the stable incident id; it is removed from the title
+    but returned separately. A title without that prefix passes through
+    unchanged with an empty id, so re-cleaning an already-stripped title is a
+    no-op.
+    """
+    match = re.match(r"\s*(\d+)\s*:\s*(.*)", title, re.DOTALL)
+    if match:
+        return match.group(1), match.group(2).strip()
+    return "", title.strip()
 
 
 def match_key(record: dict[str, str]) -> str:
@@ -80,7 +88,7 @@ def parse_items(raw: bytes) -> list[dict[str, str]]:
     items: list[dict[str, str]] = []
     for item in root.findall("./channel/item"):
         record = {field: (item.findtext(field) or "").strip() for field in TRACKED}
-        record["incident_id"] = extract_incident_id(record["title"])
+        record["incident_id"], record["title"] = split_title_id(record["title"])
         items.append(record)
     return items
 
