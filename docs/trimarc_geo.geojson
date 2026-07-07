@@ -3175,10 +3175,10 @@
         "route": "I-264",
         "mm_start": 14.7,
         "mm_end": 14.7,
-        "title": "I-264 East at MM 14.7 Just Past Newburg Rd. in Jefferson County",
+        "title": "I-264 West at MM 14.7 Just Past Newburg Rd. in Jefferson County",
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Tue, 07 Jul 2026 22:13:00 GMT",
-        "first_seen": "2026-07-07T22:39:38Z"
+        "first_seen": "2026-07-07T23:09:23Z"
       }
     },
     {
@@ -4959,6 +4959,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0051.",
         "pubDate": "Sat, 20 Jun 2026 16:58:37 GMT",
         "first_seen": "2026-06-20T17:35:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64353,
+          38.286375
+        ]
+      },
+      "properties": {
+        "incident_id": "296412",
+        "route": "I-264",
+        "mm_start": 22.7,
+        "mm_end": 22.7,
+        "title": "I-264 East at MM 22.7 Before I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0051",
+        "pubDate": "Tue, 07 Jul 2026 21:56:13 GMT",
+        "first_seen": "2026-07-07T23:09:23Z"
       }
     },
     {
@@ -14999,26 +15019,6 @@
         "description": "Crash : May be viewed on CCTV_05_71_0048",
         "pubDate": "Sun, 21 Jun 2026 03:25:26 GMT",
         "first_seen": "2026-06-21T03:49:25Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.649172,
-          38.290076
-        ]
-      },
-      "properties": {
-        "incident_id": "296412",
-        "route": "I-71",
-        "mm_start": 4.9,
-        "mm_end": 4.9,
-        "title": "I-71 North at MM 4.9 Before I-264 in Jefferson County",
-        "description": "Crash : May be viewed on CCTV_05_71_0051",
-        "pubDate": "Tue, 07 Jul 2026 21:56:13 GMT",
-        "first_seen": "2026-07-07T22:10:52Z"
       }
     },
     {
