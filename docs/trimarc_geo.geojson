@@ -6,8 +6,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.809385,
-          38.27402
+          -85.669597,
+          38.212451
         ]
       },
       "properties": {
@@ -26,8 +26,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.808637,
-          38.271204
+          -85.649239,
+          38.221263
         ]
       },
       "properties": {
@@ -46,8 +46,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.808637,
-          38.271204
+          -85.649239,
+          38.221263
         ]
       },
       "properties": {
@@ -66,8 +66,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.808411,
-          38.269773
+          -85.807577,
+          38.185428
         ]
       },
       "properties": {
@@ -86,8 +86,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.808411,
-          38.269773
+          -85.807577,
+          38.185428
         ]
       },
       "properties": {
@@ -3039,6 +3039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Wed, 01 Jul 2026 19:01:34 GMT",
         "first_seen": "2026-07-01T19:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68897,
+          38.201842
+        ]
+      },
+      "properties": {
+        "incident_id": "296402",
+        "route": "I-264",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-264 West at MM 14.5 At Newburg Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Tue, 07 Jul 2026 21:33:13 GMT",
+        "first_seen": "2026-07-07T22:10:52Z"
       }
     },
     {
@@ -8879,6 +8899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
         "pubDate": "Thu, 18 Jun 2026 21:46:49 GMT",
         "first_seen": "2026-06-18T22:28:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.683886,
+          38.2419
+        ]
+      },
+      "properties": {
+        "incident_id": "296416",
+        "route": "I-64",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-64 West at MM 8.9 Just Past Grinstead Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Tue, 07 Jul 2026 22:05:18 GMT",
+        "first_seen": "2026-07-07T22:10:52Z"
       }
     },
     {
@@ -14899,6 +14939,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0048",
         "pubDate": "Sun, 21 Jun 2026 03:25:26 GMT",
         "first_seen": "2026-06-21T03:49:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.649172,
+          38.290076
+        ]
+      },
+      "properties": {
+        "incident_id": "296412",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-71 North at MM 4.9 Before I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0051",
+        "pubDate": "Tue, 07 Jul 2026 21:56:13 GMT",
+        "first_seen": "2026-07-07T22:10:52Z"
       }
     },
     {
