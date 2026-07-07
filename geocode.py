@@ -7,11 +7,12 @@ Runs after scrape.py. It:
   3. parses route + mile marker from the title,
   4. locates a lat/lon by linear-referencing the mile marker against KYTC's
      measured route layer (AllRds_M), and
-  5. writes the published map to docs/index.html plus docs/trimarc_geo.geojson.
+  5. writes docs/trimarc_geo.geojson.
 
-The docs/ folder is what GitHub Pages serves, so committing it publishes the
-map. Output is a pure function of the committed data (no wall-clock values), so
-re-running on unchanged data produces byte-identical files and no noise commit.
+That GeoJSON is the published data feed: the live map at
+https://schaver.com/traffic fetches it from this repo's main branch and renders
+it. Output is a pure function of the committed data (no wall-clock values), so
+re-running on unchanged data produces a byte-identical file and no noise commit.
 
 Stdlib only. The one network dependency is KYTC's public ArcGIS REST service
 (https://maps.kytc.ky.gov, CC0 public-domain data), which returns route
@@ -35,7 +36,6 @@ ROOT = Path(__file__).resolve().parent
 CSV_PATH = ROOT / "data" / "trimarc.csv"
 DOCS_DIR = ROOT / "docs"
 GEOJSON_PATH = DOCS_DIR / "trimarc_geo.geojson"
-MAP_PATH = DOCS_DIR / "index.html"
 
 # KYTC measured-route layer; county 056 = Jefferson, prefix "I " = interstate.
 KYTC_LAYER = (
@@ -45,7 +45,7 @@ COUNTY = "Jefferson"
 COUNTY_CODE = "056"
 
 # Titles look like "I-64 East-West between MM 11.0 and 11.8 ... in Jefferson County".
-ROUTE_RE = re.compile(r"^\s*I-(\d+)\b", re.I)  # this map handles interstates
+ROUTE_RE = re.compile(r"^\s*I-(\d+)\b", re.I)  # interstates only
 MM_RE = re.compile(r"\bMM\s*([\d.]+)(?:\s*(?:and|to|-|&)\s*([\d.]+))?", re.I)
 
 USER_AGENT = "trimarc-geocode (+https://github.com/markschaver/TRIMARC)"
@@ -169,78 +169,9 @@ def build_features(incidents: list[dict[str, str]]):
                 },
             }
         )
-    # Stable order keeps the committed GeoJSON/HTML diffs clean.
+    # Stable order keeps the committed GeoJSON diffs clean.
     features.sort(key=lambda f: (f["properties"]["route"], f["properties"]["mm_start"]))
     return features, skipped
-
-
-MAP_TEMPLATE = """<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TRIMARC — Jefferson County incidents</title>
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
-<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-<style>
-  html,body{margin:0;height:100%;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
-  #wrap{display:flex;flex-direction:column;height:100%}
-  header{padding:10px 14px;background:#0b3d59;color:#fff}
-  header h1{margin:0;font-size:16px;font-weight:600}
-  header .meta{font-size:12px;opacity:.85;margin-top:3px}
-  header a{color:#9fd3ff}
-  #map{flex:1}
-</style>
-</head>
-<body>
-<div id="wrap">
-  <header>
-    <h1>TRIMARC — Jefferson County traffic incidents &amp; construction</h1>
-    <div class="meta">__COUNT__ locations &middot; latest update __UPDATED__ &middot;
-      source <a href="https://www.trimarc.org" target="_blank" rel="noopener">trimarc.org</a> &middot;
-      <a href="https://github.com/markschaver/TRIMARC" target="_blank" rel="noopener">data &amp; code</a></div>
-  </header>
-  <div id="map"></div>
-</div>
-<script>
-const data = __DATA__;
-const map = L.map("map").setView([38.22, -85.74], 11);
-L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
-  {maxZoom: 19, attribution: "&copy; OpenStreetMap contributors"}).addTo(map);
-const esc = s => (s || "").replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
-const cluster = L.markerClusterGroup({maxClusterRadius: 50, showCoverageOnHover: false});
-const layer = L.geoJSON(data, {onEachFeature: (f, l) => {
-  const p = f.properties;
-  const range = p.mm_end !== p.mm_start ? p.mm_start + "\\u2013" + p.mm_end : p.mm_start;
-  l.bindPopup(
-    "<b>" + esc(p.route) + " &mdash; MM " + range + "</b><br>" +
-    "#" + esc(p.incident_id) + " &middot; " + esc(p.pubDate) + "<br>" +
-    "<small>" + esc((p.description || "").slice(0, 320)) + "</small>",
-    {maxWidth: 320});
-}});
-cluster.addLayer(layer);
-map.addLayer(cluster);
-if (cluster.getBounds().isValid()) map.fitBounds(cluster.getBounds().pad(0.1));
-</script>
-</body>
-</html>
-"""
-
-
-def write_map(feature_collection: dict, updated: str, path: Path) -> None:
-    """Write a self-contained Leaflet map (OpenStreetMap tiles) as one HTML file."""
-    # Guard against a description accidentally closing the <script> tag.
-    data_js = json.dumps(feature_collection).replace("</", "<\\/")
-    html = (
-        MAP_TEMPLATE
-        .replace("__DATA__", data_js)
-        .replace("__COUNT__", str(len(feature_collection["features"])))
-        .replace("__UPDATED__", updated or "n/a")
-    )
-    path.write_text(html, encoding="utf-8")
 
 
 def main() -> int:
@@ -250,13 +181,9 @@ def main() -> int:
 
     features, skipped = build_features(incidents)
 
-    updated = max((f["properties"]["first_seen"] for f in features), default="")
-    updated = updated.replace("T", " ").replace("Z", " UTC")
-
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
     fc = {"type": "FeatureCollection", "features": features}
     GEOJSON_PATH.write_text(json.dumps(fc, indent=2), encoding="utf-8")
-    write_map(fc, updated, MAP_PATH)
 
     lats = [f["geometry"]["coordinates"][1] for f in features]
     lons = [f["geometry"]["coordinates"][0] for f in features]
@@ -271,7 +198,7 @@ def main() -> int:
         reasons[key] = reasons.get(key, 0) + 1
     for reason, count in sorted(reasons.items(), key=lambda kv: -kv[1]):
         print(f"  skipped: {count:3}  {reason}")
-    print(f"wrote {MAP_PATH.relative_to(ROOT)} and {GEOJSON_PATH.relative_to(ROOT)}")
+    print(f"wrote {GEOJSON_PATH.relative_to(ROOT)}")
     return 0
 
 

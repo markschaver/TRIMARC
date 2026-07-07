@@ -11,6 +11,7 @@ notices over time — including notices that eventually roll off the live feed.
 
 - [`data/trimarc.csv`](data/trimarc.csv) — the dataset.
 - [`data/trimarcrss.xml`](data/trimarcrss.xml) — the raw feed snapshot (source of truth).
+- [`docs/trimarc_geo.geojson`](docs/trimarc_geo.geojson) — Jefferson County incidents geocoded to lat/lon by mile marker (see [Map](#map)).
 
 ### CSV columns
 
@@ -49,8 +50,9 @@ It prints what it did and writes to `data/` only when something changed.
 ## How it runs on GitHub
 
 [`.github/workflows/scrape.yml`](.github/workflows/scrape.yml) runs `scrape.py`
-on a `*/15 * * * *` schedule (and on manual dispatch from the Actions tab), then
-commits and pushes `data/` only if it changed. Scheduled runs can be delayed
+on a `*/15 * * * *` schedule (and on manual dispatch from the Actions tab). When
+the data changes it then runs [`geocode.py`](geocode.py) to refresh the map feed
+(see [Map](#map)), and commits `data/` and `docs/`. Scheduled runs can be delayed
 under GitHub load, and GitHub pauses schedules after 60 days with no repo
 activity — neither matters here since the scraper commits whenever the feed
 changes. If the feed is briefly unreachable, the run logs a warning and skips
@@ -59,3 +61,13 @@ that cycle rather than failing; the next run continues.
 The workflow grants `contents: write` so the built-in `GITHUB_TOKEN` can push. If
 the push step ever fails with a 403, set **Settings → Actions → General →
 Workflow permissions** to **Read and write permissions**.
+
+## Map
+
+When the data changes, [`geocode.py`](geocode.py) geocodes the Jefferson County
+interstate incidents by mile marker — linear-referencing each `MM` against
+KYTC's public measured-route service — and writes
+[`docs/trimarc_geo.geojson`](docs/trimarc_geo.geojson). That file is the data
+feed for the live map at <https://schaver.com/traffic>, which fetches it from
+this repo and renders it with Leaflet. Geocoding is best-effort: if it fails, the
+data commit still goes through, so it can never disrupt data collection.
