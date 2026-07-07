@@ -78,11 +78,19 @@ def parse_incident(title: str) -> dict | None:
 
 
 def fetch_route_paths(route_num: str) -> list[list[tuple[float, float, float | None]]]:
-    """Return the route's polyline paths as [(lon, lat, mile), ...] in WGS84."""
-    where = f"RT_UNIQUE LIKE '{COUNTY_CODE}-I -{int(route_num):04d}%'"
+    """Return the mainline route's polyline paths as [(lon, lat, mile), ...] in WGS84.
+
+    Only the two mainline directional sections (RT_UNIQUE ending in -000 and
+    -010) are used. Ramp and connector sections share the route number but carry
+    their own short measures starting at 0, so they would otherwise bracket a
+    target mile at the wrong physical location. Features are sorted so the choice
+    between the two carriageways (~20 m apart) is stable from run to run.
+    """
+    prefix = f"{COUNTY_CODE}-I -{int(route_num):04d}"
+    where = f"RT_UNIQUE LIKE '{prefix}%-000' OR RT_UNIQUE LIKE '{prefix}%-010'"
     params = {
         "where": where,
-        "outFields": "RT_UNIQUE",
+        "outFields": "RT_UNIQUE,OBJECTID",
         "returnM": "true",
         "outSR": "4326",
         "returnGeometry": "true",
@@ -97,8 +105,12 @@ def fetch_route_paths(route_num: str) -> list[list[tuple[float, float, float | N
                 data = json.load(response)
             if "error" in data:
                 raise RuntimeError(f"KYTC error for I-{route_num}: {data['error']}")
+            features = sorted(
+                data.get("features", []),
+                key=lambda f: (f["attributes"]["RT_UNIQUE"], f["attributes"]["OBJECTID"]),
+            )
             paths: list[list[tuple[float, float, float | None]]] = []
-            for feature in data.get("features", []):
+            for feature in features:
                 for path in feature.get("geometry", {}).get("paths", []):
                     paths.append(
                         [(v[0], v[1], v[2] if len(v) > 2 else None) for v in path]
@@ -169,7 +181,10 @@ MAP_TEMPLATE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>TRIMARC — Jefferson County incidents</title>
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css">
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
 <style>
   html,body{margin:0;height:100%;font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
   #wrap{display:flex;flex-direction:column;height:100%}
@@ -196,6 +211,7 @@ const map = L.map("map").setView([38.22, -85.74], 11);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
   {maxZoom: 19, attribution: "&copy; OpenStreetMap contributors"}).addTo(map);
 const esc = s => (s || "").replace(/[&<>]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;"}[c]));
+const cluster = L.markerClusterGroup({maxClusterRadius: 50, showCoverageOnHover: false});
 const layer = L.geoJSON(data, {onEachFeature: (f, l) => {
   const p = f.properties;
   const range = p.mm_end !== p.mm_start ? p.mm_start + "\\u2013" + p.mm_end : p.mm_start;
@@ -204,8 +220,10 @@ const layer = L.geoJSON(data, {onEachFeature: (f, l) => {
     "#" + esc(p.incident_id) + " &middot; " + esc(p.pubDate) + "<br>" +
     "<small>" + esc((p.description || "").slice(0, 320)) + "</small>",
     {maxWidth: 320});
-}}).addTo(map);
-if (layer.getBounds().isValid()) map.fitBounds(layer.getBounds().pad(0.1));
+}});
+cluster.addLayer(layer);
+map.addLayer(cluster);
+if (cluster.getBounds().isValid()) map.fitBounds(cluster.getBounds().pad(0.1));
 </script>
 </body>
 </html>
