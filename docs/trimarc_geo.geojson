@@ -3166,6 +3166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.685499,
+          38.20276
+        ]
+      },
+      "properties": {
+        "incident_id": "296418",
+        "route": "I-264",
+        "mm_start": 14.7,
+        "mm_end": 14.7,
+        "title": "I-264 East at MM 14.7 Just Past Newburg Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Tue, 07 Jul 2026 22:13:00 GMT",
+        "first_seen": "2026-07-07T22:39:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.683939,
           38.203511
         ]
@@ -11559,6 +11579,46 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Mon, 29 Jun 2026 19:16:54 GMT",
         "first_seen": "2026-06-29T19:23:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.446594,
+          38.220135
+        ]
+      },
+      "properties": {
+        "incident_id": "296421",
+        "route": "I-64",
+        "mm_start": 22.1,
+        "mm_end": 22.1,
+        "title": "I-64 East at MM 22.1 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 07 Jul 2026 22:35:19 GMT",
+        "first_seen": "2026-07-07T22:39:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.444773,
+          38.219996
+        ]
+      },
+      "properties": {
+        "incident_id": "296422",
+        "route": "I-64",
+        "mm_start": 22.2,
+        "mm_end": 22.2,
+        "title": "I-64 East at MM 22.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 07 Jul 2026 22:36:16 GMT",
+        "first_seen": "2026-07-07T22:39:38Z"
       }
     },
     {
