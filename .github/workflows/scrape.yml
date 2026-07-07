@@ -28,16 +28,26 @@ jobs:
           python-version: "3.12"
 
       - name: Fetch feed and update CSV
-        run: python scrape.py
+        id: scrape
+        run: |
+          python scrape.py
+          if [ -n "$(git status --porcelain data/)" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
 
-      - name: Commit and push if data changed
+      - name: Regenerate map (only when data changed)
+        if: steps.scrape.outputs.changed == 'true'
+        continue-on-error: true # a geocoding hiccup must never block data collection
+        run: python geocode.py
+
+      - name: Commit and push if anything changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ docs/
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update TRIMARC feed data: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git commit -m "Update TRIMARC feed data and map: $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
             git push
           fi
