@@ -3286,6 +3286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.683939,
+          38.203511
+        ]
+      },
+      "properties": {
+        "incident_id": "296486",
+        "route": "I-264",
+        "mm_start": 14.8,
+        "mm_end": 14.8,
+        "title": "I-264 East at MM 14.8 Area of Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Wed, 08 Jul 2026 16:57:06 GMT",
+        "first_seen": "2026-07-08T17:50:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.682399,
           38.204293
         ]
@@ -3559,6 +3579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Wed, 08 Jul 2026 16:35:31 GMT",
         "first_seen": "2026-07-08T17:01:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "296490",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 West at MM 15.6 Area of Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 08 Jul 2026 17:23:50 GMT",
+        "first_seen": "2026-07-08T17:50:19Z"
       }
     },
     {
@@ -13479,6 +13519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
         "pubDate": "Fri, 03 Jul 2026 00:18:32 GMT",
         "first_seen": "2026-07-03T01:02:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70723,
+          38.137955
+        ]
+      },
+      "properties": {
+        "incident_id": "296489",
+        "route": "I-65",
+        "mm_start": 126.8,
+        "mm_end": 126.8,
+        "title": "I-65 North at MM 126.8 Area of Outer Loop in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 08 Jul 2026 17:16:40 GMT",
+        "first_seen": "2026-07-08T17:50:19Z"
       }
     },
     {
