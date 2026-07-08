@@ -10386,6 +10386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.549295,
+          38.223554
+        ]
+      },
+      "properties": {
+        "incident_id": "296493",
+        "route": "I-64",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-64 West at MM 16.5 Just Past Blankenbaker Pkwy in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Wed, 08 Jul 2026 18:06:16 GMT",
+        "first_seen": "2026-07-08T18:35:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.5456,
           38.223743
         ]
@@ -15819,6 +15839,26 @@
         "description": "Crash : Crash reported in the area.",
         "pubDate": "Thu, 02 Jul 2026 17:51:53 GMT",
         "first_seen": "2026-07-02T17:55:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.625121,
+          38.296951
+        ]
+      },
+      "properties": {
+        "incident_id": "296495",
+        "route": "I-71",
+        "mm_start": 6.4,
+        "mm_end": 6.4,
+        "title": "I-71 South at MM 6.4 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area.",
+        "pubDate": "Wed, 08 Jul 2026 18:12:01 GMT",
+        "first_seen": "2026-07-08T18:35:35Z"
       }
     },
     {
