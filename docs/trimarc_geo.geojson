@@ -3526,6 +3526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "296481",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 East at MM 15.6 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 08 Jul 2026 15:50:46 GMT",
+        "first_seen": "2026-07-08T16:19:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.670722,
           38.211321
         ]
@@ -10119,6 +10139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150.",
         "pubDate": "Fri, 03 Jul 2026 20:12:10 GMT",
         "first_seen": "2026-07-03T20:39:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.55841,
+          38.223092
+        ]
+      },
+      "properties": {
+        "incident_id": "296480",
+        "route": "I-64",
+        "mm_start": 15.0,
+        "mm_end": 17.0,
+        "title": "I-64 East between MM 15.0 and 17.0 Between Blankenbaker Pkwy & Hurstbourne Pkwy in Jefferson County",
+        "description": "Freeway Maintenance : Freeway maintenance occurring in the area. May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Wed, 08 Jul 2026 15:41:41 GMT",
+        "first_seen": "2026-07-08T16:19:40Z"
       }
     },
     {
