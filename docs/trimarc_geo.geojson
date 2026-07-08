@@ -7286,6 +7286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.575524,
+          38.311442
+        ]
+      },
+      "properties": {
+        "incident_id": "296476",
+        "route": "I-265",
+        "mm_start": 34.3,
+        "mm_end": 34.3,
+        "title": "I-265 North at MM 34.3 Approaching I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_841_0349.",
+        "pubDate": "Wed, 08 Jul 2026 14:28:59 GMT",
+        "first_seen": "2026-07-08T14:36:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.57701,
           38.312287
         ]
