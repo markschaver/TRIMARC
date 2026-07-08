@@ -2166,6 +2166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72371,
+          38.190583
+        ]
+      },
+      "properties": {
+        "incident_id": "296461",
+        "route": "I-264",
+        "mm_start": 12.4,
+        "mm_end": 12.4,
+        "title": "I-264 West at MM 12.4 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Wed, 08 Jul 2026 11:29:07 GMT",
+        "first_seen": "2026-07-08T11:39:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.72188,
           38.190693
         ]
@@ -2839,6 +2859,26 @@
         "description": "Crash : Metro Safe reports a crash in the area.",
         "pubDate": "Sat, 27 Jun 2026 22:39:49 GMT",
         "first_seen": "2026-06-27T23:37:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.699695,
+          38.199842
+        ]
+      },
+      "properties": {
+        "incident_id": "296459",
+        "route": "I-264",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-264 West at MM 13.9 Approaching Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Wed, 08 Jul 2026 11:17:54 GMT",
+        "first_seen": "2026-07-08T11:39:17Z"
       }
     },
     {
@@ -12219,6 +12259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Tue, 30 Jun 2026 19:08:54 GMT",
         "first_seen": "2026-06-30T19:56:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70105,
+          38.105447
+        ]
+      },
+      "properties": {
+        "incident_id": "296458",
+        "route": "I-65",
+        "mm_start": 124.5,
+        "mm_end": 124.5,
+        "title": "I-65 North at MM 124.5 Approaching I-265 in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Wed, 08 Jul 2026 11:07:42 GMT",
+        "first_seen": "2026-07-08T11:39:17Z"
       }
     },
     {
