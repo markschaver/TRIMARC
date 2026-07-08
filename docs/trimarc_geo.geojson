@@ -3546,6 +3546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "296483",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 East at MM 15.6 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 08 Jul 2026 16:35:31 GMT",
+        "first_seen": "2026-07-08T17:01:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.670722,
           38.211321
         ]
