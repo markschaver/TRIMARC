@@ -4526,6 +4526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.622314,
+          38.240519
+        ]
+      },
+      "properties": {
+        "incident_id": "296472",
+        "route": "I-264",
+        "mm_start": 19.1,
+        "mm_end": 19.1,
+        "title": "I-264 East at MM 19.1 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Wed, 08 Jul 2026 12:45:10 GMT",
+        "first_seen": "2026-07-08T12:52:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.621875,
           38.241927
         ]
@@ -4999,6 +5019,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0221",
         "pubDate": "Tue, 07 Jul 2026 14:21:37 GMT",
         "first_seen": "2026-07-07T15:32:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.630568,
+          38.274165
+        ]
+      },
+      "properties": {
+        "incident_id": "296471",
+        "route": "I-264",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-264 East at MM 21.6 Just Past Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Wed, 08 Jul 2026 12:34:46 GMT",
+        "first_seen": "2026-07-08T12:52:35Z"
       }
     },
     {
