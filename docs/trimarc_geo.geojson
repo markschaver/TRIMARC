@@ -3966,6 +3966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "296453",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 East at MM 17.0 Area of Taylorsville Road in Jefferson County",
+        "description": "Pedestrian : TRIMARC advised the Right Shoulder is Blocked",
+        "pubDate": "Wed, 08 Jul 2026 10:49:10 GMT",
+        "first_seen": "2026-07-08T10:57:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.649028,
           38.222229
         ]
