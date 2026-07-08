@@ -1726,6 +1726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.763996,
+          38.189894
+        ]
+      },
+      "properties": {
+        "incident_id": "296549",
+        "route": "I-264",
+        "mm_start": 10.2,
+        "mm_end": 10.2,
+        "title": "I-264 East at MM 10.2 Area of Southern Parkway in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Wed, 08 Jul 2026 22:01:15 GMT",
+        "first_seen": "2026-07-08T22:11:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.756653,
           38.190123
         ]
@@ -14159,6 +14179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Fri, 03 Jul 2026 04:28:25 GMT",
         "first_seen": "2026-07-03T04:47:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.717533,
+          38.156534
+        ]
+      },
+      "properties": {
+        "incident_id": "296544",
+        "route": "I-65",
+        "mm_start": 128.2,
+        "mm_end": 128.2,
+        "title": "I-65 North at MM 128.2 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 08 Jul 2026 21:48:40 GMT",
+        "first_seen": "2026-07-08T22:11:56Z"
       }
     },
     {
