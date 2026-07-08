@@ -1906,6 +1906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.749331,
+          38.189777
+        ]
+      },
+      "properties": {
+        "incident_id": "296515",
+        "route": "I-264",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-264 West at MM 11.0 Approaching Crittenden Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Wed, 08 Jul 2026 19:33:10 GMT",
+        "first_seen": "2026-07-08T19:53:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.745703,
           38.189358
         ]
@@ -14039,6 +14059,26 @@
         "description": "Crash : A crash was reported in the area.",
         "pubDate": "Tue, 16 Jun 2026 09:00:13 GMT",
         "first_seen": "2026-06-16T10:26:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.715146,
+          38.152605
+        ]
+      },
+      "properties": {
+        "incident_id": "296514",
+        "route": "I-65",
+        "mm_start": 127.9,
+        "mm_end": 127.9,
+        "title": "I-65 South at MM 127.9 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 08 Jul 2026 19:32:06 GMT",
+        "first_seen": "2026-07-08T19:53:32Z"
       }
     },
     {
