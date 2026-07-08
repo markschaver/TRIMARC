@@ -7686,6 +7686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.763029,
+          38.258487
+        ]
+      },
+      "properties": {
+        "incident_id": "296436",
+        "route": "I-64",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-64 West at MM 4.0 At 9th St in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0040",
+        "pubDate": "Wed, 08 Jul 2026 02:51:05 GMT",
+        "first_seen": "2026-07-08T03:56:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.761214,
           38.258653
         ]
