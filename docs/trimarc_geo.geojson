@@ -2406,6 +2406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.713027,
+          38.192205
+        ]
+      },
+      "properties": {
+        "incident_id": "296447",
+        "route": "I-264",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-264 East at MM 13.0 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 08 Jul 2026 08:02:19 GMT",
+        "first_seen": "2026-07-08T09:08:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.711542,
           38.19306
         ]
@@ -3919,6 +3939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
         "pubDate": "Sat, 04 Jul 2026 16:26:49 GMT",
         "first_seen": "2026-07-04T16:37:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "296448",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 East at MM 17.0 At Taylorsville in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 08 Jul 2026 08:32:07 GMT",
+        "first_seen": "2026-07-08T09:08:53Z"
       }
     },
     {
@@ -10219,6 +10259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Tue, 30 Jun 2026 19:43:53 GMT",
         "first_seen": "2026-06-30T19:56:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54,
+          38.223751
+        ]
+      },
+      "properties": {
+        "incident_id": "296450",
+        "route": "I-64",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-64 West at MM 17.0 At Blankenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Wed, 08 Jul 2026 08:56:25 GMT",
+        "first_seen": "2026-07-08T09:08:53Z"
       }
     },
     {
