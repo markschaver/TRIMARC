@@ -3656,9 +3656,9 @@
         "mm_start": 15.6,
         "mm_end": 15.6,
         "title": "I-264 East at MM 15.6 Area of Bardstown Road in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0156",
         "pubDate": "Wed, 08 Jul 2026 16:35:31 GMT",
-        "first_seen": "2026-07-08T17:01:35Z"
+        "first_seen": "2026-07-09T01:00:45Z"
       }
     },
     {
@@ -9246,6 +9246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.697292,
+          38.244377
+        ]
+      },
+      "properties": {
+        "incident_id": "296565",
+        "route": "I-64",
+        "mm_start": 8.1,
+        "mm_end": 8.1,
+        "title": "I-64 West at MM 8.1 At Grinstead Drive in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Thu, 09 Jul 2026 00:48:53 GMT",
+        "first_seen": "2026-07-09T01:00:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.696131,
           38.243281
         ]
@@ -11659,6 +11679,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Sun, 28 Jun 2026 23:18:43 GMT",
         "first_seen": "2026-06-28T23:39:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.484954,
+          38.221955
+        ]
+      },
+      "properties": {
+        "incident_id": "296566",
+        "route": "I-64",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-64 West at MM 20.0 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Thu, 09 Jul 2026 00:55:09 GMT",
+        "first_seen": "2026-07-09T01:00:45Z"
       }
     },
     {
