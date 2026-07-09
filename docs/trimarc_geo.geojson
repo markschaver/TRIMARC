@@ -6606,6 +6606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.50887,
+          38.19128
+        ]
+      },
+      "properties": {
+        "incident_id": "296594",
+        "route": "I-265",
+        "mm_start": 23.3,
+        "mm_end": 23.3,
+        "title": "I-265 South at MM 23.3 Area of Taylorsville Road in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_265_0231",
+        "pubDate": "Thu, 09 Jul 2026 10:37:45 GMT",
+        "first_seen": "2026-07-09T11:44:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.508629,
           38.192716
         ]
