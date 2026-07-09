@@ -10746,6 +10746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.536271,
+          38.223634
+        ]
+      },
+      "properties": {
+        "incident_id": "296567",
+        "route": "I-64",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-64 West at MM 17.2 Approaching Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 09 Jul 2026 00:58:56 GMT",
+        "first_seen": "2026-07-09T01:57:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.534402,
           38.223571
         ]
