@@ -5006,6 +5006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.65699,
+          38.218526
+        ]
+      },
+      "properties": {
+        "incident_id": "297091",
+        "route": "I-264",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-264 East at MM 16.6 Before Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 13 Jul 2026 21:06:05 GMT",
+        "first_seen": "2026-07-13T21:34:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.655425,
           38.219299
         ]
@@ -5919,6 +5939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Fri, 10 Jul 2026 18:40:00 GMT",
         "first_seen": "2026-07-10T18:50:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628896,
+          38.232231
+        ]
+      },
+      "properties": {
+        "incident_id": "297094",
+        "route": "I-264",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-264 East at MM 18.4 Approaching I-64 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Mon, 13 Jul 2026 21:27:04 GMT",
+        "first_seen": "2026-07-13T21:34:36Z"
       }
     },
     {
@@ -7256,9 +7296,9 @@
         "mm_start": 12.4,
         "mm_end": 12.4,
         "title": "I-265 West at MM 12.4 Approaching Preston Hwy. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Mon, 13 Jul 2026 18:49:33 GMT",
-        "first_seen": "2026-07-13T19:33:15Z"
+        "first_seen": "2026-07-13T21:34:36Z"
       }
     },
     {
