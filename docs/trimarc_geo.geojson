@@ -6886,6 +6886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.688366,
+          38.111426
+        ]
+      },
+      "properties": {
+        "incident_id": "297078",
+        "route": "I-265",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-265 East at MM 11.0 Before Preston Highway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Mon, 13 Jul 2026 20:23:32 GMT",
+        "first_seen": "2026-07-13T20:40:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.684876,
           38.11056
         ]
@@ -9739,6 +9759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Wed, 01 Jul 2026 18:49:12 GMT",
         "first_seen": "2026-07-01T19:00:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.808611,
+          38.276277
+        ]
+      },
+      "properties": {
+        "incident_id": "297079",
+        "route": "I-64",
+        "mm_start": 1.0,
+        "mm_end": 1.0,
+        "title": "I-64 West at MM 1.0 Area of I-264 WE in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
+        "pubDate": "Mon, 13 Jul 2026 20:26:08 GMT",
+        "first_seen": "2026-07-13T20:40:28Z"
       }
     },
     {
