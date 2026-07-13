@@ -10886,6 +10886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.735366,
+          38.260766
+        ]
+      },
+      "properties": {
+        "incident_id": "297099",
+        "route": "I-64",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-64 East at MM 5.6 Just Past I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Mon, 13 Jul 2026 21:47:55 GMT",
+        "first_seen": "2026-07-13T22:06:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.731769,
           38.261027
         ]
@@ -20319,6 +20339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
         "pubDate": "Sat, 11 Jul 2026 15:11:53 GMT",
         "first_seen": "2026-07-11T15:35:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.580154,
+          38.315583
+        ]
+      },
+      "properties": {
+        "incident_id": "297096",
+        "route": "I-71",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-71 South at MM 9.2 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Mon, 13 Jul 2026 21:30:28 GMT",
+        "first_seen": "2026-07-13T22:06:06Z"
       }
     },
     {
