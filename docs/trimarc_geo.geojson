@@ -9106,6 +9106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.504098,
+          38.237469
+        ]
+      },
+      "properties": {
+        "incident_id": "297177",
+        "route": "I-265",
+        "mm_start": 26.5,
+        "mm_end": 26.5,
+        "title": "I-265 South at MM 26.5 Area of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 14 Jul 2026 12:29:23 GMT",
+        "first_seen": "2026-07-14T12:44:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503958,
           38.238915
         ]
