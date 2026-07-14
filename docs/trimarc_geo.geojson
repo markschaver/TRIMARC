@@ -6986,6 +6986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.632729,
+          38.27651
+        ]
+      },
+      "properties": {
+        "incident_id": "297279",
+        "route": "I-264",
+        "mm_start": 21.8,
+        "mm_end": 21.8,
+        "title": "I-264 East at MM 21.8 At Brownboro Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Tue, 14 Jul 2026 22:54:20 GMT",
+        "first_seen": "2026-07-14T23:07:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637405,
           38.280997
         ]
