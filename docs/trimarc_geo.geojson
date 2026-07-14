@@ -4726,6 +4726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.676519,
+          38.20776
+        ]
+      },
+      "properties": {
+        "incident_id": "297247",
+        "route": "I-264",
+        "mm_start": 15.3,
+        "mm_end": 15.3,
+        "title": "I-264 West at MM 15.3 Area of Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 14 Jul 2026 20:35:21 GMT",
+        "first_seen": "2026-07-14T20:40:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.675179,
           38.208745
         ]
@@ -6699,6 +6719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Tue, 30 Jun 2026 06:32:25 GMT",
         "first_seen": "2026-06-30T07:03:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.623734,
+          38.264011
+        ]
+      },
+      "properties": {
+        "incident_id": "297245",
+        "route": "I-264",
+        "mm_start": 20.8,
+        "mm_end": 20.8,
+        "title": "I-264 East at MM 20.8 Area of Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Tue, 14 Jul 2026 20:32:57 GMT",
+        "first_seen": "2026-07-14T20:40:08Z"
       }
     },
     {
