@@ -4906,6 +4906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663113,
+          38.21536
+        ]
+      },
+      "properties": {
+        "incident_id": "297170",
+        "route": "I-264",
+        "mm_start": 16.2,
+        "mm_end": 16.2,
+        "title": "I-264 West at MM 16.2 Area of Bardstown Road in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 14 Jul 2026 11:25:53 GMT",
+        "first_seen": "2026-07-14T11:33:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.661583,
           38.216152
         ]
