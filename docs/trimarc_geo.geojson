@@ -13406,6 +13406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "297120",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 West at MM 16.8 Just Past Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Tue, 14 Jul 2026 00:21:13 GMT",
+        "first_seen": "2026-07-14T00:50:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.541862,
           38.223807
         ]
@@ -17419,6 +17439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Wed, 08 Jul 2026 19:32:06 GMT",
         "first_seen": "2026-07-08T19:53:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.715146,
+          38.152605
+        ]
+      },
+      "properties": {
+        "incident_id": "297122",
+        "route": "I-65",
+        "mm_start": 127.9,
+        "mm_end": 127.9,
+        "title": "I-65 North at MM 127.9 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 14 Jul 2026 00:27:06 GMT",
+        "first_seen": "2026-07-14T00:50:07Z"
       }
     },
     {
