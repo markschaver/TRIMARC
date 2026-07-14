@@ -786,6 +786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.814702,
+          38.242112
+        ]
+      },
+      "properties": {
+        "incident_id": "297200",
+        "route": "I-264",
+        "mm_start": 2.6,
+        "mm_end": 2.6,
+        "title": "I-264 East at MM 2.6 Area of Virginia/Dumesnil in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 14 Jul 2026 17:34:23 GMT",
+        "first_seen": "2026-07-14T17:52:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.815492,
           38.240804
         ]
@@ -18896,9 +18916,9 @@
         "mm_start": 0.1,
         "mm_end": 2.0,
         "title": "I-71 North-South between MM 0.1 and 2.0 Between I-64/I-71 Interchange and Zorn Ave. in Jefferson County",
-        "description": "Construction / Road Work : (March 17, 2026) \u2013 Overnight single lane closures are scheduled on Interstate 71 North and South in Louisville for six nights beginning Thursday, March 19, as contract crews perform pavement repairs along the I-71 Widening and Improvement Project [links-1.govdelivery.com] corridor. Traffic is currently shifted to the outside shoulders on both northbound and southbound I-71 to provide crews adequate space to safely prepare for future widening work. Beginning Thursday, March 19, contract crews will remove the existing asphalt and install new pavement in the right lanes between the I-65/I-71 interchange near Frankfort Avenue and the I-71/Zorn Avenue interchange. Overnight closures of the right lane on I-71 North: From 8 p.m. Thursday, March 19, to 5 a.m. Friday, March 20 From 8 p.m. Friday, March 20, to 5 a.m. Saturday, March 21 From 8 p.m. Sunday, March 22, to 5 a.m. Monday, March 23 Overnight closures of the right lane on I-71 South: From 8 p.m. Monday, March 23, to 5 a.m. Tuesday, March 24 From 8 p.m. Tuesday, March 24, to 5 a.m. Wednesday, March 25 From 8 p.m. Wednesday, March 25, to 5 a.m. Thursday, March 26 (March 25, 2026) \u2013 The schedule for overnight single lane closures on Interstate 71 North and South in Louisville for contract crews to perform pavement repairs as part of the I-71 Widening and Improvement Project [links-1.govdelivery.com] has been adjusted due to recent weather conditions and fluctuating temperatures. Traffic is currently shifted to the outside shoulders on both northbound and southbound I-71 between the I-65/I-71 interchange near Frankfort Avenue and the I-71/Zorn Avenue interchange to provide crews adequate space to safely prepare for future widening work. Due to recent weather conditions and fluctuating temperatures, four additional nights of overnight single lane closures are expected as crews continue to perform pavement work on I-71. The adjusted schedule is below. Overnight single lane closures on I-71 North: From 8 p.m. Wednesday, March 25, to 5 a.m. Thursday, March 26 From 8 p.m. Sunday, March 29, to 5 a.m. Monday, March 30 Overnight single lane closures on I-71 South: From 8 p.m. Wednesday, March 25, to 5 a.m. Thursday, March 26 From 8 p.m. Thursday, March 26, to 5 a.m. Friday, March 27 From 8 p.m. Friday, March 27, to 5 a.m. Saturday, March 28 From 8 p.m. Sunday, March 29, to 5 a.m. Monday, March 30 These repairs are intended to improve ride quality for motorists. Recent heavy rainfall and fluctuating temperatures caused the asphalt pavement to deteriorate prematurely. All work being performed is part of the $50 million I-71 widening and improvement project. The two-year project will increase capacity for the corridor from four lanes to six lanes, easing traffic congestion, increasing safety, and improving efficiency. The interstate project is expected to be completed by the fall of 2027. The work is being carried out by Haydon Bridge Co. Inc. of Springfield, Kentucky. More details, including project timelines and traffic impacts, will be shared online as work progresses [links-1.govdelivery.com]. Motorists are encouraged to sign up for email alerts regarding traffic impacts pertaining to the project [links-1.govdelivery.com]. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com].",
+        "description": "Construction / Road Work : The I-71 widening and improvement project is a $50 million infrastructure investment to enhance safety and improve mobility along one of Louisville's most critical travel corridors. The two-year project, focused on increasing traffic capacity and safety, will enhance regional connectivity, provide reliable travel for years to come, and support economic growth. The project spans approximately two miles of interstate from the I-65/I-71 interchange near Frankfort Avenue to the I-71/Zorn Avenue interchange. Additional improvements include the construction of a multi-use path along Zorn Avenue between the I-71/Zorn Avenue interchange and Mellwood Avenue, as well as a new median treatment at the intersection of Zorn Avenue and Mellwood Avenue to enhance safety and better define traffic movements. The project also includes the demolition and reconstruction of the I-71 bridge over Beargrass Creek, along with a latex overlay on the I-71 bridge over I-64 at mile point 0.3 to extend the structure\u2019s service life. For additional information, please visist https://transportation.ky.gov/DistrictFive/Pages/I-71-Widening---Louisville-.aspx.",
         "pubDate": "Mon, 17 Nov 2025 16:59:13 GMT",
-        "first_seen": "2026-06-14T19:03:44Z"
+        "first_seen": "2026-07-14T17:52:29Z"
       }
     },
     {
