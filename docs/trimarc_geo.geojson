@@ -2186,6 +2186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.77681,
+          38.18928
+        ]
+      },
+      "properties": {
+        "incident_id": "297228",
+        "route": "I-264",
+        "mm_start": 9.5,
+        "mm_end": 9.5,
+        "title": "I-264 West at MM 9.5 Before Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Tue, 14 Jul 2026 19:27:06 GMT",
+        "first_seen": "2026-07-14T19:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.774983,
           38.189237
         ]
@@ -2779,6 +2799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0114.",
         "pubDate": "Sat, 11 Jul 2026 12:31:34 GMT",
         "first_seen": "2026-07-11T12:50:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.742031,
+          38.189484
+        ]
+      },
+      "properties": {
+        "incident_id": "297219",
+        "route": "I-264",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-264 East at MM 11.4 Area of Freedom Way in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Tue, 14 Jul 2026 19:06:46 GMT",
+        "first_seen": "2026-07-14T19:36:05Z"
       }
     },
     {
@@ -8186,6 +8226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.57968,
+          38.141974
+        ]
+      },
+      "properties": {
+        "incident_id": "297218",
+        "route": "I-265",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-265 West at MM 17.5 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Tue, 14 Jul 2026 18:59:47 GMT",
+        "first_seen": "2026-07-14T19:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.577849,
           38.141865
         ]
@@ -13279,6 +13339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
         "pubDate": "Tue, 07 Jul 2026 09:40:13 GMT",
         "first_seen": "2026-07-07T10:30:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.585211,
+          38.225344
+        ]
+      },
+      "properties": {
+        "incident_id": "297227",
+        "route": "I-64",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-64 East at MM 14.5 Approaching Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Tue, 14 Jul 2026 19:24:48 GMT",
+        "first_seen": "2026-07-14T19:36:05Z"
       }
     },
     {
