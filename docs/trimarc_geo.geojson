@@ -9986,6 +9986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.791,
+          38.275413
+        ]
+      },
+      "properties": {
+        "incident_id": "297143",
+        "route": "I-64",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-64 East at MM 2.0 Approaching 22nd St in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Tue, 14 Jul 2026 04:46:38 GMT",
+        "first_seen": "2026-07-14T05:04:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.787773,
           38.274087
         ]
@@ -10099,6 +10119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed at CCTV_05_64_0022",
         "pubDate": "Wed, 17 Jun 2026 17:49:03 GMT",
         "first_seen": "2026-06-17T18:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.780865,
+          38.267735
+        ]
+      },
+      "properties": {
+        "incident_id": "297145",
+        "route": "I-64",
+        "mm_start": 2.8,
+        "mm_end": 2.8,
+        "title": "I-64 West at MM 2.8 Area of 22nd St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Tue, 14 Jul 2026 04:54:32 GMT",
+        "first_seen": "2026-07-14T05:04:55Z"
       }
     },
     {
