@@ -1786,6 +1786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "297141",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 East at MM 8.0 East of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Tue, 14 Jul 2026 03:32:48 GMT",
+        "first_seen": "2026-07-14T03:48:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
@@ -16626,6 +16646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701973,
+          38.127185
+        ]
+      },
+      "properties": {
+        "incident_id": "297139",
+        "route": "I-65",
+        "mm_start": 126.0,
+        "mm_end": 126.0,
+        "title": "I-65 North at MM 126.0 North of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 14 Jul 2026 03:14:39 GMT",
+        "first_seen": "2026-07-14T03:48:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702239,
           38.128624
         ]
@@ -19859,6 +19899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074.",
         "pubDate": "Sat, 11 Jul 2026 13:52:35 GMT",
         "first_seen": "2026-07-11T14:14:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.611475,
+          38.300817
+        ]
+      },
+      "properties": {
+        "incident_id": "297138",
+        "route": "I-71",
+        "mm_start": 7.2,
+        "mm_end": 7.2,
+        "title": "I-71 South at MM 7.2 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Tue, 14 Jul 2026 03:11:13 GMT",
+        "first_seen": "2026-07-14T03:48:07Z"
       }
     },
     {
