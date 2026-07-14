@@ -6106,6 +6106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.628896,
+          38.232231
+        ]
+      },
+      "properties": {
+        "incident_id": "297195",
+        "route": "I-264",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-264 East at MM 18.4 Approaching I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 14 Jul 2026 16:24:31 GMT",
+        "first_seen": "2026-07-14T16:44:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.627395,
           38.233073
         ]
@@ -6339,6 +6359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Mon, 06 Jul 2026 21:59:29 GMT",
         "first_seen": "2026-07-06T22:35:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.620996,
+          38.244743
+        ]
+      },
+      "properties": {
+        "incident_id": "297194",
+        "route": "I-264",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-264 West at MM 19.4 Area of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Tue, 14 Jul 2026 16:16:30 GMT",
+        "first_seen": "2026-07-14T16:44:22Z"
       }
     },
     {
