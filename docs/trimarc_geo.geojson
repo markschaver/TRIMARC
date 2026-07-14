@@ -1266,6 +1266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827591,
+          38.204081
+        ]
+      },
+      "properties": {
+        "incident_id": "297171",
+        "route": "I-264",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-264 East at MM 5.4 Area of Cane Run Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Tue, 14 Jul 2026 11:33:17 GMT",
+        "first_seen": "2026-07-14T12:11:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82744,
           38.202644
         ]
@@ -2119,6 +2139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
         "pubDate": "Wed, 01 Jul 2026 01:11:37 GMT",
         "first_seen": "2026-07-01T01:24:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.77681,
+          38.18928
+        ]
+      },
+      "properties": {
+        "incident_id": "297172",
+        "route": "I-264",
+        "mm_start": 9.5,
+        "mm_end": 9.5,
+        "title": "I-264 East at MM 9.5 Area of Taylor Blvd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Tue, 14 Jul 2026 11:51:45 GMT",
+        "first_seen": "2026-07-14T12:11:09Z"
       }
     },
     {
@@ -8959,6 +8999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
         "pubDate": "Wed, 17 Jun 2026 19:43:30 GMT",
         "first_seen": "2026-06-17T19:48:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.504649,
+          38.231703
+        ]
+      },
+      "properties": {
+        "incident_id": "297174",
+        "route": "I-265",
+        "mm_start": 26.1,
+        "mm_end": 26.1,
+        "title": "I-265 South at MM 26.1 Area of Shelbyviille Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Tue, 14 Jul 2026 12:04:13 GMT",
+        "first_seen": "2026-07-14T12:11:09Z"
       }
     },
     {
