@@ -5226,6 +5226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.664642,
+          38.214566
+        ]
+      },
+      "properties": {
+        "incident_id": "297392",
+        "route": "I-264",
+        "mm_start": 16.1,
+        "mm_end": 16.1,
+        "title": "I-264 East at MM 16.1 Just Past Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 15 Jul 2026 20:43:59 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.663113,
           38.21536
         ]
@@ -5606,6 +5626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.653827,
+          38.220044
+        ]
+      },
+      "properties": {
+        "incident_id": "297389",
+        "route": "I-264",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-264 East at MM 16.8 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 15 Jul 2026 20:39:00 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.652228,
           38.220772
         ]
@@ -5779,6 +5819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Fri, 10 Jul 2026 02:14:02 GMT",
         "first_seen": "2026-07-10T02:46:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "297396",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 East at MM 17.0 At Taylorsville Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 15 Jul 2026 20:57:37 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
       }
     },
     {
@@ -6219,6 +6279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Fri, 10 Jul 2026 22:10:05 GMT",
         "first_seen": "2026-07-10T22:25:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637981,
+          38.2273
+        ]
+      },
+      "properties": {
+        "incident_id": "297397",
+        "route": "I-264",
+        "mm_start": 17.8,
+        "mm_end": 17.8,
+        "title": "I-264 West at MM 17.8 Just Past Breckenridge Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Wed, 15 Jul 2026 20:57:59 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
       }
     },
     {
@@ -7839,6 +7919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Sat, 11 Jul 2026 18:47:20 GMT",
         "first_seen": "2026-07-11T19:10:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.673994,
+          38.110746
+        ]
+      },
+      "properties": {
+        "incident_id": "297394",
+        "route": "I-265",
+        "mm_start": 11.8,
+        "mm_end": 11.8,
+        "title": "I-265 West at MM 11.8 Approaching Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Wed, 15 Jul 2026 20:51:07 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
       }
     },
     {
@@ -13879,6 +13979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
         "pubDate": "Mon, 13 Jul 2026 21:02:12 GMT",
         "first_seen": "2026-07-13T21:08:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.593736,
+          38.228041
+        ]
+      },
+      "properties": {
+        "incident_id": "297398",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-64 East at MM 14.0 Approaching Hurstbourne Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Wed, 15 Jul 2026 21:00:54 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
       }
     },
     {
@@ -20906,6 +21026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.63848,
+          38.292478
+        ]
+      },
+      "properties": {
+        "incident_id": "297399",
+        "route": "I-71",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-71 South at MM 5.6 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Wed, 15 Jul 2026 21:01:39 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.636748,
           38.292932
         ]
@@ -20919,6 +21059,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Thu, 18 Jun 2026 06:35:44 GMT",
         "first_seen": "2026-06-18T06:56:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "297400",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 South at MM 5.7 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Wed, 15 Jul 2026 21:02:34 GMT",
+        "first_seen": "2026-07-15T21:09:19Z"
       }
     },
     {
