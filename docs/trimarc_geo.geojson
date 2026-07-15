@@ -5826,6 +5826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.645885,
+          38.223663
+        ]
+      },
+      "properties": {
+        "incident_id": "297352",
+        "route": "I-264",
+        "mm_start": 17.3,
+        "mm_end": 17.3,
+        "title": "I-264 West at MM 17.3 Area of Taylorsville Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 15 Jul 2026 16:42:29 GMT",
+        "first_seen": "2026-07-15T17:12:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.644304,
           38.224387
         ]
