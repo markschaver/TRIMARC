@@ -866,6 +866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.815492,
+          38.240804
+        ]
+      },
+      "properties": {
+        "incident_id": "297318",
+        "route": "I-264",
+        "mm_start": 2.7,
+        "mm_end": 2.7,
+        "title": "I-264 West at MM 2.7 Area of Dumesnil St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Wed, 15 Jul 2026 10:02:56 GMT",
+        "first_seen": "2026-07-15T10:24:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.816176,
           38.239467
         ]
@@ -20079,6 +20099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed at CCTV_05_71_0048",
         "pubDate": "Tue, 16 Jun 2026 17:25:53 GMT",
         "first_seen": "2026-06-16T18:01:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.651783,
+          38.29207
+        ]
+      },
+      "properties": {
+        "incident_id": "297319",
+        "route": "I-71",
+        "mm_start": 4.7,
+        "mm_end": 4.7,
+        "title": "I-71 North at MM 4.7 Approaching I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Wed, 15 Jul 2026 10:06:54 GMT",
+        "first_seen": "2026-07-15T10:24:50Z"
       }
     },
     {
