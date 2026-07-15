@@ -8666,6 +8666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.57602,
+          38.141757
+        ]
+      },
+      "properties": {
+        "incident_id": "297358",
+        "route": "I-265",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-265 West at MM 17.7 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Wed, 15 Jul 2026 18:32:00 GMT",
+        "first_seen": "2026-07-15T18:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.570526,
           38.141526
         ]
@@ -19579,6 +19599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Wed, 01 Jul 2026 21:48:10 GMT",
         "first_seen": "2026-07-01T22:02:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.735659,
+          38.201585
+        ]
+      },
+      "properties": {
+        "incident_id": "297359",
+        "route": "I-65",
+        "mm_start": 131.6,
+        "mm_end": 131.6,
+        "title": "I-65 South at MM 131.6 Area of Fairgrounds in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Wed, 15 Jul 2026 18:38:44 GMT",
+        "first_seen": "2026-07-15T18:50:40Z"
       }
     },
     {
