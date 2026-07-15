@@ -4006,6 +4006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705744,
+          38.196614
+        ]
+      },
+      "properties": {
+        "incident_id": "297386",
+        "route": "I-264",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-264 East at MM 13.5 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 15 Jul 2026 20:23:41 GMT",
+        "first_seen": "2026-07-15T20:37:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.704399,
           38.197615
         ]
@@ -4079,6 +4099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
         "pubDate": "Mon, 13 Jul 2026 22:11:53 GMT",
         "first_seen": "2026-07-13T22:35:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "297380",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 East at MM 13.6 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 15 Jul 2026 20:09:40 GMT",
+        "first_seen": "2026-07-15T20:37:56Z"
       }
     },
     {
@@ -4299,6 +4339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Thu, 09 Jul 2026 20:53:37 GMT",
         "first_seen": "2026-07-09T21:33:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.697945,
+          38.200283
+        ]
+      },
+      "properties": {
+        "incident_id": "297381",
+        "route": "I-264",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-264 East at MM 14.0 Before Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 15 Jul 2026 20:11:24 GMT",
+        "first_seen": "2026-07-15T20:37:56Z"
       }
     },
     {
@@ -8086,6 +8146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.649731,
+          38.117066
+        ]
+      },
+      "properties": {
+        "incident_id": "297387",
+        "route": "I-265",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-265 East at MM 13.2 Before Smyrna Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 15 Jul 2026 20:26:38 GMT",
+        "first_seen": "2026-07-15T20:37:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.647931,
           38.117341
         ]
@@ -10936,9 +11016,9 @@
         "mm_start": 2.5,
         "mm_end": 2.5,
         "title": "I-64 East at MM 2.5 Before 22nd Street in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : Metrosafe reports of a disabled vehicle on the right shoulder",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Wed, 15 Jul 2026 18:55:05 GMT",
-        "first_seen": "2026-07-15T19:31:03Z"
+        "first_seen": "2026-07-15T20:37:56Z"
       }
     },
     {
@@ -12879,6 +12959,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0088",
         "pubDate": "Mon, 06 Jul 2026 11:57:13 GMT",
         "first_seen": "2026-07-06T12:31:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.682128,
+          38.241529
+        ]
+      },
+      "properties": {
+        "incident_id": "297384",
+        "route": "I-64",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-64 West at MM 9.0 Approaching Grinstead Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Wed, 15 Jul 2026 20:15:56 GMT",
+        "first_seen": "2026-07-15T20:37:56Z"
       }
     },
     {
