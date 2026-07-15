@@ -8446,6 +8446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644333,
+          38.117922
+        ]
+      },
+      "properties": {
+        "incident_id": "297424",
+        "route": "I-265",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-265 East at MM 13.5 At Smyrna Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 15 Jul 2026 22:39:47 GMT",
+        "first_seen": "2026-07-15T23:07:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.640734,
           38.118478
         ]
