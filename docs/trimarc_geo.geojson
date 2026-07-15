@@ -2746,6 +2746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.749331,
+          38.189777
+        ]
+      },
+      "properties": {
+        "incident_id": "297337",
+        "route": "I-264",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-264 East at MM 11.0 Area of Airport in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Wed, 15 Jul 2026 12:42:04 GMT",
+        "first_seen": "2026-07-15T13:12:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.745703,
           38.189358
         ]
@@ -6219,6 +6239,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
         "pubDate": "Sat, 11 Jul 2026 12:27:07 GMT",
         "first_seen": "2026-07-11T12:50:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.634942,
+          38.228944
+        ]
+      },
+      "properties": {
+        "incident_id": "297336",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 18.0,
+        "title": "I-264 East at MM 18.0 Area of Breckenridge Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Wed, 15 Jul 2026 12:39:39 GMT",
+        "first_seen": "2026-07-15T13:12:51Z"
       }
     },
     {
@@ -19759,6 +19799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001",
         "pubDate": "Tue, 30 Jun 2026 22:21:57 GMT",
         "first_seen": "2026-06-30T22:46:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.717384,
+          38.263405
+        ]
+      },
+      "properties": {
+        "incident_id": "297338",
+        "route": "I-71",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-71 South at MM 0.4 Approaching I-64 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0001",
+        "pubDate": "Wed, 15 Jul 2026 13:05:43 GMT",
+        "first_seen": "2026-07-15T13:12:51Z"
       }
     },
     {
