@@ -2246,6 +2246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.773156,
+          38.189418
+        ]
+      },
+      "properties": {
+        "incident_id": "297307",
+        "route": "I-264",
+        "mm_start": 9.7,
+        "mm_end": 9.7,
+        "title": "I-264 West at MM 9.7 Approaching Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Wed, 15 Jul 2026 04:17:42 GMT",
+        "first_seen": "2026-07-15T05:04:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.771335,
           38.18962
         ]
@@ -16439,6 +16459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Wed, 08 Jul 2026 20:25:59 GMT",
         "first_seen": "2026-07-08T20:32:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.700842,
+          38.09095
+        ]
+      },
+      "properties": {
+        "incident_id": "297302",
+        "route": "I-65",
+        "mm_start": 123.5,
+        "mm_end": 123.5,
+        "title": "I-65 North at MM 123.5 Area of Hutcherson Drive in Jefferson County",
+        "description": "Freeway Maintenance : KYTC Reports The right lane of I-65 North at mile point 123.52 (near KY 1851/Hutcherson Drive and KY 1450/Blue Lick Road) will be closed from 9 p.m. Tuesday, July 14, through 5 a.m. on Wednesday, July 15. The overnight single lane closure is necessary for contract crews to replace overhead signage. Motorists are advised to follow lane closure restrictions, use caution when traveling through the work zone, and plan for additional travel time.",
+        "pubDate": "Wed, 15 Jul 2026 02:40:10 GMT",
+        "first_seen": "2026-07-15T05:04:59Z"
       }
     },
     {
