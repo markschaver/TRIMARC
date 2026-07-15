@@ -8226,6 +8226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.630088,
+          38.120613
+        ]
+      },
+      "properties": {
+        "incident_id": "297343",
+        "route": "I-265",
+        "mm_start": 14.3,
+        "mm_end": 14.3,
+        "title": "I-265 East at MM 14.3 Between Beulah Church Road and Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 15 Jul 2026 14:44:34 GMT",
+        "first_seen": "2026-07-15T15:14:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.595946,
           38.136122
         ]
