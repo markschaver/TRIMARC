@@ -15846,6 +15846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.463003,
+          38.221249
+        ]
+      },
+      "properties": {
+        "incident_id": "297321",
+        "route": "I-64",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-64 West at MM 21.2 Area of Echo Trail in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 15 Jul 2026 10:55:25 GMT",
+        "first_seen": "2026-07-15T11:05:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.459357,
           38.221098
         ]
