@@ -6406,6 +6406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.630399,
+          38.231404
+        ]
+      },
+      "properties": {
+        "incident_id": "297374",
+        "route": "I-264",
+        "mm_start": 18.3,
+        "mm_end": 18.3,
+        "title": "I-264 East at MM 18.3 Just Past Breckenridge Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Wed, 15 Jul 2026 19:39:20 GMT",
+        "first_seen": "2026-07-15T20:10:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.628896,
           38.232231
         ]
