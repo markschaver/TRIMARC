@@ -5146,6 +5146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670722,
+          38.211321
+        ]
+      },
+      "properties": {
+        "incident_id": "297403",
+        "route": "I-264",
+        "mm_start": 15.7,
+        "mm_end": 15.7,
+        "title": "I-264 West at MM 15.7 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 15 Jul 2026 21:13:57 GMT",
+        "first_seen": "2026-07-15T21:35:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.669205,
           38.212139
         ]
@@ -6459,6 +6479,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0179",
         "pubDate": "Wed, 15 Jul 2026 12:39:39 GMT",
         "first_seen": "2026-07-15T13:12:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.634942,
+          38.228944
+        ]
+      },
+      "properties": {
+        "incident_id": "297404",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 18.0,
+        "title": "I-264 East at MM 18.0 At Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Wed, 15 Jul 2026 21:28:18 GMT",
+        "first_seen": "2026-07-15T21:35:51Z"
       }
     },
     {
