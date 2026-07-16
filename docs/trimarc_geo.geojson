@@ -19966,6 +19966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720478,
+          38.170527
+        ]
+      },
+      "properties": {
+        "incident_id": "297511",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 129.7,
+        "title": "I-65 North-South between MM 128.7 and 129.7 Between Fern Valley Road and Grade Lane in Jefferson County",
+        "description": "Road Hazard : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Thu, 16 Jul 2026 18:07:01 GMT",
+        "first_seen": "2026-07-16T18:14:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720625,
           38.164737
         ]
