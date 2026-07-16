@@ -7346,6 +7346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.62269,
+          38.258287
+        ]
+      },
+      "properties": {
+        "incident_id": "297508",
+        "route": "I-264",
+        "mm_start": 20.4,
+        "mm_end": 20.4,
+        "title": "I-264 West at MM 20.4 Approaching Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Thu, 16 Jul 2026 17:34:59 GMT",
+        "first_seen": "2026-07-16T17:44:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.623734,
           38.264011
         ]
