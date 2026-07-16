@@ -13406,6 +13406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.689312,
+          38.241975
+        ]
+      },
+      "properties": {
+        "incident_id": "297502",
+        "route": "I-64",
+        "mm_start": 8.6,
+        "mm_end": 8.6,
+        "title": "I-64 East at MM 8.6 Area of Alta Vista Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Thu, 16 Jul 2026 16:36:11 GMT",
+        "first_seen": "2026-07-16T17:11:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.687499,
           38.242084
         ]
@@ -14519,6 +14539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
         "pubDate": "Wed, 15 Jul 2026 21:00:54 GMT",
         "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.593736,
+          38.228041
+        ]
+      },
+      "properties": {
+        "incident_id": "297503",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-64 West at MM 14.0 Area of Hurstbourne Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Thu, 16 Jul 2026 16:45:50 GMT",
+        "first_seen": "2026-07-16T17:11:54Z"
       }
     },
     {
