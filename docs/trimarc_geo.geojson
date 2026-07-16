@@ -20386,6 +20386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "297555",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 South at MM 128.9 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Thu, 16 Jul 2026 21:13:20 GMT",
+        "first_seen": "2026-07-16T21:25:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720552,
           38.167632
         ]
@@ -21519,6 +21539,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0037",
         "pubDate": "Thu, 02 Jul 2026 19:31:31 GMT",
         "first_seen": "2026-07-02T21:10:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669348,
+          38.291982
+        ]
+      },
+      "properties": {
+        "incident_id": "297551",
+        "route": "I-71",
+        "mm_start": 3.7,
+        "mm_end": 3.7,
+        "title": "I-71 North at MM 3.7 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037",
+        "pubDate": "Thu, 16 Jul 2026 20:49:38 GMT",
+        "first_seen": "2026-07-16T21:25:20Z"
       }
     },
     {
