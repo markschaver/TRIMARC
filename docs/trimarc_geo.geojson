@@ -3126,6 +3126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.73287,
+          38.190031
+        ]
+      },
+      "properties": {
+        "incident_id": "297529",
+        "route": "I-264",
+        "mm_start": 11.9,
+        "mm_end": 11.9,
+        "title": "I-264 East at MM 11.9 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 16 Jul 2026 19:45:23 GMT",
+        "first_seen": "2026-07-16T19:52:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.731038,
           38.190142
         ]
