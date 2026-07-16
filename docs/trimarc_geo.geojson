@@ -2006,6 +2006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.787146,
+          38.187225
+        ]
+      },
+      "properties": {
+        "incident_id": "297538",
+        "route": "I-264",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-264 West at MM 8.9 Just Past Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Thu, 16 Jul 2026 20:09:48 GMT",
+        "first_seen": "2026-07-16T20:22:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.785493,
           38.187848
         ]
@@ -5306,6 +5326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "297534",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 West at MM 15.6 Area of Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 16 Jul 2026 20:04:16 GMT",
+        "first_seen": "2026-07-16T20:22:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.670722,
           38.211321
         ]
@@ -6399,6 +6439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Fri, 03 Jul 2026 01:23:43 GMT",
         "first_seen": "2026-07-03T01:57:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.641148,
+          38.225842
+        ]
+      },
+      "properties": {
+        "incident_id": "297533",
+        "route": "I-264",
+        "mm_start": 17.6,
+        "mm_end": 17.6,
+        "title": "I-264 West at MM 17.6 Just Past Breckenridge Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 16 Jul 2026 20:02:02 GMT",
+        "first_seen": "2026-07-16T20:22:23Z"
       }
     },
     {
