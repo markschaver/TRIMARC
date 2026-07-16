@@ -10966,6 +10966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.813742,
+          38.275015
+        ]
+      },
+      "properties": {
+        "incident_id": "297458",
+        "route": "I-64",
+        "mm_start": 0.7,
+        "mm_end": 0.7,
+        "title": "I-64 East at MM 0.7 Approaching I-264 (West End) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008",
+        "pubDate": "Thu, 16 Jul 2026 04:31:19 GMT",
+        "first_seen": "2026-07-16T05:07:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.811931,
           38.275163
         ]
