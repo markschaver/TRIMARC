@@ -1246,6 +1246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.826062,
+          38.21088
+        ]
+      },
+      "properties": {
+        "incident_id": "297512",
+        "route": "I-264",
+        "mm_start": 4.8,
+        "mm_end": 5.0,
+        "title": "I-264 West between MM 4.8 and 5.0 Just Past Cane Run Road in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Thu, 16 Jul 2026 18:20:05 GMT",
+        "first_seen": "2026-07-16T18:43:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827876,
           38.208391
         ]
@@ -4799,6 +4819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Tue, 07 Jul 2026 22:13:00 GMT",
         "first_seen": "2026-07-07T23:09:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.685499,
+          38.20276
+        ]
+      },
+      "properties": {
+        "incident_id": "297513",
+        "route": "I-264",
+        "mm_start": 14.7,
+        "mm_end": 14.7,
+        "title": "I-264 West at MM 14.7 Approaching Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 16 Jul 2026 18:21:54 GMT",
+        "first_seen": "2026-07-16T18:43:50Z"
       }
     },
     {
