@@ -9286,6 +9286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.504787,
+          38.230262
+        ]
+      },
+      "properties": {
+        "incident_id": "297494",
+        "route": "I-265",
+        "mm_start": 18.0,
+        "mm_end": 34.0,
+        "title": "I-265 North-South between MM 18.0 and 34.0 Between Bardstown Road and Brownsboro Road in Jefferson County",
+        "description": "Freeway Maintenance : he Kentucky Transportation Cabinet (KYTC) advises motorists of alternating lane closures and rolling roadblocks on Interstate 265 North and South (Gene Snyder Expressway) today, July 16, in Louisville. Alternating lane closures and rolling roadblocks will take place on I-265 North and South between mile markers 18 (near U.S. 31E/Bardstown Road) and 34 (near KY 22/Brownsboro Road) through 3 p.m. Traffic will be temporarily slowed and, at times, stopped to allow KYTC crews space to safely patch potholes. Motorists should heed rolling roadblock restrictions, maintain safe following distances, and use caution when traveling through the work zone. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov. Information specific to District 5 counties is also available on Facebook and X.",
+        "pubDate": "Thu, 16 Jul 2026 15:20:32 GMT",
+        "first_seen": "2026-07-16T15:50:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.565098,
           38.142212
         ]
