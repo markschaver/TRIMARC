@@ -2166,6 +2166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.778637,
+          38.189466
+        ]
+      },
+      "properties": {
+        "incident_id": "297462",
+        "route": "I-264",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-264 West at MM 9.4 Area of Taylor Blvd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Thu, 16 Jul 2026 08:46:41 GMT",
+        "first_seen": "2026-07-16T08:55:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.77681,
           38.18928
         ]
