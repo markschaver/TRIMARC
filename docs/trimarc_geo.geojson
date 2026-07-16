@@ -10451,6 +10451,26 @@
         ]
       },
       "properties": {
+        "incident_id": "297487",
+        "route": "I-265",
+        "mm_start": 28.3,
+        "mm_end": 28.7,
+        "title": "I-265 North between MM 28.3 and 28.7 Area of Old Henry Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Thu, 16 Jul 2026 14:12:45 GMT",
+        "first_seen": "2026-07-16T14:28:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.501244,
+          38.26636
+        ]
+      },
+      "properties": {
         "incident_id": "293936",
         "route": "I-265",
         "mm_start": 28.5,
