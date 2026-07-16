@@ -3566,6 +3566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.714663,
+          38.191547
+        ]
+      },
+      "properties": {
+        "incident_id": "297497",
+        "route": "I-264",
+        "mm_start": 12.9,
+        "mm_end": 12.9,
+        "title": "I-264 East at MM 12.9 Approaching Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1307.",
+        "pubDate": "Thu, 16 Jul 2026 15:50:31 GMT",
+        "first_seen": "2026-07-16T16:34:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.713027,
           38.192205
         ]
@@ -11386,6 +11406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.789368,
+          38.27478
+        ]
+      },
+      "properties": {
+        "incident_id": "297499",
+        "route": "I-64",
+        "mm_start": 2.1,
+        "mm_end": 2.1,
+        "title": "I-64 East at MM 2.1 Area of 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Thu, 16 Jul 2026 16:12:49 GMT",
+        "first_seen": "2026-07-16T16:34:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.787773,
           38.274087
         ]
@@ -12279,6 +12319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
         "pubDate": "Tue, 30 Jun 2026 10:58:10 GMT",
         "first_seen": "2026-06-30T11:08:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.738461,
+          38.259469
+        ]
+      },
+      "properties": {
+        "incident_id": "297500",
+        "route": "I-64",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-64 East at MM 5.4 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0058",
+        "pubDate": "Thu, 16 Jul 2026 16:24:54 GMT",
+        "first_seen": "2026-07-16T16:34:10Z"
       }
     },
     {
