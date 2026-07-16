@@ -8546,6 +8546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644333,
+          38.117922
+        ]
+      },
+      "properties": {
+        "incident_id": "297475",
+        "route": "I-265",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-265 North at MM 13.5 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 16 Jul 2026 11:09:17 GMT",
+        "first_seen": "2026-07-16T11:21:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.640734,
           38.118478
         ]
@@ -13686,6 +13706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.638854,
+          38.235738
+        ]
+      },
+      "properties": {
+        "incident_id": "297473",
+        "route": "I-64",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-64 East at MM 11.4 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0114",
+        "pubDate": "Thu, 16 Jul 2026 10:54:11 GMT",
+        "first_seen": "2026-07-16T11:21:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637007,
           38.235801
         ]
@@ -13939,6 +13979,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0131",
         "pubDate": "Wed, 15 Jul 2026 19:18:17 GMT",
         "first_seen": "2026-07-15T19:31:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.609274,
+          38.232983
+        ]
+      },
+      "properties": {
+        "incident_id": "297476",
+        "route": "I-64",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-64 West at MM 13.1 Approaching I-264 (East End) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the areaMay be viewed on CCTV_05_64_0131",
+        "pubDate": "Thu, 16 Jul 2026 11:13:46 GMT",
+        "first_seen": "2026-07-16T11:21:38Z"
       }
     },
     {
