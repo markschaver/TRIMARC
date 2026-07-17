@@ -12266,6 +12266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752135,
+          38.258936
+        ]
+      },
+      "properties": {
+        "incident_id": "297615",
+        "route": "I-64",
+        "mm_start": 4.6,
+        "mm_end": 4.6,
+        "title": "I-64 West at MM 4.6 Area of 3rd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Fri, 17 Jul 2026 10:37:47 GMT",
+        "first_seen": "2026-07-17T10:55:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750327,
           38.258927
         ]
