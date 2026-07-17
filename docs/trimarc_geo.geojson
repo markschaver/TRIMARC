@@ -1046,6 +1046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822249,
+          38.223083
+        ]
+      },
+      "properties": {
+        "incident_id": "297698",
+        "route": "I-264",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-264 West at MM 4.0 Area of Bells Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Fri, 17 Jul 2026 20:53:34 GMT",
+        "first_seen": "2026-07-17T21:05:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822349,
           38.221609
         ]
@@ -5879,6 +5899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Mon, 13 Jul 2026 21:06:05 GMT",
         "first_seen": "2026-07-13T21:34:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65699,
+          38.218526
+        ]
+      },
+      "properties": {
+        "incident_id": "297692",
+        "route": "I-264",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-264 West at MM 16.6 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 17 Jul 2026 20:38:28 GMT",
+        "first_seen": "2026-07-17T21:05:28Z"
       }
     },
     {
