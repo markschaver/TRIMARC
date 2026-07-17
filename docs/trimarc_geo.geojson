@@ -4786,6 +4786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.68897,
+          38.201842
+        ]
+      },
+      "properties": {
+        "incident_id": "297672",
+        "route": "I-264",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-264 West at MM 14.5 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 17 Jul 2026 19:16:22 GMT",
+        "first_seen": "2026-07-17T19:40:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.687187,
           38.20218
         ]
@@ -5419,6 +5439,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0156",
         "pubDate": "Thu, 16 Jul 2026 20:04:16 GMT",
         "first_seen": "2026-07-16T20:22:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "297677",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 West at MM 15.6 At Bardstown Rd. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 17 Jul 2026 19:31:30 GMT",
+        "first_seen": "2026-07-17T19:40:53Z"
       }
     },
     {
@@ -13306,6 +13346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719376,
+          38.25388
+        ]
+      },
+      "properties": {
+        "incident_id": "297673",
+        "route": "I-64",
+        "mm_start": 6.7,
+        "mm_end": 6.7,
+        "title": "I-64 West at MM 6.7 At Mellwood Ave in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Fri, 17 Jul 2026 19:20:06 GMT",
+        "first_seen": "2026-07-17T19:40:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.71831,
           38.252662
         ]
@@ -17706,6 +17766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.45571,
+          38.220837
+        ]
+      },
+      "properties": {
+        "incident_id": "297675",
+        "route": "I-64",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-64 West at MM 21.6 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 17 Jul 2026 19:24:22 GMT",
+        "first_seen": "2026-07-17T19:40:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.453887,
           38.220697
         ]
@@ -20959,6 +21039,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1289",
         "pubDate": "Sat, 11 Jul 2026 08:26:02 GMT",
         "first_seen": "2026-07-11T09:04:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "297670",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 North at MM 129.0 Just Past Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Waze reports of a vehicle in the area",
+        "pubDate": "Fri, 17 Jul 2026 19:11:21 GMT",
+        "first_seen": "2026-07-17T19:40:53Z"
       }
     },
     {
