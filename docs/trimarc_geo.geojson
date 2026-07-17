@@ -3866,6 +3866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "297664",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 East at MM 13.1 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Fri, 17 Jul 2026 18:43:35 GMT",
+        "first_seen": "2026-07-17T19:10:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710076,
           38.19394
         ]
@@ -7099,6 +7119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
         "pubDate": "Sun, 12 Jul 2026 10:54:15 GMT",
         "first_seen": "2026-07-12T11:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.626005,
+          38.234016
+        ]
+      },
+      "properties": {
+        "incident_id": "297663",
+        "route": "I-264",
+        "mm_start": 18.6,
+        "mm_end": 18.6,
+        "title": "I-264 East at MM 18.6 At I-64 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Fri, 17 Jul 2026 18:41:42 GMT",
+        "first_seen": "2026-07-17T19:10:39Z"
       }
     },
     {
@@ -15346,6 +15386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.572988,
+          38.222547
+        ]
+      },
+      "properties": {
+        "incident_id": "297665",
+        "route": "I-64",
+        "mm_start": 15.2,
+        "mm_end": 15.2,
+        "title": "I-64 East at MM 15.2 Just Past Hurstbourne Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Fri, 17 Jul 2026 18:47:46 GMT",
+        "first_seen": "2026-07-17T19:10:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.571172,
           38.22249
         ]
@@ -15719,6 +15779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Fri, 17 Jul 2026 17:02:17 GMT",
         "first_seen": "2026-07-17T17:13:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "297667",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 West at MM 16.8 Just Past Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Fri, 17 Jul 2026 18:58:27 GMT",
+        "first_seen": "2026-07-17T19:10:39Z"
       }
     },
     {
