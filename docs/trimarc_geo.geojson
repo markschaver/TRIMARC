@@ -13286,6 +13286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.715372,
+          38.250897
+        ]
+      },
+      "properties": {
+        "incident_id": "297600",
+        "route": "I-64",
+        "mm_start": 7.0,
+        "mm_end": 7.0,
+        "title": "I-64 East at MM 7.0 Area of Mellwoof Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Fri, 17 Jul 2026 03:36:35 GMT",
+        "first_seen": "2026-07-17T04:47:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.709964,
           38.249732
         ]
