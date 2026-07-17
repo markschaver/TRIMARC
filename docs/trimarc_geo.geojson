@@ -6426,6 +6426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.642737,
+          38.225118
+        ]
+      },
+      "properties": {
+        "incident_id": "297660",
+        "route": "I-264",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-264 East at MM 17.5 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Fri, 17 Jul 2026 17:55:05 GMT",
+        "first_seen": "2026-07-17T18:12:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.641148,
           38.225842
         ]
@@ -11779,6 +11799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0022",
         "pubDate": "Thu, 16 Jul 2026 16:12:49 GMT",
         "first_seen": "2026-07-16T16:34:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.789368,
+          38.27478
+        ]
+      },
+      "properties": {
+        "incident_id": "297657",
+        "route": "I-64",
+        "mm_start": 2.1,
+        "mm_end": 2.1,
+        "title": "I-64 East at MM 2.1 Approaching 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Fri, 17 Jul 2026 17:47:29 GMT",
+        "first_seen": "2026-07-17T18:12:17Z"
       }
     },
     {
