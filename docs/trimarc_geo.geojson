@@ -2446,6 +2446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.771335,
+          38.18962
+        ]
+      },
+      "properties": {
+        "incident_id": "297729",
+        "route": "I-264",
+        "mm_start": 9.8,
+        "mm_end": 9.8,
+        "title": "I-264 East at MM 9.8 Approaching Southern Parkway in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Fri, 17 Jul 2026 22:47:37 GMT",
+        "first_seen": "2026-07-17T23:05:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.769499,
           38.189707
         ]
@@ -17959,6 +17979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Fri, 17 Jul 2026 21:42:55 GMT",
         "first_seen": "2026-07-17T22:04:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.463003,
+          38.221249
+        ]
+      },
+      "properties": {
+        "incident_id": "297727",
+        "route": "I-64",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-64 West at MM 21.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 17 Jul 2026 22:40:28 GMT",
+        "first_seen": "2026-07-17T23:05:23Z"
       }
     },
     {
