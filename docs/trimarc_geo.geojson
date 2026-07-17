@@ -4646,6 +4646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "297701",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 East at MM 14.2 Before Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 17 Jul 2026 21:03:50 GMT",
+        "first_seen": "2026-07-17T21:33:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -12099,6 +12119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed at CCTV_05_64_0022",
         "pubDate": "Wed, 17 Jun 2026 17:49:03 GMT",
         "first_seen": "2026-06-17T18:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.784747,
+          38.27252
+        ]
+      },
+      "properties": {
+        "incident_id": "297708",
+        "route": "I-64",
+        "mm_start": 2.4,
+        "mm_end": 2.4,
+        "title": "I-64 East at MM 2.4 Approaching 22nd St. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Fri, 17 Jul 2026 21:23:52 GMT",
+        "first_seen": "2026-07-17T21:33:21Z"
       }
     },
     {
