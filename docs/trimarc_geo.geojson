@@ -11026,6 +11026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.501953,
+          38.259134
+        ]
+      },
+      "properties": {
+        "incident_id": "297744",
+        "route": "I-265",
+        "mm_start": 28.0,
+        "mm_end": 28.0,
+        "title": "I-265 North at MM 28.0 Approaching Old Henry Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Sat, 18 Jul 2026 02:28:17 GMT",
+        "first_seen": "2026-07-18T02:40:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.501811,
           38.260579
         ]
