@@ -9286,6 +9286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.628346,
+          38.121065
+        ]
+      },
+      "properties": {
+        "incident_id": "297740",
+        "route": "I-265",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-265 East at MM 14.4 Approaching Beulah Church Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Sat, 18 Jul 2026 01:13:52 GMT",
+        "first_seen": "2026-07-18T01:38:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.621377,
           38.122869
         ]
@@ -12279,6 +12299,26 @@
         "description": "Disabled Vehicle-Occupied : Metrosafe reports of a disabled vehicle in the area",
         "pubDate": "Fri, 10 Jul 2026 22:22:39 GMT",
         "first_seen": "2026-07-10T22:50:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.778235,
+          38.26577
+        ]
+      },
+      "properties": {
+        "incident_id": "297741",
+        "route": "I-64",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-64 West at MM 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Sat, 18 Jul 2026 01:25:24 GMT",
+        "first_seen": "2026-07-18T01:38:00Z"
       }
     },
     {
