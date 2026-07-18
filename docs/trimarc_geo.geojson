@@ -1386,6 +1386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82744,
+          38.202644
+        ]
+      },
+      "properties": {
+        "incident_id": "297769",
+        "route": "I-264",
+        "mm_start": 5.5,
+        "mm_end": 5.5,
+        "title": "I-264 West at MM 5.5 Area of Cane Run Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052.",
+        "pubDate": "Sat, 18 Jul 2026 12:34:33 GMT",
+        "first_seen": "2026-07-18T13:11:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827462,
           38.201191
         ]
@@ -16086,6 +16106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.5456,
+          38.223743
+        ]
+      },
+      "properties": {
+        "incident_id": "297772",
+        "route": "I-64",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-64 East at MM 16.7 Area of Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Sat, 18 Jul 2026 13:01:43 GMT",
+        "first_seen": "2026-07-18T13:11:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.54373,
           38.223808
         ]
@@ -24379,6 +24419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Thu, 16 Jul 2026 09:10:51 GMT",
         "first_seen": "2026-07-16T09:46:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.575145,
+          38.317345
+        ]
+      },
+      "properties": {
+        "incident_id": "297770",
+        "route": "I-71",
+        "mm_start": 9.0,
+        "mm_end": 10.0,
+        "title": "I-71 North between MM 9.0 and 10.0 At I-265 in Jefferson County",
+        "description": "Construction / Road Work : LOUISVILLE, Ky. (July 10, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of a ramp closure on Interstate 265 North (Gene Snyder Freeway) on Saturday, July 18, in Louisville. The I-265 North ramp to I-71 North will be closed from 8 a.m. to 10 a.m. on Saturday, July 18. Additionally, alternating lane closures on I-71 North under the I-265 North bridge near mile point 9.2 may occur during this timeframe. The ramp and lane closures are necessary for contract crews to perform asphalt work. Drivers should heed signage, use caution when traveling through the work zones, and plan for increased travel times.",
+        "pubDate": "Sat, 18 Jul 2026 11:00:00 GMT",
+        "first_seen": "2026-07-18T13:11:00Z"
       }
     },
     {
