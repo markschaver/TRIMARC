@@ -22286,6 +22286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.722728,
+          38.262362
+        ]
+      },
+      "properties": {
+        "incident_id": "297776",
+        "route": "I-71",
+        "mm_start": 0.1,
+        "mm_end": 0.1,
+        "title": "I-71 North at MM 0.1 Just Past I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001.",
+        "pubDate": "Sat, 18 Jul 2026 14:23:45 GMT",
+        "first_seen": "2026-07-18T14:29:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720944,
           38.262706
         ]
