@@ -14706,6 +14706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.66427,
+          38.23761
+        ]
+      },
+      "properties": {
+        "incident_id": "297809",
+        "route": "I-64",
+        "mm_start": 10.0,
+        "mm_end": 10.0,
+        "title": "I-64 East at MM 10.0 Area of Cannons Lane in Jefferson County",
+        "description": "Roadway Debris : MetroSafe reports couch in right lane",
+        "pubDate": "Sat, 18 Jul 2026 23:31:02 GMT",
+        "first_seen": "2026-07-18T23:49:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.657305,
           38.235555
         ]
