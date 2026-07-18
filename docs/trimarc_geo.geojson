@@ -4086,6 +4086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "297805",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 18 Jul 2026 22:04:42 GMT",
+        "first_seen": "2026-07-18T22:20:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -11819,6 +11839,26 @@
         "description": "Crash : May be viewed on CCTV_05_841_0349",
         "pubDate": "Thu, 18 Jun 2026 15:28:59 GMT",
         "first_seen": "2026-06-18T16:29:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.822558,
+          38.279059
+        ]
+      },
+      "properties": {
+        "incident_id": "297803",
+        "route": "I-64",
+        "mm_start": 0.1,
+        "mm_end": 0.1,
+        "title": "I-64 East at MM 0.1 On Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0003_EB",
+        "pubDate": "Sat, 18 Jul 2026 21:37:00 GMT",
+        "first_seen": "2026-07-18T22:20:08Z"
       }
     },
     {
