@@ -8226,6 +8226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644669,
+          38.287384
+        ]
+      },
+      "properties": {
+        "incident_id": "297779",
+        "route": "I-264",
+        "mm_start": 22.8,
+        "mm_end": 22.8,
+        "title": "I-264 West at MM 22.8 Approaching Brownsboro Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221.",
+        "pubDate": "Sat, 18 Jul 2026 15:07:16 GMT",
+        "first_seen": "2026-07-18T15:23:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.697087,
           38.11363
         ]
