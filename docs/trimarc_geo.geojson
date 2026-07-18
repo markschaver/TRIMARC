@@ -926,6 +926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.818351,
+          38.235487
+        ]
+      },
+      "properties": {
+        "incident_id": "297781",
+        "route": "I-264",
+        "mm_start": 3.1,
+        "mm_end": 3.1,
+        "title": "I-264 West at MM 3.1 At Dumesnil in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027.",
+        "pubDate": "Sat, 18 Jul 2026 15:32:23 GMT",
+        "first_seen": "2026-07-18T15:49:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82003,
           38.232944
         ]
@@ -12306,6 +12326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.787773,
+          38.274087
+        ]
+      },
+      "properties": {
+        "incident_id": "297780",
+        "route": "I-64",
+        "mm_start": 2.2,
+        "mm_end": 2.2,
+        "title": "I-64 East at MM 2.2 Area of 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0022.",
+        "pubDate": "Sat, 18 Jul 2026 15:19:55 GMT",
+        "first_seen": "2026-07-18T15:49:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.786191,
           38.273382
         ]
@@ -21679,6 +21719,26 @@
         "description": "Disabled Vehicle-Occupied : Waze reports of a vehicle in the area",
         "pubDate": "Fri, 17 Jul 2026 19:11:21 GMT",
         "first_seen": "2026-07-17T19:40:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "297782",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 South at MM 129.0 Approaching Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sat, 18 Jul 2026 15:41:37 GMT",
+        "first_seen": "2026-07-18T15:49:49Z"
       }
     },
     {
