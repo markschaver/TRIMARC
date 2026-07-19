@@ -14626,6 +14626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.682128,
+          38.241529
+        ]
+      },
+      "properties": {
+        "incident_id": "297812",
+        "route": "I-64",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-64 East at MM 9.0 Area of Lexington Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0088.",
+        "pubDate": "Sun, 19 Jul 2026 00:40:00 GMT",
+        "first_seen": "2026-07-19T00:46:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.678716,
           38.24041
         ]
