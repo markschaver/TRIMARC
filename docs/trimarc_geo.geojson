@@ -106,6 +106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808411,
+          38.269773
+        ]
+      },
+      "properties": {
+        "incident_id": "297815",
+        "route": "I-264",
+        "mm_start": 0.5,
+        "mm_end": 0.5,
+        "title": "I-264 East at MM 0.5 Just Past Bank Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Sun, 19 Jul 2026 03:33:58 GMT",
+        "first_seen": "2026-07-19T04:02:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808136,
           38.268336
         ]
@@ -1019,6 +1039,26 @@
         "description": "Disabled Vehicle-Occupied : may be viewed on CCTV_05_264_0041",
         "pubDate": "Sat, 11 Jul 2026 03:05:34 GMT",
         "first_seen": "2026-07-11T04:47:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.821939,
+          38.226027
+        ]
+      },
+      "properties": {
+        "incident_id": "297816",
+        "route": "I-264",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-264 East at MM 3.8 Area of Bells Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0007.",
+        "pubDate": "Sun, 19 Jul 2026 03:49:18 GMT",
+        "first_seen": "2026-07-19T04:02:08Z"
       }
     },
     {
@@ -2499,6 +2539,26 @@
         "description": "Crash : Metrosafe reports of a crash in the area",
         "pubDate": "Fri, 17 Jul 2026 22:47:37 GMT",
         "first_seen": "2026-07-17T23:05:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.771335,
+          38.18962
+        ]
+      },
+      "properties": {
+        "incident_id": "297814",
+        "route": "I-264",
+        "mm_start": 9.8,
+        "mm_end": 9.8,
+        "title": "I-264 West at MM 9.8 Just Past Southern Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC OBSERVED.",
+        "pubDate": "Sun, 19 Jul 2026 03:18:07 GMT",
+        "first_seen": "2026-07-19T04:02:08Z"
       }
     },
     {
