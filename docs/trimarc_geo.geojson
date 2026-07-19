@@ -14526,6 +14526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.691131,
+          38.241871
+        ]
+      },
+      "properties": {
+        "incident_id": "297859",
+        "route": "I-64",
+        "mm_start": 8.5,
+        "mm_end": 8.5,
+        "title": "I-64 East at MM 8.5 Area of Cochran Hill Road in Jefferson County",
+        "description": "Crash : Crash in this area.",
+        "pubDate": "Sun, 19 Jul 2026 20:17:49 GMT",
+        "first_seen": "2026-07-19T20:31:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.689312,
           38.241975
         ]
