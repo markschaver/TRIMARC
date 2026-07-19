@@ -7626,6 +7626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621875,
+          38.241927
+        ]
+      },
+      "properties": {
+        "incident_id": "297851",
+        "route": "I-264",
+        "mm_start": 19.2,
+        "mm_end": 19.2,
+        "title": "I-264 West at MM 19.2 Collector Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199.",
+        "pubDate": "Sun, 19 Jul 2026 17:59:08 GMT",
+        "first_seen": "2026-07-19T18:05:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.620996,
           38.244743
         ]
