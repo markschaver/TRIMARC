@@ -23346,6 +23346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.649172,
+          38.290076
+        ]
+      },
+      "properties": {
+        "incident_id": "297826",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-71 North at MM 4.9 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
+        "pubDate": "Sun, 19 Jul 2026 11:25:31 GMT",
+        "first_seen": "2026-07-19T11:38:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.647899,
           38.289044
         ]
