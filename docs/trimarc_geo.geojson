@@ -3226,6 +3226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.738366,
+          38.189701
+        ]
+      },
+      "properties": {
+        "incident_id": "297835",
+        "route": "I-264",
+        "mm_start": 11.6,
+        "mm_end": 11.6,
+        "title": "I-264 West at MM 11.6 Area of Airport in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sun, 19 Jul 2026 14:20:59 GMT",
+        "first_seen": "2026-07-19T14:31:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.734702,
           38.189921
         ]
