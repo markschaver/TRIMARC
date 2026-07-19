@@ -1066,6 +1066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821939,
+          38.226027
+        ]
+      },
+      "properties": {
+        "incident_id": "297854",
+        "route": "I-264",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-264 West at MM 3.8 At Bells Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0041.",
+        "pubDate": "Sun, 19 Jul 2026 19:06:14 GMT",
+        "first_seen": "2026-07-19T19:10:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822101,
           38.224559
         ]
