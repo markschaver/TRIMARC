@@ -5606,6 +5606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.67933,
+          38.20589
+        ]
+      },
+      "properties": {
+        "incident_id": "297880",
+        "route": "I-264",
+        "mm_start": 15.1,
+        "mm_end": 15.1,
+        "title": "I-264 West at MM 15.1 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Mon, 20 Jul 2026 10:24:42 GMT",
+        "first_seen": "2026-07-20T10:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.67789,
           38.206787
         ]
@@ -16586,6 +16606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.547463,
+          38.223651
+        ]
+      },
+      "properties": {
+        "incident_id": "297878",
+        "route": "I-64",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-64 West at MM 16.6 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Mon, 20 Jul 2026 10:21:16 GMT",
+        "first_seen": "2026-07-20T10:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.5456,
           38.223743
         ]
@@ -21939,6 +21979,26 @@
         "description": "Road Hazard : May be viewed on CCTV_05_65_1289",
         "pubDate": "Thu, 16 Jul 2026 18:07:01 GMT",
         "first_seen": "2026-07-16T18:14:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "297879",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 North at MM 128.7 Just Past Fern Valley Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Mon, 20 Jul 2026 10:24:44 GMT",
+        "first_seen": "2026-07-20T10:42:31Z"
       }
     },
     {
