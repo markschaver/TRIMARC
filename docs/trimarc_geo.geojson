@@ -1446,6 +1446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827591,
+          38.204081
+        ]
+      },
+      "properties": {
+        "incident_id": "297896",
+        "route": "I-264",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-264 East at MM 5.4 Area of Cane Run Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Mon, 20 Jul 2026 11:18:51 GMT",
+        "first_seen": "2026-07-20T11:44:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82744,
           38.202644
         ]
@@ -7059,6 +7079,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0170",
         "pubDate": "Tue, 14 Jul 2026 18:47:04 GMT",
         "first_seen": "2026-07-14T18:57:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.639559,
+          38.226566
+        ]
+      },
+      "properties": {
+        "incident_id": "297884",
+        "route": "I-264",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-264 West at MM 17.7 Area of Breckenridge Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 20 Jul 2026 10:41:54 GMT",
+        "first_seen": "2026-07-20T11:44:35Z"
       }
     },
     {
@@ -16586,6 +16626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.551118,
+          38.223462
+        ]
+      },
+      "properties": {
+        "incident_id": "297897",
+        "route": "I-64",
+        "mm_start": 16.4,
+        "mm_end": 16.4,
+        "title": "I-64 West at MM 16.4 Between Blankenbaker Pkwy. and Hurstbourne Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Mon, 20 Jul 2026 11:23:13 GMT",
+        "first_seen": "2026-07-20T11:44:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.549295,
           38.223554
         ]
@@ -20519,6 +20579,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Wed, 01 Jul 2026 19:52:02 GMT",
         "first_seen": "2026-07-01T19:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701831,
+          38.124288
+        ]
+      },
+      "properties": {
+        "incident_id": "297894",
+        "route": "I-65",
+        "mm_start": 125.8,
+        "mm_end": 125.8,
+        "title": "I-65 South at MM 125.8 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 20 Jul 2026 11:08:46 GMT",
+        "first_seen": "2026-07-20T11:44:35Z"
       }
     },
     {
