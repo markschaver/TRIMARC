@@ -8906,6 +8906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.684876,
+          38.11056
+        ]
+      },
+      "properties": {
+        "incident_id": "297925",
+        "route": "I-265",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-265 East at MM 11.2 Area of Preston Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Mon, 20 Jul 2026 14:11:26 GMT",
+        "first_seen": "2026-07-20T14:18:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.68309,
           38.110268
         ]
@@ -10079,6 +10099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Sun, 12 Jul 2026 17:09:48 GMT",
         "first_seen": "2026-07-12T17:37:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583286,
+          38.141626
+        ]
+      },
+      "properties": {
+        "incident_id": "297927",
+        "route": "I-265",
+        "mm_start": 17.3,
+        "mm_end": 17.3,
+        "title": "I-265 West at MM 17.3 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Mon, 20 Jul 2026 14:14:32 GMT",
+        "first_seen": "2026-07-20T14:18:51Z"
       }
     },
     {
@@ -15119,6 +15159,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0088",
         "pubDate": "Fri, 17 Jul 2026 21:58:04 GMT",
         "first_seen": "2026-07-17T22:04:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.678716,
+          38.24041
+        ]
+      },
+      "properties": {
+        "incident_id": "297917",
+        "route": "I-64",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-64 West at MM 9.2 Area of Peewee Reese Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Mon, 20 Jul 2026 13:25:20 GMT",
+        "first_seen": "2026-07-20T14:18:51Z"
       }
     },
     {
