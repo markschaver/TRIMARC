@@ -626,6 +626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.806256,
+          38.252986
+        ]
+      },
+      "properties": {
+        "incident_id": "297904",
+        "route": "I-264",
+        "mm_start": 1.7,
+        "mm_end": 1.7,
+        "title": "I-264 West at MM 1.7 Area of River Park Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Mon, 20 Jul 2026 11:51:33 GMT",
+        "first_seen": "2026-07-20T12:32:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807029,
           38.250154
         ]
@@ -5026,6 +5046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.692557,
+          38.201221
+        ]
+      },
+      "properties": {
+        "incident_id": "297902",
+        "route": "I-264",
+        "mm_start": 14.3,
+        "mm_end": 14.3,
+        "title": "I-264 West at MM 14.3 Area of Newburg Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Mon, 20 Jul 2026 11:46:25 GMT",
+        "first_seen": "2026-07-20T12:32:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.690764,
           38.201531
         ]
@@ -5999,6 +6039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Thu, 25 Jun 2026 20:50:53 GMT",
         "first_seen": "2026-06-25T20:56:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.666156,
+          38.213765
+        ]
+      },
+      "properties": {
+        "incident_id": "297908",
+        "route": "I-264",
+        "mm_start": 16.0,
+        "mm_end": 16.0,
+        "title": "I-264 East at MM 16.0 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Mon, 20 Jul 2026 12:10:06 GMT",
+        "first_seen": "2026-07-20T12:32:05Z"
       }
     },
     {
@@ -9319,6 +9379,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Tue, 23 Jun 2026 20:29:11 GMT",
         "first_seen": "2026-06-23T20:53:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.651533,
+          38.116793
+        ]
+      },
+      "properties": {
+        "incident_id": "297905",
+        "route": "I-265",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-265 West at MM 13.1 Area of Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 20 Jul 2026 11:54:19 GMT",
+        "first_seen": "2026-07-20T12:32:05Z"
       }
     },
     {
