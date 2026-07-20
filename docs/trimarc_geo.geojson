@@ -20936,9 +20936,9 @@
         "mm_start": 125.3,
         "mm_end": 125.3,
         "title": "I-65 South at MM 125.3 Approaching I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : TRIAMRC advises of disabled vehicle in the area.",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Mon, 20 Jul 2026 21:11:01 GMT",
-        "first_seen": "2026-07-20T21:16:30Z"
+        "first_seen": "2026-07-20T22:50:21Z"
       }
     },
     {
@@ -24019,6 +24019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
         "pubDate": "Sun, 28 Jun 2026 20:56:56 GMT",
         "first_seen": "2026-06-28T21:09:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.691041,
+          38.278717
+        ]
+      },
+      "properties": {
+        "incident_id": "298028",
+        "route": "I-71",
+        "mm_start": 2.2,
+        "mm_end": 2.2,
+        "title": "I-71 North at MM 2.2 Just Past Zorn Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Mon, 20 Jul 2026 22:20:55 GMT",
+        "first_seen": "2026-07-20T22:50:21Z"
       }
     },
     {
