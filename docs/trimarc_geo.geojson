@@ -5306,6 +5306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.687187,
+          38.20218
+        ]
+      },
+      "properties": {
+        "incident_id": "297935",
+        "route": "I-264",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-264 West at MM 14.6 Area of Newburg Road in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Mon, 20 Jul 2026 15:05:01 GMT",
+        "first_seen": "2026-07-20T15:17:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.685499,
           38.20276
         ]
@@ -11986,6 +12006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.536416,
+          38.290087
+        ]
+      },
+      "properties": {
+        "incident_id": "297936",
+        "route": "I-265",
+        "mm_start": 31.7,
+        "mm_end": 31.7,
+        "title": "I-265 North at MM 31.7 Approaching Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Mon, 20 Jul 2026 15:12:55 GMT",
+        "first_seen": "2026-07-20T15:17:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.540726,
           38.292802
         ]
@@ -18599,6 +18639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Mon, 13 Jul 2026 20:57:29 GMT",
         "first_seen": "2026-07-13T21:08:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.477638,
+          38.221719
+        ]
+      },
+      "properties": {
+        "incident_id": "297931",
+        "route": "I-64",
+        "mm_start": 20.4,
+        "mm_end": 20.4,
+        "title": "I-64 West at MM 20.4 Approaching English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Mon, 20 Jul 2026 14:30:29 GMT",
+        "first_seen": "2026-07-20T15:17:20Z"
       }
     },
     {
@@ -25879,6 +25939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Tue, 23 Jun 2026 21:42:27 GMT",
         "first_seen": "2026-06-23T22:11:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547063,
+          38.327265
+        ]
+      },
+      "properties": {
+        "incident_id": "297934",
+        "route": "I-71",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-71 South at MM 11.2 Area of Jefferson/Oldham Co. Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Mon, 20 Jul 2026 15:00:15 GMT",
+        "first_seen": "2026-07-20T15:17:20Z"
       }
     }
   ]
