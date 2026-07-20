@@ -3246,6 +3246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.742031,
+          38.189484
+        ]
+      },
+      "properties": {
+        "incident_id": "297987",
+        "route": "I-264",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-264 West at MM 11.4 Just Past I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Mon, 20 Jul 2026 19:58:47 GMT",
+        "first_seen": "2026-07-20T20:04:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.740199,
           38.189592
         ]
@@ -10066,6 +10086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.590171,
+          38.139639
+        ]
+      },
+      "properties": {
+        "incident_id": "297981",
+        "route": "I-265",
+        "mm_start": 16.9,
+        "mm_end": 16.9,
+        "title": "I-265 West at MM 16.9 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Mon, 20 Jul 2026 19:34:32 GMT",
+        "first_seen": "2026-07-20T20:04:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.588497,
           38.140239
         ]
@@ -13639,6 +13679,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0050",
         "pubDate": "Sat, 11 Jul 2026 08:37:14 GMT",
         "first_seen": "2026-07-11T09:04:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.744948,
+          38.258258
+        ]
+      },
+      "properties": {
+        "incident_id": "297985",
+        "route": "I-64",
+        "mm_start": 5.0,
+        "mm_end": 5.0,
+        "title": "I-64 East at MM 5.0 Area of River Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Mon, 20 Jul 2026 19:51:44 GMT",
+        "first_seen": "2026-07-20T20:04:46Z"
       }
     },
     {
