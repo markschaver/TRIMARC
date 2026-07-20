@@ -66,6 +66,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808637,
+          38.271204
+        ]
+      },
+      "properties": {
+        "incident_id": "297994",
+        "route": "I-264",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-264 East at MM 0.4 Area of Bank Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Mon, 20 Jul 2026 20:29:09 GMT",
+        "first_seen": "2026-07-20T20:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808411,
           38.269773
         ]
@@ -5159,6 +5179,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0145",
         "pubDate": "Wed, 15 Jul 2026 11:49:43 GMT",
         "first_seen": "2026-07-15T12:35:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.690764,
+          38.201531
+        ]
+      },
+      "properties": {
+        "incident_id": "297992",
+        "route": "I-264",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-264 West at MM 14.4 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Mon, 20 Jul 2026 20:21:15 GMT",
+        "first_seen": "2026-07-20T20:44:36Z"
       }
     },
     {
@@ -15446,6 +15486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.657305,
+          38.235555
+        ]
+      },
+      "properties": {
+        "incident_id": "297998",
+        "route": "I-64",
+        "mm_start": 10.4,
+        "mm_end": 10.4,
+        "title": "I-64 West at MM 10.4 Area of Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0104",
+        "pubDate": "Mon, 20 Jul 2026 20:36:08 GMT",
+        "first_seen": "2026-07-20T20:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.655464,
           38.235327
         ]
@@ -22219,6 +22279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
         "pubDate": "Sat, 27 Jun 2026 16:13:50 GMT",
         "first_seen": "2026-06-27T16:30:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719173,
+          38.159131
+        ]
+      },
+      "properties": {
+        "incident_id": "297997",
+        "route": "I-65",
+        "mm_start": 128.4,
+        "mm_end": 128.4,
+        "title": "I-65 North at MM 128.4 Area of Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Mon, 20 Jul 2026 20:34:26 GMT",
+        "first_seen": "2026-07-20T20:44:36Z"
       }
     },
     {
