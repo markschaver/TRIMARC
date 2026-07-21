@@ -4586,6 +4586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705744,
+          38.196614
+        ]
+      },
+      "properties": {
+        "incident_id": "298048",
+        "route": "I-264",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-264 East at MM 13.5 Just Past Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 21 Jul 2026 01:14:10 GMT",
+        "first_seen": "2026-07-21T01:19:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.704399,
           38.197615
         ]
