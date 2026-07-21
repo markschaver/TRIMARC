@@ -1006,6 +1006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.819191,
+          38.234215
+        ]
+      },
+      "properties": {
+        "incident_id": "298106",
+        "route": "I-264",
+        "mm_start": 3.2,
+        "mm_end": 3.2,
+        "title": "I-264 West at MM 3.2 Approaching Virginia Avenue in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 21 Jul 2026 14:41:23 GMT",
+        "first_seen": "2026-07-21T15:17:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82003,
           38.232944
         ]
@@ -11806,6 +11826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.503818,
+          38.240361
+        ]
+      },
+      "properties": {
+        "incident_id": "298110",
+        "route": "I-265",
+        "mm_start": 26.7,
+        "mm_end": 26.7,
+        "title": "I-265 North at MM 26.7 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 21 Jul 2026 15:06:10 GMT",
+        "first_seen": "2026-07-21T15:17:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503678,
           38.241807
         ]
@@ -11919,6 +11959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
         "pubDate": "Sat, 18 Jul 2026 19:26:13 GMT",
         "first_seen": "2026-07-18T19:55:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.501953,
+          38.259134
+        ]
+      },
+      "properties": {
+        "incident_id": "298108",
+        "route": "I-265",
+        "mm_start": 28.0,
+        "mm_end": 28.0,
+        "title": "I-265 North at MM 28.0 Area of Old Henry Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
+        "pubDate": "Tue, 21 Jul 2026 15:03:59 GMT",
+        "first_seen": "2026-07-21T15:17:35Z"
       }
     },
     {
