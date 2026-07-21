@@ -4086,6 +4086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "298202",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 West at MM 12.8 Just Past Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 21 Jul 2026 22:43:57 GMT",
+        "first_seen": "2026-07-21T22:49:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
@@ -9999,6 +10019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Thu, 16 Jul 2026 11:09:17 GMT",
         "first_seen": "2026-07-16T11:21:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644333,
+          38.117922
+        ]
+      },
+      "properties": {
+        "incident_id": "298199",
+        "route": "I-265",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-265 East at MM 13.5 Area of Symrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Tue, 21 Jul 2026 22:25:19 GMT",
+        "first_seen": "2026-07-21T22:49:22Z"
       }
     },
     {
@@ -18306,6 +18346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.530746,
+          38.223453
+        ]
+      },
+      "properties": {
+        "incident_id": "298201",
+        "route": "I-64",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-64 West at MM 17.5 Before BlankenBaker Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Tue, 21 Jul 2026 22:38:18 GMT",
+        "first_seen": "2026-07-21T22:49:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.528924,
           38.223394
         ]
@@ -22819,6 +22879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Wed, 15 Jul 2026 22:06:15 GMT",
         "first_seen": "2026-07-15T22:09:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "298200",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 21 Jul 2026 22:32:28 GMT",
+        "first_seen": "2026-07-21T22:49:22Z"
       }
     },
     {
