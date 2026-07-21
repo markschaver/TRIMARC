@@ -12766,6 +12766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.81895,
+          38.275826
+        ]
+      },
+      "properties": {
+        "incident_id": "298100",
+        "route": "I-64",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-64 East at MM 0.4 Area of Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0003_EB",
+        "pubDate": "Tue, 21 Jul 2026 13:35:50 GMT",
+        "first_seen": "2026-07-21T14:29:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813742,
           38.275015
         ]
