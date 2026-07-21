@@ -12006,6 +12006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.502831,
+          38.250476
+        ]
+      },
+      "properties": {
+        "incident_id": "298153",
+        "route": "I-265",
+        "mm_start": 27.4,
+        "mm_end": 27.4,
+        "title": "I-265 North at MM 27.4 Just Past Shelbyville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 21 Jul 2026 19:18:29 GMT",
+        "first_seen": "2026-07-21T19:33:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.501953,
           38.259134
         ]
@@ -12119,6 +12139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Tue, 30 Jun 2026 21:47:48 GMT",
         "first_seen": "2026-06-30T22:12:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.501811,
+          38.260579
+        ]
+      },
+      "properties": {
+        "incident_id": "298152",
+        "route": "I-265",
+        "mm_start": 28.1,
+        "mm_end": 28.1,
+        "title": "I-265 South at MM 28.1 Just Past Old Henry Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 21 Jul 2026 19:16:53 GMT",
+        "first_seen": "2026-07-21T19:33:41Z"
       }
     },
     {
@@ -13759,6 +13799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0040",
         "pubDate": "Thu, 02 Jul 2026 20:51:26 GMT",
         "first_seen": "2026-07-02T21:10:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.766433,
+          38.259251
+        ]
+      },
+      "properties": {
+        "incident_id": "298154",
+        "route": "I-64",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-64 East at MM 3.8 Area of 9th Street in Jefferson County",
+        "description": "Road Hazard : May be viewed on CCTV_05_64_0040",
+        "pubDate": "Tue, 21 Jul 2026 19:27:05 GMT",
+        "first_seen": "2026-07-21T19:33:41Z"
       }
     },
     {
@@ -25239,6 +25299,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0048",
         "pubDate": "Sat, 04 Jul 2026 03:08:57 GMT",
         "first_seen": "2026-07-04T04:18:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647899,
+          38.289044
+        ]
+      },
+      "properties": {
+        "incident_id": "298148",
+        "route": "I-71",
+        "mm_start": 5.0,
+        "mm_end": 5.0,
+        "title": "I-71 South at MM 5.0 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Tue, 21 Jul 2026 18:57:19 GMT",
+        "first_seen": "2026-07-21T19:33:41Z"
       }
     },
     {
