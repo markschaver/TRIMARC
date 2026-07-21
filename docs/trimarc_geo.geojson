@@ -14946,6 +14946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.702766,
+          38.248181
+        ]
+      },
+      "properties": {
+        "incident_id": "298056",
+        "route": "I-64",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-64 East at MM 7.7 Area of Grinstead Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Tue, 21 Jul 2026 04:06:38 GMT",
+        "first_seen": "2026-07-21T04:52:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701094,
           38.247517
         ]
