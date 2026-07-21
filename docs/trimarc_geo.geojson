@@ -2966,6 +2966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752979,
+          38.19009
+        ]
+      },
+      "properties": {
+        "incident_id": "298079",
+        "route": "I-264",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-264 East at MM 10.8 Area of Crittenden Drive/Airport in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Tue, 21 Jul 2026 11:17:15 GMT",
+        "first_seen": "2026-07-21T11:39:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751158,
           38.189968
         ]
