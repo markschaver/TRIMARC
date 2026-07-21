@@ -6106,6 +6106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.669205,
+          38.212139
+        ]
+      },
+      "properties": {
+        "incident_id": "298043",
+        "route": "I-264",
+        "mm_start": 15.8,
+        "mm_end": 15.8,
+        "title": "I-264 East at MM 15.8 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 21 Jul 2026 00:24:26 GMT",
+        "first_seen": "2026-07-21T00:44:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.667673,
           38.212951
         ]
@@ -18686,6 +18706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.490441,
+          38.222132
+        ]
+      },
+      "properties": {
+        "incident_id": "298041",
+        "route": "I-64",
+        "mm_start": 19.7,
+        "mm_end": 19.7,
+        "title": "I-64 East at MM 19.7 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 21 Jul 2026 00:05:57 GMT",
+        "first_seen": "2026-07-21T00:44:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.488612,
           38.222073
         ]
@@ -21786,6 +21826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.706462,
+          38.136634
+        ]
+      },
+      "properties": {
+        "incident_id": "298044",
+        "route": "I-65",
+        "mm_start": 126.7,
+        "mm_end": 126.7,
+        "title": "I-65 South at MM 126.7 At Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 21 Jul 2026 00:30:38 GMT",
+        "first_seen": "2026-07-21T00:44:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.70723,
           38.137955
         ]
@@ -24019,6 +24079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0018.",
         "pubDate": "Tue, 14 Jul 2026 13:02:55 GMT",
         "first_seen": "2026-07-14T13:18:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.693911,
+          38.276925
+        ]
+      },
+      "properties": {
+        "incident_id": "298040",
+        "route": "I-71",
+        "mm_start": 1.5,
+        "mm_end": 2.5,
+        "title": "I-71 North between MM 1.5 and 2.5 Area of Zorn Avenue in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of overnight traffic impacts on Interstate 71 North beginning Monday, July 20, as part of the $50 million I-71 widening and improvement project in Louisville [links-1.govdelivery.com]. To safely facilitate bridge construction, I-71 North will be reduced to one lane each night from 8 p.m. to 5 a.m., with brief rolling closures occurring between midnight and 4 a.m., on the following dates: Beginning at 8 p.m. on Monday, July 20, through 5 a.m. on Tuesday, July 21 Beginning at 8 p.m. on Tuesday, July 21, through 5 a.m. on Wednesday, July 22 Beginning at 8 p.m. on Wednesday, July 22, through 5 a.m. on Thursday, July 23 During the overnight rolling closures (between midnight and 4 a.m.), motorists traveling on I-71 North will be diverted to exit at Exit 2 (Zorn Avenue) and immediately re-enter the interstate using the I-71 North on-ramp. This short, signed detour will be used while traffic is temporarily stopped to allow crews to safely set bridge beams between midnight and 4 a.m. To help minimize delays, traffic signals at the I-71/Zorn Avenue interchange will be placed in flashing mode, and flaggers will be stationed at all approaches to efficiently direct motorists through the interchange. Additionally, brief closures of Zorn Avenue are possible to allow crews to safely move and set bridge beams. Motorists should reduce speed, follow posted signage and flagger directions, and allow extra travel time during the scheduled overnight work.",
+        "pubDate": "Tue, 21 Jul 2026 00:00:05 GMT",
+        "first_seen": "2026-07-21T00:44:27Z"
       }
     },
     {
