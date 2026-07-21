@@ -16386,6 +16386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.598917,
+          38.229688
+        ]
+      },
+      "properties": {
+        "incident_id": "298070",
+        "route": "I-64",
+        "mm_start": 13.7,
+        "mm_end": 13.7,
+        "title": "I-64 West at MM 13.7 Area of Oxmoor Farm Overpass in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Tue, 21 Jul 2026 10:42:47 GMT",
+        "first_seen": "2026-07-21T10:57:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.59719,
           38.229139
         ]
