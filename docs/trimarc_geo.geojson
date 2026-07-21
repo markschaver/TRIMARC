@@ -12606,6 +12606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.567234,
+          38.306882
+        ]
+      },
+      "properties": {
+        "incident_id": "298124",
+        "route": "I-265",
+        "mm_start": 33.5,
+        "mm_end": 34.0,
+        "title": "I-265 North between MM 33.5 and 34.0 Between Westport Road and Brownsboro Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Tue, 21 Jul 2026 16:52:13 GMT",
+        "first_seen": "2026-07-21T17:33:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.569552,
           38.308065
         ]
@@ -13139,6 +13159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Thu, 16 Jul 2026 22:34:35 GMT",
         "first_seen": "2026-07-16T22:49:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.805203,
+          38.277162
+        ]
+      },
+      "properties": {
+        "incident_id": "298126",
+        "route": "I-64",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-64 East at MM 1.2 Area of I-264 West End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
+        "pubDate": "Tue, 21 Jul 2026 17:14:55 GMT",
+        "first_seen": "2026-07-21T17:33:40Z"
       }
     },
     {
@@ -26259,6 +26299,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Mon, 13 Jul 2026 19:43:30 GMT",
         "first_seen": "2026-07-13T20:11:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.594051,
+          38.308623
+        ]
+      },
+      "properties": {
+        "incident_id": "298125",
+        "route": "I-71",
+        "mm_start": 8.3,
+        "mm_end": 8.3,
+        "title": "I-71 South at MM 8.3 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Tue, 21 Jul 2026 17:08:32 GMT",
+        "first_seen": "2026-07-21T17:33:40Z"
       }
     },
     {
