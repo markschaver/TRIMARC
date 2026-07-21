@@ -1766,6 +1766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.830263,
+          38.192805
+        ]
+      },
+      "properties": {
+        "incident_id": "298113",
+        "route": "I-264",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-264 East at MM 6.2 Area of Crums Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0060",
+        "pubDate": "Tue, 21 Jul 2026 15:30:55 GMT",
+        "first_seen": "2026-07-21T16:02:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80083,
           38.186161
         ]
@@ -25339,6 +25359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Wed, 15 Jul 2026 21:02:34 GMT",
         "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "298117",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 North at MM 5.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Tue, 21 Jul 2026 15:55:34 GMT",
+        "first_seen": "2026-07-21T16:02:47Z"
       }
     },
     {
