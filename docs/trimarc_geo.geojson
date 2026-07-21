@@ -2986,6 +2986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.754815,
+          38.190138
+        ]
+      },
+      "properties": {
+        "incident_id": "298119",
+        "route": "I-264",
+        "mm_start": 10.7,
+        "mm_end": 10.7,
+        "title": "I-264 West at MM 10.7 Area of Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Tue, 21 Jul 2026 16:05:25 GMT",
+        "first_seen": "2026-07-21T16:46:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752979,
           38.19009
         ]
@@ -11859,6 +11879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Tue, 21 Jul 2026 15:06:10 GMT",
         "first_seen": "2026-07-21T15:17:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503818,
+          38.240361
+        ]
+      },
+      "properties": {
+        "incident_id": "298122",
+        "route": "I-265",
+        "mm_start": 26.7,
+        "mm_end": 26.7,
+        "title": "I-265 North at MM 26.7 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 21 Jul 2026 16:28:27 GMT",
+        "first_seen": "2026-07-21T16:46:31Z"
       }
     },
     {
