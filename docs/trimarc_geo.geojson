@@ -14046,19 +14046,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.753948,
-          38.258793
+          -85.73709,
+          38.260375
         ]
       },
       "properties": {
         "incident_id": "298219",
         "route": "I-64",
         "mm_start": 4.0,
-        "mm_end": 5.0,
-        "title": "I-64 East between MM 4.0 and 5.0 Area of 9th Street in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0041.",
+        "mm_end": 7.0,
+        "title": "I-64 East between MM 4.0 and 7.0 Between 9th Street and Story Avenue in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0061_EB",
         "pubDate": "Wed, 22 Jul 2026 03:26:54 GMT",
-        "first_seen": "2026-07-22T03:42:17Z"
+        "first_seen": "2026-07-22T06:01:21Z"
       }
     },
     {
@@ -26559,6 +26559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Tue, 21 Jul 2026 13:27:30 GMT",
         "first_seen": "2026-07-21T13:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.609681,
+          38.30113
+        ]
+      },
+      "properties": {
+        "incident_id": "298224",
+        "route": "I-71",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-71 South at MM 7.3 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Wed, 22 Jul 2026 05:34:01 GMT",
+        "first_seen": "2026-07-22T06:01:21Z"
       }
     },
     {
