@@ -1206,6 +1206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822249,
+          38.223083
+        ]
+      },
+      "properties": {
+        "incident_id": "298242",
+        "route": "I-264",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-264 West at MM 4.0 Area of Bells Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Wed, 22 Jul 2026 10:42:32 GMT",
+        "first_seen": "2026-07-22T10:57:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822349,
           38.221609
         ]
@@ -4999,6 +5019,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0145",
         "pubDate": "Wed, 15 Jul 2026 23:46:02 GMT",
         "first_seen": "2026-07-16T00:06:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.699695,
+          38.199842
+        ]
+      },
+      "properties": {
+        "incident_id": "298241",
+        "route": "I-264",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-264 West at MM 13.9 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 22 Jul 2026 10:40:52 GMT",
+        "first_seen": "2026-07-22T10:57:47Z"
       }
     },
     {
@@ -16346,6 +16386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.646262,
+          38.23594
+        ]
+      },
+      "properties": {
+        "incident_id": "298245",
+        "route": "I-64",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-64 East at MM 11.0 Approaching Breckenridge Lane Overpass in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Wed, 22 Jul 2026 10:50:56 GMT",
+        "first_seen": "2026-07-22T10:57:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.64256,
           38.235896
         ]
@@ -22939,6 +22999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Mon, 13 Jul 2026 18:33:59 GMT",
         "first_seen": "2026-07-13T18:50:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.707974,
+          38.139276
+        ]
+      },
+      "properties": {
+        "incident_id": "298243",
+        "route": "I-65",
+        "mm_start": 126.9,
+        "mm_end": 126.9,
+        "title": "I-65 South at MM 126.9 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 22 Jul 2026 10:46:41 GMT",
+        "first_seen": "2026-07-22T10:57:47Z"
       }
     },
     {
