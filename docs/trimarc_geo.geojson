@@ -19226,6 +19226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.499582,
+          38.222449
+        ]
+      },
+      "properties": {
+        "incident_id": "298266",
+        "route": "I-64",
+        "mm_start": 19.2,
+        "mm_end": 19.2,
+        "title": "I-64 East at MM 19.2 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 22 Jul 2026 13:49:38 GMT",
+        "first_seen": "2026-07-22T13:55:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.497757,
           38.222393
         ]
@@ -24519,6 +24539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Sat, 11 Jul 2026 01:51:28 GMT",
         "first_seen": "2026-07-11T02:19:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719582,
+          38.174797
+        ]
+      },
+      "properties": {
+        "incident_id": "298261",
+        "route": "I-65",
+        "mm_start": 129.5,
+        "mm_end": 129.5,
+        "title": "I-65 South at MM 129.5 Area of Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Wed, 22 Jul 2026 12:57:51 GMT",
+        "first_seen": "2026-07-22T13:55:48Z"
       }
     },
     {
