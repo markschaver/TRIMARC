@@ -6606,6 +6606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.664642,
+          38.214566
+        ]
+      },
+      "properties": {
+        "incident_id": "298330",
+        "route": "I-264",
+        "mm_start": 16.1,
+        "mm_end": 16.1,
+        "title": "I-264 West at MM 16.1 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 22 Jul 2026 20:26:15 GMT",
+        "first_seen": "2026-07-22T20:55:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.663113,
           38.21536
         ]
@@ -8746,6 +8766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.619166,
+          38.253238
+        ]
+      },
+      "properties": {
+        "incident_id": "298331",
+        "route": "I-264",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-264 West at MM 20.0 Area of Shelbyville Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Wed, 22 Jul 2026 20:28:08 GMT",
+        "first_seen": "2026-07-22T20:55:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.621855,
           38.257004
         ]
@@ -9779,6 +9819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
         "pubDate": "Thu, 09 Jul 2026 20:17:49 GMT",
         "first_seen": "2026-07-09T20:53:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.672264,
+          38.111231
+        ]
+      },
+      "properties": {
+        "incident_id": "298335",
+        "route": "I-265",
+        "mm_start": 11.9,
+        "mm_end": 11.9,
+        "title": "I-265 East at MM 11.9 Just Past Preston Hwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Wed, 22 Jul 2026 20:43:17 GMT",
+        "first_seen": "2026-07-22T20:55:51Z"
       }
     },
     {
@@ -12419,6 +12479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Wed, 15 Jul 2026 21:47:48 GMT",
         "first_seen": "2026-07-15T22:09:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.502976,
+          38.249036
+        ]
+      },
+      "properties": {
+        "incident_id": "298334",
+        "route": "I-265",
+        "mm_start": 27.3,
+        "mm_end": 27.3,
+        "title": "I-265 North at MM 27.3 Just Past Shelbyville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Wed, 22 Jul 2026 20:40:09 GMT",
+        "first_seen": "2026-07-22T20:55:51Z"
       }
     },
     {
