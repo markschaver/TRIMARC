@@ -11846,6 +11846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.504787,
+          38.230262
+        ]
+      },
+      "properties": {
+        "incident_id": "298254",
+        "route": "I-265",
+        "mm_start": 26.0,
+        "mm_end": 26.0,
+        "title": "I-265 South at MM 26.0 Approaching I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268.",
+        "pubDate": "Wed, 22 Jul 2026 12:11:24 GMT",
+        "first_seen": "2026-07-22T12:15:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.504649,
           38.231703
         ]
@@ -17279,6 +17299,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0150",
         "pubDate": "Thu, 16 Jul 2026 16:45:50 GMT",
         "first_seen": "2026-07-16T17:11:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.591998,
+          38.227502
+        ]
+      },
+      "properties": {
+        "incident_id": "298253",
+        "route": "I-64",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-64 East at MM 14.1 Approaching Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Wed, 22 Jul 2026 12:03:46 GMT",
+        "first_seen": "2026-07-22T12:15:56Z"
       }
     },
     {
