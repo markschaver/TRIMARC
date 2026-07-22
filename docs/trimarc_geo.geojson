@@ -4746,6 +4746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708608,
+          38.194818
+        ]
+      },
+      "properties": {
+        "incident_id": "298326",
+        "route": "I-264",
+        "mm_start": 13.3,
+        "mm_end": 13.3,
+        "title": "I-264 West at MM 13.3 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 22 Jul 2026 20:19:29 GMT",
+        "first_seen": "2026-07-22T20:28:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.707146,
           38.19569
         ]
@@ -24779,6 +24799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Wed, 01 Jul 2026 23:04:17 GMT",
         "first_seen": "2026-07-01T23:16:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720478,
+          38.170527
+        ]
+      },
+      "properties": {
+        "incident_id": "298328",
+        "route": "I-65",
+        "mm_start": 129.2,
+        "mm_end": 129.2,
+        "title": "I-65 South at MM 129.2 Just Past Grade Lane in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash on the right shoulder",
+        "pubDate": "Wed, 22 Jul 2026 20:22:28 GMT",
+        "first_seen": "2026-07-22T20:28:54Z"
       }
     },
     {
