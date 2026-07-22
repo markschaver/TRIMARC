@@ -25466,6 +25466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670923,
+          38.291231
+        ]
+      },
+      "properties": {
+        "incident_id": "298248",
+        "route": "I-71",
+        "mm_start": 3.6,
+        "mm_end": 3.6,
+        "title": "I-71 South at MM 3.6 Area of Blakenbaker Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Wed, 22 Jul 2026 11:07:17 GMT",
+        "first_seen": "2026-07-22T11:39:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.669348,
           38.291982
         ]
