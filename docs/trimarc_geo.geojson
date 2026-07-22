@@ -11966,6 +11966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.504098,
+          38.237469
+        ]
+      },
+      "properties": {
+        "incident_id": "298233",
+        "route": "I-265",
+        "mm_start": 26.5,
+        "mm_end": 26.5,
+        "title": "I-265 South at MM 26.5 Approaching I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Wed, 22 Jul 2026 09:02:06 GMT",
+        "first_seen": "2026-07-22T09:10:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503958,
           38.238915
         ]
@@ -12739,6 +12759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325.",
         "pubDate": "Sun, 28 Jun 2026 17:01:00 GMT",
         "first_seen": "2026-06-28T17:30:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547905,
+          38.297334
+        ]
+      },
+      "properties": {
+        "incident_id": "298234",
+        "route": "I-265",
+        "mm_start": 32.5,
+        "mm_end": 32.5,
+        "title": "I-265 North at MM 32.5 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Wed, 22 Jul 2026 09:04:09 GMT",
+        "first_seen": "2026-07-22T09:10:07Z"
       }
     },
     {
@@ -22179,6 +22219,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1252",
         "pubDate": "Tue, 21 Jul 2026 21:58:53 GMT",
         "first_seen": "2026-07-21T22:21:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701768,
+          38.122839
+        ]
+      },
+      "properties": {
+        "incident_id": "298230",
+        "route": "I-65",
+        "mm_start": 125.7,
+        "mm_end": 125.7,
+        "title": "I-65 South at MM 125.7 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 22 Jul 2026 08:13:11 GMT",
+        "first_seen": "2026-07-22T09:10:07Z"
       }
     },
     {
