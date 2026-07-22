@@ -2446,6 +2446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.780469,
+          38.189531
+        ]
+      },
+      "properties": {
+        "incident_id": "298298",
+        "route": "I-264",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-264 West at MM 9.3 Area of Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Wed, 22 Jul 2026 18:45:26 GMT",
+        "first_seen": "2026-07-22T19:12:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.778637,
           38.189466
         ]
@@ -4779,6 +4799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
         "pubDate": "Tue, 21 Jul 2026 01:14:10 GMT",
         "first_seen": "2026-07-21T01:19:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.705744,
+          38.196614
+        ]
+      },
+      "properties": {
+        "incident_id": "298301",
+        "route": "I-264",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-264 West at MM 13.5 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 22 Jul 2026 18:50:42 GMT",
+        "first_seen": "2026-07-22T19:12:43Z"
       }
     },
     {
@@ -20846,6 +20886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.441132,
+          38.219715
+        ]
+      },
+      "properties": {
+        "incident_id": "298291",
+        "route": "I-64",
+        "mm_start": 22.4,
+        "mm_end": 22.4,
+        "title": "I-64 East at MM 22.4 Approaching Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 22 Jul 2026 18:08:44 GMT",
+        "first_seen": "2026-07-22T19:12:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.439311,
           38.219574
         ]
@@ -20999,26 +21059,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Tue, 21 Jul 2026 20:27:49 GMT",
         "first_seen": "2026-07-21T20:45:41Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.428386,
-          38.218727
-        ]
-      },
-      "properties": {
-        "incident_id": "298291",
-        "route": "I-64",
-        "mm_start": 23.1,
-        "mm_end": 23.1,
-        "title": "I-64 East at MM 23.1 Approaching Clark Station Rd in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
-        "pubDate": "Wed, 22 Jul 2026 18:08:44 GMT",
-        "first_seen": "2026-07-22T18:40:57Z"
       }
     },
     {
