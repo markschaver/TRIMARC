@@ -306,6 +306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.80662,
+          38.265716
+        ]
+      },
+      "properties": {
+        "incident_id": "298534",
+        "route": "I-264",
+        "mm_start": 0.8,
+        "mm_end": 0.8,
+        "title": "I-264 West at MM 0.8 Approaching I-64 (west end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Thu, 23 Jul 2026 22:21:44 GMT",
+        "first_seen": "2026-07-23T22:49:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.805765,
           38.264434
         ]
@@ -1419,6 +1439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0007.",
         "pubDate": "Sun, 05 Jul 2026 01:27:02 GMT",
         "first_seen": "2026-07-05T01:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.822597,
+          38.217249
+        ]
+      },
+      "properties": {
+        "incident_id": "298537",
+        "route": "I-264",
+        "mm_start": 4.4,
+        "mm_end": 4.4,
+        "title": "I-264 East at MM 4.4 Area of Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Thu, 23 Jul 2026 22:33:03 GMT",
+        "first_seen": "2026-07-23T22:49:50Z"
       }
     },
     {
