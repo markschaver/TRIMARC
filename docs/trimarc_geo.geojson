@@ -12866,6 +12866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.500965,
+          38.269249
+        ]
+      },
+      "properties": {
+        "incident_id": "298376",
+        "route": "I-265",
+        "mm_start": 28.7,
+        "mm_end": 28.7,
+        "title": "I-265 North at MM 28.7 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
+        "pubDate": "Thu, 23 Jul 2026 00:29:53 GMT",
+        "first_seen": "2026-07-23T00:45:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.500685,
           38.272138
         ]
@@ -25339,6 +25359,26 @@
         "description": "Vehicle Fire : May be viewed on CCTV_05_65_1297",
         "pubDate": "Sat, 11 Jul 2026 02:07:00 GMT",
         "first_seen": "2026-07-11T02:19:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.721533,
+          38.181625
+        ]
+      },
+      "properties": {
+        "incident_id": "298377",
+        "route": "I-65",
+        "mm_start": 130.0,
+        "mm_end": 130.0,
+        "title": "I-65 South at MM 130.0 At Grade Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Thu, 23 Jul 2026 00:40:50 GMT",
+        "first_seen": "2026-07-23T00:45:27Z"
       }
     },
     {
