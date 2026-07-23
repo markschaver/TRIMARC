@@ -4626,6 +4626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "298483",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 West at MM 13.1 Just Past Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Thu, 23 Jul 2026 18:56:34 GMT",
+        "first_seen": "2026-07-23T19:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710076,
           38.19394
         ]
@@ -7746,6 +7766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.645885,
+          38.223663
+        ]
+      },
+      "properties": {
+        "incident_id": "298487",
+        "route": "I-264",
+        "mm_start": 17.3,
+        "mm_end": 17.3,
+        "title": "I-264 West at MM 17.3 Before Taylorsville Road in Jefferson County",
+        "description": "Medical Emergency : May be viewed on CCTV_05_264_0710",
+        "pubDate": "Thu, 23 Jul 2026 19:03:41 GMT",
+        "first_seen": "2026-07-23T19:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.644304,
           38.224387
         ]
@@ -10766,6 +10806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.638934,
+          38.118752
+        ]
+      },
+      "properties": {
+        "incident_id": "298485",
+        "route": "I-265",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-265 East at MM 13.8 Just Past Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 23 Jul 2026 18:58:38 GMT",
+        "first_seen": "2026-07-23T19:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637132,
           38.119027
         ]
@@ -11339,6 +11399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
         "pubDate": "Thu, 16 Jul 2026 23:37:32 GMT",
         "first_seen": "2026-07-16T23:50:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.57968,
+          38.141974
+        ]
+      },
+      "properties": {
+        "incident_id": "298486",
+        "route": "I-265",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-265 West at MM 17.5 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Thu, 23 Jul 2026 19:00:54 GMT",
+        "first_seen": "2026-07-23T19:11:31Z"
       }
     },
     {
@@ -16379,6 +16459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079.",
         "pubDate": "Sun, 12 Jul 2026 18:57:23 GMT",
         "first_seen": "2026-07-12T20:08:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.698338,
+          38.245554
+        ]
+      },
+      "properties": {
+        "incident_id": "298482",
+        "route": "I-64",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-64 West at MM 8.0 Area of Grinstead Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Thu, 23 Jul 2026 18:53:42 GMT",
+        "first_seen": "2026-07-23T19:11:31Z"
       }
     },
     {
