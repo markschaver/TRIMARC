@@ -2986,6 +2986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.76033,
+          38.190015
+        ]
+      },
+      "properties": {
+        "incident_id": "298412",
+        "route": "I-264",
+        "mm_start": 10.4,
+        "mm_end": 10.4,
+        "title": "I-264 West at MM 10.4 Area of Southern Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway Service Patrol reports a disabled vehicle in the area",
+        "pubDate": "Thu, 23 Jul 2026 11:07:49 GMT",
+        "first_seen": "2026-07-23T11:42:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.758488,
           38.190068
         ]
@@ -14666,6 +14686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.761214,
+          38.258653
+        ]
+      },
+      "properties": {
+        "incident_id": "298414",
+        "route": "I-64",
+        "mm_start": 4.1,
+        "mm_end": 4.1,
+        "title": "I-64 East at MM 4.1 Area of 9th Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0040",
+        "pubDate": "Thu, 23 Jul 2026 11:19:20 GMT",
+        "first_seen": "2026-07-23T11:42:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.757583,
           38.2588
         ]
@@ -17839,6 +17879,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0150",
         "pubDate": "Thu, 16 Jul 2026 16:45:50 GMT",
         "first_seen": "2026-07-16T17:11:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.593736,
+          38.228041
+        ]
+      },
+      "properties": {
+        "incident_id": "298415",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-64 West at MM 14.0 Approaching Oxmoor Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Thu, 23 Jul 2026 11:27:30 GMT",
+        "first_seen": "2026-07-23T11:42:11Z"
       }
     },
     {
