@@ -10306,6 +10306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.673994,
+          38.110746
+        ]
+      },
+      "properties": {
+        "incident_id": "298520",
+        "route": "I-265",
+        "mm_start": 11.8,
+        "mm_end": 11.8,
+        "title": "I-265 West at MM 11.8 Approaching I-65 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Thu, 23 Jul 2026 21:15:54 GMT",
+        "first_seen": "2026-07-23T21:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.672264,
           38.111231
         ]
@@ -10379,26 +10399,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Sun, 12 Jul 2026 15:50:55 GMT",
         "first_seen": "2026-07-12T16:07:19Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.668893,
-          38.112367
-        ]
-      },
-      "properties": {
-        "incident_id": "298520",
-        "route": "I-265",
-        "mm_start": 12.1,
-        "mm_end": 12.1,
-        "title": "I-265 West at MM 12.1 Approaching I-65 in Jefferson County",
-        "description": "Crash : Metrosafe reports of a crash in the area",
-        "pubDate": "Thu, 23 Jul 2026 21:15:54 GMT",
-        "first_seen": "2026-07-23T21:27:13Z"
       }
     },
     {
@@ -28119,6 +28119,26 @@
         "description": "Crash : MetroSafe advise of crash in area",
         "pubDate": "Sat, 18 Jul 2026 07:35:45 GMT",
         "first_seen": "2026-07-18T08:23:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.622009,
+          38.298473
+        ]
+      },
+      "properties": {
+        "incident_id": "298526",
+        "route": "I-71",
+        "mm_start": 6.6,
+        "mm_end": 6.6,
+        "title": "I-71 North at MM 6.6 Area of US-42 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Thu, 23 Jul 2026 21:41:01 GMT",
+        "first_seen": "2026-07-23T21:53:51Z"
       }
     },
     {
