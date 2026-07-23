@@ -25306,6 +25306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "298421",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 South at MM 129.3 Just Past Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Thu, 23 Jul 2026 12:12:00 GMT",
+        "first_seen": "2026-07-23T12:16:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720048,
           38.173401
         ]
@@ -28199,6 +28219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
         "pubDate": "Fri, 10 Jul 2026 01:29:33 GMT",
         "first_seen": "2026-07-10T01:43:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.589418,
+          38.310955
+        ]
+      },
+      "properties": {
+        "incident_id": "298419",
+        "route": "I-71",
+        "mm_start": 8.6,
+        "mm_end": 8.6,
+        "title": "I-71 North at MM 8.6 Area of I-265 in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Thu, 23 Jul 2026 12:06:38 GMT",
+        "first_seen": "2026-07-23T12:16:26Z"
       }
     },
     {
