@@ -29346,6 +29346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.580154,
+          38.315583
+        ]
+      },
+      "properties": {
+        "incident_id": "298539",
+        "route": "I-71",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-71 South at MM 9.2 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Thu, 23 Jul 2026 23:25:23 GMT",
+        "first_seen": "2026-07-23T23:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.578541,
           38.316268
         ]
