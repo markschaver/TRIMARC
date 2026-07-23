@@ -28166,6 +28166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.587876,
+          38.311732
+        ]
+      },
+      "properties": {
+        "incident_id": "298397",
+        "route": "I-71",
+        "mm_start": 8.7,
+        "mm_end": 8.7,
+        "title": "I-71 South at MM 8.7 Area of I-265 in Jefferson County",
+        "description": "Police Activity : May be viewed on camera CCTV_05_71_0089.",
+        "pubDate": "Thu, 23 Jul 2026 07:50:03 GMT",
+        "first_seen": "2026-07-23T08:03:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.586334,
           38.312508
         ]
