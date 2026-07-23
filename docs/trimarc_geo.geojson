@@ -10146,6 +10146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.68309,
+          38.110268
+        ]
+      },
+      "properties": {
+        "incident_id": "298529",
+        "route": "I-265",
+        "mm_start": 11.3,
+        "mm_end": 11.3,
+        "title": "I-265 East at MM 11.3 At Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Thu, 23 Jul 2026 22:01:18 GMT",
+        "first_seen": "2026-07-23T22:25:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.681269,
           38.110106
         ]
@@ -10999,6 +11019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Thu, 23 Jul 2026 18:58:38 GMT",
         "first_seen": "2026-07-23T19:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.638934,
+          38.118752
+        ]
+      },
+      "properties": {
+        "incident_id": "298531",
+        "route": "I-265",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-265 East at MM 13.8 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 23 Jul 2026 22:10:26 GMT",
+        "first_seen": "2026-07-23T22:25:10Z"
       }
     },
     {
@@ -23919,6 +23959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Fri, 17 Jul 2026 19:43:17 GMT",
         "first_seen": "2026-07-17T20:10:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.702742,
+          38.130015
+        ]
+      },
+      "properties": {
+        "incident_id": "298530",
+        "route": "I-65",
+        "mm_start": 126.2,
+        "mm_end": 126.2,
+        "title": "I-65 North at MM 126.2 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 23 Jul 2026 22:06:40 GMT",
+        "first_seen": "2026-07-23T22:25:10Z"
       }
     },
     {
