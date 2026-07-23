@@ -6486,6 +6486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.680841,
+          38.205079
+        ]
+      },
+      "properties": {
+        "incident_id": "298515",
+        "route": "I-264",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-264 East at MM 15.0 Area of Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 23 Jul 2026 20:53:58 GMT",
+        "first_seen": "2026-07-23T21:27:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.67933,
           38.20589
         ]
@@ -10359,6 +10379,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Sun, 12 Jul 2026 15:50:55 GMT",
         "first_seen": "2026-07-12T16:07:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.668893,
+          38.112367
+        ]
+      },
+      "properties": {
+        "incident_id": "298520",
+        "route": "I-265",
+        "mm_start": 12.1,
+        "mm_end": 12.1,
+        "title": "I-265 West at MM 12.1 Approaching I-65 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Thu, 23 Jul 2026 21:15:54 GMT",
+        "first_seen": "2026-07-23T21:27:13Z"
       }
     },
     {
@@ -28499,6 +28539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082.",
         "pubDate": "Sun, 19 Jul 2026 20:44:35 GMT",
         "first_seen": "2026-07-19T21:04:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.598684,
+          38.30629
+        ]
+      },
+      "properties": {
+        "incident_id": "298518",
+        "route": "I-71",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-71 South at MM 8.0 Area of Barbour Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle on the right shoulder",
+        "pubDate": "Thu, 23 Jul 2026 21:05:45 GMT",
+        "first_seen": "2026-07-23T21:27:13Z"
       }
     },
     {
