@@ -14336,9 +14336,9 @@
         "mm_start": 3.0,
         "mm_end": 4.0,
         "title": "I-64 West between MM 4.0 and 3.0 Area of 9th Street and 22nd Street in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0041.",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
         "pubDate": "Thu, 23 Jul 2026 05:46:45 GMT",
-        "first_seen": "2026-07-23T06:13:48Z"
+        "first_seen": "2026-07-23T07:12:46Z"
       }
     },
     {
@@ -28339,6 +28339,26 @@
         "description": "Construction / Road Work : LOUISVILLE, Ky. (July 10, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of a ramp closure on Interstate 265 North (Gene Snyder Freeway) on Saturday, July 18, in Louisville. The I-265 North ramp to I-71 North will be closed from 8 a.m. to 10 a.m. on Saturday, July 18. Additionally, alternating lane closures on I-71 North under the I-265 North bridge near mile point 9.2 may occur during this timeframe. The ramp and lane closures are necessary for contract crews to perform asphalt work. Drivers should heed signage, use caution when traveling through the work zones, and plan for increased travel times.",
         "pubDate": "Sat, 18 Jul 2026 11:00:00 GMT",
         "first_seen": "2026-07-18T13:11:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583249,
+          38.31406
+        ]
+      },
+      "properties": {
+        "incident_id": "298396",
+        "route": "I-71",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-71 South at MM 9.0 Area of I-265 in Jefferson County",
+        "description": "Police Activity : METROSAFE REPORTS.",
+        "pubDate": "Thu, 23 Jul 2026 07:05:52 GMT",
+        "first_seen": "2026-07-23T07:12:46Z"
       }
     },
     {
