@@ -3086,6 +3086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.756653,
+          38.190123
+        ]
+      },
+      "properties": {
+        "incident_id": "298444",
+        "route": "I-264",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-264 West at MM 10.6 Area of Crittenden Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 23 Jul 2026 14:03:45 GMT",
+        "first_seen": "2026-07-23T14:50:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.754815,
           38.190138
         ]
