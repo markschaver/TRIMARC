@@ -2706,6 +2706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.774983,
+          38.189237
+        ]
+      },
+      "properties": {
+        "incident_id": "298495",
+        "route": "I-264",
+        "mm_start": 9.6,
+        "mm_end": 9.6,
+        "title": "I-264 West at MM 9.6 Before Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Thu, 23 Jul 2026 19:25:18 GMT",
+        "first_seen": "2026-07-23T19:48:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.773156,
           38.189418
         ]
@@ -4636,9 +4656,9 @@
         "mm_start": 13.1,
         "mm_end": 13.1,
         "title": "I-264 West at MM 13.1 Just Past Poplar Level Rd. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
         "pubDate": "Thu, 23 Jul 2026 18:56:34 GMT",
-        "first_seen": "2026-07-23T19:11:31Z"
+        "first_seen": "2026-07-23T19:48:25Z"
       }
     },
     {
@@ -8806,6 +8826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621436,
+          38.243335
+        ]
+      },
+      "properties": {
+        "incident_id": "298499",
+        "route": "I-264",
+        "mm_start": 19.3,
+        "mm_end": 19.3,
+        "title": "I-264 West at MM 19.3 Approaching I-64 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Thu, 23 Jul 2026 19:43:54 GMT",
+        "first_seen": "2026-07-23T19:48:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.620996,
           38.244743
         ]
@@ -10479,6 +10519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Mon, 20 Jul 2026 11:54:19 GMT",
         "first_seen": "2026-07-20T12:32:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.651533,
+          38.116793
+        ]
+      },
+      "properties": {
+        "incident_id": "298494",
+        "route": "I-265",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-265 West at MM 13.1 Just Past Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 23 Jul 2026 19:21:31 GMT",
+        "first_seen": "2026-07-23T19:48:25Z"
       }
     },
     {
@@ -20379,6 +20439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195.",
         "pubDate": "Sat, 11 Jul 2026 12:42:02 GMT",
         "first_seen": "2026-07-11T12:50:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.494095,
+          38.222274
+        ]
+      },
+      "properties": {
+        "incident_id": "298491",
+        "route": "I-64",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-64 West at MM 19.5 Area of English Station Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Thu, 23 Jul 2026 19:14:48 GMT",
+        "first_seen": "2026-07-23T19:48:25Z"
       }
     },
     {
