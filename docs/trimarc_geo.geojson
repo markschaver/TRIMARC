@@ -5206,6 +5206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "298470",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 West at MM 13.6 Area of Poplar Level Rd in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Thu, 23 Jul 2026 17:43:16 GMT",
+        "first_seen": "2026-07-23T18:32:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702939,
           38.198495
         ]
@@ -27379,6 +27399,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0055",
         "pubDate": "Sat, 18 Jul 2026 09:43:01 GMT",
         "first_seen": "2026-07-18T10:32:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63848,
+          38.292478
+        ]
+      },
+      "properties": {
+        "incident_id": "298475",
+        "route": "I-71",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-71 North at MM 5.6 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Thu, 23 Jul 2026 18:14:49 GMT",
+        "first_seen": "2026-07-23T18:32:43Z"
       }
     },
     {
