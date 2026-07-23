@@ -2266,6 +2266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.796264,
+          38.186527
+        ]
+      },
+      "properties": {
+        "incident_id": "298501",
+        "route": "I-264",
+        "mm_start": 8.4,
+        "mm_end": 8.4,
+        "title": "I-264 West at MM 8.4 Area of Manslick Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway Service Patrol stopped on a vehicle",
+        "pubDate": "Thu, 23 Jul 2026 19:46:38 GMT",
+        "first_seen": "2026-07-23T20:28:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.792594,
           38.186708
         ]
@@ -4299,6 +4319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0133.",
         "pubDate": "Sun, 05 Jul 2026 06:09:28 GMT",
         "first_seen": "2026-07-05T06:21:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.718217,
+          38.190878
+        ]
+      },
+      "properties": {
+        "incident_id": "298506",
+        "route": "I-264",
+        "mm_start": 12.7,
+        "mm_end": 12.7,
+        "title": "I-264 West at MM 12.7 Approaching I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Thu, 23 Jul 2026 20:11:54 GMT",
+        "first_seen": "2026-07-23T20:28:07Z"
       }
     },
     {
@@ -6399,6 +6439,26 @@
         "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of overnight alternating lane closures on Interstate 264 East and West (Watterson Expressway) beginning Tuesday, July 7, in Jefferson County. Overnight alternating lane closures will occur on I-264 East and West (Watterson Expressway) between mile markers 15 and 21 (between KY 1703/Newburg Road and KY 1447/Westport Road) nightly from 9 p.m. to 5 a.m. beginning Tuesday, July 7, through Tuesday, July 21. Additionally, the right lane of the off-ramp from I-264 West to northbound U.S. 31E (Bardstown Road) at Exit 16, will be closed on Monday, July 13, from 9 p.m. to 5 a.m. on Tuesday, July 14. The overnight alternating lane closures are necessary for contract crews to replace overhead signage. Motorists are advised to follow all lane closure restrictions, use caution when traveling through the work zone, and plan for additional travel time.",
         "pubDate": "Wed, 08 Jul 2026 01:00:19 GMT",
         "first_seen": "2026-07-08T01:39:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.680841,
+          38.205079
+        ]
+      },
+      "properties": {
+        "incident_id": "298503",
+        "route": "I-264",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-264 West at MM 15.0 Before Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 23 Jul 2026 19:55:35 GMT",
+        "first_seen": "2026-07-23T20:28:07Z"
       }
     },
     {
@@ -19346,6 +19406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.536271,
+          38.223634
+        ]
+      },
+      "properties": {
+        "incident_id": "298507",
+        "route": "I-64",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-64 East at MM 17.2 Just Past Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 23 Jul 2026 20:11:57 GMT",
+        "first_seen": "2026-07-23T20:28:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.534402,
           38.223571
         ]
@@ -21919,6 +21999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Tue, 21 Jul 2026 20:04:06 GMT",
         "first_seen": "2026-07-21T20:12:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.426565,
+          38.218586
+        ]
+      },
+      "properties": {
+        "incident_id": "298505",
+        "route": "I-64",
+        "mm_start": 23.2,
+        "mm_end": 23.2,
+        "title": "I-64 East at MM 23.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Thu, 23 Jul 2026 20:07:56 GMT",
+        "first_seen": "2026-07-23T20:28:07Z"
       }
     },
     {
