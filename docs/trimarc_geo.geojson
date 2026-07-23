@@ -3366,6 +3366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.747523,
+          38.189534
+        ]
+      },
+      "properties": {
+        "incident_id": "298463",
+        "route": "I-264",
+        "mm_start": 11.1,
+        "mm_end": 11.1,
+        "title": "I-264 East at MM 11.1 Area of Crittenden Dr in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 23 Jul 2026 16:53:07 GMT",
+        "first_seen": "2026-07-23T17:01:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.745703,
           38.189358
         ]
