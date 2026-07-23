@@ -14406,6 +14406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.776605,
+          38.265129
+        ]
+      },
+      "properties": {
+        "incident_id": "298432",
+        "route": "I-64",
+        "mm_start": 3.1,
+        "mm_end": 3.1,
+        "title": "I-64 East at MM 3.1 Area of 22nd St in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Thu, 23 Jul 2026 12:50:09 GMT",
+        "first_seen": "2026-07-23T13:02:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.774928,
           38.264562
         ]
@@ -22126,6 +22146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701114,
+          38.106896
+        ]
+      },
+      "properties": {
+        "incident_id": "298424",
+        "route": "I-65",
+        "mm_start": 124.6,
+        "mm_end": 124.6,
+        "title": "I-65 South at MM 124.6 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Thu, 23 Jul 2026 12:17:25 GMT",
+        "first_seen": "2026-07-23T13:02:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701178,
           38.108344
         ]
@@ -26459,6 +26499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
         "pubDate": "Fri, 03 Jul 2026 20:56:57 GMT",
         "first_seen": "2026-07-03T21:10:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.675258,
+          38.288571
+        ]
+      },
+      "properties": {
+        "incident_id": "298430",
+        "route": "I-71",
+        "mm_start": 3.3,
+        "mm_end": 3.3,
+        "title": "I-71 North at MM 3.3 Area of Blankenbaker Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Thu, 23 Jul 2026 12:40:39 GMT",
+        "first_seen": "2026-07-23T13:02:48Z"
       }
     },
     {
