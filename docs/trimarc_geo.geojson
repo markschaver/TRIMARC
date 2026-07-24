@@ -366,6 +366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805217,
+          38.263058
+        ]
+      },
+      "properties": {
+        "incident_id": "298643",
+        "route": "I-264",
+        "mm_start": 1.0,
+        "mm_end": 1.0,
+        "title": "I-264 West at MM 1.0 Area of 32nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Fri, 24 Jul 2026 21:21:27 GMT",
+        "first_seen": "2026-07-24T21:39:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.805005,
           38.261611
         ]
@@ -8019,6 +8039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Tue, 14 Jul 2026 22:28:27 GMT",
         "first_seen": "2026-07-14T22:35:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.649028,
+          38.222229
+        ]
+      },
+      "properties": {
+        "incident_id": "298640",
+        "route": "I-264",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-264 East at MM 17.1 Just Past Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 24 Jul 2026 21:10:02 GMT",
+        "first_seen": "2026-07-24T21:39:36Z"
       }
     },
     {
