@@ -16186,6 +16186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.717697,
+          38.252104
+        ]
+      },
+      "properties": {
+        "incident_id": "298601",
+        "route": "I-64",
+        "mm_start": 6.2,
+        "mm_end": 7.5,
+        "title": "I-64 East between MM 6.2 and 7.5 Between Story Avenue and Grinstead Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0061_EB",
+        "pubDate": "Fri, 24 Jul 2026 18:00:21 GMT",
+        "first_seen": "2026-07-24T18:36:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.723562,
           38.258735
         ]
@@ -18959,6 +18979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
         "pubDate": "Wed, 15 Jul 2026 22:18:57 GMT",
         "first_seen": "2026-07-15T22:36:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.576607,
+          38.222954
+        ]
+      },
+      "properties": {
+        "incident_id": "298604",
+        "route": "I-64",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-64 East at MM 15.0 Area of Hurstbourne Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Fri, 24 Jul 2026 18:21:17 GMT",
+        "first_seen": "2026-07-24T18:36:03Z"
       }
     },
     {
