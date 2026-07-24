@@ -14466,6 +14466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.81895,
+          38.275826
+        ]
+      },
+      "properties": {
+        "incident_id": "298648",
+        "route": "I-64",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-64 West at MM 0.4 Approaching Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports of a vehicle blocking the right lane",
+        "pubDate": "Fri, 24 Jul 2026 21:40:19 GMT",
+        "first_seen": "2026-07-24T22:09:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813742,
           38.275015
         ]
@@ -22339,6 +22359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Wed, 22 Jul 2026 18:08:44 GMT",
         "first_seen": "2026-07-22T19:12:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.441132,
+          38.219715
+        ]
+      },
+      "properties": {
+        "incident_id": "298652",
+        "route": "I-64",
+        "mm_start": 22.4,
+        "mm_end": 22.4,
+        "title": "I-64 East at MM 22.4 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 24 Jul 2026 22:05:50 GMT",
+        "first_seen": "2026-07-24T22:09:49Z"
       }
     },
     {
