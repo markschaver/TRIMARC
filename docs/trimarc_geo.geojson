@@ -11286,6 +11286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.624862,
+          38.121967
+        ]
+      },
+      "properties": {
+        "incident_id": "298553",
+        "route": "I-265",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-265 East at MM 14.6 Approaching Beulah Church Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 24 Jul 2026 01:03:17 GMT",
+        "first_seen": "2026-07-24T01:17:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.621377,
           38.122869
         ]
