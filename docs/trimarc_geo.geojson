@@ -6046,6 +6046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.690764,
+          38.201531
+        ]
+      },
+      "properties": {
+        "incident_id": "298628",
+        "route": "I-264",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-264 West at MM 14.4 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 24 Jul 2026 20:03:29 GMT",
+        "first_seen": "2026-07-24T20:34:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.68897,
           38.201842
         ]
@@ -26819,6 +26839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317.",
         "pubDate": "Sun, 19 Jul 2026 16:51:17 GMT",
         "first_seen": "2026-07-19T17:08:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "298631",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 South at MM 132.0 Area of Fairgrounds in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Fri, 24 Jul 2026 20:09:37 GMT",
+        "first_seen": "2026-07-24T20:34:02Z"
       }
     },
     {
