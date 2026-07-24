@@ -25326,6 +25326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716722,
+          38.155224
+        ]
+      },
+      "properties": {
+        "incident_id": "298592",
+        "route": "I-65",
+        "mm_start": 128.1,
+        "mm_end": 128.1,
+        "title": "I-65 South at MM 128.1 Just Past Fern Valley Rd in Jefferson County",
+        "description": "Crash : ay be viewed on CCTV_05_ 65 1267",
+        "pubDate": "Fri, 24 Jul 2026 15:54:53 GMT",
+        "first_seen": "2026-07-24T16:36:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.717533,
           38.156534
         ]
