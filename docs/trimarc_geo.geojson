@@ -16186,6 +16186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.723562,
+          38.258735
+        ]
+      },
+      "properties": {
+        "incident_id": "298600",
+        "route": "I-64",
+        "mm_start": 6.3,
+        "mm_end": 6.3,
+        "title": "I-64 East at MM 6.3 Approaching Story Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05-65_0061",
+        "pubDate": "Fri, 24 Jul 2026 17:43:39 GMT",
+        "first_seen": "2026-07-24T17:53:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.72251,
           38.257513
         ]
