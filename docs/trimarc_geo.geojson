@@ -86,6 +86,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808637,
+          38.271204
+        ]
+      },
+      "properties": {
+        "incident_id": "298665",
+        "route": "I-264",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-264 West at MM 0.4 Approaching I-64 (west end) in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Fri, 24 Jul 2026 22:50:30 GMT",
+        "first_seen": "2026-07-24T23:09:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808411,
           38.269773
         ]
@@ -8066,6 +8086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.649028,
+          38.222229
+        ]
+      },
+      "properties": {
+        "incident_id": "298664",
+        "route": "I-264",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-264 West at MM 17.1 At Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 24 Jul 2026 22:44:53 GMT",
+        "first_seen": "2026-07-24T23:09:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.647456,
           38.222946
         ]
@@ -10446,6 +10486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.68309,
+          38.110268
+        ]
+      },
+      "properties": {
+        "incident_id": "298662",
+        "route": "I-265",
+        "mm_start": 11.3,
+        "mm_end": 11.3,
+        "title": "I-265 East at MM 11.3 Approaching Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Fri, 24 Jul 2026 22:43:01 GMT",
+        "first_seen": "2026-07-24T23:09:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.681269,
           38.110106
         ]
@@ -11459,6 +11519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Sat, 18 Jul 2026 01:13:52 GMT",
         "first_seen": "2026-07-18T01:38:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628346,
+          38.121065
+        ]
+      },
+      "properties": {
+        "incident_id": "298661",
+        "route": "I-265",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-265 West at MM 14.4 Just Past Beulah Church Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 24 Jul 2026 22:40:09 GMT",
+        "first_seen": "2026-07-24T23:09:22Z"
       }
     },
     {
