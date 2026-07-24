@@ -23926,6 +23926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701831,
+          38.124288
+        ]
+      },
+      "properties": {
+        "incident_id": "298566",
+        "route": "I-65",
+        "mm_start": 125.8,
+        "mm_end": 125.8,
+        "title": "I-65 South at MM 125.8 Area of Outer Loop Road in Jefferson County",
+        "description": "HAZMAT Spill : May be viewed on camera CCTV_05_65_1267.",
+        "pubDate": "Fri, 24 Jul 2026 08:29:05 GMT",
+        "first_seen": "2026-07-24T09:00:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701895,
           38.125737
         ]
@@ -24079,6 +24099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Tue, 14 Jul 2026 19:48:42 GMT",
         "first_seen": "2026-07-14T20:11:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701973,
+          38.127185
+        ]
+      },
+      "properties": {
+        "incident_id": "298565",
+        "route": "I-65",
+        "mm_start": 126.0,
+        "mm_end": 126.0,
+        "title": "I-65 South at MM 126.0 Area of Outer Loop Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
+        "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
+        "first_seen": "2026-07-24T09:00:02Z"
       }
     },
     {
