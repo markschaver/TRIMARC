@@ -3206,6 +3206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.756653,
+          38.190123
+        ]
+      },
+      "properties": {
+        "incident_id": "298546",
+        "route": "I-264",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-264 East at MM 10.6 Before Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Waze Reports of a vehicle in the area",
+        "pubDate": "Fri, 24 Jul 2026 00:05:49 GMT",
+        "first_seen": "2026-07-24T00:42:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.754815,
           38.190138
         ]
@@ -6546,6 +6566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.680841,
+          38.205079
+        ]
+      },
+      "properties": {
+        "incident_id": "298544",
+        "route": "I-264",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-264 East at MM 15.0 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 23 Jul 2026 23:56:18 GMT",
+        "first_seen": "2026-07-24T00:42:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.67933,
           38.20589
         ]
@@ -9459,6 +9499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
         "pubDate": "Tue, 14 Jul 2026 20:32:57 GMT",
         "first_seen": "2026-07-14T20:40:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.632729,
+          38.27651
+        ]
+      },
+      "properties": {
+        "incident_id": "298550",
+        "route": "I-264",
+        "mm_start": 20.8,
+        "mm_end": 22.8,
+        "title": "I-264 East between MM 20.8 and 22.8 Area of Brownsboro Road in Jefferson County",
+        "description": "Construction / Road Work : LOUISVILLE, Ky. (July 23, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of an overnight lane closure on Interstate 264 East (Watterson Expressway) tonight, July 23, as part of the $130 million widening and improvement project of I-264 and U.S. 42 (Brownsboro Road) [links-1.govdelivery.com]. The left lane of I-264 East (Watterson Expressway) will be closed near mile marker 22 (from U.S. 42/Brownsboro Road to the I-264/I-71 split) from 8 p.m. tonight, July 23, through 5 a.m. Friday, July 24. The lane closure is necessary for contract crews to perform crash cushion repairs. Motorists should heed signage, use caution when traveling through the work zone, and plan ahead for travel delays.",
+        "pubDate": "Fri, 24 Jul 2026 00:00:00 GMT",
+        "first_seen": "2026-07-24T00:42:42Z"
       }
     },
     {
@@ -23019,6 +23079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 22 Jul 2026 19:44:25 GMT",
         "first_seen": "2026-07-22T19:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "298547",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 24 Jul 2026 00:10:22 GMT",
+        "first_seen": "2026-07-24T00:42:42Z"
       }
     },
     {
