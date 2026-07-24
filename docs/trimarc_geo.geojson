@@ -4346,6 +4346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720051,
+          38.190804
+        ]
+      },
+      "properties": {
+        "incident_id": "298621",
+        "route": "I-264",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-264 East at MM 12.6 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Fri, 24 Jul 2026 19:27:26 GMT",
+        "first_seen": "2026-07-24T19:49:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.718217,
           38.190878
         ]
@@ -16666,6 +16686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709964,
+          38.249732
+        ]
+      },
+      "properties": {
+        "incident_id": "298617",
+        "route": "I-64",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-64 West at MM 7.3 Just Past Grinstead Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Fri, 24 Jul 2026 19:20:13 GMT",
+        "first_seen": "2026-07-24T19:49:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.706353,
           38.248987
         ]
@@ -21619,6 +21659,46 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Thu, 16 Jul 2026 21:46:05 GMT",
         "first_seen": "2026-07-16T21:51:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "298615",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 24 Jul 2026 19:15:55 GMT",
+        "first_seen": "2026-07-24T19:49:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.464834,
+          38.221306
+        ]
+      },
+      "properties": {
+        "incident_id": "298614",
+        "route": "I-64",
+        "mm_start": 21.1,
+        "mm_end": 21.1,
+        "title": "I-64 East at MM 21.1 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 24 Jul 2026 19:14:59 GMT",
+        "first_seen": "2026-07-24T19:49:55Z"
       }
     },
     {
@@ -28719,6 +28799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Tue, 14 Jul 2026 03:11:13 GMT",
         "first_seen": "2026-07-14T03:48:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.611475,
+          38.300817
+        ]
+      },
+      "properties": {
+        "incident_id": "298613",
+        "route": "I-71",
+        "mm_start": 7.2,
+        "mm_end": 7.2,
+        "title": "I-71 South at MM 7.2 Area of Barbour Lane in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Fri, 24 Jul 2026 19:13:09 GMT",
+        "first_seen": "2026-07-24T19:49:55Z"
       }
     },
     {
