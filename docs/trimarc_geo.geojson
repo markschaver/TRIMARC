@@ -17606,6 +17606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.696131,
+          38.243281
+        ]
+      },
+      "properties": {
+        "incident_id": "298730",
+        "route": "I-64",
+        "mm_start": 8.2,
+        "mm_end": 8.2,
+        "title": "I-64 West at MM 8.2 At Cochran Hill Tunnel in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0079.",
+        "pubDate": "Sat, 25 Jul 2026 14:47:56 GMT",
+        "first_seen": "2026-07-25T15:09:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692933,
           38.241967
         ]
@@ -20659,6 +20679,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0189",
         "pubDate": "Fri, 10 Jul 2026 21:58:43 GMT",
         "first_seen": "2026-07-10T22:25:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.525281,
+          38.223276
+        ]
+      },
+      "properties": {
+        "incident_id": "298731",
+        "route": "I-64",
+        "mm_start": 17.8,
+        "mm_end": 17.8,
+        "title": "I-64 West at MM 17.8 Area of Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189.",
+        "pubDate": "Sat, 25 Jul 2026 14:43:21 GMT",
+        "first_seen": "2026-07-25T15:09:32Z"
       }
     },
     {
