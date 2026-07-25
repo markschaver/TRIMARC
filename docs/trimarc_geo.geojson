@@ -9186,6 +9186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.628896,
+          38.232231
+        ]
+      },
+      "properties": {
+        "incident_id": "298756",
+        "route": "I-264",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-264 West at MM 18.4 Approaching Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Sat, 25 Jul 2026 21:00:37 GMT",
+        "first_seen": "2026-07-25T21:06:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.627395,
           38.233073
         ]
