@@ -10606,6 +10606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.691851,
+          38.11231
+        ]
+      },
+      "properties": {
+        "incident_id": "298753",
+        "route": "I-265",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-265 East at MM 10.8 Just Past I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Sat, 25 Jul 2026 20:02:09 GMT",
+        "first_seen": "2026-07-25T20:12:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.688366,
           38.111426
         ]
