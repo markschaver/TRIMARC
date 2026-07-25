@@ -786,6 +786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807029,
+          38.250154
+        ]
+      },
+      "properties": {
+        "incident_id": "298750",
+        "route": "I-264",
+        "mm_start": 1.9,
+        "mm_end": 1.9,
+        "title": "I-264 West at MM 1.9 Area of River Park Road in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0016.",
+        "pubDate": "Sat, 25 Jul 2026 18:55:24 GMT",
+        "first_seen": "2026-07-25T19:10:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807773,
           38.24884
         ]
@@ -10319,6 +10339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221.",
         "pubDate": "Sat, 18 Jul 2026 15:07:16 GMT",
         "first_seen": "2026-07-18T15:23:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644669,
+          38.287384
+        ]
+      },
+      "properties": {
+        "incident_id": "298751",
+        "route": "I-264",
+        "mm_start": 22.8,
+        "mm_end": 22.8,
+        "title": "I-264 East at MM 22.8 At I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0221.",
+        "pubDate": "Sat, 25 Jul 2026 19:04:49 GMT",
+        "first_seen": "2026-07-25T19:10:08Z"
       }
     },
     {
