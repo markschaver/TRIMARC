@@ -13966,6 +13966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.500825,
+          38.270694
+        ]
+      },
+      "properties": {
+        "incident_id": "298708",
+        "route": "I-265",
+        "mm_start": 28.8,
+        "mm_end": 28.8,
+        "title": "I-265 North at MM 28.8 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0287.",
+        "pubDate": "Sat, 25 Jul 2026 10:08:38 GMT",
+        "first_seen": "2026-07-25T10:16:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.500685,
           38.272138
         ]
