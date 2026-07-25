@@ -5646,6 +5646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.70136,
+          38.19924
+        ]
+      },
+      "properties": {
+        "incident_id": "298757",
+        "route": "I-264",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-264 West at MM 13.8 Approaching Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 25 Jul 2026 21:07:34 GMT",
+        "first_seen": "2026-07-25T21:34:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.699695,
           38.199842
         ]
@@ -6839,6 +6859,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Thu, 23 Jul 2026 23:56:18 GMT",
         "first_seen": "2026-07-24T00:42:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.680841,
+          38.205079
+        ]
+      },
+      "properties": {
+        "incident_id": "298758",
+        "route": "I-264",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-264 West at MM 15.0 Approaching Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Sat, 25 Jul 2026 21:12:04 GMT",
+        "first_seen": "2026-07-25T21:34:35Z"
       }
     },
     {
