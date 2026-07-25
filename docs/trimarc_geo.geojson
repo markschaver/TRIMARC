@@ -29426,6 +29426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.626662,
+          38.296174
+        ]
+      },
+      "properties": {
+        "incident_id": "298735",
+        "route": "I-71",
+        "mm_start": 6.3,
+        "mm_end": 6.3,
+        "title": "I-71 South at MM 6.3 Approaching I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0074.",
+        "pubDate": "Sat, 25 Jul 2026 16:00:41 GMT",
+        "first_seen": "2026-07-25T16:09:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.625121,
           38.296951
         ]
