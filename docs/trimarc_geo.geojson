@@ -8586,6 +8586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.639559,
+          38.226566
+        ]
+      },
+      "properties": {
+        "incident_id": "298721",
+        "route": "I-264",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-264 West at MM 17.7 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Sat, 25 Jul 2026 12:18:10 GMT",
+        "first_seen": "2026-07-25T13:11:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637981,
           38.2273
         ]
@@ -27619,6 +27639,26 @@
         "description": "Construction / Road Work : I-65 North from MM 130 to MM 136 in Jefferson County is closed for repairs through July 31, 2026 I-65 South from MM 136 to MM 133 in Jefferson County is closed for repairs through July 31, 2026 I-65 South ramps from University Boulevard, Eastern Parkway and Crittenden Drive have reopened. Detour via I-264 East/West. For downtown access, take the Jefferson Street exit from I-65 South. For additional information, please visit https://i65centralcorridor.com/.",
         "pubDate": "Mon, 01 Jun 2026 04:22:02 GMT",
         "first_seen": "2026-06-29T15:28:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741095,
+          38.258042
+        ]
+      },
+      "properties": {
+        "incident_id": "298720",
+        "route": "I-65",
+        "mm_start": 136.4,
+        "mm_end": 136.4,
+        "title": "I-65 North at MM 136.4 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sat, 25 Jul 2026 12:12:37 GMT",
+        "first_seen": "2026-07-25T13:11:53Z"
       }
     },
     {
