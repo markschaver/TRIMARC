@@ -16206,6 +16206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.739687,
+          38.258437
+        ]
+      },
+      "properties": {
+        "incident_id": "298695",
+        "route": "I-64",
+        "mm_start": 5.3,
+        "mm_end": 5.3,
+        "title": "I-64 East at MM 5.3 Area of I-65 in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_64_0054-2",
+        "pubDate": "Sat, 25 Jul 2026 04:31:00 GMT",
+        "first_seen": "2026-07-25T05:07:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.738461,
           38.259469
         ]
