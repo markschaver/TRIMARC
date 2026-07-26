@@ -26,6 +26,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808852,
+          38.272647
+        ]
+      },
+      "properties": {
+        "incident_id": "298797",
+        "route": "I-264",
+        "mm_start": 0.3,
+        "mm_end": 0.3,
+        "title": "I-264 West at MM 0.3 At I-64 West End in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0007.",
+        "pubDate": "Sun, 26 Jul 2026 17:09:31 GMT",
+        "first_seen": "2026-07-26T17:38:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808637,
           38.271204
         ]
