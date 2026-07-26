@@ -23886,6 +23886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.417461,
+          38.21788
+        ]
+      },
+      "properties": {
+        "incident_id": "298822",
+        "route": "I-64",
+        "mm_start": 23.7,
+        "mm_end": 23.7,
+        "title": "I-64 East at MM 23.7 Area of Clark Station Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0238.",
+        "pubDate": "Sun, 26 Jul 2026 23:22:43 GMT",
+        "first_seen": "2026-07-26T23:36:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.41564,
           38.217739
         ]
