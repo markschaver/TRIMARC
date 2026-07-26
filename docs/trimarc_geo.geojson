@@ -26366,6 +26366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709409,
+          38.141946
+        ]
+      },
+      "properties": {
+        "incident_id": "298811",
+        "route": "I-65",
+        "mm_start": 127.1,
+        "mm_end": 127.1,
+        "title": "I-65 North at MM 127.1 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sun, 26 Jul 2026 20:19:44 GMT",
+        "first_seen": "2026-07-26T20:37:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.7101,
           38.143288
         ]
