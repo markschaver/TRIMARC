@@ -2566,6 +2566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.783885,
+          38.188557
+        ]
+      },
+      "properties": {
+        "incident_id": "298814",
+        "route": "I-264",
+        "mm_start": 9.1,
+        "mm_end": 9.1,
+        "title": "I-264 East at MM 9.1 Area of Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Sun, 26 Jul 2026 20:48:53 GMT",
+        "first_seen": "2026-07-26T21:07:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.782248,
           38.189211
         ]
