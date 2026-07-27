@@ -2186,6 +2186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.818211,
+          38.185419
+        ]
+      },
+      "properties": {
+        "incident_id": "298913",
+        "route": "I-264",
+        "mm_start": 7.2,
+        "mm_end": 7.2,
+        "title": "I-264 East at MM 7.2 Approaching Dixie Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Mon, 27 Jul 2026 20:42:14 GMT",
+        "first_seen": "2026-07-27T20:47:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.814551,
           38.185171
         ]
@@ -10359,6 +10379,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0208",
         "pubDate": "Thu, 25 Jun 2026 13:07:08 GMT",
         "first_seen": "2026-06-25T13:30:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.625531,
+          38.268112
+        ]
+      },
+      "properties": {
+        "incident_id": "298911",
+        "route": "I-264",
+        "mm_start": 21.1,
+        "mm_end": 21.1,
+        "title": "I-264 East at MM 21.1 Just Past Westport Rd. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Mon, 27 Jul 2026 20:37:05 GMT",
+        "first_seen": "2026-07-27T20:47:45Z"
       }
     },
     {
@@ -26639,6 +26679,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Tue, 21 Jul 2026 22:32:28 GMT",
         "first_seen": "2026-07-21T22:49:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "298909",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 South at MM 127.0 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Mon, 27 Jul 2026 20:33:23 GMT",
+        "first_seen": "2026-07-27T20:47:45Z"
       }
     },
     {
