@@ -14546,6 +14546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.505924,
+          38.285593
+        ]
+      },
+      "properties": {
+        "incident_id": "298847",
+        "route": "I-265",
+        "mm_start": 30.0,
+        "mm_end": 30.0,
+        "title": "I-265 South at MM 30.0 Area of LaGrange Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Mon, 27 Jul 2026 14:03:52 GMT",
+        "first_seen": "2026-07-27T14:40:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.507744,
           38.285788
         ]
