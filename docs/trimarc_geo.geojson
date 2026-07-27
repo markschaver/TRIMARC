@@ -1246,6 +1246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82163,
+          38.22889
+        ]
+      },
+      "properties": {
+        "incident_id": "298928",
+        "route": "I-264",
+        "mm_start": 3.6,
+        "mm_end": 3.6,
+        "title": "I-264 East at MM 3.6 Before Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Mon, 27 Jul 2026 22:26:16 GMT",
+        "first_seen": "2026-07-27T22:52:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.821939,
           38.226027
         ]
@@ -24266,6 +24286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.419282,
+          38.218021
+        ]
+      },
+      "properties": {
+        "incident_id": "298930",
+        "route": "I-64",
+        "mm_start": 23.6,
+        "mm_end": 23.6,
+        "title": "I-64 West at MM 23.6 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Mon, 27 Jul 2026 22:33:24 GMT",
+        "first_seen": "2026-07-27T22:52:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.417461,
           38.21788
         ]
@@ -27899,6 +27939,26 @@
         "description": "Road Hazard : Ponding water in the area",
         "pubDate": "Tue, 21 Jul 2026 20:02:34 GMT",
         "first_seen": "2026-07-21T20:12:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "298929",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 North at MM 128.9 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Waze reports of a disabled vehicle in the area",
+        "pubDate": "Mon, 27 Jul 2026 22:30:36 GMT",
+        "first_seen": "2026-07-27T22:52:38Z"
       }
     },
     {
