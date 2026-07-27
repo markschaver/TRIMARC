@@ -1126,6 +1126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.817545,
+          38.236779
+        ]
+      },
+      "properties": {
+        "incident_id": "298845",
+        "route": "I-264",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-264 East at MM 3.0 Area of Virginia Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Mon, 27 Jul 2026 13:35:38 GMT",
+        "first_seen": "2026-07-27T13:40:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.818351,
           38.235487
         ]
@@ -7399,6 +7419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Tue, 21 Jul 2026 00:24:26 GMT",
         "first_seen": "2026-07-21T00:44:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669205,
+          38.212139
+        ]
+      },
+      "properties": {
+        "incident_id": "298840",
+        "route": "I-264",
+        "mm_start": 15.8,
+        "mm_end": 15.8,
+        "title": "I-264 East at MM 15.8 Approaching Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Mon, 27 Jul 2026 12:38:33 GMT",
+        "first_seen": "2026-07-27T13:40:18Z"
       }
     },
     {
@@ -13879,6 +13919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0268.",
         "pubDate": "Mon, 27 Jul 2026 09:54:34 GMT",
         "first_seen": "2026-07-27T11:25:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.504098,
+          38.237469
+        ]
+      },
+      "properties": {
+        "incident_id": "298844",
+        "route": "I-265",
+        "mm_start": 26.5,
+        "mm_end": 26.5,
+        "title": "I-265 South at MM 26.5 South of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 27 Jul 2026 13:33:08 GMT",
+        "first_seen": "2026-07-27T13:40:18Z"
       }
     },
     {
