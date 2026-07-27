@@ -866,6 +866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.810205,
+          38.246663
+        ]
+      },
+      "properties": {
+        "incident_id": "298864",
+        "route": "I-264",
+        "mm_start": 2.2,
+        "mm_end": 2.2,
+        "title": "I-264 West at MM 2.2 Between Virginia Avenue and River Park Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Mon, 27 Jul 2026 16:27:29 GMT",
+        "first_seen": "2026-07-27T16:34:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813762,
           38.243354
         ]
