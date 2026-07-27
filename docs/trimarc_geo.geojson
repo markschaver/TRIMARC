@@ -2426,6 +2426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "298915",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 East at MM 8.0 Just Past Dixie Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports of a disabled vehicle in the area",
+        "pubDate": "Mon, 27 Jul 2026 20:48:48 GMT",
+        "first_seen": "2026-07-27T21:27:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
