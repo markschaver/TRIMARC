@@ -1186,6 +1186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.817545,
+          38.236779
+        ]
+      },
+      "properties": {
+        "incident_id": "299090",
+        "route": "I-264",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-264 West at MM 3.0 At Dumesnil Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 28 Jul 2026 22:31:57 GMT",
+        "first_seen": "2026-07-28T22:37:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.818351,
           38.235487
         ]
@@ -1239,6 +1259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0027",
         "pubDate": "Tue, 28 Jul 2026 05:31:33 GMT",
         "first_seen": "2026-07-28T06:00:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.819191,
+          38.234215
+        ]
+      },
+      "properties": {
+        "incident_id": "299089",
+        "route": "I-264",
+        "mm_start": 3.2,
+        "mm_end": 3.2,
+        "title": "I-264 West at MM 3.2 Before Dumesnil St in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 28 Jul 2026 22:24:14 GMT",
+        "first_seen": "2026-07-28T22:37:54Z"
       }
     },
     {
@@ -7799,6 +7839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Tue, 28 Jul 2026 01:52:14 GMT",
         "first_seen": "2026-07-28T02:19:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669205,
+          38.212139
+        ]
+      },
+      "properties": {
+        "incident_id": "299092",
+        "route": "I-264",
+        "mm_start": 15.8,
+        "mm_end": 15.8,
+        "title": "I-264 East at MM 15.8 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 28 Jul 2026 22:34:19 GMT",
+        "first_seen": "2026-07-28T22:37:54Z"
       }
     },
     {
@@ -29346,6 +29406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720703,
+          38.180328
+        ]
+      },
+      "properties": {
+        "incident_id": "299087",
+        "route": "I-65",
+        "mm_start": 129.9,
+        "mm_end": 129.9,
+        "title": "I-65 South at MM 129.9 Area of Grade Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Tue, 28 Jul 2026 22:13:08 GMT",
+        "first_seen": "2026-07-28T22:37:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752539,
           38.213527
         ]
@@ -31379,6 +31459,26 @@
         "description": "Crash : MetroSafe advise of crash in area",
         "pubDate": "Tue, 14 Jul 2026 07:53:08 GMT",
         "first_seen": "2026-07-14T08:30:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.629771,
+          38.294643
+        ]
+      },
+      "properties": {
+        "incident_id": "299091",
+        "route": "I-71",
+        "mm_start": 6.1,
+        "mm_end": 6.1,
+        "title": "I-71 South at MM 6.1 Area of US-42 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Tue, 28 Jul 2026 22:33:43 GMT",
+        "first_seen": "2026-07-28T22:37:54Z"
       }
     },
     {
