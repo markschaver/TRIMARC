@@ -10466,6 +10466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.623734,
+          38.264011
+        ]
+      },
+      "properties": {
+        "incident_id": "298952",
+        "route": "I-264",
+        "mm_start": 20.8,
+        "mm_end": 20.8,
+        "title": "I-264 East at MM 20.8 Area of Westport Road in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0208.",
+        "pubDate": "Tue, 28 Jul 2026 03:34:24 GMT",
+        "first_seen": "2026-07-28T03:39:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.62481,
           38.266784
         ]
