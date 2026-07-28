@@ -15886,6 +15886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805203,
+          38.277162
+        ]
+      },
+      "properties": {
+        "incident_id": "298941",
+        "route": "I-64",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-64 West at MM 1.2 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Tue, 28 Jul 2026 01:12:44 GMT",
+        "first_seen": "2026-07-28T01:17:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80339,
           38.277281
         ]
