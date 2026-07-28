@@ -15826,6 +15826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.810198,
+          38.275561
+        ]
+      },
+      "properties": {
+        "incident_id": "298972",
+        "route": "I-64",
+        "mm_start": 0.9,
+        "mm_end": 0.9,
+        "title": "I-64 East at MM 0.9 Area of I-264 (West End) in Jefferson County",
+        "description": "Crash : May be viewed on CCCTV_05_64_0008",
+        "pubDate": "Tue, 28 Jul 2026 10:46:40 GMT",
+        "first_seen": "2026-07-28T11:04:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808611,
           38.276277
         ]
@@ -22059,6 +22079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
         "pubDate": "Mon, 27 Jul 2026 23:41:38 GMT",
         "first_seen": "2026-07-27T23:52:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.516193,
+          38.222704
+        ]
+      },
+      "properties": {
+        "incident_id": "298975",
+        "route": "I-64",
+        "mm_start": 18.3,
+        "mm_end": 18.3,
+        "title": "I-64 East at MM 18.3 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Tue, 28 Jul 2026 10:56:07 GMT",
+        "first_seen": "2026-07-28T11:04:12Z"
       }
     },
     {
