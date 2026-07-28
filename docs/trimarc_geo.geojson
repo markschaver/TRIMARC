@@ -12566,6 +12566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.596581,
+          38.135598
+        ]
+      },
+      "properties": {
+        "incident_id": "299015",
+        "route": "I-265",
+        "mm_start": 16.0,
+        "mm_end": 16.9,
+        "title": "I-265 East between MM 16.0 and 16.9 Approaching Bardstown Road in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Tue, 28 Jul 2026 17:50:04 GMT",
+        "first_seen": "2026-07-28T18:34:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.595946,
           38.136122
         ]
