@@ -1206,6 +1206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.819191,
+          38.234215
+        ]
+      },
+      "properties": {
+        "incident_id": "298956",
+        "route": "I-264",
+        "mm_start": 3.2,
+        "mm_end": 3.2,
+        "title": "I-264 East at MM 3.2 Area of Virginia Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0027",
+        "pubDate": "Tue, 28 Jul 2026 05:31:33 GMT",
+        "first_seen": "2026-07-28T06:00:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82003,
           38.232944
         ]
