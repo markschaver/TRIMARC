@@ -1106,6 +1106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.815492,
+          38.240804
+        ]
+      },
+      "properties": {
+        "incident_id": "299052",
+        "route": "I-264",
+        "mm_start": 2.7,
+        "mm_end": 2.7,
+        "title": "I-264 West at MM 2.7 Area of Virginia Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 28 Jul 2026 20:25:55 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.816176,
           38.239467
         ]
@@ -9299,6 +9319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Thu, 16 Jul 2026 20:33:42 GMT",
         "first_seen": "2026-07-16T20:49:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637981,
+          38.2273
+        ]
+      },
+      "properties": {
+        "incident_id": "299050",
+        "route": "I-264",
+        "mm_start": 17.8,
+        "mm_end": 17.8,
+        "title": "I-264 East at MM 17.8 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 28 Jul 2026 20:22:22 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
       }
     },
     {
@@ -19046,6 +19086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.683886,
+          38.2419
+        ]
+      },
+      "properties": {
+        "incident_id": "299046",
+        "route": "I-64",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-64 East at MM 8.9 Just Past Grinstead Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Tue, 28 Jul 2026 20:15:58 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.682128,
           38.241529
         ]
@@ -22586,6 +22646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.499582,
+          38.222449
+        ]
+      },
+      "properties": {
+        "incident_id": "299051",
+        "route": "I-64",
+        "mm_start": 19.2,
+        "mm_end": 19.2,
+        "title": "I-64 West at MM 19.2 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 28 Jul 2026 20:23:44 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.497757,
           38.222393
         ]
@@ -23406,6 +23486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.481296,
+          38.221837
+        ]
+      },
+      "properties": {
+        "incident_id": "299049",
+        "route": "I-64",
+        "mm_start": 20.2,
+        "mm_end": 20.2,
+        "title": "I-64 East at MM 20.2 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 28 Jul 2026 20:22:04 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.477638,
           38.221719
         ]
@@ -23739,6 +23839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Fri, 24 Jul 2026 19:15:55 GMT",
         "first_seen": "2026-07-24T19:49:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "299048",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 West at MM 21.0 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 28 Jul 2026 20:20:32 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
       }
     },
     {
@@ -24099,6 +24219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Fri, 17 Jul 2026 19:24:22 GMT",
         "first_seen": "2026-07-17T19:40:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.45571,
+          38.220837
+        ]
+      },
+      "properties": {
+        "incident_id": "299045",
+        "route": "I-64",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-64 West at MM 21.6 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 28 Jul 2026 20:10:50 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
       }
     },
     {
@@ -32079,6 +32219,26 @@
         "description": "Police Activity : May be viewed on camera CCTV_05_71_0089.",
         "pubDate": "Thu, 23 Jul 2026 07:50:03 GMT",
         "first_seen": "2026-07-23T08:03:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.587876,
+          38.311732
+        ]
+      },
+      "properties": {
+        "incident_id": "299047",
+        "route": "I-71",
+        "mm_start": 8.7,
+        "mm_end": 8.7,
+        "title": "I-71 South at MM 8.7 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle on the right shoulder in the area",
+        "pubDate": "Tue, 28 Jul 2026 20:16:50 GMT",
+        "first_seen": "2026-07-28T20:30:31Z"
       }
     },
     {
