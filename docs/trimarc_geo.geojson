@@ -20526,6 +20526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.59719,
+          38.229139
+        ]
+      },
+      "properties": {
+        "incident_id": "299146",
+        "route": "I-64",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-64 East at MM 13.8 Approaching Hurstborne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05",
+        "pubDate": "Wed, 29 Jul 2026 16:31:03 GMT",
+        "first_seen": "2026-07-29T16:47:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.595463,
           38.22859
         ]
