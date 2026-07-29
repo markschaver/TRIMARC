@@ -9586,6 +9586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.636448,
+          38.228117
+        ]
+      },
+      "properties": {
+        "incident_id": "299198",
+        "route": "I-264",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-264 West at MM 17.9 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Wed, 29 Jul 2026 21:20:59 GMT",
+        "first_seen": "2026-07-29T21:49:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.634942,
           38.228944
         ]
@@ -31106,6 +31126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.678128,
+          38.28678
+        ]
+      },
+      "properties": {
+        "incident_id": "299206",
+        "route": "I-71",
+        "mm_start": 3.1,
+        "mm_end": 3.1,
+        "title": "I-71 North at MM 3.1 Just Past Zorn Ave. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Wed, 29 Jul 2026 21:37:57 GMT",
+        "first_seen": "2026-07-29T21:49:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.675258,
           38.288571
         ]
@@ -31219,6 +31259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037",
         "pubDate": "Fri, 26 Jun 2026 22:58:31 GMT",
         "first_seen": "2026-06-26T23:10:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.667703,
+          38.292607
+        ]
+      },
+      "properties": {
+        "incident_id": "299208",
+        "route": "I-71",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-71 North at MM 3.8 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037",
+        "pubDate": "Wed, 29 Jul 2026 21:40:43 GMT",
+        "first_seen": "2026-07-29T21:49:58Z"
       }
     },
     {
@@ -33579,6 +33639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
         "pubDate": "Sat, 25 Jul 2026 20:21:48 GMT",
         "first_seen": "2026-07-25T20:34:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.578541,
+          38.316268
+        ]
+      },
+      "properties": {
+        "incident_id": "299203",
+        "route": "I-71",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-71 South at MM 9.3 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Wed, 29 Jul 2026 21:32:20 GMT",
+        "first_seen": "2026-07-29T21:49:58Z"
       }
     },
     {
