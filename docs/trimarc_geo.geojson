@@ -16306,6 +16306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.813742,
+          38.275015
+        ]
+      },
+      "properties": {
+        "incident_id": "299180",
+        "route": "I-64",
+        "mm_start": 0.7,
+        "mm_end": 0.7,
+        "title": "I-64 East at MM 0.7 Approaching I-264 WE in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008",
+        "pubDate": "Wed, 29 Jul 2026 20:19:59 GMT",
+        "first_seen": "2026-07-29T20:49:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.811931,
           38.275163
         ]
@@ -17239,6 +17259,26 @@
         "description": "Road Hazard : May be viewed on CCTV_05_64_0040",
         "pubDate": "Tue, 21 Jul 2026 19:27:05 GMT",
         "first_seen": "2026-07-21T19:33:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.766433,
+          38.259251
+        ]
+      },
+      "properties": {
+        "incident_id": "299183",
+        "route": "I-64",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-64 East at MM 3.8 At 9th Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0040",
+        "pubDate": "Wed, 29 Jul 2026 20:26:03 GMT",
+        "first_seen": "2026-07-29T20:49:20Z"
       }
     },
     {
@@ -18319,6 +18359,26 @@
         "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0061_WB.",
         "pubDate": "Sun, 12 Jul 2026 11:51:49 GMT",
         "first_seen": "2026-07-12T12:05:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.726343,
+          38.260625
+        ]
+      },
+      "properties": {
+        "incident_id": "299185",
+        "route": "I-64",
+        "mm_start": 6.1,
+        "mm_end": 6.1,
+        "title": "I-64 East at MM 6.1 Approaching Story Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0061_EB",
+        "pubDate": "Wed, 29 Jul 2026 20:36:48 GMT",
+        "first_seen": "2026-07-29T20:49:20Z"
       }
     },
     {
@@ -25596,9 +25656,9 @@
         "mm_start": 23.8,
         "mm_end": 23.8,
         "title": "I-64 East at MM 23.8 East of I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0242",
         "pubDate": "Wed, 29 Jul 2026 18:43:25 GMT",
-        "first_seen": "2026-07-29T19:11:30Z"
+        "first_seen": "2026-07-29T20:49:20Z"
       }
     },
     {
@@ -25919,6 +25979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Tue, 28 Jul 2026 02:10:14 GMT",
         "first_seen": "2026-07-28T02:19:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701114,
+          38.106896
+        ]
+      },
+      "properties": {
+        "incident_id": "299188",
+        "route": "I-65",
+        "mm_start": 124.6,
+        "mm_end": 124.6,
+        "title": "I-65 North at MM 124.6 Approaching I-265 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Wed, 29 Jul 2026 20:43:27 GMT",
+        "first_seen": "2026-07-29T20:49:20Z"
       }
     },
     {
