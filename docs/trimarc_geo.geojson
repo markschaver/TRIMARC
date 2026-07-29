@@ -4506,6 +4506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.731038,
+          38.190142
+        ]
+      },
+      "properties": {
+        "incident_id": "299111",
+        "route": "I-264",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-264 East at MM 12.0 Area of I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Wed, 29 Jul 2026 02:03:29 GMT",
+        "first_seen": "2026-07-29T02:40:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729206,
           38.190252
         ]
