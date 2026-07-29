@@ -8846,6 +8846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "299221",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 West at MM 17.0 Area of Taylorsville Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 29 Jul 2026 23:05:14 GMT",
+        "first_seen": "2026-07-29T23:24:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.649028,
           38.222229
         ]
@@ -27979,6 +27999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Sun, 26 Jul 2026 09:30:31 GMT",
         "first_seen": "2026-07-26T10:11:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.705716,
+          38.135313
+        ]
+      },
+      "properties": {
+        "incident_id": "299223",
+        "route": "I-65",
+        "mm_start": 126.6,
+        "mm_end": 126.6,
+        "title": "I-65 South at MM 126.6 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 29 Jul 2026 23:13:59 GMT",
+        "first_seen": "2026-07-29T23:24:27Z"
       }
     },
     {
