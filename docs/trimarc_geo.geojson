@@ -12986,6 +12986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621377,
+          38.122869
+        ]
+      },
+      "properties": {
+        "incident_id": "299176",
+        "route": "I-265",
+        "mm_start": 14.8,
+        "mm_end": 14.8,
+        "title": "I-265 West at MM 14.8 Area of Beulah Church Road in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash on the left shoulder",
+        "pubDate": "Wed, 29 Jul 2026 19:51:48 GMT",
+        "first_seen": "2026-07-29T20:24:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.609286,
           38.126257
         ]
