@@ -29326,6 +29326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "299224",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 South at MM 128.7 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Wed, 29 Jul 2026 23:38:55 GMT",
+        "first_seen": "2026-07-29T23:50:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720625,
           38.164737
         ]
