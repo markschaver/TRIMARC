@@ -30146,6 +30146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743018,
+          38.265018
+        ]
+      },
+      "properties": {
+        "incident_id": "299142",
+        "route": "I-65",
+        "mm_start": 136.9,
+        "mm_end": 136.9,
+        "title": "I-65 South at MM 136.9 On Kennedy Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1368.",
+        "pubDate": "Wed, 29 Jul 2026 15:28:00 GMT",
+        "first_seen": "2026-07-29T15:40:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.707303,
           38.268192
         ]
