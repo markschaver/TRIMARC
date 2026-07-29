@@ -23146,6 +23146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.495926,
+          38.222334
+        ]
+      },
+      "properties": {
+        "incident_id": "299126",
+        "route": "I-64",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-64 East at MM 19.4 Just Past I-265 in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 29 Jul 2026 11:18:46 GMT",
+        "first_seen": "2026-07-29T12:14:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.494095,
           38.222274
         ]
