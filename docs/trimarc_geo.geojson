@@ -28966,6 +28966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720048,
+          38.173401
+        ]
+      },
+      "properties": {
+        "incident_id": "299116",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 129.9,
+        "title": "I-65 North between MM 128.9 and 129.9 Area of Fern Valley Road in Jefferson County",
+        "description": "Construction / Road Work : May be viewed on camera CCTV_05_65_1297.",
+        "pubDate": "Wed, 29 Jul 2026 07:18:07 GMT",
+        "first_seen": "2026-07-29T09:27:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720552,
           38.167632
         ]
