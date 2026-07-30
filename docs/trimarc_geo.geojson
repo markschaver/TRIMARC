@@ -6666,6 +6666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "299342",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 West at MM 14.2 Area of Newburg Road in Jefferson County",
+        "description": "Crash : Metrosafe reports of crash in the area",
+        "pubDate": "Thu, 30 Jul 2026 19:37:31 GMT",
+        "first_seen": "2026-07-30T20:11:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -9699,6 +9719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Tue, 28 Jul 2026 20:22:22 GMT",
         "first_seen": "2026-07-28T20:30:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637981,
+          38.2273
+        ]
+      },
+      "properties": {
+        "incident_id": "299339",
+        "route": "I-264",
+        "mm_start": 17.8,
+        "mm_end": 17.8,
+        "title": "I-264 East at MM 17.8 Area of Breckenridge Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Thu, 30 Jul 2026 19:31:04 GMT",
+        "first_seen": "2026-07-30T20:11:47Z"
       }
     },
     {
@@ -15479,6 +15519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Tue, 23 Jun 2026 19:42:08 GMT",
         "first_seen": "2026-06-23T19:56:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50167,
+          38.262024
+        ]
+      },
+      "properties": {
+        "incident_id": "299344",
+        "route": "I-265",
+        "mm_start": 28.2,
+        "mm_end": 28.2,
+        "title": "I-265 North at MM 28.2 Approaching Old Henry Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
+        "pubDate": "Thu, 30 Jul 2026 19:51:22 GMT",
+        "first_seen": "2026-07-30T20:11:47Z"
       }
     },
     {
@@ -29639,6 +29699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Mon, 06 Jul 2026 22:16:27 GMT",
         "first_seen": "2026-07-06T22:35:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720458,
+          38.161841
+        ]
+      },
+      "properties": {
+        "incident_id": "299348",
+        "route": "I-65",
+        "mm_start": 128.6,
+        "mm_end": 128.6,
+        "title": "I-65 South at MM 128.6 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Thu, 30 Jul 2026 20:02:58 GMT",
+        "first_seen": "2026-07-30T20:11:47Z"
       }
     },
     {
