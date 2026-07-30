@@ -18306,6 +18306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743118,
+          38.257959
+        ]
+      },
+      "properties": {
+        "incident_id": "299373",
+        "route": "I-64",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-64 East at MM 5.1 Area of Preston Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Thu, 30 Jul 2026 21:19:04 GMT",
+        "first_seen": "2026-07-30T21:45:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741316,
           38.257868
         ]
@@ -28899,6 +28919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Mon, 27 Jul 2026 20:33:23 GMT",
         "first_seen": "2026-07-27T20:47:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "299271",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 South at MM 127.0 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Thu, 30 Jul 2026 10:47:14 GMT",
+        "first_seen": "2026-07-30T21:45:14Z"
       }
     },
     {
