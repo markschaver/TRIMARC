@@ -3186,6 +3186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.77681,
+          38.18928
+        ]
+      },
+      "properties": {
+        "incident_id": "299320",
+        "route": "I-264",
+        "mm_start": 9.5,
+        "mm_end": 9.5,
+        "title": "I-264 West at MM 9.5 Ramp to Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Thu, 30 Jul 2026 17:55:13 GMT",
+        "first_seen": "2026-07-30T18:11:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.774983,
           38.189237
         ]
@@ -30719,6 +30739,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1307",
         "pubDate": "Thu, 30 Jul 2026 09:02:32 GMT",
         "first_seen": "2026-07-30T09:36:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.733415,
+          38.196165
+        ]
+      },
+      "properties": {
+        "incident_id": "299321",
+        "route": "I-65",
+        "mm_start": 131.2,
+        "mm_end": 131.2,
+        "title": "I-65 North at MM 131.2 Just Past I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1313.",
+        "pubDate": "Thu, 30 Jul 2026 18:03:04 GMT",
+        "first_seen": "2026-07-30T18:11:44Z"
       }
     },
     {
