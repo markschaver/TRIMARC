@@ -9976,9 +9976,29 @@
         "mm_start": 18.1,
         "mm_end": 18.1,
         "title": "I-264 East at MM 18.1 Area of Breckenridge Lane in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0179",
         "pubDate": "Wed, 29 Jul 2026 18:37:55 GMT",
-        "first_seen": "2026-07-29T19:11:30Z"
+        "first_seen": "2026-07-30T12:08:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.633424,
+          38.229757
+        ]
+      },
+      "properties": {
+        "incident_id": "299283",
+        "route": "I-264",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-264 East at MM 18.1 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Thu, 30 Jul 2026 11:35:17 GMT",
+        "first_seen": "2026-07-30T12:08:54Z"
       }
     },
     {
