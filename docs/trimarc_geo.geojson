@@ -1546,6 +1546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82759,
+          38.209083
+        ]
+      },
+      "properties": {
+        "incident_id": "299254",
+        "route": "I-264",
+        "mm_start": 4.1,
+        "mm_end": 6.0,
+        "title": "I-264 West between MM 6.0 and 4.1 Between Crums Lane and Bells lane in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0041.",
+        "pubDate": "Thu, 30 Jul 2026 04:50:00 GMT",
+        "first_seen": "2026-07-30T06:37:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822435,
           38.220144
         ]
@@ -1759,26 +1779,6 @@
         "description": "Crash : Incident reported in the area",
         "pubDate": "Thu, 16 Jul 2026 18:20:05 GMT",
         "first_seen": "2026-07-16T18:43:50Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.82744,
-          38.202644
-        ]
-      },
-      "properties": {
-        "incident_id": "299254",
-        "route": "I-264",
-        "mm_start": 5.0,
-        "mm_end": 6.0,
-        "title": "I-264 West between MM 6.0 and 5.0 Between Crums Lane and Cane Run Road in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0052.",
-        "pubDate": "Thu, 30 Jul 2026 04:50:00 GMT",
-        "first_seen": "2026-07-30T05:40:58Z"
       }
     },
     {
@@ -13926,6 +13926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.537039,
+          38.151697
+        ]
+      },
+      "properties": {
+        "incident_id": "299258",
+        "route": "I-265",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-265 West at MM 20.0 Approaching Billtown Rd in Jefferson County",
+        "description": "Crash : MetroSafe advise of crash in area",
+        "pubDate": "Thu, 30 Jul 2026 06:26:15 GMT",
+        "first_seen": "2026-07-30T06:37:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.533189,
           38.154799
         ]
@@ -16486,6 +16506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808611,
+          38.276277
+        ]
+      },
+      "properties": {
+        "incident_id": "299251",
+        "route": "I-64",
+        "mm_start": 0.8,
+        "mm_end": 1.2,
+        "title": "I-64 West between MM 1.2 and 0.8 Between I-264 and Sherman Minton Bridge in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0012.",
+        "pubDate": "Thu, 30 Jul 2026 04:17:17 GMT",
+        "first_seen": "2026-07-30T06:37:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.810198,
           38.275561
         ]
@@ -16719,26 +16759,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
         "pubDate": "Tue, 28 Jul 2026 01:12:44 GMT",
         "first_seen": "2026-07-28T01:17:31Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.789368,
-          38.27478
-        ]
-      },
-      "properties": {
-        "incident_id": "299251",
-        "route": "I-64",
-        "mm_start": 1.2,
-        "mm_end": 3.0,
-        "title": "I-64 West between MM 3.0 and 1.2 Between 22nd Street and I-264 WE in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0012.",
-        "pubDate": "Thu, 30 Jul 2026 04:17:17 GMT",
-        "first_seen": "2026-07-30T05:40:58Z"
       }
     },
     {
