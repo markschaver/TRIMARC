@@ -1046,6 +1046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.814702,
+          38.242112
+        ]
+      },
+      "properties": {
+        "incident_id": "299356",
+        "route": "I-264",
+        "mm_start": 2.6,
+        "mm_end": 2.6,
+        "title": "I-264 West at MM 2.6 Area of Virginia Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Thu, 30 Jul 2026 20:32:27 GMT",
+        "first_seen": "2026-07-30T20:42:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.815492,
           38.240804
         ]
@@ -29586,6 +29606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719946,
+          38.160456
+        ]
+      },
+      "properties": {
+        "incident_id": "299355",
+        "route": "I-65",
+        "mm_start": 128.5,
+        "mm_end": 128.5,
+        "title": "I-65 South at MM 128.5 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Thu, 30 Jul 2026 20:32:01 GMT",
+        "first_seen": "2026-07-30T20:42:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720458,
           38.161841
         ]
@@ -34739,6 +34779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Mon, 20 Jul 2026 15:57:18 GMT",
         "first_seen": "2026-07-20T16:06:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.545583,
+          38.32812
+        ]
+      },
+      "properties": {
+        "incident_id": "299353",
+        "route": "I-71",
+        "mm_start": 11.3,
+        "mm_end": 11.3,
+        "title": "I-71 North at MM 11.3 Before Oldham County Line in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Thu, 30 Jul 2026 20:15:21 GMT",
+        "first_seen": "2026-07-30T20:42:32Z"
       }
     }
   ]
