@@ -246,6 +246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805024,
+          38.260889
+        ]
+      },
+      "properties": {
+        "incident_id": "299260",
+        "route": "I-264",
+        "mm_start": 0.7,
+        "mm_end": 1.6,
+        "title": "I-264 West between MM 1.6 and 0.7 Between River Park Drive and Bank Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0016.",
+        "pubDate": "Thu, 30 Jul 2026 07:45:42 GMT",
+        "first_seen": "2026-07-30T08:39:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80662,
           38.265716
         ]
@@ -9199,6 +9219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Wed, 01 Jul 2026 19:03:12 GMT",
         "first_seen": "2026-07-01T19:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644304,
+          38.224387
+        ]
+      },
+      "properties": {
+        "incident_id": "299262",
+        "route": "I-264",
+        "mm_start": 17.4,
+        "mm_end": 17.4,
+        "title": "I-264 West at MM 17.4 Approaching Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 30 Jul 2026 08:23:23 GMT",
+        "first_seen": "2026-07-30T08:39:47Z"
       }
     },
     {
