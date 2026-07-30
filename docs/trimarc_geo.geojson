@@ -7386,6 +7386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.682399,
+          38.204293
+        ]
+      },
+      "properties": {
+        "incident_id": "299327",
+        "route": "I-264",
+        "mm_start": 14.9,
+        "mm_end": 14.9,
+        "title": "I-264 East at MM 14.9 Just Past Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 30 Jul 2026 18:40:27 GMT",
+        "first_seen": "2026-07-30T18:48:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.680841,
           38.205079
         ]
@@ -26719,6 +26739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Fri, 24 Jul 2026 22:12:16 GMT",
         "first_seen": "2026-07-24T22:38:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "299326",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 North at MM 124.7 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Thu, 30 Jul 2026 18:39:18 GMT",
+        "first_seen": "2026-07-30T18:48:58Z"
       }
     },
     {
