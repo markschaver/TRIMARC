@@ -12986,6 +12986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.63358,
+          38.119705
+        ]
+      },
+      "properties": {
+        "incident_id": "299331",
+        "route": "I-265",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-265 East at MM 14.1 Just Past Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 30 Jul 2026 19:00:21 GMT",
+        "first_seen": "2026-07-30T19:33:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.63183,
           38.120162
         ]
@@ -28179,6 +28199,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Tue, 21 Jul 2026 19:55:08 GMT",
         "first_seen": "2026-07-21T20:12:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.704214,
+          38.132674
+        ]
+      },
+      "properties": {
+        "incident_id": "299338",
+        "route": "I-65",
+        "mm_start": 126.4,
+        "mm_end": 126.4,
+        "title": "I-65 South at MM 126.4 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 30 Jul 2026 19:28:05 GMT",
+        "first_seen": "2026-07-30T19:33:58Z"
       }
     },
     {
