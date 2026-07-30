@@ -4266,6 +4266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.738366,
+          38.189701
+        ]
+      },
+      "properties": {
+        "incident_id": "299247",
+        "route": "I-264",
+        "mm_start": 11.6,
+        "mm_end": 11.6,
+        "title": "I-264 East at MM 11.6 Area of Freedom Way in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 30 Jul 2026 03:21:04 GMT",
+        "first_seen": "2026-07-30T04:33:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.736534,
           38.189811
         ]
@@ -16659,6 +16679,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
         "pubDate": "Tue, 28 Jul 2026 01:12:44 GMT",
         "first_seen": "2026-07-28T01:17:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.789368,
+          38.27478
+        ]
+      },
+      "properties": {
+        "incident_id": "299251",
+        "route": "I-64",
+        "mm_start": 1.2,
+        "mm_end": 3.0,
+        "title": "I-64 West between MM 3.0 and 1.2 Area of I-264 WE in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0012.",
+        "pubDate": "Thu, 30 Jul 2026 04:17:17 GMT",
+        "first_seen": "2026-07-30T04:33:22Z"
       }
     },
     {
