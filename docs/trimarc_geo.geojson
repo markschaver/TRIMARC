@@ -3086,6 +3086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.778637,
+          38.189466
+        ]
+      },
+      "properties": {
+        "incident_id": "299361",
+        "route": "I-264",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-264 West at MM 9.4 Area of Taylor Blvd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Thu, 30 Jul 2026 20:50:07 GMT",
+        "first_seen": "2026-07-30T21:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.77681,
           38.18928
         ]
@@ -20726,6 +20746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.626413,
+          38.238145
+        ]
+      },
+      "properties": {
+        "incident_id": "299370",
+        "route": "I-64",
+        "mm_start": 12.1,
+        "mm_end": 12.1,
+        "title": "I-64 West at MM 12.1 Area of I-264 EE in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Thu, 30 Jul 2026 21:09:06 GMT",
+        "first_seen": "2026-07-30T21:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.622808,
           38.237582
         ]
@@ -22059,6 +22099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Tue, 07 Jul 2026 09:49:19 GMT",
         "first_seen": "2026-07-07T10:30:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56388,
+          38.222815
+        ]
+      },
+      "properties": {
+        "incident_id": "299365",
+        "route": "I-64",
+        "mm_start": 15.7,
+        "mm_end": 15.7,
+        "title": "I-64 East at MM 15.7 Just Past Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 30 Jul 2026 20:58:31 GMT",
+        "first_seen": "2026-07-30T21:14:01Z"
       }
     },
     {
@@ -25939,6 +25999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Tue, 14 Jul 2026 21:39:23 GMT",
         "first_seen": "2026-07-14T22:08:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.421103,
+          38.218162
+        ]
+      },
+      "properties": {
+        "incident_id": "299363",
+        "route": "I-64",
+        "mm_start": 23.5,
+        "mm_end": 23.5,
+        "title": "I-64 West at MM 23.5 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Thu, 30 Jul 2026 20:56:05 GMT",
+        "first_seen": "2026-07-30T21:14:01Z"
       }
     },
     {
