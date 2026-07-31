@@ -12446,6 +12446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670573,
+          38.111794
+        ]
+      },
+      "properties": {
+        "incident_id": "299449",
+        "route": "I-265",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-265 West at MM 12.0 At Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Fri, 31 Jul 2026 14:03:26 GMT",
+        "first_seen": "2026-07-31T14:17:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.668893,
           38.112367
         ]
@@ -13159,6 +13179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Wed, 22 Jul 2026 19:19:40 GMT",
         "first_seen": "2026-07-22T19:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637132,
+          38.119027
+        ]
+      },
+      "properties": {
+        "incident_id": "299450",
+        "route": "I-265",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-265 West at MM 13.9 At Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135.",
+        "pubDate": "Fri, 31 Jul 2026 14:08:27 GMT",
+        "first_seen": "2026-07-31T14:17:58Z"
       }
     },
     {
@@ -17119,6 +17159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
         "pubDate": "Fri, 26 Jun 2026 21:08:07 GMT",
         "first_seen": "2026-06-26T21:13:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.795273,
+          38.27662
+        ]
+      },
+      "properties": {
+        "incident_id": "299448",
+        "route": "I-64",
+        "mm_start": 1.5,
+        "mm_end": 2.0,
+        "title": "I-64 East between MM 1.5 and 2.0 Approaching 22nd Street in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Fri, 31 Jul 2026 14:03:31 GMT",
+        "first_seen": "2026-07-31T14:17:58Z"
       }
     },
     {
