@@ -12066,6 +12066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.68309,
+          38.110268
+        ]
+      },
+      "properties": {
+        "incident_id": "299404",
+        "route": "I-265",
+        "mm_start": 11.3,
+        "mm_end": 11.3,
+        "title": "I-265 East at MM 11.3 Area of Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Fri, 31 Jul 2026 01:31:46 GMT",
+        "first_seen": "2026-07-31T01:39:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.681269,
           38.110106
         ]
@@ -28719,6 +28739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Wed, 29 Jul 2026 23:13:59 GMT",
         "first_seen": "2026-07-29T23:24:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.705716,
+          38.135313
+        ]
+      },
+      "properties": {
+        "incident_id": "299405",
+        "route": "I-65",
+        "mm_start": 126.6,
+        "mm_end": 126.6,
+        "title": "I-65 South at MM 126.6 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Fri, 31 Jul 2026 01:35:05 GMT",
+        "first_seen": "2026-07-31T01:39:51Z"
       }
     },
     {
