@@ -25126,6 +25126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "299414",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 West at MM 21.0 Area of Gilliland Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 31 Jul 2026 03:49:07 GMT",
+        "first_seen": "2026-07-31T03:58:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.464834,
           38.221306
         ]
