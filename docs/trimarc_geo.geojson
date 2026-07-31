@@ -8066,6 +8066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670722,
+          38.211321
+        ]
+      },
+      "properties": {
+        "incident_id": "299518",
+        "route": "I-264",
+        "mm_start": 15.7,
+        "mm_end": 15.7,
+        "title": "I-264 East at MM 15.7 Over Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 31 Jul 2026 21:29:50 GMT",
+        "first_seen": "2026-07-31T21:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.669205,
           38.212139
         ]
@@ -10259,6 +10279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Fri, 24 Jul 2026 19:06:49 GMT",
         "first_seen": "2026-07-24T19:12:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.630399,
+          38.231404
+        ]
+      },
+      "properties": {
+        "incident_id": "299514",
+        "route": "I-264",
+        "mm_start": 18.3,
+        "mm_end": 18.3,
+        "title": "I-264 East at MM 18.3 Just Past Breckenridge Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Fri, 31 Jul 2026 21:20:15 GMT",
+        "first_seen": "2026-07-31T21:42:31Z"
       }
     },
     {
@@ -30459,6 +30499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Wed, 29 Jul 2026 23:38:55 GMT",
         "first_seen": "2026-07-29T23:50:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "299516",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 North at MM 128.7 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 31 Jul 2026 21:24:47 GMT",
+        "first_seen": "2026-07-31T21:42:31Z"
       }
     },
     {
