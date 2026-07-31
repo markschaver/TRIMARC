@@ -5366,6 +5366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.712257,
+          38.192607
+        ]
+      },
+      "properties": {
+        "incident_id": "299435",
+        "route": "I-264",
+        "mm_start": 13.0,
+        "mm_end": 13.1,
+        "title": "I-264 East between MM 13.0 and 13.1 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Fri, 31 Jul 2026 11:41:47 GMT",
+        "first_seen": "2026-07-31T11:47:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.711542,
           38.19306
         ]
@@ -29559,6 +29579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Sun, 12 Jul 2026 08:10:41 GMT",
         "first_seen": "2026-07-12T08:18:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.712164,
+          38.14731
+        ]
+      },
+      "properties": {
+        "incident_id": "299433",
+        "route": "I-65",
+        "mm_start": 127.5,
+        "mm_end": 127.5,
+        "title": "I-65 South at MM 127.5 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Fri, 31 Jul 2026 11:18:32 GMT",
+        "first_seen": "2026-07-31T11:47:36Z"
       }
     },
     {
