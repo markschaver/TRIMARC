@@ -8306,6 +8306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.666156,
+          38.213765
+        ]
+      },
+      "properties": {
+        "incident_id": "299407",
+        "route": "I-264",
+        "mm_start": 16.0,
+        "mm_end": 16.0,
+        "title": "I-264 West at MM 16.0 Area of Bardstown Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 31 Jul 2026 02:29:59 GMT",
+        "first_seen": "2026-07-31T02:41:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.664642,
           38.214566
         ]
