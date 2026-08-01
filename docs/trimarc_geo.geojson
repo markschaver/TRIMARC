@@ -17746,6 +17746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.778235,
+          38.26577
+        ]
+      },
+      "properties": {
+        "incident_id": "299539",
+        "route": "I-64",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-64 West at MM 3.0 Approaching 22nd St. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Sat, 01 Aug 2026 00:02:25 GMT",
+        "first_seen": "2026-08-01T00:08:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.776605,
           38.265129
         ]
@@ -22386,6 +22406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.572988,
+          38.222547
+        ]
+      },
+      "properties": {
+        "incident_id": "299540",
+        "route": "I-64",
+        "mm_start": 15.2,
+        "mm_end": 15.2,
+        "title": "I-64 West at MM 15.2 Before Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Sat, 01 Aug 2026 00:03:56 GMT",
+        "first_seen": "2026-08-01T00:08:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.571172,
           38.22249
         ]
@@ -26936,9 +26976,9 @@
         "mm_start": 124.5,
         "mm_end": 124.5,
         "title": "I-65 South at MM 124.5 Just Past I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Fri, 31 Jul 2026 22:34:20 GMT",
-        "first_seen": "2026-07-31T22:39:17Z"
+        "first_seen": "2026-08-01T00:08:23Z"
       }
     },
     {
@@ -33739,6 +33779,26 @@
         "description": "Crash : Crash in this location.",
         "pubDate": "Fri, 26 Jun 2026 15:47:41 GMT",
         "first_seen": "2026-06-26T16:02:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628201,
+          38.295395
+        ]
+      },
+      "properties": {
+        "incident_id": "299538",
+        "route": "I-71",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-71 South at MM 6.2 Before I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_06_71_0055",
+        "pubDate": "Fri, 31 Jul 2026 23:35:27 GMT",
+        "first_seen": "2026-08-01T00:08:23Z"
       }
     },
     {
