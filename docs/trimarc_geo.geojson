@@ -5266,6 +5266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "299561",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 East at MM 12.8 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Sat, 01 Aug 2026 08:43:02 GMT",
+        "first_seen": "2026-08-01T09:15:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
@@ -8259,6 +8279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0156.",
         "pubDate": "Sat, 25 Jul 2026 07:02:37 GMT",
         "first_seen": "2026-07-25T07:56:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.667673,
+          38.212951
+        ]
+      },
+      "properties": {
+        "incident_id": "299562",
+        "route": "I-264",
+        "mm_start": 15.9,
+        "mm_end": 15.9,
+        "title": "I-264 West at MM 15.9 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Sat, 01 Aug 2026 08:55:42 GMT",
+        "first_seen": "2026-08-01T09:15:03Z"
       }
     },
     {
