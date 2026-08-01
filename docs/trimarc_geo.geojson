@@ -3026,6 +3026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.780469,
+          38.189531
+        ]
+      },
+      "properties": {
+        "incident_id": "299590",
+        "route": "I-264",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-264 East at MM 9.3 Area of Taylor Boulevard in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Sat, 01 Aug 2026 17:20:39 GMT",
+        "first_seen": "2026-08-01T17:50:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.778637,
           38.189466
         ]
