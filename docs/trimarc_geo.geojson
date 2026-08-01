@@ -22306,6 +22306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.578375,
+          38.2233
+        ]
+      },
+      "properties": {
+        "incident_id": "299553",
+        "route": "I-64",
+        "mm_start": 14.9,
+        "mm_end": 14.9,
+        "title": "I-64 West at MM 14.9 At Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Sat, 01 Aug 2026 02:20:35 GMT",
+        "first_seen": "2026-08-01T02:43:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.576607,
           38.222954
         ]
@@ -32439,6 +32459,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0018",
         "pubDate": "Fri, 19 Jun 2026 05:34:46 GMT",
         "first_seen": "2026-06-19T06:02:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.693911,
+          38.276925
+        ]
+      },
+      "properties": {
+        "incident_id": "299552",
+        "route": "I-71",
+        "mm_start": 1.0,
+        "mm_end": 3.0,
+        "title": "I-71 South between MM 3.0 and 1.0 Area of Zorn Ave in Jefferson County",
+        "description": "Construction / Road Work : The left lane of I-71 South between MM 3 and 1 is closed.",
+        "pubDate": "Sat, 01 Aug 2026 01:43:14 GMT",
+        "first_seen": "2026-08-01T02:43:40Z"
       }
     },
     {
