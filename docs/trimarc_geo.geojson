@@ -6066,6 +6066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.707146,
+          38.19569
+        ]
+      },
+      "properties": {
+        "incident_id": "299591",
+        "route": "I-264",
+        "mm_start": 13.4,
+        "mm_end": 13.4,
+        "title": "I-264 East at MM 13.4 At Poplar Level Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 01 Aug 2026 18:30:23 GMT",
+        "first_seen": "2026-08-01T18:50:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.705744,
           38.196614
         ]
@@ -11559,6 +11579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
         "pubDate": "Wed, 08 Jul 2026 12:34:46 GMT",
         "first_seen": "2026-07-08T12:52:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.630568,
+          38.274165
+        ]
+      },
+      "properties": {
+        "incident_id": "299594",
+        "route": "I-264",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-264 West at MM 21.6 Just Past Brownsboro Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0221.",
+        "pubDate": "Sat, 01 Aug 2026 18:41:53 GMT",
+        "first_seen": "2026-08-01T18:50:22Z"
       }
     },
     {
@@ -31739,6 +31779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1297.",
         "pubDate": "Sat, 25 Jul 2026 03:46:26 GMT",
         "first_seen": "2026-07-25T03:52:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719892,
+          38.179025
+        ]
+      },
+      "properties": {
+        "incident_id": "299592",
+        "route": "I-65",
+        "mm_start": 129.8,
+        "mm_end": 129.8,
+        "title": "I-65 South at MM 129.8 At Grade Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Sat, 01 Aug 2026 18:30:51 GMT",
+        "first_seen": "2026-08-01T18:50:22Z"
       }
     },
     {
