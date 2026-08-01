@@ -26926,6 +26926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.41564,
+          38.217739
+        ]
+      },
+      "properties": {
+        "incident_id": "299569",
+        "route": "I-64",
+        "mm_start": 23.8,
+        "mm_end": 23.8,
+        "title": "I-64 West at MM 23.8 Area of Shelby County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
+        "pubDate": "Sat, 01 Aug 2026 12:07:25 GMT",
+        "first_seen": "2026-08-01T12:29:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.413818,
           38.217599
         ]
