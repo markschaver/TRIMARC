@@ -2786,6 +2786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.788935,
+          38.186895
+        ]
+      },
+      "properties": {
+        "incident_id": "299604",
+        "route": "I-264",
+        "mm_start": 8.8,
+        "mm_end": 8.8,
+        "title": "I-264 West at MM 8.8 Just Past Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Crash in this area.",
+        "pubDate": "Sat, 01 Aug 2026 22:07:13 GMT",
+        "first_seen": "2026-08-01T22:21:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.787146,
           38.187225
         ]
@@ -33339,6 +33359,26 @@
         "description": "Disabled Vehicle-Occupied : Disabled vehicle reported in the area.",
         "pubDate": "Sun, 05 Jul 2026 17:52:34 GMT",
         "first_seen": "2026-07-05T18:30:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.658751,
+          38.293709
+        ]
+      },
+      "properties": {
+        "incident_id": "299605",
+        "route": "I-71",
+        "mm_start": 4.3,
+        "mm_end": 4.3,
+        "title": "I-71 South at MM 4.3 Just Past I-264 in Jefferson County",
+        "description": "Crash : Crash in this area.",
+        "pubDate": "Sat, 01 Aug 2026 22:15:20 GMT",
+        "first_seen": "2026-08-01T22:21:47Z"
       }
     },
     {
