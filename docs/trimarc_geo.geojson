@@ -10466,6 +10466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.630399,
+          38.231404
+        ]
+      },
+      "properties": {
+        "incident_id": "299606",
+        "route": "I-264",
+        "mm_start": 18.3,
+        "mm_end": 18.3,
+        "title": "I-264 West at MM 18.3 Area of Breckenridge Ln in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_264_0179.",
+        "pubDate": "Sat, 01 Aug 2026 22:48:33 GMT",
+        "first_seen": "2026-08-01T23:22:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.628896,
           38.232231
         ]
@@ -14879,6 +14899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231",
         "pubDate": "Tue, 28 Jul 2026 20:40:42 GMT",
         "first_seen": "2026-07-28T21:10:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50887,
+          38.19128
+        ]
+      },
+      "properties": {
+        "incident_id": "299607",
+        "route": "I-265",
+        "mm_start": 23.3,
+        "mm_end": 23.3,
+        "title": "I-265 North at MM 23.3 Area of Taylorsville Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0231",
+        "pubDate": "Sat, 01 Aug 2026 22:58:30 GMT",
+        "first_seen": "2026-08-01T23:22:21Z"
       }
     },
     {
