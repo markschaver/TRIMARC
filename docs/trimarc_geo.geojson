@@ -886,6 +886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807773,
+          38.24884
+        ]
+      },
+      "properties": {
+        "incident_id": "299669",
+        "route": "I-264",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-264 East at MM 2.0 Just Past River Park Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : MetroSafe reports disabled vehicle on right shoulder",
+        "pubDate": "Sun, 02 Aug 2026 22:44:18 GMT",
+        "first_seen": "2026-08-02T23:06:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.810205,
           38.246663
         ]
