@@ -21606,6 +21606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.614327,
+          38.23486
+        ]
+      },
+      "properties": {
+        "incident_id": "299626",
+        "route": "I-64",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-64 East at MM 12.8 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131.",
+        "pubDate": "Sun, 02 Aug 2026 11:08:26 GMT",
+        "first_seen": "2026-08-02T11:29:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.612659,
           38.234207
         ]
@@ -29119,6 +29139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Fri, 24 Jul 2026 08:30:00 GMT",
         "first_seen": "2026-07-24T09:00:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701973,
+          38.127185
+        ]
+      },
+      "properties": {
+        "incident_id": "299625",
+        "route": "I-65",
+        "mm_start": 126.0,
+        "mm_end": 126.0,
+        "title": "I-65 North at MM 126.0 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Sun, 02 Aug 2026 10:47:11 GMT",
+        "first_seen": "2026-08-02T11:29:36Z"
       }
     },
     {
