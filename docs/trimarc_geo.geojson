@@ -32206,6 +32206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720703,
+          38.180328
+        ]
+      },
+      "properties": {
+        "incident_id": "299645",
+        "route": "I-65",
+        "mm_start": 129.9,
+        "mm_end": 129.9,
+        "title": "I-65 North at MM 129.9 Collector I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Sun, 02 Aug 2026 16:29:18 GMT",
+        "first_seen": "2026-08-02T16:35:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752539,
           38.213527
         ]
