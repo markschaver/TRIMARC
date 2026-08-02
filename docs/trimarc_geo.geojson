@@ -1866,6 +1866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.828082,
+          38.20696
+        ]
+      },
+      "properties": {
+        "incident_id": "299666",
+        "route": "I-264",
+        "mm_start": 5.2,
+        "mm_end": 5.2,
+        "title": "I-264 West at MM 5.2 At Cane Run Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0052.",
+        "pubDate": "Sun, 02 Aug 2026 21:42:51 GMT",
+        "first_seen": "2026-08-02T22:35:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827591,
           38.204081
         ]
@@ -23599,6 +23619,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171.",
         "pubDate": "Sun, 12 Jul 2026 16:50:07 GMT",
         "first_seen": "2026-07-12T17:09:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.538139,
+          38.223696
+        ]
+      },
+      "properties": {
+        "incident_id": "299667",
+        "route": "I-64",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-64 West at MM 17.1 At Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Sun, 02 Aug 2026 22:11:33 GMT",
+        "first_seen": "2026-08-02T22:35:19Z"
       }
     },
     {
