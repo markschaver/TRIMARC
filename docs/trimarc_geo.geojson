@@ -13346,6 +13346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.651533,
+          38.116793
+        ]
+      },
+      "properties": {
+        "incident_id": "299797",
+        "route": "I-265",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-265 East at MM 13.1 At Smyrna Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 03 Aug 2026 21:55:23 GMT",
+        "first_seen": "2026-08-03T22:25:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.649731,
           38.117066
         ]
@@ -32699,6 +32719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Wed, 22 Jul 2026 12:57:51 GMT",
         "first_seen": "2026-07-22T13:55:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719582,
+          38.174797
+        ]
+      },
+      "properties": {
+        "incident_id": "299796",
+        "route": "I-65",
+        "mm_start": 129.5,
+        "mm_end": 129.5,
+        "title": "I-65 North at MM 129.5 Approaching Grade Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Mon, 03 Aug 2026 21:53:38 GMT",
+        "first_seen": "2026-08-03T22:25:45Z"
       }
     },
     {
