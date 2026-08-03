@@ -28396,9 +28396,9 @@
         "mm_start": 124.7,
         "mm_end": 124.7,
         "title": "I-65 North at MM 124.7 Area of I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Mon, 03 Aug 2026 13:36:51 GMT",
-        "first_seen": "2026-08-03T14:19:52Z"
+        "first_seen": "2026-08-03T18:54:09Z"
       }
     },
     {
@@ -33339,6 +33339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001.",
         "pubDate": "Sat, 18 Jul 2026 14:23:45 GMT",
         "first_seen": "2026-07-18T14:29:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.722728,
+          38.262362
+        ]
+      },
+      "properties": {
+        "incident_id": "299743",
+        "route": "I-71",
+        "mm_start": 0.1,
+        "mm_end": 0.1,
+        "title": "I-71 South at MM 0.1 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001",
+        "pubDate": "Mon, 03 Aug 2026 18:17:16 GMT",
+        "first_seen": "2026-08-03T18:54:09Z"
       }
     },
     {
