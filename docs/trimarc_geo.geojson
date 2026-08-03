@@ -28266,6 +28266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "299707",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 North at MM 124.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 03 Aug 2026 13:36:51 GMT",
+        "first_seen": "2026-08-03T14:19:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701242,
           38.109793
         ]
@@ -33019,6 +33039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
         "pubDate": "Sat, 25 Jul 2026 12:12:37 GMT",
         "first_seen": "2026-07-25T13:11:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.742274,
+          38.263713
+        ]
+      },
+      "properties": {
+        "incident_id": "299704",
+        "route": "I-65",
+        "mm_start": 136.6,
+        "mm_end": 137.0,
+        "title": "I-65 South between MM 137.0 and 136.6 On Kennedy Bridge in Jefferson County",
+        "description": "Construction / Road Work : Beginning Sunday, Aug. 2, at 8 p.m., through 6 a.m. on Monday, Aug. 17, at 6 a.m.: The Court Avenue and 6th Street on-ramps to I-65 South in Jeffersonville, Indiana, will be closed. The right two lanes of the Kennedy Bridge and the I-65 South to I-64 West ramp will be closed.",
+        "pubDate": "Mon, 03 Aug 2026 13:14:02 GMT",
+        "first_seen": "2026-08-03T14:19:52Z"
       }
     },
     {
