@@ -13386,6 +13386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.646131,
+          38.117624
+        ]
+      },
+      "properties": {
+        "incident_id": "299781",
+        "route": "I-265",
+        "mm_start": 13.4,
+        "mm_end": 13.4,
+        "title": "I-265 East at MM 13.4 Approaching Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 03 Aug 2026 20:44:06 GMT",
+        "first_seen": "2026-08-03T20:50:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.644333,
           38.117922
         ]
@@ -23606,6 +23626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.5456,
+          38.223743
+        ]
+      },
+      "properties": {
+        "incident_id": "299775",
+        "route": "I-64",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-64 West at MM 16.7 Just Past Blankenbaker Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Mon, 03 Aug 2026 20:15:08 GMT",
+        "first_seen": "2026-08-03T20:50:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.54373,
           38.223808
         ]
@@ -26096,9 +26136,9 @@
         "mm_start": 20.2,
         "mm_end": 20.2,
         "title": "I-64 West at MM 20.2 Approaching I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Mon, 03 Aug 2026 20:09:38 GMT",
-        "first_seen": "2026-08-03T20:17:53Z"
+        "first_seen": "2026-08-03T20:50:41Z"
       }
     },
     {
