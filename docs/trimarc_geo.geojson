@@ -11746,6 +11746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.62319,
+          38.261146
+        ]
+      },
+      "properties": {
+        "incident_id": "299872",
+        "route": "I-264",
+        "mm_start": 20.6,
+        "mm_end": 20.6,
+        "title": "I-264 East at MM 20.6 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Tue, 04 Aug 2026 15:07:51 GMT",
+        "first_seen": "2026-08-04T15:34:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.623734,
           38.264011
         ]
@@ -12919,6 +12939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Fri, 31 Jul 2026 17:35:34 GMT",
         "first_seen": "2026-07-31T18:13:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.679431,
+          38.110063
+        ]
+      },
+      "properties": {
+        "incident_id": "299870",
+        "route": "I-265",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-265 West at MM 11.5 Area of Preston Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Tue, 04 Aug 2026 15:01:09 GMT",
+        "first_seen": "2026-08-04T15:34:13Z"
       }
     },
     {
