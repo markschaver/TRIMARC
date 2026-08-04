@@ -19486,6 +19486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743118,
+          38.257959
+        ]
+      },
+      "properties": {
+        "incident_id": "299832",
+        "route": "I-64",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-64 East at MM 5.1 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Tue, 04 Aug 2026 10:43:12 GMT",
+        "first_seen": "2026-08-04T11:09:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741316,
           38.257868
         ]
@@ -25226,6 +25246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.508857,
+          38.222749
+        ]
+      },
+      "properties": {
+        "incident_id": "299834",
+        "route": "I-64",
+        "mm_start": 18.7,
+        "mm_end": 18.7,
+        "title": "I-64 West at MM 18.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Tue, 04 Aug 2026 10:50:04 GMT",
+        "first_seen": "2026-08-04T11:09:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.506983,
           38.222691
         ]
@@ -26079,6 +26119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Thu, 30 Jul 2026 03:03:44 GMT",
         "first_seen": "2026-07-30T03:21:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.488612,
+          38.222073
+        ]
+      },
+      "properties": {
+        "incident_id": "299837",
+        "route": "I-64",
+        "mm_start": 19.8,
+        "mm_end": 19.8,
+        "title": "I-64 East at MM 19.8 Area of English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 04 Aug 2026 11:05:27 GMT",
+        "first_seen": "2026-08-04T11:09:38Z"
       }
     },
     {
@@ -33359,6 +33419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
         "pubDate": "Fri, 31 Jul 2026 12:12:26 GMT",
         "first_seen": "2026-07-31T12:44:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.724469,
+          38.185284
+        ]
+      },
+      "properties": {
+        "incident_id": "299831",
+        "route": "I-65",
+        "mm_start": 130.3,
+        "mm_end": 130.3,
+        "title": "I-65 South at MM 130.3 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Tue, 04 Aug 2026 10:35:33 GMT",
+        "first_seen": "2026-08-04T11:09:38Z"
       }
     },
     {
