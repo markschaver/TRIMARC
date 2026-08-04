@@ -29266,6 +29266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701492,
+          38.115592
+        ]
+      },
+      "properties": {
+        "incident_id": "299860",
+        "route": "I-65",
+        "mm_start": 125.2,
+        "mm_end": 125.2,
+        "title": "I-65 South at MM 125.2 Area of I-265 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 04 Aug 2026 13:30:20 GMT",
+        "first_seen": "2026-08-04T13:37:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701552,
           38.117041
         ]
