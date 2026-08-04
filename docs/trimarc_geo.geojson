@@ -37466,6 +37466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.573389,
+          38.317748
+        ]
+      },
+      "properties": {
+        "incident_id": "299879",
+        "route": "I-71",
+        "mm_start": 9.6,
+        "mm_end": 9.6,
+        "title": "I-71 North at MM 9.6 Just Past I-265 in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_841_0349",
+        "pubDate": "Tue, 04 Aug 2026 15:49:28 GMT",
+        "first_seen": "2026-08-04T16:26:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.571617,
           38.318103
         ]
