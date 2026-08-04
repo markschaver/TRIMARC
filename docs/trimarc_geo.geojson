@@ -13026,6 +13026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.679431,
+          38.110063
+        ]
+      },
+      "properties": {
+        "incident_id": "299940",
+        "route": "I-265",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-265 East at MM 11.5 Approaching Preston Hwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Tue, 04 Aug 2026 21:29:45 GMT",
+        "first_seen": "2026-08-04T21:50:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.677593,
           38.110162
         ]
@@ -14859,6 +14879,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0173",
         "pubDate": "Wed, 15 Jul 2026 18:32:00 GMT",
         "first_seen": "2026-07-15T18:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.572365,
+          38.141545
+        ]
+      },
+      "properties": {
+        "incident_id": "299939",
+        "route": "I-265",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-265 East at MM 17.9 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Tue, 04 Aug 2026 21:20:10 GMT",
+        "first_seen": "2026-08-04T21:50:47Z"
       }
     },
     {
@@ -30299,6 +30339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1252.",
         "pubDate": "Sat, 25 Jul 2026 07:50:47 GMT",
         "first_seen": "2026-07-25T08:48:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701895,
+          38.125737
+        ]
+      },
+      "properties": {
+        "incident_id": "299942",
+        "route": "I-65",
+        "mm_start": 125.9,
+        "mm_end": 125.9,
+        "title": "I-65 South at MM 125.9 Just Past Outer Loop in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 04 Aug 2026 21:46:12 GMT",
+        "first_seen": "2026-08-04T21:50:47Z"
       }
     },
     {
