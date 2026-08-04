@@ -24046,6 +24046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "299850",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 East at MM 16.8 Approaching Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Tue, 04 Aug 2026 12:23:40 GMT",
+        "first_seen": "2026-08-04T12:48:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.541862,
           38.223807
         ]
@@ -29326,6 +29346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701552,
+          38.117041
+        ]
+      },
+      "properties": {
+        "incident_id": "299853",
+        "route": "I-65",
+        "mm_start": 125.3,
+        "mm_end": 125.3,
+        "title": "I-65 South at MM 125.3 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 04 Aug 2026 12:33:15 GMT",
+        "first_seen": "2026-08-04T12:48:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701612,
           38.11849
         ]
@@ -33619,6 +33659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Tue, 28 Jul 2026 19:42:00 GMT",
         "first_seen": "2026-07-28T19:51:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "299854",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 North at MM 132.0 Area of Crittenden Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Tue, 04 Aug 2026 12:36:20 GMT",
+        "first_seen": "2026-08-04T12:48:45Z"
       }
     },
     {
