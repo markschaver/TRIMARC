@@ -29006,6 +29006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701306,
+          38.111243
+        ]
+      },
+      "properties": {
+        "incident_id": "299828",
+        "route": "I-65",
+        "mm_start": 124.9,
+        "mm_end": 124.9,
+        "title": "I-65 North at MM 124.9 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 04 Aug 2026 09:40:26 GMT",
+        "first_seen": "2026-08-04T10:14:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.70137,
           38.112693
         ]
