@@ -8126,6 +8126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.680841,
+          38.205079
+        ]
+      },
+      "properties": {
+        "incident_id": "299949",
+        "route": "I-264",
+        "mm_start": 15.0,
+        "mm_end": 15.0,
+        "title": "I-264 East at MM 15.0 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Tue, 04 Aug 2026 22:14:14 GMT",
+        "first_seen": "2026-08-04T23:05:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.67933,
           38.20589
         ]
@@ -16299,6 +16319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Fri, 17 Jul 2026 00:01:49 GMT",
         "first_seen": "2026-07-17T00:44:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503958,
+          38.238915
+        ]
+      },
+      "properties": {
+        "incident_id": "299945",
+        "route": "I-265",
+        "mm_start": 26.6,
+        "mm_end": 26.6,
+        "title": "I-265 North at MM 26.6 Approaching Shelbyville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Tue, 04 Aug 2026 21:58:55 GMT",
+        "first_seen": "2026-08-04T23:05:52Z"
       }
     },
     {
@@ -27706,6 +27746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.446594,
+          38.220135
+        ]
+      },
+      "properties": {
+        "incident_id": "299950",
+        "route": "I-64",
+        "mm_start": 22.1,
+        "mm_end": 22.1,
+        "title": "I-64 East at MM 22.1 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 04 Aug 2026 22:16:02 GMT",
+        "first_seen": "2026-08-04T23:05:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.444773,
           38.219996
         ]
@@ -32766,6 +32826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "299952",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 South at MM 128.8 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Tue, 04 Aug 2026 22:51:07 GMT",
+        "first_seen": "2026-08-04T23:05:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720588,
           38.166185
         ]
@@ -32919,6 +32999,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Fri, 31 Jul 2026 19:35:29 GMT",
         "first_seen": "2026-07-31T20:13:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "299953",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 South at MM 128.9 Approaching Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle on the right shoulder",
+        "pubDate": "Tue, 04 Aug 2026 22:51:07 GMT",
+        "first_seen": "2026-08-04T23:05:52Z"
       }
     },
     {
