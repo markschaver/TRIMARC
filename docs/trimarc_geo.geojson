@@ -12266,19 +12266,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.688366,
-          38.111426
+          -85.69534,
+          38.113192
         ]
       },
       "properties": {
         "incident_id": "299807",
         "route": "I-265",
         "mm_start": 10.0,
-        "mm_end": 12.0,
-        "title": "I-265 East between MM 10.0 and 12.0 Just Past I-65 in Jefferson County",
+        "mm_end": 11.2,
+        "title": "I-265 East between MM 10.0 and 11.2 Just Past I-65 in Jefferson County",
         "description": "Freeway Maintenance : TRIMARC operator reports freeway maintenance in the area.",
         "pubDate": "Tue, 04 Aug 2026 00:11:07 GMT",
-        "first_seen": "2026-08-04T00:45:13Z"
+        "first_seen": "2026-08-04T01:39:09Z"
       }
     },
     {
