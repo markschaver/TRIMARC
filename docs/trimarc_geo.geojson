@@ -23366,6 +23366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.55841,
+          38.223092
+        ]
+      },
+      "properties": {
+        "incident_id": "299823",
+        "route": "I-64",
+        "mm_start": 15.0,
+        "mm_end": 17.0,
+        "title": "I-64 West between MM 17.0 and 15.0 Between Blankenbaker Parkway and Hurstbourne Parkway in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0171.",
+        "pubDate": "Tue, 04 Aug 2026 04:56:15 GMT",
+        "first_seen": "2026-08-04T05:08:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.572988,
           38.222547
         ]
