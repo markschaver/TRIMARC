@@ -10296,9 +10296,9 @@
         "mm_start": 17.7,
         "mm_end": 17.7,
         "title": "I-264 East at MM 17.7 Approaching Breckenridge Ln. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
         "pubDate": "Wed, 05 Aug 2026 21:25:07 GMT",
-        "first_seen": "2026-08-05T21:56:47Z"
+        "first_seen": "2026-08-05T23:09:48Z"
       }
     },
     {
@@ -32439,6 +32439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Thu, 09 Jul 2026 23:15:48 GMT",
         "first_seen": "2026-07-09T23:31:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.714348,
+          38.151297
+        ]
+      },
+      "properties": {
+        "incident_id": "300114",
+        "route": "I-65",
+        "mm_start": 127.8,
+        "mm_end": 127.8,
+        "title": "I-65 South at MM 127.8 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 05 Aug 2026 22:51:49 GMT",
+        "first_seen": "2026-08-05T23:09:48Z"
       }
     },
     {
