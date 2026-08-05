@@ -14966,6 +14966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.57602,
+          38.141757
+        ]
+      },
+      "properties": {
+        "incident_id": "300041",
+        "route": "I-265",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-265 West at MM 17.7 Approaching Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Wed, 05 Aug 2026 17:14:12 GMT",
+        "first_seen": "2026-08-05T18:54:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.572365,
           38.141545
         ]
@@ -16539,6 +16559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Wed, 22 Jul 2026 20:40:09 GMT",
         "first_seen": "2026-07-22T20:55:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.502976,
+          38.249036
+        ]
+      },
+      "properties": {
+        "incident_id": "300051",
+        "route": "I-265",
+        "mm_start": 27.3,
+        "mm_end": 27.3,
+        "title": "I-265 North at MM 27.3 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Wed, 05 Aug 2026 18:16:24 GMT",
+        "first_seen": "2026-08-05T18:54:50Z"
       }
     },
     {
