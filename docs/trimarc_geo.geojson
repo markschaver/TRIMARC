@@ -15106,6 +15106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.56869,
+          38.141633
+        ]
+      },
+      "properties": {
+        "incident_id": "300084",
+        "route": "I-265",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-265 East at MM 18.1 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Wed, 05 Aug 2026 20:17:48 GMT",
+        "first_seen": "2026-08-05T20:34:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.565098,
           38.142212
         ]
@@ -15639,6 +15659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231",
         "pubDate": "Wed, 17 Jun 2026 20:50:56 GMT",
         "first_seen": "2026-06-17T21:43:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.508629,
+          38.192716
+        ]
+      },
+      "properties": {
+        "incident_id": "300067",
+        "route": "I-265",
+        "mm_start": 23.4,
+        "mm_end": 23.4,
+        "title": "I-265 South at MM 23.4 Approaching Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231",
+        "pubDate": "Wed, 05 Aug 2026 19:19:13 GMT",
+        "first_seen": "2026-08-05T20:34:47Z"
       }
     },
     {
@@ -30446,6 +30486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "300083",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 South at MM 125.6 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 05 Aug 2026 20:17:39 GMT",
+        "first_seen": "2026-08-05T20:34:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701768,
           38.122839
         ]
@@ -38146,6 +38206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.578541,
+          38.316268
+        ]
+      },
+      "properties": {
+        "incident_id": "300065",
+        "route": "I-71",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-71 South at MM 9.3 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Wed, 05 Aug 2026 19:07:02 GMT",
+        "first_seen": "2026-08-05T20:34:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.576871,
           38.316848
         ]
@@ -38399,6 +38479,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0116",
         "pubDate": "Wed, 05 Aug 2026 16:19:13 GMT",
         "first_seen": "2026-08-05T17:11:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.552978,
+          38.32385
+        ]
+      },
+      "properties": {
+        "incident_id": "300070",
+        "route": "I-71",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-71 North at MM 10.8 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Wed, 05 Aug 2026 19:20:26 GMT",
+        "first_seen": "2026-08-05T20:34:47Z"
       }
     },
     {
