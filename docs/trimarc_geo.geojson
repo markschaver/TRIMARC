@@ -26646,6 +26646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.488612,
+          38.222073
+        ]
+      },
+      "properties": {
+        "incident_id": "300034",
+        "route": "I-64",
+        "mm_start": 19.8,
+        "mm_end": 19.8,
+        "title": "I-64 East at MM 19.8 Just Past English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 05 Aug 2026 16:10:23 GMT",
+        "first_seen": "2026-08-05T17:11:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.486783,
           38.222014
         ]
@@ -38319,6 +38339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Tue, 14 Jul 2026 20:00:34 GMT",
         "first_seen": "2026-07-14T20:11:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.552978,
+          38.32385
+        ]
+      },
+      "properties": {
+        "incident_id": "300036",
+        "route": "I-71",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-71 North at MM 10.8 Approaching Jefferson/Oldham Co. Line in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Wed, 05 Aug 2026 16:19:13 GMT",
+        "first_seen": "2026-08-05T17:11:14Z"
       }
     },
     {
