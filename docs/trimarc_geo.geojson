@@ -8136,9 +8136,9 @@
         "mm_start": 15.0,
         "mm_end": 15.0,
         "title": "I-264 East at MM 15.0 Approaching Bardstown Rd. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Tue, 04 Aug 2026 22:14:14 GMT",
-        "first_seen": "2026-08-04T23:05:52Z"
+        "first_seen": "2026-08-05T00:15:15Z"
       }
     },
     {
@@ -18306,6 +18306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.78857,
+          38.274435
+        ]
+      },
+      "properties": {
+        "incident_id": "299955",
+        "route": "I-64",
+        "mm_start": 1.5,
+        "mm_end": 2.8,
+        "title": "I-64 West between MM 1.5 and 2.8 Between I-264 and 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : Freeway maintenance occurring in the area. May be viewed on CCTV_05_64_0012, CCTV_05_64_0022. Traffic Impacts: Lane and shoulder closures are possible. Date/Time: Daily/nightly. Project Limits: I-64 East and West from Second Street in downtown Louisville to the I-64/I-264 interchange near the Sherman Minton Bridge in west Louisville. Type of Work: Preventative maintenance project.",
+        "pubDate": "Tue, 04 Aug 2026 23:32:26 GMT",
+        "first_seen": "2026-08-05T00:15:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.796156,
           38.276791
         ]
@@ -19639,6 +19659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
         "pubDate": "Tue, 04 Aug 2026 19:39:54 GMT",
         "first_seen": "2026-08-04T20:28:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.744948,
+          38.258258
+        ]
+      },
+      "properties": {
+        "incident_id": "299957",
+        "route": "I-64",
+        "mm_start": 5.0,
+        "mm_end": 5.0,
+        "title": "I-64 East at MM 5.0 Area of Slugger Field in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Tue, 04 Aug 2026 23:49:47 GMT",
+        "first_seen": "2026-08-05T00:15:15Z"
       }
     },
     {
@@ -27459,6 +27499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Thu, 30 Jul 2026 22:22:04 GMT",
         "first_seen": "2026-07-30T22:26:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.463003,
+          38.221249
+        ]
+      },
+      "properties": {
+        "incident_id": "299958",
+        "route": "I-64",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-64 East at MM 21.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 04 Aug 2026 23:51:27 GMT",
+        "first_seen": "2026-08-05T00:15:15Z"
       }
     },
     {
