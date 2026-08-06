@@ -19046,6 +19046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.778235,
+          38.26577
+        ]
+      },
+      "properties": {
+        "incident_id": "300141",
+        "route": "I-64",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-64 West at MM 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
+        "pubDate": "Thu, 06 Aug 2026 04:30:11 GMT",
+        "first_seen": "2026-08-06T06:16:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.776605,
           38.265129
         ]
@@ -22639,6 +22659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Thu, 30 Jul 2026 21:09:06 GMT",
         "first_seen": "2026-07-30T21:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.624606,
+          38.237936
+        ]
+      },
+      "properties": {
+        "incident_id": "300146",
+        "route": "I-64",
+        "mm_start": 12.2,
+        "mm_end": 12.2,
+        "title": "I-64 West at MM 12.2 Area of Gilliland Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Thu, 06 Aug 2026 06:08:03 GMT",
+        "first_seen": "2026-08-06T06:16:27Z"
       }
     },
     {
