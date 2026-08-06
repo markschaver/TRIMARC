@@ -2326,6 +2326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.829763,
+          38.188591
+        ]
+      },
+      "properties": {
+        "incident_id": "300124",
+        "route": "I-264",
+        "mm_start": 6.5,
+        "mm_end": 6.5,
+        "title": "I-264 West at MM 6.5 Before Crums Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0065",
+        "pubDate": "Wed, 05 Aug 2026 23:50:27 GMT",
+        "first_seen": "2026-08-06T00:11:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.828669,
           38.187435
         ]
@@ -28239,6 +28259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Sat, 25 Jul 2026 00:01:46 GMT",
         "first_seen": "2026-07-25T00:09:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.435669,
+          38.219291
+        ]
+      },
+      "properties": {
+        "incident_id": "300125",
+        "route": "I-64",
+        "mm_start": 22.7,
+        "mm_end": 22.7,
+        "title": "I-64 East at MM 22.7 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Wed, 05 Aug 2026 23:59:08 GMT",
+        "first_seen": "2026-08-06T00:11:11Z"
       }
     },
     {
