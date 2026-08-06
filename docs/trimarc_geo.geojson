@@ -6706,6 +6706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.702939,
+          38.198495
+        ]
+      },
+      "properties": {
+        "incident_id": "300171",
+        "route": "I-264",
+        "mm_start": 13.7,
+        "mm_end": 13.7,
+        "title": "I-264 West at MM 13.7 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Thu, 06 Aug 2026 11:58:01 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.70136,
           38.19924
         ]
@@ -9166,6 +9186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.660052,
+          38.216945
+        ]
+      },
+      "properties": {
+        "incident_id": "300184",
+        "route": "I-264",
+        "mm_start": 16.4,
+        "mm_end": 16.4,
+        "title": "I-264 West at MM 16.4 Area of Taylorsville Road in Jefferson County",
+        "description": "Roadway Debris : Metro Safe has notified State Highway to remove the debris",
+        "pubDate": "Thu, 06 Aug 2026 13:13:50 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.658522,
           38.217737
         ]
@@ -9439,6 +9479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Wed, 15 Jul 2026 20:39:00 GMT",
         "first_seen": "2026-07-15T21:09:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.653827,
+          38.220044
+        ]
+      },
+      "properties": {
+        "incident_id": "300173",
+        "route": "I-264",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-264 East at MM 16.8 Area of Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 06 Aug 2026 12:00:31 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
       }
     },
     {
@@ -14719,6 +14779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0173.",
         "pubDate": "Tue, 30 Jun 2026 12:23:41 GMT",
         "first_seen": "2026-06-30T12:59:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.586775,
+          38.14072
+        ]
+      },
+      "properties": {
+        "incident_id": "300168",
+        "route": "I-265",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-265 East at MM 17.1 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Thu, 06 Aug 2026 11:43:04 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
       }
     },
     {
@@ -20419,6 +20499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055.",
         "pubDate": "Sat, 01 Aug 2026 13:26:56 GMT",
         "first_seen": "2026-08-01T13:34:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.735366,
+          38.260766
+        ]
+      },
+      "properties": {
+        "incident_id": "300174",
+        "route": "I-64",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-64 East at MM 5.6 Area of Story Ave in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Thu, 06 Aug 2026 12:04:06 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
       }
     },
     {
@@ -34166,6 +34266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719296,
+          38.177657
+        ]
+      },
+      "properties": {
+        "incident_id": "300170",
+        "route": "I-65",
+        "mm_start": 129.7,
+        "mm_end": 129.7,
+        "title": "I-65 South at MM 129.7 Area of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Thu, 06 Aug 2026 11:53:11 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719892,
           38.179025
         ]
@@ -34779,6 +34899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Wed, 22 Jul 2026 19:39:48 GMT",
         "first_seen": "2026-07-22T19:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751703,
+          38.208004
+        ]
+      },
+      "properties": {
+        "incident_id": "300183",
+        "route": "I-65",
+        "mm_start": 132.6,
+        "mm_end": 132.6,
+        "title": "I-65 North at MM 132.6 Area of Crittenden Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Thu, 06 Aug 2026 13:09:54 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
       }
     },
     {
@@ -35959,6 +36099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
         "pubDate": "Mon, 20 Jul 2026 23:38:33 GMT",
         "first_seen": "2026-07-20T23:49:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.651783,
+          38.29207
+        ]
+      },
+      "properties": {
+        "incident_id": "300178",
+        "route": "I-71",
+        "mm_start": 4.7,
+        "mm_end": 4.7,
+        "title": "I-71 South at MM 4.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Thu, 06 Aug 2026 12:35:21 GMT",
+        "first_seen": "2026-08-06T13:21:43Z"
       }
     },
     {
