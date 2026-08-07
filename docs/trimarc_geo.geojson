@@ -6426,6 +6426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708608,
+          38.194818
+        ]
+      },
+      "properties": {
+        "incident_id": "300411",
+        "route": "I-264",
+        "mm_start": 13.3,
+        "mm_end": 13.3,
+        "title": "I-264 West at MM 13.3 At Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Fri, 07 Aug 2026 21:39:08 GMT",
+        "first_seen": "2026-08-07T21:50:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.707146,
           38.19569
         ]
@@ -13579,6 +13599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
         "pubDate": "Sat, 25 Jul 2026 00:43:50 GMT",
         "first_seen": "2026-07-25T00:54:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.673994,
+          38.110746
+        ]
+      },
+      "properties": {
+        "incident_id": "300403",
+        "route": "I-265",
+        "mm_start": 11.8,
+        "mm_end": 11.8,
+        "title": "I-265 East at MM 11.8 At Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Fri, 07 Aug 2026 21:08:22 GMT",
+        "first_seen": "2026-08-07T21:50:19Z"
       }
     },
     {
@@ -31426,6 +31466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "300409",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 South at MM 125.6 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 07 Aug 2026 21:33:43 GMT",
+        "first_seen": "2026-08-07T21:50:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701768,
           38.122839
         ]
@@ -35719,6 +35779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
         "pubDate": "Wed, 22 Jul 2026 19:35:29 GMT",
         "first_seen": "2026-07-22T19:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752193,
+          38.216412
+        ]
+      },
+      "properties": {
+        "incident_id": "300412",
+        "route": "I-65",
+        "mm_start": 133.2,
+        "mm_end": 133.2,
+        "title": "I-65 North at MM 133.2 Area of University Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Fri, 07 Aug 2026 21:40:19 GMT",
+        "first_seen": "2026-08-07T21:50:19Z"
       }
     },
     {
