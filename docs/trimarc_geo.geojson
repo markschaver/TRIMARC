@@ -606,6 +606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.80523,
+          38.258724
+        ]
+      },
+      "properties": {
+        "incident_id": "300328",
+        "route": "I-264",
+        "mm_start": 1.3,
+        "mm_end": 1.3,
+        "title": "I-264 West at MM 1.3 Area of River Park Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Fri, 07 Aug 2026 12:43:19 GMT",
+        "first_seen": "2026-08-07T13:52:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80542,
           38.257287
         ]
@@ -9419,6 +9439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Tue, 16 Jun 2026 20:32:06 GMT",
         "first_seen": "2026-06-16T21:41:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.655425,
+          38.219299
+        ]
+      },
+      "properties": {
+        "incident_id": "300332",
+        "route": "I-264",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-264 East at MM 16.7 Area of Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 07 Aug 2026 13:29:29 GMT",
+        "first_seen": "2026-08-07T13:52:58Z"
       }
     },
     {
