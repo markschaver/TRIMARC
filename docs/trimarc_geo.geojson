@@ -1446,6 +1446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821777,
+          38.227466
+        ]
+      },
+      "properties": {
+        "incident_id": "300390",
+        "route": "I-264",
+        "mm_start": 3.7,
+        "mm_end": 3.7,
+        "title": "I-264 West at MM 3.7 Just Past Bells Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Fri, 07 Aug 2026 20:14:40 GMT",
+        "first_seen": "2026-08-07T20:59:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.821939,
           38.226027
         ]
@@ -10079,6 +10099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Fri, 07 Aug 2026 11:23:59 GMT",
         "first_seen": "2026-08-07T11:32:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647456,
+          38.222946
+        ]
+      },
+      "properties": {
+        "incident_id": "300376",
+        "route": "I-264",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-264 East at MM 17.2 Just Past Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 07 Aug 2026 19:26:29 GMT",
+        "first_seen": "2026-08-07T20:59:29Z"
       }
     },
     {
@@ -29146,6 +29186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.428386,
+          38.218727
+        ]
+      },
+      "properties": {
+        "incident_id": "300398",
+        "route": "I-64",
+        "mm_start": 23.1,
+        "mm_end": 23.1,
+        "title": "I-64 East at MM 23.1 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Fri, 07 Aug 2026 20:54:11 GMT",
+        "first_seen": "2026-08-07T20:59:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.426565,
           38.218586
         ]
@@ -35579,6 +35639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Wed, 22 Jul 2026 19:39:48 GMT",
         "first_seen": "2026-07-22T19:53:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.750239,
+          38.207134
+        ]
+      },
+      "properties": {
+        "incident_id": "300396",
+        "route": "I-65",
+        "mm_start": 132.5,
+        "mm_end": 132.5,
+        "title": "I-65 South at MM 132.5 Area of Crittenden Drive in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Fri, 07 Aug 2026 20:50:38 GMT",
+        "first_seen": "2026-08-07T20:59:29Z"
       }
     },
     {
