@@ -5446,6 +5446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720051,
+          38.190804
+        ]
+      },
+      "properties": {
+        "incident_id": "300312",
+        "route": "I-264",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-264 West at MM 12.6 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Fri, 07 Aug 2026 11:04:56 GMT",
+        "first_seen": "2026-08-07T11:32:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.718217,
           38.190878
         ]
@@ -9979,6 +9999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Sat, 11 Jul 2026 03:30:36 GMT",
         "first_seen": "2026-07-11T03:41:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647456,
+          38.222946
+        ]
+      },
+      "properties": {
+        "incident_id": "300319",
+        "route": "I-264",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-264 East at MM 17.2 Area of Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 07 Aug 2026 11:23:59 GMT",
+        "first_seen": "2026-08-07T11:32:10Z"
       }
     },
     {
@@ -22826,6 +22866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.637007,
+          38.235801
+        ]
+      },
+      "properties": {
+        "incident_id": "300307",
+        "route": "I-64",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-64 West at MM 11.5 Area of Breckenridge Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0114",
+        "pubDate": "Fri, 07 Aug 2026 10:50:46 GMT",
+        "first_seen": "2026-08-07T11:32:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.635169,
           38.236001
         ]
@@ -28726,6 +28786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.430207,
+          38.218868
+        ]
+      },
+      "properties": {
+        "incident_id": "300309",
+        "route": "I-64",
+        "mm_start": 23.0,
+        "mm_end": 23.0,
+        "title": "I-64 West at MM 23.0 Area of Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 07 Aug 2026 10:56:54 GMT",
+        "first_seen": "2026-08-07T11:32:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.426565,
           38.218586
         ]
@@ -30019,6 +30099,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Thu, 25 Jun 2026 19:18:29 GMT",
         "first_seen": "2026-06-25T20:02:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701242,
+          38.109793
+        ]
+      },
+      "properties": {
+        "incident_id": "300311",
+        "route": "I-65",
+        "mm_start": 124.8,
+        "mm_end": 124.8,
+        "title": "I-65 South at MM 124.8 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV)5-65_01252",
+        "pubDate": "Fri, 07 Aug 2026 11:01:16 GMT",
+        "first_seen": "2026-08-07T11:32:10Z"
       }
     },
     {
