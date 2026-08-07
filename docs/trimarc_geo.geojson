@@ -23906,6 +23906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.591998,
+          38.227502
+        ]
+      },
+      "properties": {
+        "incident_id": "300357",
+        "route": "I-64",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-64 East at MM 14.1 Before Hurstbourne Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Fri, 07 Aug 2026 18:39:06 GMT",
+        "first_seen": "2026-08-07T19:16:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.59029,
           38.226965
         ]
@@ -27519,6 +27539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Tue, 28 Jul 2026 18:49:08 GMT",
         "first_seen": "2026-07-28T19:12:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.483125,
+          38.221896
+        ]
+      },
+      "properties": {
+        "incident_id": "300369",
+        "route": "I-64",
+        "mm_start": 20.1,
+        "mm_end": 20.1,
+        "title": "I-64 West at MM 20.1 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Fri, 07 Aug 2026 19:00:30 GMT",
+        "first_seen": "2026-08-07T19:16:22Z"
       }
     },
     {
@@ -31706,6 +31746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701973,
+          38.127185
+        ]
+      },
+      "properties": {
+        "incident_id": "300358",
+        "route": "I-65",
+        "mm_start": 126.0,
+        "mm_end": 126.0,
+        "title": "I-65 South at MM 126.0 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 07 Aug 2026 18:39:51 GMT",
+        "first_seen": "2026-08-07T19:16:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702239,
           38.128624
         ]
@@ -33979,6 +34039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Tue, 04 Aug 2026 22:51:07 GMT",
         "first_seen": "2026-08-04T23:05:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "300355",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 South at MM 128.8 At Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 07 Aug 2026 18:31:09 GMT",
+        "first_seen": "2026-08-07T19:16:22Z"
       }
     },
     {
@@ -38459,6 +38539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Mon, 03 Aug 2026 20:48:58 GMT",
         "first_seen": "2026-08-03T21:27:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.594051,
+          38.308623
+        ]
+      },
+      "properties": {
+        "incident_id": "300362",
+        "route": "I-71",
+        "mm_start": 8.3,
+        "mm_end": 8.3,
+        "title": "I-71 South at MM 8.3 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Fri, 07 Aug 2026 18:51:17 GMT",
+        "first_seen": "2026-08-07T19:16:22Z"
       }
     },
     {
