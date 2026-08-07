@@ -18946,6 +18946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.78258,
+          38.270243
+        ]
+      },
+      "properties": {
+        "incident_id": "300294",
+        "route": "I-64",
+        "mm_start": 2.2,
+        "mm_end": 3.0,
+        "title": "I-64 West between MM 3.0 and 2.2 Between 22nd Street and I-264 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
+        "pubDate": "Fri, 07 Aug 2026 04:33:45 GMT",
+        "first_seen": "2026-08-07T05:15:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.786191,
           38.273382
         ]
