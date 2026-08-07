@@ -1946,6 +1946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.828254,
+          38.197625
+        ]
+      },
+      "properties": {
+        "incident_id": "300297",
+        "route": "I-264",
+        "mm_start": 5.2,
+        "mm_end": 6.5,
+        "title": "I-264 East between MM 5.2 and 6.5 Between Cane Run Road and Dixie Highway in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0052.",
+        "pubDate": "Fri, 07 Aug 2026 05:24:29 GMT",
+        "first_seen": "2026-08-07T06:48:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827591,
           38.204081
         ]
