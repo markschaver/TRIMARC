@@ -16966,6 +16966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.50251,
+          38.253358
+        ]
+      },
+      "properties": {
+        "incident_id": "300336",
+        "route": "I-265",
+        "mm_start": 27.6,
+        "mm_end": 27.6,
+        "title": "I-265 South at MM 27.6 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Fri, 07 Aug 2026 14:02:49 GMT",
+        "first_seen": "2026-08-07T14:56:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.501953,
           38.259134
         ]
@@ -18759,6 +18779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
         "pubDate": "Fri, 26 Jun 2026 21:08:07 GMT",
         "first_seen": "2026-06-26T21:13:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.793535,
+          38.276214
+        ]
+      },
+      "properties": {
+        "incident_id": "300337",
+        "route": "I-64",
+        "mm_start": 1.3,
+        "mm_end": 2.4,
+        "title": "I-64 West between MM 2.4 and 1.3 Between 22nd Street & I-264 in Jefferson County",
+        "description": "Freeway Maintenance : The Kentucky Transportation Cabinet (KYTC) advises motorists of a lane closure on Interstate 64 on Aug. 7, in Jefferson County. The inside lane of I-64 West between 23rd Street (mile point 2.4) and 34th Street (mile point 1.3) will be closed from 10 a.m. to 2 p.m. tomorrow, Aug. 7. The lane closure is necessary to allow contract crews to perform a routine joint inspection.",
+        "pubDate": "Fri, 07 Aug 2026 14:05:38 GMT",
+        "first_seen": "2026-08-07T14:56:14Z"
       }
     },
     {
