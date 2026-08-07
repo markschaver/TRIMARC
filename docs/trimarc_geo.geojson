@@ -13306,6 +13306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.675769,
+          38.110392
+        ]
+      },
+      "properties": {
+        "incident_id": "300285",
+        "route": "I-265",
+        "mm_start": 11.7,
+        "mm_end": 11.7,
+        "title": "I-265 East at MM 11.7 Area of Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Fri, 07 Aug 2026 00:45:15 GMT",
+        "first_seen": "2026-08-07T03:15:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.673994,
           38.110746
         ]
