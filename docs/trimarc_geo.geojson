@@ -31486,6 +31486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "300447",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Sat, 08 Aug 2026 06:47:28 GMT",
+        "first_seen": "2026-08-08T07:06:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701677,
           38.119937
         ]
@@ -32459,6 +32479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Thu, 02 Jul 2026 06:53:12 GMT",
         "first_seen": "2026-07-02T07:42:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.703461,
+          38.131349
+        ]
+      },
+      "properties": {
+        "incident_id": "300446",
+        "route": "I-65",
+        "mm_start": 126.3,
+        "mm_end": 126.3,
+        "title": "I-65 South at MM 126.3 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Sat, 08 Aug 2026 06:45:30 GMT",
+        "first_seen": "2026-08-08T07:06:00Z"
       }
     },
     {
@@ -36999,6 +37039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037",
         "pubDate": "Thu, 16 Jul 2026 20:49:38 GMT",
         "first_seen": "2026-07-16T21:25:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669348,
+          38.291982
+        ]
+      },
+      "properties": {
+        "incident_id": "300448",
+        "route": "I-71",
+        "mm_start": 3.7,
+        "mm_end": 3.7,
+        "title": "I-71 South at MM 3.7 Area of Blankenbaker Lane Overpass in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_71_0037.",
+        "pubDate": "Sat, 08 Aug 2026 06:49:48 GMT",
+        "first_seen": "2026-08-08T07:06:00Z"
       }
     },
     {
