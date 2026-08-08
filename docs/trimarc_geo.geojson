@@ -15246,6 +15246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.586775,
+          38.14072
+        ]
+      },
+      "properties": {
+        "incident_id": "300484",
+        "route": "I-265",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-265 West at MM 17.1 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173.",
+        "pubDate": "Sat, 08 Aug 2026 16:32:48 GMT",
+        "first_seen": "2026-08-08T16:38:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.585033,
           38.141174
         ]
@@ -28986,6 +29006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.45571,
+          38.220837
+        ]
+      },
+      "properties": {
+        "incident_id": "300482",
+        "route": "I-64",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-64 East at MM 21.6 Approaching Eastwood Fisherville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214.",
+        "pubDate": "Sat, 08 Aug 2026 16:01:31 GMT",
+        "first_seen": "2026-08-08T16:38:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.453887,
           38.220697
         ]
@@ -29646,6 +29686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.422924,
+          38.218303
+        ]
+      },
+      "properties": {
+        "incident_id": "300481",
+        "route": "I-64",
+        "mm_start": 23.4,
+        "mm_end": 23.4,
+        "title": "I-64 East at MM 23.4 Approaching Shelby County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
+        "pubDate": "Sat, 08 Aug 2026 15:56:45 GMT",
+        "first_seen": "2026-08-08T16:38:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.421103,
           38.218162
         ]
@@ -29879,6 +29939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0238.",
         "pubDate": "Sun, 26 Jul 2026 23:22:43 GMT",
         "first_seen": "2026-07-26T23:36:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.417461,
+          38.21788
+        ]
+      },
+      "properties": {
+        "incident_id": "300480",
+        "route": "I-64",
+        "mm_start": 23.7,
+        "mm_end": 23.7,
+        "title": "I-64 East at MM 23.7 Area of Shelby County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
+        "pubDate": "Sat, 08 Aug 2026 15:50:45 GMT",
+        "first_seen": "2026-08-08T16:38:08Z"
       }
     },
     {
