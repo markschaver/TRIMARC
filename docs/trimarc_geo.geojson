@@ -36486,6 +36486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751455,
+          38.220699
+        ]
+      },
+      "properties": {
+        "incident_id": "300504",
+        "route": "I-65",
+        "mm_start": 133.5,
+        "mm_end": 133.5,
+        "title": "I-65 North at MM 133.5 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337.",
+        "pubDate": "Sat, 08 Aug 2026 21:30:53 GMT",
+        "first_seen": "2026-08-08T21:47:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
