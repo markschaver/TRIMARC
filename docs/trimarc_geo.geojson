@@ -19766,6 +19766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.770997,
+          38.261605
+        ]
+      },
+      "properties": {
+        "incident_id": "300452",
+        "route": "I-64",
+        "mm_start": 3.5,
+        "mm_end": 3.5,
+        "title": "I-64 West at MM 3.5 Just Past 9th St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0041.",
+        "pubDate": "Sat, 08 Aug 2026 10:25:40 GMT",
+        "first_seen": "2026-08-08T10:54:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.767985,
           38.260001
         ]
@@ -33199,6 +33219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
         "pubDate": "Thu, 30 Jul 2026 10:47:14 GMT",
         "first_seen": "2026-07-30T21:45:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "300454",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sat, 08 Aug 2026 10:47:10 GMT",
+        "first_seen": "2026-08-08T10:54:17Z"
       }
     },
     {
