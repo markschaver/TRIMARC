@@ -1866,6 +1866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82294,
+          38.214373
+        ]
+      },
+      "properties": {
+        "incident_id": "300467",
+        "route": "I-264",
+        "mm_start": 4.6,
+        "mm_end": 4.6,
+        "title": "I-264 West at MM 4.6 Approaching Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041.",
+        "pubDate": "Sat, 08 Aug 2026 12:30:14 GMT",
+        "first_seen": "2026-08-08T13:13:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82476,
           38.211905
         ]
@@ -10806,6 +10826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.636448,
+          38.228117
+        ]
+      },
+      "properties": {
+        "incident_id": "300469",
+        "route": "I-264",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-264 East at MM 17.9 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 08 Aug 2026 12:49:05 GMT",
+        "first_seen": "2026-08-08T13:13:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.634942,
           38.228944
         ]
@@ -11499,6 +11539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Mon, 20 Jul 2026 21:35:40 GMT",
         "first_seen": "2026-07-20T21:52:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.62275,
+          38.239118
+        ]
+      },
+      "properties": {
+        "incident_id": "300468",
+        "route": "I-264",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-264 East at MM 19.0 Approaching Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199.",
+        "pubDate": "Sat, 08 Aug 2026 12:40:32 GMT",
+        "first_seen": "2026-08-08T13:13:20Z"
       }
     },
     {
@@ -18979,6 +19039,26 @@
         "description": "Crash : May be viewed on CCTV_06_64_0012",
         "pubDate": "Sat, 01 Aug 2026 00:08:39 GMT",
         "first_seen": "2026-08-01T00:56:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.805203,
+          38.277162
+        ]
+      },
+      "properties": {
+        "incident_id": "300466",
+        "route": "I-64",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-64 East at MM 1.2 Area of I-264 West End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0012.",
+        "pubDate": "Sat, 08 Aug 2026 12:25:19 GMT",
+        "first_seen": "2026-08-08T13:13:20Z"
       }
     },
     {
