@@ -35506,6 +35506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719214,
+          38.176218
+        ]
+      },
+      "properties": {
+        "incident_id": "300478",
+        "route": "I-65",
+        "mm_start": 129.6,
+        "mm_end": 129.6,
+        "title": "I-65 South at MM 129.6 Area of Grade Lane in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Sat, 08 Aug 2026 15:37:16 GMT",
+        "first_seen": "2026-08-08T15:48:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719296,
           38.177657
         ]
@@ -37526,6 +37546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.651783,
+          38.29207
+        ]
+      },
+      "properties": {
+        "incident_id": "300477",
+        "route": "I-71",
+        "mm_start": 4.7,
+        "mm_end": 4.7,
+        "title": "I-71 North at MM 4.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
+        "pubDate": "Sat, 08 Aug 2026 15:30:18 GMT",
+        "first_seen": "2026-08-08T15:48:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.650339,
           38.291189
         ]
@@ -37599,6 +37639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
         "pubDate": "Tue, 30 Jun 2026 13:45:42 GMT",
         "first_seen": "2026-06-30T16:51:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.650339,
+          38.291189
+        ]
+      },
+      "properties": {
+        "incident_id": "300479",
+        "route": "I-71",
+        "mm_start": 4.8,
+        "mm_end": 4.8,
+        "title": "I-71 South at MM 4.8 Area of I-24 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
+        "pubDate": "Sat, 08 Aug 2026 15:33:55 GMT",
+        "first_seen": "2026-08-08T15:48:42Z"
       }
     },
     {
