@@ -3666,6 +3666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.774983,
+          38.189237
+        ]
+      },
+      "properties": {
+        "incident_id": "300489",
+        "route": "I-264",
+        "mm_start": 9.6,
+        "mm_end": 9.6,
+        "title": "I-264 West at MM 9.6 Approaching Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Sat, 08 Aug 2026 17:57:02 GMT",
+        "first_seen": "2026-08-08T18:42:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.773156,
           38.189418
         ]
@@ -3979,6 +3999,46 @@
         "description": "Crash : Metrosafe reports of a crash in the area",
         "pubDate": "Wed, 22 Jul 2026 21:19:10 GMT",
         "first_seen": "2026-07-22T21:34:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.762163,
+          38.189955
+        ]
+      },
+      "properties": {
+        "incident_id": "300490",
+        "route": "I-264",
+        "mm_start": 10.3,
+        "mm_end": 10.3,
+        "title": "I-264 West at MM 10.3 Area of Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sat, 08 Aug 2026 18:01:59 GMT",
+        "first_seen": "2026-08-08T18:42:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.762163,
+          38.189955
+        ]
+      },
+      "properties": {
+        "incident_id": "300491",
+        "route": "I-264",
+        "mm_start": 10.3,
+        "mm_end": 10.3,
+        "title": "I-264 East at MM 10.3 Area of Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sat, 08 Aug 2026 18:05:59 GMT",
+        "first_seen": "2026-08-08T18:42:34Z"
       }
     },
     {
