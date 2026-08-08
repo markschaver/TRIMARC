@@ -23706,6 +23706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.604085,
+          38.231346
+        ]
+      },
+      "properties": {
+        "incident_id": "300443",
+        "route": "I-64",
+        "mm_start": 13.4,
+        "mm_end": 13.4,
+        "title": "I-64 West at MM 13.4 Area of Oxmoor Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Sat, 08 Aug 2026 04:23:52 GMT",
+        "first_seen": "2026-08-08T05:01:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.600644,
           38.230237
         ]
