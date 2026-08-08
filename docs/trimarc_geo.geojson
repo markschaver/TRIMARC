@@ -36106,6 +36106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752193,
+          38.216412
+        ]
+      },
+      "properties": {
+        "incident_id": "300457",
+        "route": "I-65",
+        "mm_start": 133.2,
+        "mm_end": 133.2,
+        "title": "I-65 North at MM 133.2 Area of Eastern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330.",
+        "pubDate": "Sat, 08 Aug 2026 11:10:14 GMT",
+        "first_seen": "2026-08-08T11:32:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
@@ -36799,6 +36819,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0030",
         "pubDate": "Fri, 17 Jul 2026 02:00:36 GMT",
         "first_seen": "2026-07-17T02:19:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.689606,
+          38.279613
+        ]
+      },
+      "properties": {
+        "incident_id": "300455",
+        "route": "I-71",
+        "mm_start": 2.3,
+        "mm_end": 2.3,
+        "title": "I-71 South at MM 2.3 Approaching Zorn Ave in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030.",
+        "pubDate": "Sat, 08 Aug 2026 10:58:00 GMT",
+        "first_seen": "2026-08-08T11:32:27Z"
       }
     },
     {
