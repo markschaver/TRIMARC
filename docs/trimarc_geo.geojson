@@ -12286,6 +12286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.629489,
+          38.272995
+        ]
+      },
+      "properties": {
+        "incident_id": "300433",
+        "route": "I-264",
+        "mm_start": 21.0,
+        "mm_end": 22.0,
+        "title": "I-264 West between MM 22.0 and 21.0 Between I-71/I-264 Split and Westport Rd in Jefferson County",
+        "description": "Construction / Road Work : I-264W is closed from MM 22 to MM 21 in Jefferson County from Friday, August 7 at 8 PM until Monday, August 10 at 6 AM due to roadwork. Detour I-71 North to I-265 South to I-64 West to reconnect with I-264 West, or by taking I-64 East to reach destinations within the closure area.",
+        "pubDate": "Sat, 08 Aug 2026 00:00:00 GMT",
+        "first_seen": "2026-08-08T02:13:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.625531,
           38.268112
         ]
