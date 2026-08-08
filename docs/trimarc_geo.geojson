@@ -30946,6 +30946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701677,
+          38.119937
+        ]
+      },
+      "properties": {
+        "incident_id": "300445",
+        "route": "I-65",
+        "mm_start": 125.0,
+        "mm_end": 126.0,
+        "title": "I-65 South between MM 126.0 and 125.0 Between Outer Loop and I-265 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_65_1252.",
+        "pubDate": "Sat, 08 Aug 2026 05:43:35 GMT",
+        "first_seen": "2026-08-08T05:57:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701432,
           38.114142
         ]
