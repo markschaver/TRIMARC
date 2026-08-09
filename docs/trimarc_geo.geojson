@@ -1546,6 +1546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821939,
+          38.226027
+        ]
+      },
+      "properties": {
+        "incident_id": "300523",
+        "route": "I-264",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-264 East at MM 3.8 Area of Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041.",
+        "pubDate": "Sun, 09 Aug 2026 10:44:21 GMT",
+        "first_seen": "2026-08-09T11:14:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822101,
           38.224559
         ]
@@ -22926,6 +22946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.676998,
+          38.239835
+        ]
+      },
+      "properties": {
+        "incident_id": "300524",
+        "route": "I-64",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-64 East at MM 9.3 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sun, 09 Aug 2026 10:56:46 GMT",
+        "first_seen": "2026-08-09T11:14:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.675248,
           38.239297
         ]
@@ -31879,6 +31919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Sat, 08 Aug 2026 06:47:28 GMT",
         "first_seen": "2026-08-08T07:06:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "300525",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Sun, 09 Aug 2026 11:05:26 GMT",
+        "first_seen": "2026-08-09T11:14:58Z"
       }
     },
     {
