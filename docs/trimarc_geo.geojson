@@ -2686,6 +2686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.812703,
+          38.185145
+        ]
+      },
+      "properties": {
+        "incident_id": "300538",
+        "route": "I-264",
+        "mm_start": 7.5,
+        "mm_end": 7.5,
+        "title": "I-264 East at MM 7.5 Area of Dixie Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075.",
+        "pubDate": "Sun, 09 Aug 2026 14:44:32 GMT",
+        "first_seen": "2026-08-09T15:13:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.810875,
           38.185257
         ]
@@ -23011,14 +23031,14 @@
         ]
       },
       "properties": {
-        "incident_id": "300524",
+        "incident_id": "300540",
         "route": "I-64",
         "mm_start": 9.3,
         "mm_end": 9.3,
         "title": "I-64 East at MM 9.3 Approaching Cannons Lane in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
-        "pubDate": "Sun, 09 Aug 2026 10:56:46 GMT",
-        "first_seen": "2026-08-09T11:14:58Z"
+        "description": "Pedestrian : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sun, 09 Aug 2026 15:03:21 GMT",
+        "first_seen": "2026-08-09T15:13:23Z"
       }
     },
     {
@@ -23039,6 +23059,26 @@
         "description": "Roadway Debris : TRIMARC reports incident in area.",
         "pubDate": "Thu, 18 Jun 2026 09:13:40 GMT",
         "first_seen": "2026-06-18T10:12:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.675248,
+          38.239297
+        ]
+      },
+      "properties": {
+        "incident_id": "300524",
+        "route": "I-64",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-64 East at MM 9.4 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sun, 09 Aug 2026 10:56:46 GMT",
+        "first_seen": "2026-08-09T15:13:23Z"
       }
     },
     {
