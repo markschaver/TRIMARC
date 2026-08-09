@@ -6366,6 +6366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "300560",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Approaching Hurstbourne Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131.",
+        "pubDate": "Sun, 09 Aug 2026 20:00:05 GMT",
+        "first_seen": "2026-08-09T20:04:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -6959,6 +6979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
         "pubDate": "Thu, 06 Aug 2026 11:58:01 GMT",
         "first_seen": "2026-08-06T13:21:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.702939,
+          38.198495
+        ]
+      },
+      "properties": {
+        "incident_id": "300559",
+        "route": "I-264",
+        "mm_start": 13.7,
+        "mm_end": 13.7,
+        "title": "I-264 West at MM 13.7 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sun, 09 Aug 2026 19:44:58 GMT",
+        "first_seen": "2026-08-09T20:04:57Z"
       }
     },
     {
