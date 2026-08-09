@@ -11686,6 +11686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.624822,
+          38.235128
+        ]
+      },
+      "properties": {
+        "incident_id": "300552",
+        "route": "I-264",
+        "mm_start": 18.7,
+        "mm_end": 18.7,
+        "title": "I-264 East at MM 18.7 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Sun, 09 Aug 2026 17:37:03 GMT",
+        "first_seen": "2026-08-09T17:59:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.623895,
           38.236369
         ]
@@ -11699,6 +11719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
         "pubDate": "Thu, 16 Jul 2026 23:49:40 GMT",
         "first_seen": "2026-07-17T00:44:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.623895,
+          38.236369
+        ]
+      },
+      "properties": {
+        "incident_id": "300551",
+        "route": "I-264",
+        "mm_start": 18.8,
+        "mm_end": 18.8,
+        "title": "I-264 West at MM 18.8 Approaching Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sun, 09 Aug 2026 17:30:38 GMT",
+        "first_seen": "2026-08-09T17:59:53Z"
       }
     },
     {
@@ -33719,6 +33759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Wed, 22 Jul 2026 10:46:41 GMT",
         "first_seen": "2026-07-22T10:57:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.707974,
+          38.139276
+        ]
+      },
+      "properties": {
+        "incident_id": "300550",
+        "route": "I-65",
+        "mm_start": 126.9,
+        "mm_end": 126.9,
+        "title": "I-65 South at MM 126.9 Collector Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sun, 09 Aug 2026 17:14:26 GMT",
+        "first_seen": "2026-08-09T17:59:53Z"
       }
     },
     {
