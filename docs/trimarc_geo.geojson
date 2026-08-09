@@ -8666,6 +8666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.675179,
+          38.208745
+        ]
+      },
+      "properties": {
+        "incident_id": "300534",
+        "route": "I-264",
+        "mm_start": 15.4,
+        "mm_end": 15.4,
+        "title": "I-264 East at MM 15.4 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Sun, 09 Aug 2026 13:43:41 GMT",
+        "first_seen": "2026-08-09T13:54:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.673752,
           38.209668
         ]
@@ -13419,6 +13439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
         "pubDate": "Mon, 20 Jul 2026 14:11:26 GMT",
         "first_seen": "2026-07-20T14:18:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.684876,
+          38.11056
+        ]
+      },
+      "properties": {
+        "incident_id": "300533",
+        "route": "I-265",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-265 East at MM 11.2 Approaching Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Sun, 09 Aug 2026 13:37:56 GMT",
+        "first_seen": "2026-08-09T13:54:07Z"
       }
     },
     {
