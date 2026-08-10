@@ -3146,6 +3146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.788935,
+          38.186895
+        ]
+      },
+      "properties": {
+        "incident_id": "300689",
+        "route": "I-264",
+        "mm_start": 8.8,
+        "mm_end": 8.8,
+        "title": "I-264 West at MM 8.8 Just Past Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Mon, 10 Aug 2026 22:21:58 GMT",
+        "first_seen": "2026-08-10T22:50:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.787146,
           38.187225
         ]
@@ -14966,6 +14986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644333,
+          38.117922
+        ]
+      },
+      "properties": {
+        "incident_id": "300680",
+        "route": "I-265",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-265 West at MM 13.5 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 10 Aug 2026 21:56:26 GMT",
+        "first_seen": "2026-08-10T22:50:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.640734,
           38.118478
         ]
@@ -22079,6 +22119,26 @@
         "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0055",
         "pubDate": "Tue, 04 Aug 2026 18:04:39 GMT",
         "first_seen": "2026-08-04T18:54:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.729966,
+          38.261085
+        ]
+      },
+      "properties": {
+        "incident_id": "300686",
+        "route": "I-64",
+        "mm_start": 5.9,
+        "mm_end": 5.9,
+        "title": "I-64 West at MM 5.9 Area of River Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Mon, 10 Aug 2026 22:09:38 GMT",
+        "first_seen": "2026-08-10T22:50:24Z"
       }
     },
     {
