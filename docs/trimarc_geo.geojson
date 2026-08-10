@@ -19546,6 +19546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.795273,
+          38.27662
+        ]
+      },
+      "properties": {
+        "incident_id": "300567",
+        "route": "I-64",
+        "mm_start": 1.5,
+        "mm_end": 2.0,
+        "title": "I-64 West between MM 2.0 and 1.5 Between 22nd Street and I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-64 East and West from Second Street in downtown Louisville to the I-64/I-264 interchange near the Sherman Minton Bridge in west Louisville. Left 2 lanes are closed. Type of Work: Preventative maintenance project.",
+        "pubDate": "Sun, 09 Aug 2026 23:54:17 GMT",
+        "first_seen": "2026-08-10T00:35:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.796156,
           38.276791
         ]
@@ -37019,6 +37039,26 @@
         "description": "Pedestrian : May be viewed on CCTV_05_65_1356",
         "pubDate": "Sat, 01 Aug 2026 01:36:35 GMT",
         "first_seen": "2026-08-01T01:41:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.747797,
+          38.251723
+        ]
+      },
+      "properties": {
+        "incident_id": "300568",
+        "route": "I-65",
+        "mm_start": 135.8,
+        "mm_end": 135.8,
+        "title": "I-65 North at MM 135.8 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Pedestrian : TRIMARC OBSERVED.",
+        "pubDate": "Mon, 10 Aug 2026 00:05:55 GMT",
+        "first_seen": "2026-08-10T00:35:40Z"
       }
     },
     {
