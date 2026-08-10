@@ -15106,6 +15106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.638934,
+          38.118752
+        ]
+      },
+      "properties": {
+        "incident_id": "300656",
+        "route": "I-265",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-265 West at MM 13.8 Approaching Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 10 Aug 2026 20:03:35 GMT",
+        "first_seen": "2026-08-10T20:09:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637132,
           38.119027
         ]
@@ -37366,6 +37386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751703,
+          38.208004
+        ]
+      },
+      "properties": {
+        "incident_id": "300654",
+        "route": "I-65",
+        "mm_start": 132.6,
+        "mm_end": 132.6,
+        "title": "I-65 North at MM 132.6 Area of Eastern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Mon, 10 Aug 2026 19:50:30 GMT",
+        "first_seen": "2026-08-10T20:09:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752661,
           38.20923
         ]
@@ -38259,6 +38299,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0030",
         "pubDate": "Fri, 17 Jul 2026 02:02:18 GMT",
         "first_seen": "2026-07-17T02:19:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.688171,
+          38.280509
+        ]
+      },
+      "properties": {
+        "incident_id": "300652",
+        "route": "I-71",
+        "mm_start": 2.4,
+        "mm_end": 2.4,
+        "title": "I-71 North at MM 2.4 Just Past Zorn Ave in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Mon, 10 Aug 2026 19:44:55 GMT",
+        "first_seen": "2026-08-10T20:09:23Z"
       }
     },
     {
