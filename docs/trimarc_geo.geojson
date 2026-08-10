@@ -41486,6 +41486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.551488,
+          38.3247
+        ]
+      },
+      "properties": {
+        "incident_id": "300606",
+        "route": "I-71",
+        "mm_start": 10.9,
+        "mm_end": 10.9,
+        "title": "I-71 North at MM 10.9 Area of Jefferson/Oldham Co. Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Mon, 10 Aug 2026 12:37:10 GMT",
+        "first_seen": "2026-08-10T13:45:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.550015,
           38.325555
         ]
