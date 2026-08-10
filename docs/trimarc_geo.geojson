@@ -27966,6 +27966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.494095,
+          38.222274
+        ]
+      },
+      "properties": {
+        "incident_id": "300579",
+        "route": "I-64",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-64 North at MM 19.5 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed 0n canera CCTV_05_64_01.",
+        "pubDate": "Mon, 10 Aug 2026 07:58:57 GMT",
+        "first_seen": "2026-08-10T09:48:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.492268,
           38.222203
         ]
@@ -38599,26 +38619,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Tue, 07 Jul 2026 12:23:56 GMT",
         "first_seen": "2026-07-07T12:36:53Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.643011,
-          38.290047
-        ]
-      },
-      "properties": {
-        "incident_id": "300577",
-        "route": "I-71",
-        "mm_start": 5.3,
-        "mm_end": 5.3,
-        "title": "I-71 South at MM 5.3 Area of I-264 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_06_71_0618.",
-        "pubDate": "Mon, 10 Aug 2026 05:02:27 GMT",
-        "first_seen": "2026-08-10T06:12:36Z"
       }
     },
     {
