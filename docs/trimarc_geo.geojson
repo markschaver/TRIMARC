@@ -23966,6 +23966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621021,
+          38.237237
+        ]
+      },
+      "properties": {
+        "incident_id": "300575",
+        "route": "I-64",
+        "mm_start": 12.4,
+        "mm_end": 12.4,
+        "title": "I-64 East at MM 12.4 Area of I-264 (East End) in Jefferson County",
+        "description": "Crash : MetroSafe reports vehicle on right shoulder",
+        "pubDate": "Mon, 10 Aug 2026 04:08:00 GMT",
+        "first_seen": "2026-08-10T04:48:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.614327,
           38.23486
         ]
@@ -28459,6 +28479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Mon, 03 Aug 2026 20:09:38 GMT",
         "first_seen": "2026-08-03T21:54:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.484954,
+          38.221955
+        ]
+      },
+      "properties": {
+        "incident_id": "300573",
+        "route": "I-64",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-64 West at MM 20.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0195.",
+        "pubDate": "Mon, 10 Aug 2026 03:44:44 GMT",
+        "first_seen": "2026-08-10T04:48:07Z"
       }
     },
     {
