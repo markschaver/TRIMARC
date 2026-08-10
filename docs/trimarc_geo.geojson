@@ -13686,6 +13686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.688366,
+          38.111426
+        ]
+      },
+      "properties": {
+        "incident_id": "300663",
+        "route": "I-265",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-265 East at MM 11.0 Approaching Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 10 Aug 2026 20:43:12 GMT",
+        "first_seen": "2026-08-10T21:02:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.684876,
           38.11056
         ]
@@ -17799,6 +17819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed at CCTV_05_265_0268",
         "pubDate": "Fri, 19 Jun 2026 12:16:10 GMT",
         "first_seen": "2026-06-19T12:57:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503398,
+          38.244699
+        ]
+      },
+      "properties": {
+        "incident_id": "300662",
+        "route": "I-265",
+        "mm_start": 27.0,
+        "mm_end": 27.0,
+        "title": "I-265 South at MM 27.0 Approaching Shelbyville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 10 Aug 2026 20:37:03 GMT",
+        "first_seen": "2026-08-10T21:02:43Z"
       }
     },
     {
@@ -28346,6 +28386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.494095,
+          38.222274
+        ]
+      },
+      "properties": {
+        "incident_id": "300659",
+        "route": "I-64",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-64 East at MM 19.5 Area of English Station Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Mon, 10 Aug 2026 20:16:31 GMT",
+        "first_seen": "2026-08-10T21:02:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.492268,
           38.222203
         ]
@@ -29439,6 +29499,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Wed, 05 Aug 2026 05:51:00 GMT",
         "first_seen": "2026-08-05T06:13:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "300658",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 West at MM 21.0 Area of Gilliand Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Mon, 10 Aug 2026 20:12:47 GMT",
+        "first_seen": "2026-08-10T21:02:43Z"
       }
     },
     {
