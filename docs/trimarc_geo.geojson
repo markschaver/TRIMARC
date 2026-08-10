@@ -2806,6 +2806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807224,
+          38.185593
+        ]
+      },
+      "properties": {
+        "incident_id": "300584",
+        "route": "I-264",
+        "mm_start": 7.8,
+        "mm_end": 7.8,
+        "title": "I-264 East at MM 7.8 Area of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Mon, 10 Aug 2026 10:47:10 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.8054,
           38.185753
         ]
@@ -17406,6 +17426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.503958,
+          38.238915
+        ]
+      },
+      "properties": {
+        "incident_id": "300582",
+        "route": "I-265",
+        "mm_start": 26.6,
+        "mm_end": 26.6,
+        "title": "I-265 South at MM 26.6 Area of Shelbyville Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 10 Aug 2026 10:36:21 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503818,
           38.240361
         ]
@@ -23286,6 +23326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.675248,
+          38.239297
+        ]
+      },
+      "properties": {
+        "incident_id": "300583",
+        "route": "I-64",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-64 East at MM 9.4 Area of Pee Wee Reese Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Mon, 10 Aug 2026 10:44:07 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.673457,
           38.238902
         ]
@@ -27226,6 +27286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.512547,
+          38.22283
+        ]
+      },
+      "properties": {
+        "incident_id": "300587",
+        "route": "I-64",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-64 East at MM 18.5 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Mon, 10 Aug 2026 10:57:47 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.51073,
           38.222807
         ]
@@ -27976,9 +28056,9 @@
         "mm_start": 19.5,
         "mm_end": 19.5,
         "title": "I-64 North at MM 19.5 Just Past I-265 in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed 0n canera CCTV_05_64_01.",
+        "description": "Disabled Vehicle-Occupied : May be viewed 0n canera CCTV_05_64_01.0195",
         "pubDate": "Mon, 10 Aug 2026 07:58:57 GMT",
-        "first_seen": "2026-08-10T09:48:52Z"
+        "first_seen": "2026-08-10T11:11:46Z"
       }
     },
     {
@@ -35186,6 +35266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720458,
+          38.161841
+        ]
+      },
+      "properties": {
+        "incident_id": "300589",
+        "route": "I-65",
+        "mm_start": 128.6,
+        "mm_end": 128.6,
+        "title": "I-65 North at MM 128.6 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Mon, 10 Aug 2026 11:03:05 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720639,
           38.163285
         ]
@@ -35979,6 +36079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Tue, 28 Jul 2026 20:33:20 GMT",
         "first_seen": "2026-07-28T21:10:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720478,
+          38.170527
+        ]
+      },
+      "properties": {
+        "incident_id": "300590",
+        "route": "I-65",
+        "mm_start": 129.2,
+        "mm_end": 129.2,
+        "title": "I-65 South at MM 129.2 Area of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Trimarc reports an incident in the area",
+        "pubDate": "Mon, 10 Aug 2026 11:05:12 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
       }
     },
     {
@@ -37739,6 +37859,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0030",
         "pubDate": "Mon, 27 Jul 2026 20:03:21 GMT",
         "first_seen": "2026-07-27T20:12:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.692476,
+          38.277821
+        ]
+      },
+      "properties": {
+        "incident_id": "300581",
+        "route": "I-71",
+        "mm_start": 2.1,
+        "mm_end": 2.1,
+        "title": "I-71 South at MM 2.1 Before Zorn Ave. in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_71_0030.",
+        "pubDate": "Mon, 10 Aug 2026 09:23:03 GMT",
+        "first_seen": "2026-08-10T11:11:46Z"
       }
     },
     {
