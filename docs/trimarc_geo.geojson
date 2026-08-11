@@ -9406,6 +9406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.667673,
+          38.212951
+        ]
+      },
+      "properties": {
+        "incident_id": "300757",
+        "route": "I-264",
+        "mm_start": 15.9,
+        "mm_end": 15.9,
+        "title": "I-264 East at MM 15.9 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 11 Aug 2026 13:00:31 GMT",
+        "first_seen": "2026-08-11T13:24:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.666156,
           38.213765
         ]
@@ -39339,6 +39359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
         "pubDate": "Tue, 11 Aug 2026 09:29:20 GMT",
         "first_seen": "2026-08-11T10:11:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.651783,
+          38.29207
+        ]
+      },
+      "properties": {
+        "incident_id": "300752",
+        "route": "I-71",
+        "mm_start": 4.7,
+        "mm_end": 4.7,
+        "title": "I-71 North at MM 4.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Tue, 11 Aug 2026 12:03:00 GMT",
+        "first_seen": "2026-08-11T13:24:03Z"
       }
     },
     {
