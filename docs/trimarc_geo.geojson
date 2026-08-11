@@ -12206,6 +12206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.62275,
+          38.239118
+        ]
+      },
+      "properties": {
+        "incident_id": "300766",
+        "route": "I-264",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-264 West at MM 19.0 Area of I-64 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Tue, 11 Aug 2026 15:11:15 GMT",
+        "first_seen": "2026-08-11T15:41:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.622314,
           38.240519
         ]
@@ -12239,6 +12259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Wed, 08 Jul 2026 12:45:10 GMT",
         "first_seen": "2026-07-08T12:52:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.622314,
+          38.240519
+        ]
+      },
+      "properties": {
+        "incident_id": "300767",
+        "route": "I-264",
+        "mm_start": 19.1,
+        "mm_end": 19.1,
+        "title": "I-264 West at MM 19.1 Area of I-64 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Tue, 11 Aug 2026 15:18:10 GMT",
+        "first_seen": "2026-08-11T15:41:08Z"
       }
     },
     {
@@ -16396,9 +16436,9 @@
         "mm_start": 17.8,
         "mm_end": 18.0,
         "title": "I-265 East between MM 17.8 and 18.0 Just Past Bardstown Road in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0173",
+        "description": "Freeway Maintenance : Roadwork may be viewed on CCTV_05_265_0173",
         "pubDate": "Tue, 11 Aug 2026 14:29:43 GMT",
-        "first_seen": "2026-08-11T14:36:37Z"
+        "first_seen": "2026-08-11T15:41:08Z"
       }
     },
     {
