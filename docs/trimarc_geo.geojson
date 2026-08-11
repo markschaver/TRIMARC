@@ -16391,6 +16391,26 @@
         ]
       },
       "properties": {
+        "incident_id": "300762",
+        "route": "I-265",
+        "mm_start": 17.8,
+        "mm_end": 18.0,
+        "title": "I-265 East between MM 17.8 and 18.0 Just Past Bardstown Road in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Tue, 11 Aug 2026 14:29:43 GMT",
+        "first_seen": "2026-08-11T14:36:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.572365,
+          38.141545
+        ]
+      },
+      "properties": {
         "incident_id": "299939",
         "route": "I-265",
         "mm_start": 17.9,
