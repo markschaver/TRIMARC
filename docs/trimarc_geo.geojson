@@ -1186,6 +1186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.814702,
+          38.242112
+        ]
+      },
+      "properties": {
+        "incident_id": "300817",
+        "route": "I-264",
+        "mm_start": 2.6,
+        "mm_end": 2.6,
+        "title": "I-264 West at MM 2.6 Area of Virgina Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Tue, 11 Aug 2026 20:45:30 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.815492,
           38.240804
         ]
@@ -6346,6 +6366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "300813",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 East at MM 13.1 Approaching Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 11 Aug 2026 20:36:37 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710076,
           38.19394
         ]
@@ -7499,6 +7539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Wed, 05 Aug 2026 15:00:07 GMT",
         "first_seen": "2026-08-05T15:40:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.697945,
+          38.200283
+        ]
+      },
+      "properties": {
+        "incident_id": "300811",
+        "route": "I-264",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-264 West at MM 14.0 Just Past Newburg Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Tue, 11 Aug 2026 20:32:06 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
       }
     },
     {
@@ -11079,6 +11139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Mon, 10 Aug 2026 11:14:54 GMT",
         "first_seen": "2026-08-10T12:01:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.641148,
+          38.225842
+        ]
+      },
+      "properties": {
+        "incident_id": "300808",
+        "route": "I-264",
+        "mm_start": 17.6,
+        "mm_end": 17.6,
+        "title": "I-264 East at MM 17.6 Collector Breckenridge Ln. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 11 Aug 2026 20:02:19 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
       }
     },
     {
@@ -28886,6 +28966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.494095,
+          38.222274
+        ]
+      },
+      "properties": {
+        "incident_id": "300812",
+        "route": "I-64",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-64 East at MM 19.5 Area of English Station Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 11 Aug 2026 20:33:35 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.492268,
           38.222203
         ]
@@ -38239,6 +38339,26 @@
         "description": "Pedestrian : TRIMARC OBSERVED.",
         "pubDate": "Mon, 10 Aug 2026 00:05:55 GMT",
         "first_seen": "2026-08-10T00:35:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.746096,
+          38.252298
+        ]
+      },
+      "properties": {
+        "incident_id": "300815",
+        "route": "I-65",
+        "mm_start": 135.9,
+        "mm_end": 135.9,
+        "title": "I-65 North at MM 135.9 Area of Liberty Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Tue, 11 Aug 2026 20:40:46 GMT",
+        "first_seen": "2026-08-11T20:50:40Z"
       }
     },
     {
