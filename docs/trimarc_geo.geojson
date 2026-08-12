@@ -3646,6 +3646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.778637,
+          38.189466
+        ]
+      },
+      "properties": {
+        "incident_id": "300907",
+        "route": "I-264",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-264 East at MM 9.4 Area of Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Wed, 12 Aug 2026 17:06:48 GMT",
+        "first_seen": "2026-08-12T17:13:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.77681,
           38.18928
         ]
@@ -37366,6 +37386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "300906",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 North at MM 129.0 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Wed, 12 Aug 2026 16:36:12 GMT",
+        "first_seen": "2026-08-12T17:13:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720515,
           38.169079
         ]
@@ -38659,6 +38699,26 @@
         "description": "Pedestrian : May be viewed on CCTV_05_65_1356",
         "pubDate": "Sat, 01 Aug 2026 01:36:35 GMT",
         "first_seen": "2026-08-01T01:41:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.749459,
+          38.251138
+        ]
+      },
+      "properties": {
+        "incident_id": "300908",
+        "route": "I-65",
+        "mm_start": 135.7,
+        "mm_end": 135.7,
+        "title": "I-65 North at MM 135.7 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356",
+        "pubDate": "Wed, 12 Aug 2026 17:09:29 GMT",
+        "first_seen": "2026-08-12T17:13:11Z"
       }
     },
     {
