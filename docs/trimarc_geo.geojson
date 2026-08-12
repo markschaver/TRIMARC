@@ -9186,6 +9186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.673752,
+          38.209668
+        ]
+      },
+      "properties": {
+        "incident_id": "300904",
+        "route": "I-264",
+        "mm_start": 15.5,
+        "mm_end": 15.5,
+        "title": "I-264 West at MM 15.5 Area of Bardstown Road in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 12 Aug 2026 15:56:18 GMT",
+        "first_seen": "2026-08-12T16:10:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.672239,
           38.210502
         ]
@@ -36799,6 +36819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
         "pubDate": "Sun, 02 Aug 2026 20:48:55 GMT",
         "first_seen": "2026-08-02T21:06:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "300898",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 North at MM 128.7 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Wed, 12 Aug 2026 15:06:38 GMT",
+        "first_seen": "2026-08-12T16:10:06Z"
       }
     },
     {
