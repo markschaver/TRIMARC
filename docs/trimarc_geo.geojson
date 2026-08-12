@@ -38626,6 +38626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.746096,
+          38.252298
+        ]
+      },
+      "properties": {
+        "incident_id": "300888",
+        "route": "I-65",
+        "mm_start": 135.9,
+        "mm_end": 135.9,
+        "title": "I-65 North at MM 135.9 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Wed, 12 Aug 2026 13:08:06 GMT",
+        "first_seen": "2026-08-12T13:48:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742183,
           38.255223
         ]
@@ -42939,6 +42959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Wed, 05 Aug 2026 19:20:26 GMT",
         "first_seen": "2026-08-05T20:34:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.552978,
+          38.32385
+        ]
+      },
+      "properties": {
+        "incident_id": "300885",
+        "route": "I-71",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-71 South at MM 10.8 Area of Jefferson/Oldham Co. Line in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Wed, 12 Aug 2026 12:33:41 GMT",
+        "first_seen": "2026-08-12T13:48:38Z"
       }
     },
     {
