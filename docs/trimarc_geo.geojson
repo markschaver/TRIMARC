@@ -7966,6 +7966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.689867,
+          38.201687
+        ]
+      },
+      "properties": {
+        "incident_id": "300896",
+        "route": "I-264",
+        "mm_start": 14.3,
+        "mm_end": 14.6,
+        "title": "I-264 West between MM 14.6 and 14.3 Approaching Newburg Road in Jefferson County",
+        "description": "Roadway Debris : Incident reported in the area",
+        "pubDate": "Wed, 12 Aug 2026 14:33:06 GMT",
+        "first_seen": "2026-08-12T15:00:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.690764,
           38.201531
         ]
@@ -17399,6 +17419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231",
         "pubDate": "Tue, 11 Aug 2026 00:25:44 GMT",
         "first_seen": "2026-08-11T00:34:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.508629,
+          38.192716
+        ]
+      },
+      "properties": {
+        "incident_id": "300897",
+        "route": "I-265",
+        "mm_start": 23.4,
+        "mm_end": 23.4,
+        "title": "I-265 South at MM 23.4 Area of Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231",
+        "pubDate": "Wed, 12 Aug 2026 14:44:32 GMT",
+        "first_seen": "2026-08-12T15:00:54Z"
       }
     },
     {
