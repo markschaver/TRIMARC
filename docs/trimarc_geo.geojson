@@ -21206,6 +21206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.780865,
+          38.267735
+        ]
+      },
+      "properties": {
+        "incident_id": "300970",
+        "route": "I-64",
+        "mm_start": 2.8,
+        "mm_end": 2.8,
+        "title": "I-64 West at MM 2.8 Before 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Wed, 12 Aug 2026 23:45:17 GMT",
+        "first_seen": "2026-08-12T23:58:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.778235,
           38.26577
         ]
