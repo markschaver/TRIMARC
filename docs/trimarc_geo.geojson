@@ -10286,6 +10286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.65699,
+          38.218526
+        ]
+      },
+      "properties": {
+        "incident_id": "300960",
+        "route": "I-264",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-264 East at MM 16.6 Approaching Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 12 Aug 2026 21:51:55 GMT",
+        "first_seen": "2026-08-12T22:03:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.655425,
           38.219299
         ]
@@ -10999,6 +11019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0170.",
         "pubDate": "Sun, 09 Aug 2026 03:23:14 GMT",
         "first_seen": "2026-08-09T03:53:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647456,
+          38.222946
+        ]
+      },
+      "properties": {
+        "incident_id": "300949",
+        "route": "I-264",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-264 West at MM 17.2 At Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 12 Aug 2026 21:07:24 GMT",
+        "first_seen": "2026-08-12T22:03:32Z"
       }
     },
     {
@@ -19259,6 +19299,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305.",
         "pubDate": "Sat, 25 Jul 2026 11:07:05 GMT",
         "first_seen": "2026-07-25T11:30:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.524163,
+          38.287481
+        ]
+      },
+      "properties": {
+        "incident_id": "300961",
+        "route": "I-265",
+        "mm_start": 31.0,
+        "mm_end": 31.0,
+        "title": "I-265 North at MM 31.0 Just Past Lagrange Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Wed, 12 Aug 2026 21:53:19 GMT",
+        "first_seen": "2026-08-12T22:03:32Z"
       }
     },
     {
