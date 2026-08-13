@@ -6246,6 +6246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "301122",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 East at MM 12.8 Before Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 13 Aug 2026 22:36:03 GMT",
+        "first_seen": "2026-08-13T22:47:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
@@ -10146,6 +10166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663113,
+          38.21536
+        ]
+      },
+      "properties": {
+        "incident_id": "301123",
+        "route": "I-264",
+        "mm_start": 16.2,
+        "mm_end": 16.2,
+        "title": "I-264 East at MM 16.2 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 13 Aug 2026 22:39:21 GMT",
+        "first_seen": "2026-08-13T22:47:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.661583,
           38.216152
         ]
@@ -11359,6 +11399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Fri, 17 Jul 2026 17:55:05 GMT",
         "first_seen": "2026-07-17T18:12:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642737,
+          38.225118
+        ]
+      },
+      "properties": {
+        "incident_id": "301117",
+        "route": "I-264",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-264 East at MM 17.5 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Thu, 13 Aug 2026 22:13:23 GMT",
+        "first_seen": "2026-08-13T22:47:40Z"
       }
     },
     {
