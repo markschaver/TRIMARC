@@ -38246,6 +38246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "301040",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 South at MM 129.3 Area of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Trimarc operator reports an incident in the area",
+        "pubDate": "Thu, 13 Aug 2026 16:17:04 GMT",
+        "first_seen": "2026-08-13T16:25:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720048,
           38.173401
         ]
