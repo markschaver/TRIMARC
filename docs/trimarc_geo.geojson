@@ -1046,6 +1046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.810205,
+          38.246663
+        ]
+      },
+      "properties": {
+        "incident_id": "301010",
+        "route": "I-264",
+        "mm_start": 2.2,
+        "mm_end": 2.2,
+        "title": "I-264 West at MM 2.2 Area of River Park Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway Service Patrol reports an incident in the area",
+        "pubDate": "Thu, 13 Aug 2026 12:49:45 GMT",
+        "first_seen": "2026-08-13T14:08:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813762,
           38.243354
         ]
@@ -19726,6 +19746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.558073,
+          38.303525
+        ]
+      },
+      "properties": {
+        "incident_id": "301021",
+        "route": "I-265",
+        "mm_start": 33.2,
+        "mm_end": 33.2,
+        "title": "I-265 North at MM 33.2 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Thu, 13 Aug 2026 13:57:46 GMT",
+        "first_seen": "2026-08-13T14:08:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.567234,
           38.306882
         ]
@@ -27091,6 +27131,26 @@
         ]
       },
       "properties": {
+        "incident_id": "301017",
+        "route": "I-64",
+        "mm_start": 15.6,
+        "mm_end": 15.8,
+        "title": "I-64 West between MM 15.8 and 15.6 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 13 Aug 2026 13:34:33 GMT",
+        "first_seen": "2026-08-13T14:08:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56388,
+          38.222815
+        ]
+      },
+      "properties": {
         "incident_id": "299365",
         "route": "I-64",
         "mm_start": 15.7,
@@ -27559,6 +27619,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Tue, 04 Aug 2026 12:23:40 GMT",
         "first_seen": "2026-08-04T12:48:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "301023",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 West at MM 16.8 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Thu, 13 Aug 2026 14:01:25 GMT",
+        "first_seen": "2026-08-13T14:08:09Z"
       }
     },
     {
@@ -34719,6 +34799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Fri, 07 Aug 2026 11:38:44 GMT",
         "first_seen": "2026-08-07T12:28:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701895,
+          38.125737
+        ]
+      },
+      "properties": {
+        "incident_id": "301022",
+        "route": "I-65",
+        "mm_start": 125.9,
+        "mm_end": 125.9,
+        "title": "I-65 North at MM 125.9 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Thu, 13 Aug 2026 13:59:12 GMT",
+        "first_seen": "2026-08-13T14:08:09Z"
       }
     },
     {
