@@ -3066,19 +3066,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.803576,
-          38.185915
+          -85.785493,
+          38.187848
         ]
       },
       "properties": {
         "incident_id": "300979",
         "route": "I-264",
         "mm_start": 8.0,
-        "mm_end": 8.0,
-        "title": "I-264 East at MM 8.0 Area of Dixie Highway in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0075.",
+        "mm_end": 10.0,
+        "title": "I-264 East between MM 8.0 and 10.0 Between Dixie Highway and Southern Parkway in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0093.",
         "pubDate": "Thu, 13 Aug 2026 03:14:45 GMT",
-        "first_seen": "2026-08-13T04:30:11Z"
+        "first_seen": "2026-08-13T06:05:55Z"
       }
     },
     {
