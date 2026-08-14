@@ -1986,6 +1986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822516,
+          38.218696
+        ]
+      },
+      "properties": {
+        "incident_id": "301274",
+        "route": "I-264",
+        "mm_start": 4.3,
+        "mm_end": 4.3,
+        "title": "I-264 East at MM 4.3 Just Past Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Fri, 14 Aug 2026 22:30:03 GMT",
+        "first_seen": "2026-08-14T23:00:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822597,
           38.217249
         ]
@@ -33446,6 +33466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.700842,
+          38.09095
+        ]
+      },
+      "properties": {
+        "incident_id": "301275",
+        "route": "I-65",
+        "mm_start": 123.5,
+        "mm_end": 123.5,
+        "title": "I-65 South at MM 123.5 Area of Hutcherson Drive in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Fri, 14 Aug 2026 22:33:39 GMT",
+        "first_seen": "2026-08-14T23:00:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.700788,
           38.0924
         ]
@@ -36576,9 +36616,9 @@
         "mm_start": 126.5,
         "mm_end": 126.5,
         "title": "I-65 South at MM 126.5 Just Past Outer Loop in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Fri, 14 Aug 2026 21:02:18 GMT",
-        "first_seen": "2026-08-14T21:32:32Z"
+        "first_seen": "2026-08-14T23:00:44Z"
       }
     },
     {
