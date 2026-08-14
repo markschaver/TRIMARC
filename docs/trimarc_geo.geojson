@@ -9506,6 +9506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.673752,
+          38.209668
+        ]
+      },
+      "properties": {
+        "incident_id": "301216",
+        "route": "I-264",
+        "mm_start": 15.5,
+        "mm_end": 15.5,
+        "title": "I-264 East at MM 15.5 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 14 Aug 2026 18:29:19 GMT",
+        "first_seen": "2026-08-14T18:33:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.672239,
           38.210502
         ]
@@ -14059,6 +14079,26 @@
         "description": "Construction / Road Work : May be viewed on CCTV_05_264_0221",
         "pubDate": "Fri, 10 Jul 2026 15:33:34 GMT",
         "first_seen": "2026-07-10T16:56:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.637405,
+          38.280997
+        ]
+      },
+      "properties": {
+        "incident_id": "301215",
+        "route": "I-264",
+        "mm_start": 22.2,
+        "mm_end": 22.2,
+        "title": "I-264 East at MM 22.2 Area of Brownsboro Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Fri, 14 Aug 2026 18:00:18 GMT",
+        "first_seen": "2026-08-14T18:33:48Z"
       }
     },
     {
