@@ -40426,6 +40426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719161,
+          38.263054
+        ]
+      },
+      "properties": {
+        "incident_id": "301157",
+        "route": "I-71",
+        "mm_start": 0.3,
+        "mm_end": 0.3,
+        "title": "I-71 North at MM 0.3 North of I-64 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0001",
+        "pubDate": "Fri, 14 Aug 2026 06:47:24 GMT",
+        "first_seen": "2026-08-14T07:43:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.717384,
           38.263405
         ]
