@@ -15526,6 +15526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663848,
+          38.114115
+        ]
+      },
+      "properties": {
+        "incident_id": "301181",
+        "route": "I-265",
+        "mm_start": 12.4,
+        "mm_end": 12.4,
+        "title": "I-265 West at MM 12.4 Approaching Preston Hwhy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 14 Aug 2026 13:09:39 GMT",
+        "first_seen": "2026-08-14T13:24:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.662167,
           38.114697
         ]
@@ -25886,6 +25906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.635169,
+          38.236001
+        ]
+      },
+      "properties": {
+        "incident_id": "301177",
+        "route": "I-64",
+        "mm_start": 11.6,
+        "mm_end": 11.6,
+        "title": "I-64 West at MM 11.6 Just Past I-264 (East Louisville) in Jefferson County",
+        "description": "Freeway Maintenance : Freeway maintenance occurring in the area. Expect delays.",
+        "pubDate": "Fri, 14 Aug 2026 12:18:47 GMT",
+        "first_seen": "2026-08-14T13:24:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.631626,
           38.236796
         ]
@@ -35079,6 +35119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 12 Aug 2026 19:26:16 GMT",
         "first_seen": "2026-08-12T20:10:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "301179",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 South at MM 125.6 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this aea",
+        "pubDate": "Fri, 14 Aug 2026 12:33:52 GMT",
+        "first_seen": "2026-08-14T13:24:31Z"
       }
     },
     {
