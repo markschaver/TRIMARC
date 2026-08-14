@@ -886,6 +886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.80661,
+          38.251571
+        ]
+      },
+      "properties": {
+        "incident_id": "301168",
+        "route": "I-264",
+        "mm_start": 1.8,
+        "mm_end": 1.8,
+        "title": "I-264 West at MM 1.8 Approaching Riverpark Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Fri, 14 Aug 2026 10:59:59 GMT",
+        "first_seen": "2026-08-14T11:08:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807029,
           38.250154
         ]
