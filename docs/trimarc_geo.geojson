@@ -20146,6 +20146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.559712,
+          38.30419
+        ]
+      },
+      "properties": {
+        "incident_id": "301175",
+        "route": "I-265",
+        "mm_start": 33.3,
+        "mm_end": 33.3,
+        "title": "I-265 South at MM 33.3 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Fri, 14 Aug 2026 11:50:32 GMT",
+        "first_seen": "2026-08-14T11:58:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.567234,
           38.306882
         ]
@@ -28979,6 +28999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
         "pubDate": "Mon, 20 Jul 2026 17:29:59 GMT",
         "first_seen": "2026-07-20T17:47:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.52165,
+          38.222965
+        ]
+      },
+      "properties": {
+        "incident_id": "301172",
+        "route": "I-64",
+        "mm_start": 18.0,
+        "mm_end": 18.0,
+        "title": "I-64 East at MM 18.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 14 Aug 2026 11:32:43 GMT",
+        "first_seen": "2026-08-14T11:58:01Z"
       }
     },
     {
