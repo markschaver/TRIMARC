@@ -14426,6 +14426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.69534,
+          38.113192
+        ]
+      },
+      "properties": {
+        "incident_id": "301154",
+        "route": "I-265",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-265 East at MM 10.6 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 14 Aug 2026 05:32:28 GMT",
+        "first_seen": "2026-08-14T05:57:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.693594,
           38.112753
         ]
@@ -20699,6 +20719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008",
         "pubDate": "Wed, 29 Jul 2026 20:19:59 GMT",
         "first_seen": "2026-07-29T20:49:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.813742,
+          38.275015
+        ]
+      },
+      "properties": {
+        "incident_id": "301153",
+        "route": "I-64",
+        "mm_start": 0.7,
+        "mm_end": 0.7,
+        "title": "I-64 West at MM 0.7 Approaching Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0008.",
+        "pubDate": "Fri, 14 Aug 2026 05:29:05 GMT",
+        "first_seen": "2026-08-14T05:57:14Z"
       }
     },
     {
