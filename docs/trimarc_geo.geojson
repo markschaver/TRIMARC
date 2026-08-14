@@ -27866,6 +27866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.549295,
+          38.223554
+        ]
+      },
+      "properties": {
+        "incident_id": "301201",
+        "route": "I-64",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-64 East at MM 16.5 Approaching Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Fri, 14 Aug 2026 15:22:30 GMT",
+        "first_seen": "2026-08-14T15:34:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.547463,
           38.223651
         ]
@@ -29559,6 +29579,26 @@
         "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0189",
         "pubDate": "Thu, 13 Aug 2026 17:32:01 GMT",
         "first_seen": "2026-08-13T18:38:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.508857,
+          38.222749
+        ]
+      },
+      "properties": {
+        "incident_id": "301197",
+        "route": "I-64",
+        "mm_start": 18.7,
+        "mm_end": 18.7,
+        "title": "I-64 West at MM 18.7 Area of I-265 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 14 Aug 2026 15:10:59 GMT",
+        "first_seen": "2026-08-14T15:34:09Z"
       }
     },
     {
