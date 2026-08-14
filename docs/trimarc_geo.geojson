@@ -23606,6 +23606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.735366,
+          38.260766
+        ]
+      },
+      "properties": {
+        "incident_id": "301271",
+        "route": "I-64",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-64 West at MM 5.6 Area of River Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Fri, 14 Aug 2026 22:01:45 GMT",
+        "first_seen": "2026-08-14T22:33:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.733578,
           38.26097
         ]
