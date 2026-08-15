@@ -11035,10 +11035,10 @@
         "route": "I-264",
         "mm_start": 16.9,
         "mm_end": 16.9,
-        "title": "I-264 East at MM 16.9 Approaching Taylorsville Road in Jefferson County",
+        "title": "I-264 East at MM 16.9 At Taylorsville Road in Jefferson County",
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
         "pubDate": "Sat, 15 Aug 2026 11:17:37 GMT",
-        "first_seen": "2026-08-15T11:34:36Z"
+        "first_seen": "2026-08-15T11:57:17Z"
       }
     },
     {
@@ -14099,6 +14099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0208.",
         "pubDate": "Tue, 28 Jul 2026 04:14:47 GMT",
         "first_seen": "2026-07-28T04:47:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.626385,
+          38.269405
+        ]
+      },
+      "properties": {
+        "incident_id": "301328",
+        "route": "I-264",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-264 West at MM 21.2 At Westport Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0208.",
+        "pubDate": "Sat, 15 Aug 2026 11:49:21 GMT",
+        "first_seen": "2026-08-15T11:57:17Z"
       }
     },
     {
