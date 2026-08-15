@@ -26326,6 +26326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.64441,
+          38.235976
+        ]
+      },
+      "properties": {
+        "incident_id": "301374",
+        "route": "I-64",
+        "mm_start": 11.1,
+        "mm_end": 11.1,
+        "title": "I-64 West at MM 11.1 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0114.",
+        "pubDate": "Sat, 15 Aug 2026 22:01:12 GMT",
+        "first_seen": "2026-08-15T22:30:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.64256,
           38.235896
         ]
