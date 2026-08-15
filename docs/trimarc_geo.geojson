@@ -12386,6 +12386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.619166,
+          38.253238
+        ]
+      },
+      "properties": {
+        "incident_id": "301289",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 22.0,
+        "title": "I-264 East between MM 18.0 and 22.0 Between Breckenridge Lane and I-71 in Jefferson County",
+        "description": "Construction / Road Work : I-264E is closed from MM 18 to MM 22 in Jefferson County from Friday, August 14 at 8 PM until Monday, August 17 at 6 AM due to roadwork. Detour I-64 East to I-265 North to I-71 South to continue on I-71 South or I-264 West to reach destinations within the closure area.",
+        "pubDate": "Sat, 15 Aug 2026 00:00:00 GMT",
+        "first_seen": "2026-08-15T00:00:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.633424,
           38.229757
         ]
