@@ -41646,6 +41646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.693911,
+          38.276925
+        ]
+      },
+      "properties": {
+        "incident_id": "301335",
+        "route": "I-71",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-71 South at MM 2.0 At Zorn Avenue in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0018.",
+        "pubDate": "Sat, 15 Aug 2026 13:52:31 GMT",
+        "first_seen": "2026-08-15T13:59:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692476,
           38.277821
         ]
