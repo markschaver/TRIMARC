@@ -4326,6 +4326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.765829,
+          38.189834
+        ]
+      },
+      "properties": {
+        "incident_id": "301305",
+        "route": "I-264",
+        "mm_start": 10.1,
+        "mm_end": 10.1,
+        "title": "I-264 East at MM 10.1 Area of Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe advises of a disabled vehicle on the right shoulder.",
+        "pubDate": "Sat, 15 Aug 2026 03:36:11 GMT",
+        "first_seen": "2026-08-15T03:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.763996,
           38.189894
         ]
