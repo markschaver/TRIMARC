@@ -7306,6 +7306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708608,
+          38.194818
+        ]
+      },
+      "properties": {
+        "incident_id": "301366",
+        "route": "I-264",
+        "mm_start": 13.3,
+        "mm_end": 13.3,
+        "title": "I-264 South at MM 13.3 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 15 Aug 2026 19:55:20 GMT",
+        "first_seen": "2026-08-15T20:32:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.707146,
           38.19569
         ]
@@ -41179,6 +41199,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337.",
         "pubDate": "Sat, 01 Aug 2026 13:00:54 GMT",
         "first_seen": "2026-08-01T13:34:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752109,
+          38.246313
+        ]
+      },
+      "properties": {
+        "incident_id": "301368",
+        "route": "I-65",
+        "mm_start": 135.3,
+        "mm_end": 135.3,
+        "title": "I-65 North at MM 135.3 Area of Brook Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1356.",
+        "pubDate": "Sat, 15 Aug 2026 20:12:34 GMT",
+        "first_seen": "2026-08-15T20:32:40Z"
       }
     },
     {
