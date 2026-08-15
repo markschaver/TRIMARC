@@ -21026,6 +21026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.81736,
+          38.275139
+        ]
+      },
+      "properties": {
+        "incident_id": "301341",
+        "route": "I-64",
+        "mm_start": 0.5,
+        "mm_end": 0.5,
+        "title": "I-64 East at MM 0.5 Just Past Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008.",
+        "pubDate": "Sat, 15 Aug 2026 14:49:55 GMT",
+        "first_seen": "2026-08-15T14:59:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813742,
           38.275015
         ]
@@ -22159,6 +22179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030",
         "pubDate": "Wed, 12 Aug 2026 23:45:17 GMT",
         "first_seen": "2026-08-12T23:58:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.779612,
+          38.266707
+        ]
+      },
+      "properties": {
+        "incident_id": "301340",
+        "route": "I-64",
+        "mm_start": 2.9,
+        "mm_end": 2.9,
+        "title": "I-64 West at MM 2.9 Area of 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030.",
+        "pubDate": "Sat, 15 Aug 2026 14:37:01 GMT",
+        "first_seen": "2026-08-15T14:59:32Z"
       }
     },
     {
@@ -32059,6 +32099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Thu, 13 Aug 2026 16:34:01 GMT",
         "first_seen": "2026-08-13T17:30:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "301342",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214.",
+        "pubDate": "Sat, 15 Aug 2026 14:52:01 GMT",
+        "first_seen": "2026-08-15T14:59:32Z"
       }
     },
     {
