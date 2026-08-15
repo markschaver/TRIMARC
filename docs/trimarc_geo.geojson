@@ -40986,6 +40986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744842,
+          38.206287
+        ]
+      },
+      "properties": {
+        "incident_id": "301369",
+        "route": "I-65",
+        "mm_start": 132.2,
+        "mm_end": 132.2,
+        "title": "I-65 South at MM 132.2 Area of Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327.",
+        "pubDate": "Sat, 15 Aug 2026 20:30:28 GMT",
+        "first_seen": "2026-08-15T21:00:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750239,
           38.207134
         ]
@@ -41159,6 +41179,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1337",
         "pubDate": "Fri, 14 Aug 2026 16:55:04 GMT",
         "first_seen": "2026-08-14T17:39:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752193,
+          38.216412
+        ]
+      },
+      "properties": {
+        "incident_id": "301370",
+        "route": "I-65",
+        "mm_start": 133.2,
+        "mm_end": 133.2,
+        "title": "I-65 North at MM 133.2 Just Past University Drive in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1330.",
+        "pubDate": "Sat, 15 Aug 2026 20:49:31 GMT",
+        "first_seen": "2026-08-15T21:00:08Z"
       }
     },
     {
