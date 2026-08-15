@@ -26146,6 +26146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.651764,
+          38.235302
+        ]
+      },
+      "properties": {
+        "incident_id": "301365",
+        "route": "I-64",
+        "mm_start": 10.7,
+        "mm_end": 10.7,
+        "title": "I-64 West at MM 10.7 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Crash in this area.",
+        "pubDate": "Sat, 15 Aug 2026 19:42:59 GMT",
+        "first_seen": "2026-08-15T19:57:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.648096,
           38.235768
         ]
