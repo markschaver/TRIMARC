@@ -42166,6 +42166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.679562,
+          38.285884
+        ]
+      },
+      "properties": {
+        "incident_id": "301353",
+        "route": "I-71",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-71 North at MM 3.0 Just Past Zorn Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
+        "pubDate": "Sat, 15 Aug 2026 17:46:58 GMT",
+        "first_seen": "2026-08-15T17:57:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.675258,
           38.288571
         ]
