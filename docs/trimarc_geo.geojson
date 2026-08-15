@@ -41746,6 +41746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709394,
+          38.266788
+        ]
+      },
+      "properties": {
+        "incident_id": "301364",
+        "route": "I-71",
+        "mm_start": 0.9,
+        "mm_end": 0.9,
+        "title": "I-71 North at MM 0.9 Approaching Zorn Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0018.",
+        "pubDate": "Sat, 15 Aug 2026 19:25:15 GMT",
+        "first_seen": "2026-08-15T19:35:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708001,
           38.267724
         ]
@@ -44859,6 +44879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
         "pubDate": "Sat, 15 Aug 2026 15:22:42 GMT",
         "first_seen": "2026-08-15T15:30:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.589418,
+          38.310955
+        ]
+      },
+      "properties": {
+        "incident_id": "301363",
+        "route": "I-71",
+        "mm_start": 8.6,
+        "mm_end": 8.6,
+        "title": "I-71 North at MM 8.6 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
+        "pubDate": "Sat, 15 Aug 2026 19:16:10 GMT",
+        "first_seen": "2026-08-15T19:35:43Z"
       }
     },
     {
