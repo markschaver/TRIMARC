@@ -29106,6 +29106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.534402,
+          38.223571
+        ]
+      },
+      "properties": {
+        "incident_id": "301331",
+        "route": "I-64",
+        "mm_start": 17.3,
+        "mm_end": 17.3,
+        "title": "I-64 East at MM 17.3 Area of Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Sat, 15 Aug 2026 13:00:01 GMT",
+        "first_seen": "2026-08-15T13:33:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.532568,
           38.223511
         ]
@@ -30899,6 +30919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Thu, 30 Jul 2026 01:56:24 GMT",
         "first_seen": "2026-07-30T02:03:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.492268,
+          38.222203
+        ]
+      },
+      "properties": {
+        "incident_id": "301334",
+        "route": "I-64",
+        "mm_start": 19.6,
+        "mm_end": 19.6,
+        "title": "I-64 East at MM 19.6 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195.",
+        "pubDate": "Sat, 15 Aug 2026 13:25:21 GMT",
+        "first_seen": "2026-08-15T13:33:04Z"
       }
     },
     {
@@ -34659,6 +34699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Fri, 14 Aug 2026 20:55:45 GMT",
         "first_seen": "2026-08-14T21:32:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "301333",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Sat, 15 Aug 2026 13:20:22 GMT",
+        "first_seen": "2026-08-15T13:33:04Z"
       }
     },
     {
