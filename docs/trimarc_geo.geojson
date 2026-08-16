@@ -19486,6 +19486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.503678,
+          38.241807
+        ]
+      },
+      "properties": {
+        "incident_id": "301395",
+        "route": "I-265",
+        "mm_start": 26.8,
+        "mm_end": 26.8,
+        "title": "I-265 South at MM 26.8 Area of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268.",
+        "pubDate": "Sun, 16 Aug 2026 10:59:54 GMT",
+        "first_seen": "2026-08-16T11:29:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503398,
           38.244699
         ]
@@ -39579,6 +39599,26 @@
         "description": "Disabled Vehicle-Occupied : Trimarc reports a incident in the area",
         "pubDate": "Thu, 13 Aug 2026 16:30:09 GMT",
         "first_seen": "2026-08-13T17:30:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "301396",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 North at MM 128.8 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289.",
+        "pubDate": "Sun, 16 Aug 2026 11:15:09 GMT",
+        "first_seen": "2026-08-16T11:29:38Z"
       }
     },
     {
