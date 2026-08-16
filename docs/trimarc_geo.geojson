@@ -25746,6 +25746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.683886,
+          38.2419
+        ]
+      },
+      "properties": {
+        "incident_id": "301399",
+        "route": "I-64",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-64 East at MM 8.9 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sun, 16 Aug 2026 11:32:58 GMT",
+        "first_seen": "2026-08-16T11:50:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.682128,
           38.241529
         ]
@@ -25899,6 +25919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
         "pubDate": "Sat, 15 Aug 2026 11:59:38 GMT",
         "first_seen": "2026-08-15T12:52:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68043,
+          38.240987
+        ]
+      },
+      "properties": {
+        "incident_id": "301398",
+        "route": "I-64",
+        "mm_start": 9.1,
+        "mm_end": 9.1,
+        "title": "I-64 West at MM 9.1 Approaching Cochran Hill Tunnel in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sun, 16 Aug 2026 11:28:44 GMT",
+        "first_seen": "2026-08-16T11:50:54Z"
       }
     },
     {
@@ -39616,9 +39656,9 @@
         "mm_start": 128.8,
         "mm_end": 128.8,
         "title": "I-65 North at MM 128.8 Area of Fern Valley Road in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289.",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
         "pubDate": "Sun, 16 Aug 2026 11:15:09 GMT",
-        "first_seen": "2026-08-16T11:29:38Z"
+        "first_seen": "2026-08-16T11:50:54Z"
       }
     },
     {
