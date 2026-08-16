@@ -7506,6 +7506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705744,
+          38.196614
+        ]
+      },
+      "properties": {
+        "incident_id": "301442",
+        "route": "I-264",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-264 West at MM 13.5 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0133.",
+        "pubDate": "Sun, 16 Aug 2026 23:07:52 GMT",
+        "first_seen": "2026-08-16T23:23:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.704399,
           38.197615
         ]
@@ -9499,6 +9519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
         "pubDate": "Sun, 16 Aug 2026 17:38:48 GMT",
         "first_seen": "2026-08-16T17:56:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.67933,
+          38.20589
+        ]
+      },
+      "properties": {
+        "incident_id": "301440",
+        "route": "I-264",
+        "mm_start": 15.1,
+        "mm_end": 15.1,
+        "title": "I-264 West at MM 15.1 Approaching Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Sun, 16 Aug 2026 23:03:06 GMT",
+        "first_seen": "2026-08-16T23:23:40Z"
       }
     },
     {
@@ -14559,6 +14599,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0221",
         "pubDate": "Tue, 07 Jul 2026 19:16:42 GMT",
         "first_seen": "2026-07-07T20:00:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63863,
+          38.282083
+        ]
+      },
+      "properties": {
+        "incident_id": "301439",
+        "route": "I-264",
+        "mm_start": 22.3,
+        "mm_end": 22.3,
+        "title": "I-264 West at MM 22.3 Area of Brownsboro Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0221.",
+        "pubDate": "Sun, 16 Aug 2026 22:55:02 GMT",
+        "first_seen": "2026-08-16T23:23:40Z"
       }
     },
     {
