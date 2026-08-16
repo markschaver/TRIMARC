@@ -8826,6 +8826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.687187,
+          38.20218
+        ]
+      },
+      "properties": {
+        "incident_id": "301425",
+        "route": "I-264",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-264 East at MM 14.6 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sun, 16 Aug 2026 19:22:42 GMT",
+        "first_seen": "2026-08-16T19:34:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.685499,
           38.20276
         ]
