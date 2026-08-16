@@ -18546,6 +18546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.507525,
+          38.20136
+        ]
+      },
+      "properties": {
+        "incident_id": "301390",
+        "route": "I-265",
+        "mm_start": 24.0,
+        "mm_end": 24.0,
+        "title": "I-265 North at MM 24.0 Approaching I-64 in Jefferson County",
+        "description": "Crash : MetroSafe reports vehicle in median",
+        "pubDate": "Sun, 16 Aug 2026 09:01:46 GMT",
+        "first_seen": "2026-08-16T09:30:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.507386,
           38.202804
         ]
