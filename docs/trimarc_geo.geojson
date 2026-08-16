@@ -41626,6 +41626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75313,
+          38.239104
+        ]
+      },
+      "properties": {
+        "incident_id": "301428",
+        "route": "I-65",
+        "mm_start": 134.8,
+        "mm_end": 134.8,
+        "title": "I-65 South at MM 134.8 At St Catherine in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356.",
+        "pubDate": "Sun, 16 Aug 2026 19:58:04 GMT",
+        "first_seen": "2026-08-16T20:30:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752109,
           38.246313
         ]
