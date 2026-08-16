@@ -41046,6 +41046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "301381",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 South at MM 132.0 Area of Crittenden Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1317.",
+        "pubDate": "Sun, 16 Aug 2026 01:09:17 GMT",
+        "first_seen": "2026-08-16T01:37:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743166,
           38.205718
         ]
