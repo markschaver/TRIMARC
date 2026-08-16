@@ -40206,6 +40206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "301436",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 North at MM 129.1 Approaching Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sun, 16 Aug 2026 21:14:23 GMT",
+        "first_seen": "2026-08-16T21:28:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720478,
           38.170527
         ]
