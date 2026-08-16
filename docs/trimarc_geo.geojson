@@ -14246,6 +14246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.625531,
+          38.268112
+        ]
+      },
+      "properties": {
+        "incident_id": "301446",
+        "route": "I-264",
+        "mm_start": 21.1,
+        "mm_end": 21.1,
+        "title": "I-264 West at MM 21.1 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0208.",
+        "pubDate": "Sun, 16 Aug 2026 23:35:48 GMT",
+        "first_seen": "2026-08-16T23:46:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.626385,
           38.269405
         ]
