@@ -4646,6 +4646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.756653,
+          38.190123
+        ]
+      },
+      "properties": {
+        "incident_id": "301495",
+        "route": "I-264",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-264 West at MM 10.6 Area of 3rd St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports an incident in the area",
+        "pubDate": "Mon, 17 Aug 2026 13:10:54 GMT",
+        "first_seen": "2026-08-17T13:53:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.754815,
           38.190138
         ]
