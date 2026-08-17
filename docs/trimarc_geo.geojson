@@ -20066,6 +20066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.501953,
+          38.259134
+        ]
+      },
+      "properties": {
+        "incident_id": "301512",
+        "route": "I-265",
+        "mm_start": 28.0,
+        "mm_end": 28.0,
+        "title": "I-265 South at MM 28.0 Between Old Henry Road and Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 17 Aug 2026 15:32:37 GMT",
+        "first_seen": "2026-08-17T15:41:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.501811,
           38.260579
         ]
