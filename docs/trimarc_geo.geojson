@@ -15686,6 +15686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.681269,
+          38.110106
+        ]
+      },
+      "properties": {
+        "incident_id": "301506",
+        "route": "I-265",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-265 East at MM 11.4 Area of Preston Hwy in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Mon, 17 Aug 2026 14:36:20 GMT",
+        "first_seen": "2026-08-17T15:02:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.679431,
           38.110063
         ]
@@ -39486,6 +39506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.71836,
+          38.157823
+        ]
+      },
+      "properties": {
+        "incident_id": "301508",
+        "route": "I-65",
+        "mm_start": 128.3,
+        "mm_end": 128.3,
+        "title": "I-65 North at MM 128.3 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Mon, 17 Aug 2026 14:45:29 GMT",
+        "first_seen": "2026-08-17T15:02:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719173,
           38.159131
         ]
@@ -43079,6 +43119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
         "pubDate": "Tue, 07 Jul 2026 19:01:42 GMT",
         "first_seen": "2026-07-07T19:13:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.682432,
+          38.284092
+        ]
+      },
+      "properties": {
+        "incident_id": "301504",
+        "route": "I-71",
+        "mm_start": 2.8,
+        "mm_end": 2.8,
+        "title": "I-71 North at MM 2.8 Area of Zorn Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Mon, 17 Aug 2026 14:28:35 GMT",
+        "first_seen": "2026-08-17T15:02:38Z"
       }
     },
     {
