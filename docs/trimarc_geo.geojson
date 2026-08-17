@@ -4566,6 +4566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.758488,
+          38.190068
+        ]
+      },
+      "properties": {
+        "incident_id": "301564",
+        "route": "I-264",
+        "mm_start": 10.5,
+        "mm_end": 10.5,
+        "title": "I-264 East at MM 10.5 Just Past Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway service Patrol reports of a disabled vehicle in the area",
+        "pubDate": "Mon, 17 Aug 2026 20:51:47 GMT",
+        "first_seen": "2026-08-17T21:10:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.756653,
           38.190123
         ]
@@ -20066,6 +20086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.503398,
+          38.244699
+        ]
+      },
+      "properties": {
+        "incident_id": "301563",
+        "route": "I-265",
+        "mm_start": 27.0,
+        "mm_end": 27.0,
+        "title": "I-265 South at MM 27.0 Area of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 17 Aug 2026 20:42:02 GMT",
+        "first_seen": "2026-08-17T21:10:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.503118,
           38.247591
         ]
@@ -31859,6 +31899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Wed, 12 Aug 2026 20:45:46 GMT",
         "first_seen": "2026-08-12T21:04:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495926,
+          38.222334
+        ]
+      },
+      "properties": {
+        "incident_id": "301565",
+        "route": "I-64",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-64 East at MM 19.4 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Mon, 17 Aug 2026 20:59:28 GMT",
+        "first_seen": "2026-08-17T21:10:50Z"
       }
     },
     {
