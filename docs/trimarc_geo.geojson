@@ -44006,6 +44006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.63848,
+          38.292478
+        ]
+      },
+      "properties": {
+        "incident_id": "301460",
+        "route": "I-71",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-71 West at MM 5.6 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_71_0082.",
+        "pubDate": "Mon, 17 Aug 2026 07:56:14 GMT",
+        "first_seen": "2026-08-17T08:24:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.636748,
           38.292932
         ]
