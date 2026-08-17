@@ -7066,6 +7066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "301466",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 West at MM 13.2 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Mon, 17 Aug 2026 10:48:23 GMT",
+        "first_seen": "2026-08-17T11:03:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -19679,6 +19699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
         "pubDate": "Mon, 10 Aug 2026 20:37:03 GMT",
         "first_seen": "2026-08-10T21:02:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503398,
+          38.244699
+        ]
+      },
+      "properties": {
+        "incident_id": "301465",
+        "route": "I-265",
+        "mm_start": 27.0,
+        "mm_end": 27.0,
+        "title": "I-265 South at MM 27.0 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Mon, 17 Aug 2026 10:41:08 GMT",
+        "first_seen": "2026-08-17T11:03:56Z"
       }
     },
     {
@@ -43619,6 +43659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
         "pubDate": "Tue, 21 Jul 2026 18:57:19 GMT",
         "first_seen": "2026-07-21T19:33:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.646166,
+          38.288677
+        ]
+      },
+      "properties": {
+        "incident_id": "301468",
+        "route": "I-71",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-71 North at MM 5.1 Area of I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0051",
+        "pubDate": "Mon, 17 Aug 2026 10:58:08 GMT",
+        "first_seen": "2026-08-17T11:03:56Z"
       }
     },
     {
