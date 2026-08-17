@@ -2166,6 +2166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82541,
+          38.211392
+        ]
+      },
+      "properties": {
+        "incident_id": "301475",
+        "route": "I-264",
+        "mm_start": 4.8,
+        "mm_end": 4.9,
+        "title": "I-264 West between MM 4.9 and 4.8 Just Past Cane Run Road in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Mon, 17 Aug 2026 11:15:51 GMT",
+        "first_seen": "2026-08-17T11:42:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.826062,
           38.21088
         ]
@@ -27886,6 +27906,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.595463,
+          38.22859
+        ]
+      },
+      "properties": {
+        "incident_id": "301471",
+        "route": "I-64",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-64 West at MM 13.9 Just Past Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Mon, 17 Aug 2026 11:07:05 GMT",
+        "first_seen": "2026-08-17T11:42:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.595463,
+          38.22859
+        ]
+      },
+      "properties": {
+        "incident_id": "301470",
+        "route": "I-64",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-64 West at MM 13.9 Area of Hurstbourne Pkwy in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Mon, 17 Aug 2026 11:06:09 GMT",
+        "first_seen": "2026-08-17T11:42:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.593736,
           38.228041
         ]
@@ -42036,9 +42096,9 @@
         "mm_start": 136.5,
         "mm_end": 137.0,
         "title": "I-65 South between MM 137.0 and 136.5 On Kennedy Bridge in Jefferson County",
-        "description": "Construction / Road Work : UPDATE 8/15/2026 Beginning Saturday, Aug. 15, at 12 p.m., through Sunday, Aug. 16, at 6 p.m. The right three lanes of the Kennedy Bridge will be closed. The I-65 South to I-64 West ramp remains closed and will reopen on Sunday, Aug. 16, at 6 p.m. As work on the final phase of the expansion joint replacement project on the John F. Kennedy Memorial Bridge nears completion, contract crews will implement lane and ramp closures beginning Sunday, Aug. 2, to safely restore the bridge to its permanent traffic configuration. The project will preserve and extend the service life of this critical Ohio River crossing. Beginning Sunday, Aug. 2, at 8 p.m., through 6 a.m. on Monday, Aug. 17, at 6 a.m.: The Court Avenue and 6th Street on-ramps to I-65 South in Jeffersonville, Indiana, will be closed. The right two lanes of the Kennedy Bridge and the I-65 South to I-64 West ramp will be closed. Beginning Friday, Aug. 7, at 8 p.m., through Monday, Aug. 10, at 6 a.m. (If inclement weather or other unforeseen circumstances arise, contract crews will perform the below traffic control measures beginning Friday, Aug. 14, at 8 p.m., through Monday, Aug. 17, at 6 a.m.): The right three lanes of the Kennedy Bridge will be closed. Motorists should heed signage, use caution, and plan for additional travel time. Kennedy Bridge Expansion Joint Project Work on replacing bridge expansion joints began in February 2025 as a more permanent solution for damaged joints and to replace all joints, promoting safer and smoother traffic flow. Expansion joints are critical components of a bridge deck that allow the structure to safely expand and contract with temperature changes. This flexibility helps prevent cracking and preserves the bridge\u2019s long-term structural integrity. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com].",
+        "description": "Construction / Road Work : As work on the final phase of the expansion joint replacement project on the John F. Kennedy Memorial Bridge nears completion, contract crews will implement lane closures on Interstate 65 South beginning Saturday, Aug. 15, to complete striping operations. The project will preserve and extend the service life of this critical Ohio River crossing. The left lane of the Kennedy Bridge is closed.",
         "pubDate": "Mon, 03 Aug 2026 13:14:02 GMT",
-        "first_seen": "2026-08-15T16:34:06Z"
+        "first_seen": "2026-08-17T11:42:00Z"
       }
     },
     {
@@ -46579,6 +46639,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0116",
         "pubDate": "Wed, 12 Aug 2026 12:33:41 GMT",
         "first_seen": "2026-08-12T13:48:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.552978,
+          38.32385
+        ]
+      },
+      "properties": {
+        "incident_id": "301473",
+        "route": "I-71",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-71 South at MM 10.8 North of I-265 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Mon, 17 Aug 2026 11:10:53 GMT",
+        "first_seen": "2026-08-17T11:42:00Z"
       }
     },
     {
