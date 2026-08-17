@@ -39086,6 +39086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.712164,
+          38.14731
+        ]
+      },
+      "properties": {
+        "incident_id": "301514",
+        "route": "I-65",
+        "mm_start": 127.5,
+        "mm_end": 127.5,
+        "title": "I-65 South at MM 127.5 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Trimarc reports an incident in the area",
+        "pubDate": "Mon, 17 Aug 2026 15:46:49 GMT",
+        "first_seen": "2026-08-17T16:00:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.713587,
           38.149979
         ]
