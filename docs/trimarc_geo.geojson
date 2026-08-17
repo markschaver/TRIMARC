@@ -7186,6 +7186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "301535",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 West at MM 13.2 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Mon, 17 Aug 2026 18:52:57 GMT",
+        "first_seen": "2026-08-17T19:31:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -11646,6 +11666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.649028,
+          38.222229
+        ]
+      },
+      "properties": {
+        "incident_id": "301542",
+        "route": "I-264",
+        "mm_start": 17.1,
+        "mm_end": 17.1,
+        "title": "I-264 West at MM 17.1 At Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 17 Aug 2026 19:17:58 GMT",
+        "first_seen": "2026-08-17T19:31:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.647456,
           38.222946
         ]
@@ -13839,6 +13879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0199.",
         "pubDate": "Sun, 02 Aug 2026 03:46:20 GMT",
         "first_seen": "2026-08-02T04:02:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.620557,
+          38.246151
+        ]
+      },
+      "properties": {
+        "incident_id": "301544",
+        "route": "I-264",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-264 East at MM 19.5 Just Past I-64 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Mon, 17 Aug 2026 19:21:49 GMT",
+        "first_seen": "2026-08-17T19:31:21Z"
       }
     },
     {
@@ -27706,6 +27766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.609274,
+          38.232983
+        ]
+      },
+      "properties": {
+        "incident_id": "301539",
+        "route": "I-64",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-64 East at MM 13.1 Area of Oxmoor Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131",
+        "pubDate": "Mon, 17 Aug 2026 19:03:11 GMT",
+        "first_seen": "2026-08-17T19:31:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.607553,
           38.232433
         ]
@@ -40719,6 +40799,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Wed, 12 Aug 2026 16:36:12 GMT",
         "first_seen": "2026-08-12T20:10:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "301533",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 South at MM 129.0 Before Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of a disabled vehicle on the left shoulder",
+        "pubDate": "Mon, 17 Aug 2026 18:47:43 GMT",
+        "first_seen": "2026-08-17T19:31:21Z"
       }
     },
     {
