@@ -13266,6 +13266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.630399,
+          38.231404
+        ]
+      },
+      "properties": {
+        "incident_id": "301605",
+        "route": "I-264",
+        "mm_start": 18.3,
+        "mm_end": 18.3,
+        "title": "I-264 West at MM 18.3 Area of I-64 (East End) in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 18 Aug 2026 06:39:53 GMT",
+        "first_seen": "2026-08-18T06:49:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.628896,
           38.232231
         ]
