@@ -43106,6 +43106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744411,
+          38.252917
+        ]
+      },
+      "properties": {
+        "incident_id": "301664",
+        "route": "I-65",
+        "mm_start": 136.0,
+        "mm_end": 136.0,
+        "title": "I-65 South at MM 136.0 Area of Jefferson St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Tue, 18 Aug 2026 15:32:33 GMT",
+        "first_seen": "2026-08-18T15:50:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742995,
           38.253901
         ]
