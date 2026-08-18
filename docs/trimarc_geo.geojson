@@ -28866,6 +28866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.593736,
+          38.228041
+        ]
+      },
+      "properties": {
+        "incident_id": "301652",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-64 East at MM 14.0 Area of Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Tue, 18 Aug 2026 14:11:14 GMT",
+        "first_seen": "2026-08-18T14:42:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.591998,
           38.227502
         ]
@@ -40279,6 +40299,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCT_05_65_1283",
         "pubDate": "Thu, 30 Jul 2026 13:20:04 GMT",
         "first_seen": "2026-07-30T13:38:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719173,
+          38.159131
+        ]
+      },
+      "properties": {
+        "incident_id": "301655",
+        "route": "I-65",
+        "mm_start": 128.4,
+        "mm_end": 128.4,
+        "title": "I-65 North at MM 128.4 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Tue, 18 Aug 2026 14:25:35 GMT",
+        "first_seen": "2026-08-18T14:42:20Z"
       }
     },
     {
