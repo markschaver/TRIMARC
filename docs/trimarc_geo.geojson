@@ -42606,6 +42606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.726768,
+          38.187547
+        ]
+      },
+      "properties": {
+        "incident_id": "301695",
+        "route": "I-65",
+        "mm_start": 130.5,
+        "mm_end": 130.5,
+        "title": "I-65 North at MM 130.5 Collector I-264 West in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Tue, 18 Aug 2026 19:23:55 GMT",
+        "first_seen": "2026-08-18T19:41:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729886,
           38.191125
         ]
@@ -43119,6 +43139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337.",
         "pubDate": "Sat, 01 Aug 2026 13:00:54 GMT",
         "first_seen": "2026-08-01T13:34:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751499,
+          38.226447
+        ]
+      },
+      "properties": {
+        "incident_id": "301697",
+        "route": "I-65",
+        "mm_start": 133.9,
+        "mm_end": 133.9,
+        "title": "I-65 North at MM 133.9 Approaching Jackson Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Tue, 18 Aug 2026 19:36:34 GMT",
+        "first_seen": "2026-08-18T19:41:16Z"
       }
     },
     {
