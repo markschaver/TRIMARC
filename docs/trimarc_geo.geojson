@@ -43566,6 +43566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.742183,
+          38.255223
+        ]
+      },
+      "properties": {
+        "incident_id": "301733",
+        "route": "I-65",
+        "mm_start": 136.2,
+        "mm_end": 136.2,
+        "title": "I-65 North at MM 136.2 South of Lincoln Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Tue, 18 Aug 2026 23:35:16 GMT",
+        "first_seen": "2026-08-18T23:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741095,
           38.258042
         ]
