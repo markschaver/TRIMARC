@@ -14806,6 +14806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.625531,
+          38.268112
+        ]
+      },
+      "properties": {
+        "incident_id": "301715",
+        "route": "I-264",
+        "mm_start": 21.1,
+        "mm_end": 21.1,
+        "title": "I-264 East at MM 21.1 Area of Westport Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Tue, 18 Aug 2026 21:30:00 GMT",
+        "first_seen": "2026-08-18T21:39:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.626385,
           38.269405
         ]
