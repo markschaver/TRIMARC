@@ -10866,6 +10866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663113,
+          38.21536
+        ]
+      },
+      "properties": {
+        "incident_id": "301641",
+        "route": "I-264",
+        "mm_start": 16.2,
+        "mm_end": 16.2,
+        "title": "I-264 West at MM 16.2 Area of Bardstown Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Tue, 18 Aug 2026 12:45:43 GMT",
+        "first_seen": "2026-08-18T13:08:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.661583,
           38.216152
         ]
@@ -41366,6 +41386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "301643",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 North at MM 129.1 Area of UPS Overpass in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Tue, 18 Aug 2026 12:53:14 GMT",
+        "first_seen": "2026-08-18T13:08:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720478,
           38.170527
         ]
@@ -42059,6 +42099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297.",
         "pubDate": "Sun, 02 Aug 2026 16:29:18 GMT",
         "first_seen": "2026-08-02T16:35:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720703,
+          38.180328
+        ]
+      },
+      "properties": {
+        "incident_id": "301644",
+        "route": "I-65",
+        "mm_start": 129.9,
+        "mm_end": 129.9,
+        "title": "I-65 North at MM 129.9 Area of Grade Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Tue, 18 Aug 2026 12:57:31 GMT",
+        "first_seen": "2026-08-18T13:08:59Z"
       }
     },
     {
@@ -43259,6 +43319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001",
         "pubDate": "Mon, 03 Aug 2026 18:17:16 GMT",
         "first_seen": "2026-08-03T18:54:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.722728,
+          38.262362
+        ]
+      },
+      "properties": {
+        "incident_id": "301645",
+        "route": "I-71",
+        "mm_start": 0.1,
+        "mm_end": 0.1,
+        "title": "I-71 South at MM 0.1 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001",
+        "pubDate": "Tue, 18 Aug 2026 13:03:12 GMT",
+        "first_seen": "2026-08-18T13:08:59Z"
       }
     },
     {
@@ -47459,6 +47539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
         "pubDate": "Sat, 04 Jul 2026 15:41:50 GMT",
         "first_seen": "2026-07-04T16:11:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.571617,
+          38.318103
+        ]
+      },
+      "properties": {
+        "incident_id": "301640",
+        "route": "I-71",
+        "mm_start": 9.7,
+        "mm_end": 9.7,
+        "title": "I-71 South at MM 9.7 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : MetroSafe advises of a disabled vehicle in the area.",
+        "pubDate": "Tue, 18 Aug 2026 12:45:06 GMT",
+        "first_seen": "2026-08-18T13:08:59Z"
       }
     },
     {
