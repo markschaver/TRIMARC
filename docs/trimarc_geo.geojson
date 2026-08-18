@@ -16666,6 +16666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.662167,
+          38.114697
+        ]
+      },
+      "properties": {
+        "incident_id": "301672",
+        "route": "I-265",
+        "mm_start": 12.5,
+        "mm_end": 12.5,
+        "title": "I-265 East at MM 12.5 Just Past Preston Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Tue, 18 Aug 2026 17:11:21 GMT",
+        "first_seen": "2026-08-18T17:44:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.660477,
           38.115243
         ]
@@ -41519,6 +41539,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1289",
         "pubDate": "Tue, 18 Aug 2026 12:53:14 GMT",
         "first_seen": "2026-08-18T13:08:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "301674",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 North at MM 129.1 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Tue, 18 Aug 2026 17:34:26 GMT",
+        "first_seen": "2026-08-18T17:44:42Z"
       }
     },
     {
