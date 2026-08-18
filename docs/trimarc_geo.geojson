@@ -41366,6 +41366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720478,
+          38.170527
+        ]
+      },
+      "properties": {
+        "incident_id": "301607",
+        "route": "I-65",
+        "mm_start": 129.2,
+        "mm_end": 129.2,
+        "title": "I-65 South at MM 129.2 South of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Tue, 18 Aug 2026 07:54:44 GMT",
+        "first_seen": "2026-08-18T08:15:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.72038,
           38.171975
         ]
