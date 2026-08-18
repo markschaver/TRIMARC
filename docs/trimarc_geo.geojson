@@ -26106,6 +26106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701094,
+          38.247517
+        ]
+      },
+      "properties": {
+        "incident_id": "301665",
+        "route": "I-64",
+        "mm_start": 7.8,
+        "mm_end": 7.8,
+        "title": "I-64 East at MM 7.8 Area of Grinstead Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Tue, 18 Aug 2026 16:01:30 GMT",
+        "first_seen": "2026-08-18T16:35:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.699603,
           38.246631
         ]
@@ -43139,6 +43159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362.",
         "pubDate": "Sun, 16 Aug 2026 18:10:56 GMT",
         "first_seen": "2026-08-16T18:38:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.742995,
+          38.253901
+        ]
+      },
+      "properties": {
+        "incident_id": "301666",
+        "route": "I-65",
+        "mm_start": 136.1,
+        "mm_end": 136.1,
+        "title": "I-65 South at MM 136.1 Approaching Jefferson Street (Main Line) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Tue, 18 Aug 2026 16:04:03 GMT",
+        "first_seen": "2026-08-18T16:35:39Z"
       }
     },
     {
