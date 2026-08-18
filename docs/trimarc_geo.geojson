@@ -1086,6 +1086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807773,
+          38.24884
+        ]
+      },
+      "properties": {
+        "incident_id": "301623",
+        "route": "I-264",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-264 East at MM 2.0 Area of River Park Dr in Jefferson County",
+        "description": "Crash : Metrosafe reports a crash in the area",
+        "pubDate": "Tue, 18 Aug 2026 11:07:36 GMT",
+        "first_seen": "2026-08-18T11:42:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80894,
           38.247711
         ]
