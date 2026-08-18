@@ -42936,9 +42936,9 @@
         "mm_start": 132.0,
         "mm_end": 132.0,
         "title": "I-65 North at MM 132.0 Before Crittenden Drive in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : Disabled vehicle reported in the area",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Tue, 18 Aug 2026 20:19:42 GMT",
-        "first_seen": "2026-08-18T20:34:18Z"
+        "first_seen": "2026-08-18T21:58:42Z"
       }
     },
     {
@@ -45399,6 +45399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_71_0055.",
         "pubDate": "Sun, 02 Aug 2026 02:22:54 GMT",
         "first_seen": "2026-08-02T02:41:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.640037,
+          38.291732
+        ]
+      },
+      "properties": {
+        "incident_id": "301719",
+        "route": "I-71",
+        "mm_start": 5.5,
+        "mm_end": 5.5,
+        "title": "I-71 North at MM 5.5 Area of I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Tue, 18 Aug 2026 21:43:42 GMT",
+        "first_seen": "2026-08-18T21:58:42Z"
       }
     },
     {
