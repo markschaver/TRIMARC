@@ -6786,6 +6786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.713027,
+          38.192205
+        ]
+      },
+      "properties": {
+        "incident_id": "301684",
+        "route": "I-264",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-264 West at MM 13.0 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 18 Aug 2026 18:44:48 GMT",
+        "first_seen": "2026-08-18T19:01:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.711542,
           38.19306
         ]
@@ -28466,6 +28486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.604085,
+          38.231346
+        ]
+      },
+      "properties": {
+        "incident_id": "301685",
+        "route": "I-64",
+        "mm_start": 13.4,
+        "mm_end": 13.4,
+        "title": "I-64 West at MM 13.4 Approaching I-264 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Tue, 18 Aug 2026 18:46:08 GMT",
+        "first_seen": "2026-08-18T19:01:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.600644,
           38.230237
         ]
@@ -29099,6 +29139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
         "pubDate": "Fri, 07 Aug 2026 23:34:42 GMT",
         "first_seen": "2026-08-08T00:00:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.588595,
+          38.226424
+        ]
+      },
+      "properties": {
+        "incident_id": "301686",
+        "route": "I-64",
+        "mm_start": 14.3,
+        "mm_end": 14.3,
+        "title": "I-64 East at MM 14.3 Approaching Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Tue, 18 Aug 2026 18:48:41 GMT",
+        "first_seen": "2026-08-18T19:01:05Z"
       }
     },
     {
@@ -44819,6 +44879,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0048",
         "pubDate": "Wed, 12 Aug 2026 18:47:01 GMT",
         "first_seen": "2026-08-12T19:27:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.650339,
+          38.291189
+        ]
+      },
+      "properties": {
+        "incident_id": "301689",
+        "route": "I-71",
+        "mm_start": 4.8,
+        "mm_end": 4.8,
+        "title": "I-71 South at MM 4.8 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Tue, 18 Aug 2026 18:57:08 GMT",
+        "first_seen": "2026-08-18T19:01:05Z"
       }
     },
     {
