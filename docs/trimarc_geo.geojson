@@ -1506,6 +1506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.816852,
+          38.238121
+        ]
+      },
+      "properties": {
+        "incident_id": "301849",
+        "route": "I-264",
+        "mm_start": 2.9,
+        "mm_end": 2.9,
+        "title": "I-264 West at MM 2.9 Area of Dumesnil Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Wed, 19 Aug 2026 21:19:49 GMT",
+        "first_seen": "2026-08-19T21:42:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.817545,
           38.236779
         ]
@@ -35186,6 +35206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.444773,
+          38.219996
+        ]
+      },
+      "properties": {
+        "incident_id": "301852",
+        "route": "I-64",
+        "mm_start": 22.2,
+        "mm_end": 22.2,
+        "title": "I-64 East at MM 22.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 19 Aug 2026 21:37:59 GMT",
+        "first_seen": "2026-08-19T21:42:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.442952,
           38.219856
         ]
@@ -44239,6 +44279,26 @@
         "description": "Construction / Road Work : (Feb. 17, 2026) \u2013 Work on the John F. Kennedy Memorial Bridge is advancing to the second and final phase of the expansion joint replacement project, which began last year. To assist with the implementation of a traffic shift, rolling roadblocks and lane closures are scheduled to begin Friday, Feb. 20. Contract crews have completed the replacement of the expansion joints in the right three lanes, allowing work to advance to replacing expansion joints in the left three lanes of the bridge. To safely shift traffic and begin the final phase of work, rolling roadblocks and lane closures will take place on Interstate 65 South on the Kennedy Bridge beginning at 7 p.m. on Friday, Feb. 20, continuing through 6 p.m. on Saturday, Feb. 21. During this time, traffic on southbound I-65 will be reduced to the right two lanes to allow contract crews to safely shift all traffic. As part of this transition, the I-65 South to I-64 West ramp, which has been closed to support work on the southernmost expansion joint, will reopen. Following this weekend\u2019s traffic changes, all traffic will be using the right three lanes while work takes place in the left three lanes to replace the remaining expansion joints. This traffic pattern will remain in place through project completion. Overnight closures of the bridge are expected during the final phase of the project. The overnight closures are necessary to prevent any bridge movement while contract crews perform steel repairs underneath the roadway. This work involves precision machining, known as line boring, and the bridge must remain free of traffic to ensure the accuracy and alignment of the repairs. Additional details on upcoming overnight closures will be shared when available. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com].",
         "pubDate": "Mon, 02 Jun 2025 12:43:00 GMT",
         "first_seen": "2026-06-14T19:03:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741532,
+          38.262406
+        ]
+      },
+      "properties": {
+        "incident_id": "301850",
+        "route": "I-65",
+        "mm_start": 136.7,
+        "mm_end": 136.7,
+        "title": "I-65 North at MM 136.7 On Lincoln Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1367",
+        "pubDate": "Wed, 19 Aug 2026 21:30:24 GMT",
+        "first_seen": "2026-08-19T21:42:10Z"
       }
     },
     {
