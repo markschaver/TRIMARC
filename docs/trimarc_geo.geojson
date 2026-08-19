@@ -17726,6 +17726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.635338,
+          38.11931
+        ]
+      },
+      "properties": {
+        "incident_id": "301865",
+        "route": "I-265",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-265 West at MM 14.0 Approaching Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 19 Aug 2026 22:28:23 GMT",
+        "first_seen": "2026-08-19T22:42:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.63358,
           38.119705
         ]
@@ -38406,6 +38426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "301860",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 South at MM 125.6 Area of I-265 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Wed, 19 Aug 2026 22:15:36 GMT",
+        "first_seen": "2026-08-19T22:42:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701768,
           38.122839
         ]
@@ -43526,6 +43566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.737004,
+          38.202567
+        ]
+      },
+      "properties": {
+        "incident_id": "301864",
+        "route": "I-65",
+        "mm_start": 131.7,
+        "mm_end": 131.7,
+        "title": "I-65 South at MM 131.7 Area of Fairgrounds in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Wed, 19 Aug 2026 22:25:29 GMT",
+        "first_seen": "2026-08-19T22:42:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741607,
           38.204947
         ]
@@ -45286,6 +45346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.676693,
+          38.287676
+        ]
+      },
+      "properties": {
+        "incident_id": "301856",
+        "route": "I-71",
+        "mm_start": 3.2,
+        "mm_end": 3.2,
+        "title": "I-71 North at MM 3.2 Area of Indian Hills Trail in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Wed, 19 Aug 2026 22:07:54 GMT",
+        "first_seen": "2026-08-19T22:42:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.675258,
           38.288571
         ]
@@ -46859,6 +46939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_06_71_0055",
         "pubDate": "Fri, 31 Jul 2026 23:35:27 GMT",
         "first_seen": "2026-08-01T00:08:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628201,
+          38.295395
+        ]
+      },
+      "properties": {
+        "incident_id": "301863",
+        "route": "I-71",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-71 South at MM 6.2 Area of US-42 in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Wed, 19 Aug 2026 22:21:04 GMT",
+        "first_seen": "2026-08-19T22:42:56Z"
       }
     },
     {
