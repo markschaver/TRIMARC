@@ -37286,6 +37286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701552,
+          38.117041
+        ]
+      },
+      "properties": {
+        "incident_id": "301746",
+        "route": "I-65",
+        "mm_start": 125.3,
+        "mm_end": 125.3,
+        "title": "I-65 North at MM 125.3 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 19 Aug 2026 01:58:13 GMT",
+        "first_seen": "2026-08-19T03:00:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701612,
           38.11849
         ]
@@ -37619,6 +37639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Thu, 13 Aug 2026 21:44:19 GMT",
         "first_seen": "2026-08-13T21:50:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "301749",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 North at MM 125.4 Approaching South Park Road Overpass in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1252.",
+        "pubDate": "Wed, 19 Aug 2026 02:54:11 GMT",
+        "first_seen": "2026-08-19T03:00:49Z"
       }
     },
     {
