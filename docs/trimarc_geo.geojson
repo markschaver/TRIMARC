@@ -16906,6 +16906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.653334,
+          38.116521
+        ]
+      },
+      "properties": {
+        "incident_id": "301798",
+        "route": "I-265",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-265 West at MM 13.0 Area of Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 19 Aug 2026 16:37:37 GMT",
+        "first_seen": "2026-08-19T17:04:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.651533,
           38.116793
         ]
