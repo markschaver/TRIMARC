@@ -6626,6 +6626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "301791",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 West at MM 12.8 Area of Poplar Level Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116 Traffic is able to access ramp",
+        "pubDate": "Wed, 19 Aug 2026 14:55:10 GMT",
+        "first_seen": "2026-08-19T15:14:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
