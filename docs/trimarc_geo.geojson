@@ -23606,6 +23606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.774171,
+          38.264181
+        ]
+      },
+      "properties": {
+        "incident_id": "301755",
+        "route": "I-64",
+        "mm_start": 3.0,
+        "mm_end": 3.5,
+        "title": "I-64 East between MM 3.0 and 3.5 Between 22nd Street and 9th Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
+        "pubDate": "Wed, 19 Aug 2026 03:27:46 GMT",
+        "first_seen": "2026-08-19T03:59:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.776605,
           38.265129
         ]
