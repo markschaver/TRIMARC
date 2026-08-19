@@ -34706,6 +34706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.448417,
+          38.220278
+        ]
+      },
+      "properties": {
+        "incident_id": "301765",
+        "route": "I-64",
+        "mm_start": 22.0,
+        "mm_end": 22.0,
+        "title": "I-64 East at MM 22.0 Area of Eastwood Fisherville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 19 Aug 2026 10:13:13 GMT",
+        "first_seen": "2026-08-19T10:38:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.446594,
           38.220135
         ]
