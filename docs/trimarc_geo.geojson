@@ -24631,6 +24631,26 @@
         ]
       },
       "properties": {
+        "incident_id": "301870",
+        "route": "I-64",
+        "mm_start": 4.7,
+        "mm_end": 4.9,
+        "title": "I-64 West between MM 4.9 and 4.7 Area of 3rd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Wed, 19 Aug 2026 23:46:48 GMT",
+        "first_seen": "2026-08-19T23:59:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.748508,
+          38.258788
+        ]
+      },
+      "properties": {
         "incident_id": "294455",
         "route": "I-64",
         "mm_start": 4.8,
@@ -44319,6 +44339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
         "pubDate": "Tue, 18 Aug 2026 23:35:16 GMT",
         "first_seen": "2026-08-18T23:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741639,
+          38.256633
+        ]
+      },
+      "properties": {
+        "incident_id": "301869",
+        "route": "I-65",
+        "mm_start": 136.3,
+        "mm_end": 136.3,
+        "title": "I-65 North at MM 136.3 Before Lincoln Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Wed, 19 Aug 2026 23:41:02 GMT",
+        "first_seen": "2026-08-19T23:59:51Z"
       }
     },
     {
