@@ -4646,6 +4646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.758488,
+          38.190068
+        ]
+      },
+      "properties": {
+        "incident_id": "301823",
+        "route": "I-264",
+        "mm_start": 10.5,
+        "mm_end": 10.5,
+        "title": "I-264 West at MM 10.5 Area of Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports of a disabled vehicle on the right shoulder",
+        "pubDate": "Wed, 19 Aug 2026 19:24:00 GMT",
+        "first_seen": "2026-08-19T19:29:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.756653,
           38.190123
         ]
@@ -5919,6 +5939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
         "pubDate": "Fri, 14 Aug 2026 19:23:12 GMT",
         "first_seen": "2026-08-14T19:37:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.731038,
+          38.190142
+        ]
+      },
+      "properties": {
+        "incident_id": "301817",
+        "route": "I-264",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-264 East at MM 12.0 Approaching Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 19 Aug 2026 18:50:51 GMT",
+        "first_seen": "2026-08-19T19:29:14Z"
       }
     },
     {
@@ -22079,6 +22119,26 @@
         "description": "Vehicle Fire : May be viewed on CCTV_05_841_0349",
         "pubDate": "Tue, 14 Jul 2026 21:00:18 GMT",
         "first_seen": "2026-07-14T21:08:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.578499,
+          38.313137
+        ]
+      },
+      "properties": {
+        "incident_id": "301822",
+        "route": "I-265",
+        "mm_start": 34.5,
+        "mm_end": 34.5,
+        "title": "I-265 North at MM 34.5 Approaching I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_841_0349",
+        "pubDate": "Wed, 19 Aug 2026 19:13:27 GMT",
+        "first_seen": "2026-08-19T19:29:14Z"
       }
     },
     {
