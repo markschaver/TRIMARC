@@ -19906,6 +19906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.507664,
+          38.199916
+        ]
+      },
+      "properties": {
+        "incident_id": "301961",
+        "route": "I-265",
+        "mm_start": 23.9,
+        "mm_end": 23.9,
+        "title": "I-265 South at MM 23.9 Area of Rehl Rd in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_265_0231",
+        "pubDate": "Thu, 20 Aug 2026 15:40:08 GMT",
+        "first_seen": "2026-08-20T16:12:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.507525,
           38.20136
         ]
@@ -22519,6 +22539,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0003",
         "pubDate": "Mon, 10 Aug 2026 21:22:54 GMT",
         "first_seen": "2026-08-10T21:59:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.820199,
+          38.276862
+        ]
+      },
+      "properties": {
+        "incident_id": "301963",
+        "route": "I-64",
+        "mm_start": 0.1,
+        "mm_end": 0.5,
+        "title": "I-64 West between MM 0.5 and 0.1 On Sherman Minton Bridge in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0003_WB",
+        "pubDate": "Thu, 20 Aug 2026 15:54:22 GMT",
+        "first_seen": "2026-08-20T16:12:30Z"
       }
     },
     {
