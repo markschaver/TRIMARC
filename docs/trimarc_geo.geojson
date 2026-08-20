@@ -40266,6 +40266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.707974,
+          38.139276
+        ]
+      },
+      "properties": {
+        "incident_id": "301934",
+        "route": "I-65",
+        "mm_start": 126.9,
+        "mm_end": 126.9,
+        "title": "I-65 North at MM 126.9 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 20 Aug 2026 11:52:49 GMT",
+        "first_seen": "2026-08-20T12:02:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708715,
           38.140603
         ]
@@ -47439,6 +47459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Fri, 14 Aug 2026 19:32:02 GMT",
         "first_seen": "2026-08-14T19:37:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.615082,
+          38.300273
+        ]
+      },
+      "properties": {
+        "incident_id": "301931",
+        "route": "I-71",
+        "mm_start": 7.0,
+        "mm_end": 7.0,
+        "title": "I-71 South at MM 7.0 Area of Barbour Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Thu, 20 Aug 2026 11:35:33 GMT",
+        "first_seen": "2026-08-20T12:02:38Z"
       }
     },
     {
