@@ -1946,6 +1946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822249,
+          38.223083
+        ]
+      },
+      "properties": {
+        "incident_id": "301925",
+        "route": "I-264",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-264 East at MM 4.0 Area of Bells Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Thu, 20 Aug 2026 11:13:55 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822349,
           38.221609
         ]
@@ -4926,6 +4946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752979,
+          38.19009
+        ]
+      },
+      "properties": {
+        "incident_id": "301917",
+        "route": "I-264",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-264 East at MM 10.8 Area of Crittenden Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway Service Patrol reports an incident in the area",
+        "pubDate": "Thu, 20 Aug 2026 10:53:29 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751158,
           38.189968
         ]
@@ -6726,6 +6766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "301926",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 East at MM 12.8 Area of Poplar Level Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Thu, 20 Aug 2026 11:18:29 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
@@ -8086,6 +8146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "301921",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 West at MM 13.6 Area of Poplar Level Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Thu, 20 Aug 2026 11:00:10 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702939,
           38.198495
         ]
@@ -8639,6 +8719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Tue, 28 Jul 2026 19:15:36 GMT",
         "first_seen": "2026-07-28T19:51:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.696159,
+          38.200602
+        ]
+      },
+      "properties": {
+        "incident_id": "301922",
+        "route": "I-264",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-264 West at MM 14.1 Area of Newburg RD in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Thu, 20 Aug 2026 11:05:16 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
       }
     },
     {
@@ -15099,6 +15199,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0208.",
         "pubDate": "Sat, 15 Aug 2026 11:49:21 GMT",
         "first_seen": "2026-08-15T11:57:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.626385,
+          38.269405
+        ]
+      },
+      "properties": {
+        "incident_id": "301924",
+        "route": "I-264",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-264 East at MM 21.2 Area of Westport Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Thu, 20 Aug 2026 11:11:09 GMT",
+        "first_seen": "2026-08-20T11:30:34Z"
       }
     },
     {
