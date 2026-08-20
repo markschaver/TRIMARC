@@ -25206,6 +25206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744948,
+          38.258258
+        ]
+      },
+      "properties": {
+        "incident_id": "301956",
+        "route": "I-64",
+        "mm_start": 5.0,
+        "mm_end": 5.0,
+        "title": "I-64 West at MM 5.0 Area of 3rd St in Jefferson County",
+        "description": "Pedestrian : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Thu, 20 Aug 2026 14:46:46 GMT",
+        "first_seen": "2026-08-20T14:55:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743118,
           38.257959
         ]
@@ -26719,6 +26739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
         "pubDate": "Fri, 24 Jul 2026 19:20:13 GMT",
         "first_seen": "2026-07-24T19:49:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.709964,
+          38.249732
+        ]
+      },
+      "properties": {
+        "incident_id": "301951",
+        "route": "I-64",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-64 West at MM 7.3 Area of Grinstead Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Thu, 20 Aug 2026 13:58:16 GMT",
+        "first_seen": "2026-08-20T14:55:40Z"
       }
     },
     {
@@ -43479,6 +43519,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1297",
         "pubDate": "Tue, 18 Aug 2026 12:57:31 GMT",
         "first_seen": "2026-08-18T13:08:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720703,
+          38.180328
+        ]
+      },
+      "properties": {
+        "incident_id": "301952",
+        "route": "I-65",
+        "mm_start": 129.9,
+        "mm_end": 129.9,
+        "title": "I-65 North at MM 129.9 Area of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Thu, 20 Aug 2026 14:17:47 GMT",
+        "first_seen": "2026-08-20T14:55:40Z"
       }
     },
     {
