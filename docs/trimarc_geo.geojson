@@ -23626,6 +23626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.77029,
+          38.26116
+        ]
+      },
+      "properties": {
+        "incident_id": "301870",
+        "route": "I-64",
+        "mm_start": 2.2,
+        "mm_end": 4.9,
+        "title": "I-64 West between MM 4.9 and 2.2 Between 3rd Street and 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Wed, 19 Aug 2026 23:46:48 GMT",
+        "first_seen": "2026-08-20T06:03:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.786191,
           38.273382
         ]
@@ -24019,26 +24039,6 @@
         "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
         "pubDate": "Wed, 19 Aug 2026 03:27:46 GMT",
         "first_seen": "2026-08-19T03:59:56Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.763922,
-          38.258499
-        ]
-      },
-      "properties": {
-        "incident_id": "301870",
-        "route": "I-64",
-        "mm_start": 3.0,
-        "mm_end": 4.9,
-        "title": "I-64 West between MM 4.9 and 3.0 Between 3rd Street and 22nd Street in Jefferson County",
-        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0030",
-        "pubDate": "Wed, 19 Aug 2026 23:46:48 GMT",
-        "first_seen": "2026-08-20T05:34:51Z"
       }
     },
     {
