@@ -7606,6 +7606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "302029",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Approaching Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May viewed on CCTV_05_264_0133",
+        "pubDate": "Thu, 20 Aug 2026 23:21:29 GMT",
+        "first_seen": "2026-08-20T23:29:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -12456,9 +12476,9 @@
         "mm_start": 17.4,
         "mm_end": 17.4,
         "title": "I-264 East at MM 17.4 Just Past Taylorsville Rd. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Thu, 20 Aug 2026 21:34:00 GMT",
-        "first_seen": "2026-08-20T21:44:15Z"
+        "first_seen": "2026-08-20T23:29:25Z"
       }
     },
     {
@@ -12916,9 +12936,9 @@
         "mm_start": 17.7,
         "mm_end": 17.7,
         "title": "I-264 East at MM 17.7 Approaching Breckenridge Ln. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Thu, 20 Aug 2026 19:56:47 GMT",
-        "first_seen": "2026-08-20T21:44:15Z"
+        "first_seen": "2026-08-20T23:29:25Z"
       }
     },
     {
