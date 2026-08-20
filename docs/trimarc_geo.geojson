@@ -41026,6 +41026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709409,
+          38.141946
+        ]
+      },
+      "properties": {
+        "incident_id": "302022",
+        "route": "I-65",
+        "mm_start": 127.1,
+        "mm_end": 127.1,
+        "title": "I-65 North at MM 127.1 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 20 Aug 2026 22:02:27 GMT",
+        "first_seen": "2026-08-20T22:09:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.7101,
           38.143288
         ]
@@ -41459,6 +41479,26 @@
         "description": "Disabled Vehicle-Occupied : METROSAFE REPORTS.",
         "pubDate": "Mon, 17 Aug 2026 02:26:54 GMT",
         "first_seen": "2026-08-17T02:46:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713587,
+          38.149979
+        ]
+      },
+      "properties": {
+        "incident_id": "302021",
+        "route": "I-65",
+        "mm_start": 127.7,
+        "mm_end": 127.7,
+        "title": "I-65 South at MM 127.7 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 20 Aug 2026 22:00:05 GMT",
+        "first_seen": "2026-08-20T22:09:35Z"
       }
     },
     {
