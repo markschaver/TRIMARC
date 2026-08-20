@@ -12446,6 +12446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644304,
+          38.224387
+        ]
+      },
+      "properties": {
+        "incident_id": "302016",
+        "route": "I-264",
+        "mm_start": 17.4,
+        "mm_end": 17.4,
+        "title": "I-264 East at MM 17.4 Just Past Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 20 Aug 2026 21:34:00 GMT",
+        "first_seen": "2026-08-20T21:44:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.642737,
           38.225118
         ]
@@ -12896,9 +12916,9 @@
         "mm_start": 17.7,
         "mm_end": 17.7,
         "title": "I-264 East at MM 17.7 Approaching Breckenridge Ln. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Thu, 20 Aug 2026 19:56:47 GMT",
-        "first_seen": "2026-08-20T21:06:29Z"
+        "first_seen": "2026-08-20T21:44:15Z"
       }
     },
     {
@@ -41579,6 +41599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Thu, 13 Aug 2026 23:12:57 GMT",
         "first_seen": "2026-08-13T23:45:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.715146,
+          38.152605
+        ]
+      },
+      "properties": {
+        "incident_id": "302014",
+        "route": "I-65",
+        "mm_start": 127.9,
+        "mm_end": 127.9,
+        "title": "I-65 North at MM 127.9 Just Past Fern Valley in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 20 Aug 2026 21:28:08 GMT",
+        "first_seen": "2026-08-20T21:44:15Z"
       }
     },
     {
