@@ -19446,6 +19446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.520963,
+          38.165452
+        ]
+      },
+      "properties": {
+        "incident_id": "301965",
+        "route": "I-265",
+        "mm_start": 21.3,
+        "mm_end": 21.3,
+        "title": "I-265 West at MM 21.3 Area of Old Heady Rd in Jefferson County",
+        "description": "Crash : Metrosafe reports a crash in the area",
+        "pubDate": "Thu, 20 Aug 2026 16:39:44 GMT",
+        "first_seen": "2026-08-20T16:53:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.517951,
           38.170743
         ]
