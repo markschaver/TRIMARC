@@ -5206,6 +5206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.749331,
+          38.189777
+        ]
+      },
+      "properties": {
+        "incident_id": "301937",
+        "route": "I-264",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-264 East at MM 11.0 Approaching Freedom Way in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Thu, 20 Aug 2026 12:17:40 GMT",
+        "first_seen": "2026-08-20T13:11:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.747523,
           38.189534
         ]
@@ -10159,6 +10179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Mon, 17 Aug 2026 22:25:24 GMT",
         "first_seen": "2026-08-17T22:42:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.676519,
+          38.20776
+        ]
+      },
+      "properties": {
+        "incident_id": "301945",
+        "route": "I-264",
+        "mm_start": 15.3,
+        "mm_end": 15.3,
+        "title": "I-264 East at MM 15.3 Approaching Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 20 Aug 2026 13:01:12 GMT",
+        "first_seen": "2026-08-20T13:11:44Z"
       }
     },
     {
@@ -25546,6 +25586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.738461,
+          38.259469
+        ]
+      },
+      "properties": {
+        "incident_id": "301944",
+        "route": "I-64",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-64 East at MM 5.4 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Thu, 20 Aug 2026 13:01:10 GMT",
+        "first_seen": "2026-08-20T13:11:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.73709,
           38.260375
         ]
@@ -31119,6 +31179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Thu, 13 Aug 2026 14:01:25 GMT",
         "first_seen": "2026-08-13T14:08:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "301943",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 West at MM 16.8 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 20 Aug 2026 12:51:34 GMT",
+        "first_seen": "2026-08-20T13:11:44Z"
       }
     },
     {
