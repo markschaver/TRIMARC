@@ -12896,9 +12896,9 @@
         "mm_start": 17.7,
         "mm_end": 17.7,
         "title": "I-264 East at MM 17.7 Approaching Breckenridge Ln. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Thu, 20 Aug 2026 19:56:47 GMT",
-        "first_seen": "2026-08-20T20:32:36Z"
+        "first_seen": "2026-08-20T21:06:29Z"
       }
     },
     {
@@ -17759,6 +17759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Tue, 18 Aug 2026 20:36:01 GMT",
         "first_seen": "2026-08-18T21:01:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644333,
+          38.117922
+        ]
+      },
+      "properties": {
+        "incident_id": "302004",
+        "route": "I-265",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-265 East at MM 13.5 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Thu, 20 Aug 2026 20:37:22 GMT",
+        "first_seen": "2026-08-20T21:06:29Z"
       }
     },
     {
