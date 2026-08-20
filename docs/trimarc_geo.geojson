@@ -22486,6 +22486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.812841,
+          38.275086
+        ]
+      },
+      "properties": {
+        "incident_id": "301901",
+        "route": "I-64",
+        "mm_start": 0.3,
+        "mm_end": 1.2,
+        "title": "I-64 East between MM 0.3 and 1.2 Between Sherman Minton Bridge and I-264 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0012",
+        "pubDate": "Thu, 20 Aug 2026 07:45:44 GMT",
+        "first_seen": "2026-08-20T07:57:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.81895,
           38.275826
         ]
