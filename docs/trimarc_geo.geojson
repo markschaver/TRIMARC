@@ -18286,6 +18286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.635338,
+          38.11931
+        ]
+      },
+      "properties": {
+        "incident_id": "302093",
+        "route": "I-265",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-265 West at MM 14.0 Approaching Smryna Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 21 Aug 2026 17:25:48 GMT",
+        "first_seen": "2026-08-21T17:32:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.63358,
           38.119705
         ]
@@ -22539,6 +22559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
         "pubDate": "Tue, 28 Jul 2026 21:56:27 GMT",
         "first_seen": "2026-07-28T22:10:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547905,
+          38.297334
+        ]
+      },
+      "properties": {
+        "incident_id": "302092",
+        "route": "I-265",
+        "mm_start": 32.5,
+        "mm_end": 32.5,
+        "title": "I-265 South at MM 32.5 Area of Westport Rd in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Fri, 21 Aug 2026 17:07:55 GMT",
+        "first_seen": "2026-08-21T17:32:30Z"
       }
     },
     {
