@@ -17986,6 +17986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.640734,
+          38.118478
+        ]
+      },
+      "properties": {
+        "incident_id": "302075",
+        "route": "I-265",
+        "mm_start": 13.7,
+        "mm_end": 13.7,
+        "title": "I-265 East at MM 13.7 Area of Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 21 Aug 2026 13:53:42 GMT",
+        "first_seen": "2026-08-21T13:59:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.638934,
           38.118752
         ]
@@ -33339,6 +33359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
         "pubDate": "Fri, 21 Aug 2026 01:15:50 GMT",
         "first_seen": "2026-08-21T01:37:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503272,
+          38.222569
+        ]
+      },
+      "properties": {
+        "incident_id": "302071",
+        "route": "I-64",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-64 West at MM 19.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 21 Aug 2026 13:11:40 GMT",
+        "first_seen": "2026-08-21T13:59:46Z"
       }
     },
     {
