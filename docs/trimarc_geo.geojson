@@ -43846,6 +43846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "302140",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 North at MM 129.0 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Fri, 21 Aug 2026 21:29:36 GMT",
+        "first_seen": "2026-08-21T21:40:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720515,
           38.169079
         ]
@@ -45659,6 +45679,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1337",
         "pubDate": "Tue, 18 Aug 2026 19:36:34 GMT",
         "first_seen": "2026-08-18T19:41:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.750784,
+          38.233652
+        ]
+      },
+      "properties": {
+        "incident_id": "302141",
+        "route": "I-65",
+        "mm_start": 134.4,
+        "mm_end": 134.4,
+        "title": "I-65 South at MM 134.4 Area of St. Catherine Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Fri, 21 Aug 2026 21:29:36 GMT",
+        "first_seen": "2026-08-21T21:40:34Z"
       }
     },
     {
@@ -48379,6 +48419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Tue, 04 Aug 2026 18:21:01 GMT",
         "first_seen": "2026-08-04T18:54:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.634978,
+          38.293314
+        ]
+      },
+      "properties": {
+        "incident_id": "302139",
+        "route": "I-71",
+        "mm_start": 5.8,
+        "mm_end": 5.8,
+        "title": "I-71 South at MM 5.8 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Fri, 21 Aug 2026 21:25:35 GMT",
+        "first_seen": "2026-08-21T21:40:34Z"
       }
     },
     {
