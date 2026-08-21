@@ -3366,6 +3366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "302057",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 East at MM 8.0 Area of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Fri, 21 Aug 2026 10:14:53 GMT",
+        "first_seen": "2026-08-21T10:50:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
@@ -22719,6 +22739,26 @@
         "description": "Crash : May be viewed on CCTV_05_841_0349",
         "pubDate": "Wed, 19 Aug 2026 19:13:27 GMT",
         "first_seen": "2026-08-19T19:29:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.579988,
+          38.313988
+        ]
+      },
+      "properties": {
+        "incident_id": "302059",
+        "route": "I-265",
+        "mm_start": 34.6,
+        "mm_end": 34.6,
+        "title": "I-265 South at MM 34.6 Just Past I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_841_0349",
+        "pubDate": "Fri, 21 Aug 2026 10:40:48 GMT",
+        "first_seen": "2026-08-21T10:50:29Z"
       }
     },
     {
@@ -50259,6 +50299,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Mon, 10 Aug 2026 16:01:22 GMT",
         "first_seen": "2026-08-10T16:09:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.550015,
+          38.325555
+        ]
+      },
+      "properties": {
+        "incident_id": "302058",
+        "route": "I-71",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-71 South at MM 11.0 Area of Jefferson/Oldham Co. Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Fri, 21 Aug 2026 10:37:57 GMT",
+        "first_seen": "2026-08-21T10:50:29Z"
       }
     },
     {
