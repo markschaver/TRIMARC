@@ -9066,6 +9066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "302132",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 West at MM 14.2 Just Past Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 21 Aug 2026 20:46:00 GMT",
+        "first_seen": "2026-08-21T21:01:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -28659,6 +28679,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
         "pubDate": "Mon, 20 Jul 2026 13:25:20 GMT",
         "first_seen": "2026-07-20T14:18:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.678716,
+          38.24041
+        ]
+      },
+      "properties": {
+        "incident_id": "302135",
+        "route": "I-64",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-64 East at MM 9.2 Area of Alta Vista Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Fri, 21 Aug 2026 20:52:07 GMT",
+        "first_seen": "2026-08-21T21:01:47Z"
       }
     },
     {
