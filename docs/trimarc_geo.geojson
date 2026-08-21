@@ -2646,6 +2646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82801,
+          38.19833
+        ]
+      },
+      "properties": {
+        "incident_id": "302107",
+        "route": "I-264",
+        "mm_start": 5.8,
+        "mm_end": 5.8,
+        "title": "I-264 West at MM 5.8 Area of Crums Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0060",
+        "pubDate": "Fri, 21 Aug 2026 18:57:59 GMT",
+        "first_seen": "2026-08-21T19:30:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.828531,
           38.196934
         ]
@@ -12659,6 +12679,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Thu, 20 Aug 2026 21:34:00 GMT",
         "first_seen": "2026-08-20T23:29:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644304,
+          38.224387
+        ]
+      },
+      "properties": {
+        "incident_id": "302109",
+        "route": "I-264",
+        "mm_start": 17.4,
+        "mm_end": 17.4,
+        "title": "I-264 East at MM 17.4 Approaching Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Fri, 21 Aug 2026 19:06:34 GMT",
+        "first_seen": "2026-08-21T19:30:54Z"
       }
     },
     {
