@@ -24586,6 +24586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.787773,
+          38.274087
+        ]
+      },
+      "properties": {
+        "incident_id": "302123",
+        "route": "I-64",
+        "mm_start": 2.2,
+        "mm_end": 2.2,
+        "title": "I-64 East at MM 2.2 Before 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Fri, 21 Aug 2026 20:10:00 GMT",
+        "first_seen": "2026-08-21T20:34:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.786191,
           38.273382
         ]
@@ -27299,6 +27319,26 @@
         "description": "Crash : May be viewed on camera CCTV_05_64_0068.",
         "pubDate": "Sun, 16 Aug 2026 07:54:13 GMT",
         "first_seen": "2026-08-16T08:01:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719376,
+          38.25388
+        ]
+      },
+      "properties": {
+        "incident_id": "302125",
+        "route": "I-64",
+        "mm_start": 6.7,
+        "mm_end": 6.7,
+        "title": "I-64 West at MM 6.7 Approaching Mellwood Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Fri, 21 Aug 2026 20:12:56 GMT",
+        "first_seen": "2026-08-21T20:34:03Z"
       }
     },
     {
@@ -39499,6 +39539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 29 Jul 2026 00:58:13 GMT",
         "first_seen": "2026-07-29T01:38:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701677,
+          38.119937
+        ]
+      },
+      "properties": {
+        "incident_id": "302128",
+        "route": "I-65",
+        "mm_start": 125.5,
+        "mm_end": 125.5,
+        "title": "I-65 South at MM 125.5 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 21 Aug 2026 20:23:20 GMT",
+        "first_seen": "2026-08-21T20:34:03Z"
       }
     },
     {
