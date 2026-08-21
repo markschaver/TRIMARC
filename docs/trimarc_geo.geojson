@@ -18226,6 +18226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.63183,
+          38.120162
+        ]
+      },
+      "properties": {
+        "incident_id": "302062",
+        "route": "I-265",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-265 West at MM 14.2 Area of Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 21 Aug 2026 10:58:16 GMT",
+        "first_seen": "2026-08-21T11:30:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.630088,
           38.120613
         ]
@@ -44706,6 +44726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743166,
+          38.205718
+        ]
+      },
+      "properties": {
+        "incident_id": "302031",
+        "route": "I-65",
+        "mm_start": 132.1,
+        "mm_end": 132.1,
+        "title": "I-65 South at MM 132.1 Just Past Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Thu, 20 Aug 2026 23:46:56 GMT",
+        "first_seen": "2026-08-21T11:30:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.744842,
           38.206287
         ]
@@ -44719,26 +44759,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327.",
         "pubDate": "Sat, 15 Aug 2026 20:30:28 GMT",
         "first_seen": "2026-08-15T21:00:08Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.74847,
-          38.206747
-        ]
-      },
-      "properties": {
-        "incident_id": "302031",
-        "route": "I-65",
-        "mm_start": 132.4,
-        "mm_end": 132.4,
-        "title": "I-65 South at MM 132.4 Just Past Crittenden Drive in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
-        "pubDate": "Thu, 20 Aug 2026 23:46:56 GMT",
-        "first_seen": "2026-08-20T23:53:25Z"
       }
     },
     {
