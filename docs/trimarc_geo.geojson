@@ -4746,6 +4746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.757577,
+          38.1901
+        ]
+      },
+      "properties": {
+        "incident_id": "302094",
+        "route": "I-264",
+        "mm_start": 10.5,
+        "mm_end": 10.6,
+        "title": "I-264 East between MM 10.5 and 10.6 Just Past 3rd Street in Jefferson County",
+        "description": "Crash : Incident reported in the area",
+        "pubDate": "Fri, 21 Aug 2026 17:36:25 GMT",
+        "first_seen": "2026-08-21T18:03:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.756653,
           38.190123
         ]
@@ -6406,6 +6426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72188,
+          38.190693
+        ]
+      },
+      "properties": {
+        "incident_id": "302096",
+        "route": "I-264",
+        "mm_start": 12.5,
+        "mm_end": 12.5,
+        "title": "I-264 West at MM 12.5 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Fri, 21 Aug 2026 17:51:14 GMT",
+        "first_seen": "2026-08-21T18:03:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720051,
           38.190804
         ]
@@ -6719,6 +6759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
         "pubDate": "Fri, 21 Aug 2026 16:16:13 GMT",
         "first_seen": "2026-08-21T16:51:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.718217,
+          38.190878
+        ]
+      },
+      "properties": {
+        "incident_id": "302095",
+        "route": "I-264",
+        "mm_start": 12.7,
+        "mm_end": 12.7,
+        "title": "I-264 West at MM 12.7 Area of I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Fri, 21 Aug 2026 17:48:55 GMT",
+        "first_seen": "2026-08-21T18:03:53Z"
       }
     },
     {
