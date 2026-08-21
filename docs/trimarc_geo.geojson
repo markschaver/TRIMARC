@@ -45066,6 +45066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752196,
+          38.217863
+        ]
+      },
+      "properties": {
+        "incident_id": "302082",
+        "route": "I-65",
+        "mm_start": 133.3,
+        "mm_end": 133.3,
+        "title": "I-65 North at MM 133.3 Just Past Eastern Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Fri, 21 Aug 2026 15:15:40 GMT",
+        "first_seen": "2026-08-21T15:37:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751455,
           38.220699
         ]
@@ -49579,6 +49599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Tue, 21 Jul 2026 13:30:26 GMT",
         "first_seen": "2026-07-21T13:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.586334,
+          38.312508
+        ]
+      },
+      "properties": {
+        "incident_id": "302083",
+        "route": "I-71",
+        "mm_start": 8.8,
+        "mm_end": 8.8,
+        "title": "I-71 North at MM 8.8 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Fri, 21 Aug 2026 15:29:42 GMT",
+        "first_seen": "2026-08-21T15:37:04Z"
       }
     },
     {
