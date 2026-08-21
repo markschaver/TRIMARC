@@ -45106,6 +45106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75129,
+          38.23504
+        ]
+      },
+      "properties": {
+        "incident_id": "302068",
+        "route": "I-65",
+        "mm_start": 134.5,
+        "mm_end": 134.5,
+        "title": "I-65 South at MM 134.5 Area of St. Catherine St. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Fri, 21 Aug 2026 12:34:08 GMT",
+        "first_seen": "2026-08-21T13:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75313,
           38.239104
         ]
