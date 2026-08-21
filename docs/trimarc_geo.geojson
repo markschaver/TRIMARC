@@ -48346,6 +48346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.615082,
+          38.300273
+        ]
+      },
+      "properties": {
+        "incident_id": "302078",
+        "route": "I-71",
+        "mm_start": 7.0,
+        "mm_end": 7.0,
+        "title": "I-71 South at MM 7.0 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Fri, 21 Aug 2026 14:27:50 GMT",
+        "first_seen": "2026-08-21T14:47:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.613279,
           38.300545
         ]
@@ -49459,6 +49479,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0089",
         "pubDate": "Wed, 12 Aug 2026 11:52:49 GMT",
         "first_seen": "2026-08-12T12:00:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.587876,
+          38.311732
+        ]
+      },
+      "properties": {
+        "incident_id": "302079",
+        "route": "I-71",
+        "mm_start": 8.7,
+        "mm_end": 8.7,
+        "title": "I-71 North at MM 8.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Fri, 21 Aug 2026 14:32:27 GMT",
+        "first_seen": "2026-08-21T14:47:17Z"
       }
     },
     {
