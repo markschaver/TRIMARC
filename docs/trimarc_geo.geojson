@@ -25206,19 +25206,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.748508,
-          38.258788
+          -85.747599,
+          38.258695
         ]
       },
       "properties": {
         "incident_id": "302035",
         "route": "I-64",
         "mm_start": 4.7,
-        "mm_end": 4.9,
-        "title": "I-64 East between MM 4.7 and 4.9 Area of River Road in Jefferson County",
+        "mm_end": 5.0,
+        "title": "I-64 East between MM 4.7 and 5.0 Area of Slugger Field in Jefferson County",
         "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0050",
         "pubDate": "Fri, 21 Aug 2026 01:52:48 GMT",
-        "first_seen": "2026-08-21T02:48:59Z"
+        "first_seen": "2026-08-21T03:52:52Z"
       }
     },
     {
@@ -49459,6 +49459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
         "pubDate": "Sat, 25 Jul 2026 20:17:21 GMT",
         "first_seen": "2026-07-25T20:34:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583249,
+          38.31406
+        ]
+      },
+      "properties": {
+        "incident_id": "302040",
+        "route": "I-71",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-71 North at MM 9.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
+        "first_seen": "2026-08-21T03:52:52Z"
       }
     },
     {
