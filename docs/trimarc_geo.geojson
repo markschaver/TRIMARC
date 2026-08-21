@@ -24686,6 +24686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.784747,
+          38.27252
+        ]
+      },
+      "properties": {
+        "incident_id": "302143",
+        "route": "I-64",
+        "mm_start": 2.4,
+        "mm_end": 2.4,
+        "title": "I-64 West at MM 2.4 Just Past 22nd St. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Fri, 21 Aug 2026 21:36:56 GMT",
+        "first_seen": "2026-08-21T22:00:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.783521,
           38.271462
         ]
@@ -39086,6 +39106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701492,
+          38.115592
+        ]
+      },
+      "properties": {
+        "incident_id": "302145",
+        "route": "I-65",
+        "mm_start": 125.2,
+        "mm_end": 125.2,
+        "title": "I-65 South at MM 125.2 Area of I-265 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 21 Aug 2026 21:40:22 GMT",
+        "first_seen": "2026-08-21T22:00:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701552,
           38.117041
         ]
@@ -43859,6 +43899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
         "pubDate": "Fri, 21 Aug 2026 21:29:36 GMT",
         "first_seen": "2026-08-21T21:40:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "302147",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 South at MM 129.0 Before Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : may be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 21 Aug 2026 21:48:25 GMT",
+        "first_seen": "2026-08-21T22:00:50Z"
       }
     },
     {
