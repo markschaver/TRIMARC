@@ -14366,6 +14366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.626005,
+          38.234016
+        ]
+      },
+      "properties": {
+        "incident_id": "302198",
+        "route": "I-264",
+        "mm_start": 18.6,
+        "mm_end": 18.6,
+        "title": "I-264 East at MM 18.6 Area of I-64 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Sat, 22 Aug 2026 11:16:27 GMT",
+        "first_seen": "2026-08-22T11:35:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.624822,
           38.235128
         ]
@@ -48759,6 +48779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Tue, 21 Jul 2026 15:55:34 GMT",
         "first_seen": "2026-07-21T16:02:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "302199",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 North at MM 5.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Sat, 22 Aug 2026 11:18:48 GMT",
+        "first_seen": "2026-08-22T11:35:58Z"
       }
     },
     {
