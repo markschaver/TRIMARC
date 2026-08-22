@@ -46886,6 +46886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.688171,
+          38.280509
+        ]
+      },
+      "properties": {
+        "incident_id": "302186",
+        "route": "I-71",
+        "mm_start": 1.8,
+        "mm_end": 3.0,
+        "title": "I-71 North between MM 1.8 and 3.0 Between Zorn Avenue and Indian Hills Road in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_71_0018.",
+        "pubDate": "Sat, 22 Aug 2026 04:54:02 GMT",
+        "first_seen": "2026-08-22T05:07:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.695345,
           38.276029
         ]
