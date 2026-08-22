@@ -45506,6 +45506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744842,
+          38.206287
+        ]
+      },
+      "properties": {
+        "incident_id": "302167",
+        "route": "I-65",
+        "mm_start": 132.2,
+        "mm_end": 132.2,
+        "title": "I-65 South at MM 132.2 Just Past Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Sat, 22 Aug 2026 00:20:39 GMT",
+        "first_seen": "2026-08-22T01:51:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750239,
           38.207134
         ]
@@ -46819,6 +46839,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0018.",
         "pubDate": "Sat, 15 Aug 2026 13:52:31 GMT",
         "first_seen": "2026-08-15T13:59:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.693911,
+          38.276925
+        ]
+      },
+      "properties": {
+        "incident_id": "302171",
+        "route": "I-71",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-71 North at MM 2.0 Just Past Zorn Ave in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Sat, 22 Aug 2026 01:00:15 GMT",
+        "first_seen": "2026-08-22T01:51:08Z"
       }
     },
     {
