@@ -26946,6 +26946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.728134,
+          38.261053
+        ]
+      },
+      "properties": {
+        "incident_id": "302182",
+        "route": "I-64",
+        "mm_start": 5.8,
+        "mm_end": 6.2,
+        "title": "I-64 West between MM 6.2 and 5.8 Area of I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0058",
+        "pubDate": "Sat, 22 Aug 2026 03:41:54 GMT",
+        "first_seen": "2026-08-22T03:49:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729966,
           38.261085
         ]
@@ -45959,6 +45979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356.",
         "pubDate": "Sun, 16 Aug 2026 19:58:04 GMT",
         "first_seen": "2026-08-16T20:30:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752738,
+          38.241992
+        ]
+      },
+      "properties": {
+        "incident_id": "302178",
+        "route": "I-65",
+        "mm_start": 135.0,
+        "mm_end": 135.0,
+        "title": "I-65 South at MM 135.0 Area of Broadway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1348",
+        "pubDate": "Sat, 22 Aug 2026 03:01:25 GMT",
+        "first_seen": "2026-08-22T03:49:08Z"
       }
     },
     {
