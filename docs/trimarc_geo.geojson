@@ -32066,6 +32066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.549295,
+          38.223554
+        ]
+      },
+      "properties": {
+        "incident_id": "302232",
+        "route": "I-64",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-64 East at MM 16.5 Approaching Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Sat, 22 Aug 2026 21:57:30 GMT",
+        "first_seen": "2026-08-22T22:31:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.547463,
           38.223651
         ]
@@ -32079,6 +32099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Mon, 20 Jul 2026 10:21:16 GMT",
         "first_seen": "2026-07-20T10:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547463,
+          38.223651
+        ]
+      },
+      "properties": {
+        "incident_id": "302233",
+        "route": "I-64",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-64 West at MM 16.6 Just Past Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Sat, 22 Aug 2026 22:00:02 GMT",
+        "first_seen": "2026-08-22T22:31:33Z"
       }
     },
     {
