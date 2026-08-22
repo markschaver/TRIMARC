@@ -20786,6 +20786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.506454,
+          38.212919
+        ]
+      },
+      "properties": {
+        "incident_id": "302211",
+        "route": "I-265",
+        "mm_start": 24.8,
+        "mm_end": 24.8,
+        "title": "I-265 South at MM 24.8 Area of S Pope Lick Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports an incident in the area",
+        "pubDate": "Sat, 22 Aug 2026 15:17:25 GMT",
+        "first_seen": "2026-08-22T15:30:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.506176,
           38.215807
         ]
