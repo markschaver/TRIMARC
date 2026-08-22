@@ -31886,6 +31886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.554764,
+          38.223277
+        ]
+      },
+      "properties": {
+        "incident_id": "302220",
+        "route": "I-64",
+        "mm_start": 16.2,
+        "mm_end": 16.2,
+        "title": "I-64 West at MM 16.2 Just Past Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Sat, 22 Aug 2026 17:18:27 GMT",
+        "first_seen": "2026-08-22T17:36:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.551118,
           38.223462
         ]
@@ -51819,6 +51839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Wed, 05 Aug 2026 21:30:04 GMT",
         "first_seen": "2026-08-05T21:56:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.547063,
+          38.327265
+        ]
+      },
+      "properties": {
+        "incident_id": "302219",
+        "route": "I-71",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-71 South at MM 11.2 Area of Jefferson/Oldham County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Sat, 22 Aug 2026 16:55:10 GMT",
+        "first_seen": "2026-08-22T17:36:48Z"
       }
     },
     {
