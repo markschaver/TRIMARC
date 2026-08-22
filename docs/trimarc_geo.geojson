@@ -49586,6 +49586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.611475,
+          38.300817
+        ]
+      },
+      "properties": {
+        "incident_id": "302207",
+        "route": "I-71",
+        "mm_start": 7.2,
+        "mm_end": 7.2,
+        "title": "I-71 South at MM 7.2 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Sat, 22 Aug 2026 14:29:58 GMT",
+        "first_seen": "2026-08-22T14:59:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.609681,
           38.30113
         ]
