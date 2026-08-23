@@ -16266,6 +16266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.642307,
+          38.285321
+        ]
+      },
+      "properties": {
+        "incident_id": "302264",
+        "route": "I-264",
+        "mm_start": 22.6,
+        "mm_end": 22.6,
+        "title": "I-264 East at MM 22.6 Approaching I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Sun, 23 Aug 2026 18:49:01 GMT",
+        "first_seen": "2026-08-23T19:04:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.64353,
           38.286375
         ]
@@ -37699,6 +37719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Wed, 19 Aug 2026 23:30:26 GMT",
         "first_seen": "2026-08-19T23:38:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.419282,
+          38.218021
+        ]
+      },
+      "properties": {
+        "incident_id": "302265",
+        "route": "I-64",
+        "mm_start": 23.6,
+        "mm_end": 23.6,
+        "title": "I-64 East at MM 23.6 Approaching Shelby County in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : may be viewed on CCTV_05_64_0238",
+        "pubDate": "Sun, 23 Aug 2026 18:54:39 GMT",
+        "first_seen": "2026-08-23T19:04:23Z"
       }
     },
     {
