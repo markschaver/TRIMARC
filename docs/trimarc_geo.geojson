@@ -42326,6 +42326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.7101,
+          38.143288
+        ]
+      },
+      "properties": {
+        "incident_id": "302248",
+        "route": "I-65",
+        "mm_start": 127.2,
+        "mm_end": 127.2,
+        "title": "I-65 South at MM 127.2 Collector Outer Loop Rd. in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_65_1267.",
+        "pubDate": "Sun, 23 Aug 2026 08:59:25 GMT",
+        "first_seen": "2026-08-23T09:31:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710792,
           38.144631
         ]
