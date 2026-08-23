@@ -46286,6 +46286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "302266",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 North at MM 133.6 Approaching Fairgrounds in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : may be viewed on CCTV_05_65_1330",
+        "pubDate": "Sun, 23 Aug 2026 19:48:22 GMT",
+        "first_seen": "2026-08-23T19:57:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
