@@ -1126,6 +1126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807773,
+          38.24884
+        ]
+      },
+      "properties": {
+        "incident_id": "302241",
+        "route": "I-264",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-264 West at MM 2.0 Approaching River Park Rd. in Jefferson County",
+        "description": "Crash : LMPD REPORTS.",
+        "pubDate": "Sun, 23 Aug 2026 00:58:39 GMT",
+        "first_seen": "2026-08-23T01:39:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80894,
           38.247711
         ]
@@ -6239,6 +6259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
         "pubDate": "Wed, 12 Aug 2026 19:47:45 GMT",
         "first_seen": "2026-08-12T20:10:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.729206,
+          38.190252
+        ]
+      },
+      "properties": {
+        "incident_id": "302243",
+        "route": "I-264",
+        "mm_start": 12.1,
+        "mm_end": 12.1,
+        "title": "I-264 East at MM 12.1 Under I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1307.",
+        "pubDate": "Sun, 23 Aug 2026 01:12:44 GMT",
+        "first_seen": "2026-08-23T01:39:50Z"
       }
     },
     {
