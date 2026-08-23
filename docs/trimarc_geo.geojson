@@ -2946,6 +2946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.828669,
+          38.187435
+        ]
+      },
+      "properties": {
+        "incident_id": "302268",
+        "route": "I-264",
+        "mm_start": 6.6,
+        "mm_end": 6.6,
+        "title": "I-264 East at MM 6.6 Approaching Dixie Hghy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0065",
+        "pubDate": "Sun, 23 Aug 2026 20:22:28 GMT",
+        "first_seen": "2026-08-23T20:32:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827217,
           38.186549
         ]
