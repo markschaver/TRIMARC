@@ -9146,6 +9146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "302285",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 West at MM 14.2 Area of Newburg Rd in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_0145",
+        "pubDate": "Mon, 24 Aug 2026 10:40:47 GMT",
+        "first_seen": "2026-08-24T10:55:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -10386,6 +10406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.67789,
+          38.206787
+        ]
+      },
+      "properties": {
+        "incident_id": "302284",
+        "route": "I-264",
+        "mm_start": 15.2,
+        "mm_end": 15.2,
+        "title": "I-264 East at MM 15.2 Area of Bardstown Rd. in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on camera CCTV_05_264_0145.",
+        "pubDate": "Mon, 24 Aug 2026 09:22:47 GMT",
+        "first_seen": "2026-08-24T10:55:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.676519,
           38.20776
         ]
@@ -10479,26 +10519,6 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Thu, 20 Aug 2026 13:01:12 GMT",
         "first_seen": "2026-08-20T13:11:44Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.676519,
-          38.20776
-        ]
-      },
-      "properties": {
-        "incident_id": "302284",
-        "route": "I-264",
-        "mm_start": 15.3,
-        "mm_end": 15.3,
-        "title": "I-264 East at MM 15.3 Area of Bardstown Rd. in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0145.",
-        "pubDate": "Mon, 24 Aug 2026 09:22:47 GMT",
-        "first_seen": "2026-08-24T10:12:31Z"
       }
     },
     {
@@ -11775,10 +11795,10 @@
         "route": "I-264",
         "mm_start": 16.5,
         "mm_end": 16.5,
-        "title": "I-264 East at MM 16.5 At Taylorsville Rd. in Jefferson County",
+        "title": "I-264 East at MM 16.5 Area of Taylorsville Rd. in Jefferson County",
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0170.",
         "pubDate": "Mon, 24 Aug 2026 09:14:53 GMT",
-        "first_seen": "2026-08-24T09:26:03Z"
+        "first_seen": "2026-08-24T10:55:42Z"
       }
     },
     {
