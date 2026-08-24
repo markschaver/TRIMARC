@@ -19906,6 +19906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.572365,
+          38.141545
+        ]
+      },
+      "properties": {
+        "incident_id": "302297",
+        "route": "I-265",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-265 East at MM 17.9 Just Past Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Mon, 24 Aug 2026 11:42:20 GMT",
+        "first_seen": "2026-08-24T12:02:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.570526,
           38.141526
         ]
@@ -28739,6 +28759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
         "pubDate": "Mon, 10 Aug 2026 21:32:27 GMT",
         "first_seen": "2026-08-10T21:59:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.687499,
+          38.242084
+        ]
+      },
+      "properties": {
+        "incident_id": "302300",
+        "route": "I-64",
+        "mm_start": 8.7,
+        "mm_end": 8.7,
+        "title": "I-64 East at MM 8.7 Area of Cochran Tunnel in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Mon, 24 Aug 2026 11:55:34 GMT",
+        "first_seen": "2026-08-24T12:02:42Z"
       }
     },
     {
@@ -44119,6 +44159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Fri, 21 Aug 2026 23:32:06 GMT",
         "first_seen": "2026-08-21T23:39:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "302299",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 North at MM 128.8 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Trimarc reports an incident in the area",
+        "pubDate": "Mon, 24 Aug 2026 11:50:53 GMT",
+        "first_seen": "2026-08-24T12:02:42Z"
       }
     },
     {
