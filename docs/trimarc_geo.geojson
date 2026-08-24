@@ -27866,6 +27866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720435,
+          38.255095
+        ]
+      },
+      "properties": {
+        "incident_id": "302398",
+        "route": "I-64",
+        "mm_start": 6.6,
+        "mm_end": 6.6,
+        "title": "I-64 West at MM 6.6 Approaching Melwood Ave. in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Mon, 24 Aug 2026 21:54:34 GMT",
+        "first_seen": "2026-08-24T22:30:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719376,
           38.25388
         ]
