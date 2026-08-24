@@ -18726,6 +18726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.638934,
+          38.118752
+        ]
+      },
+      "properties": {
+        "incident_id": "302329",
+        "route": "I-265",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-265 West at MM 13.8 Area of Smryna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 24 Aug 2026 16:36:22 GMT",
+        "first_seen": "2026-08-24T16:47:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637132,
           38.119027
         ]
@@ -46606,6 +46626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75095,
+          38.223577
+        ]
+      },
+      "properties": {
+        "incident_id": "302322",
+        "route": "I-65",
+        "mm_start": 133.7,
+        "mm_end": 133.7,
+        "title": "I-65 North at MM 133.7 Approaching Jackson/Woodbine Ramps in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Mon, 24 Aug 2026 15:48:26 GMT",
+        "first_seen": "2026-08-24T16:47:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751155,
           38.225023
         ]
@@ -46658,26 +46698,6 @@
         "title": "I-65 South at MM 133.9 Area of Jackson St in Jefferson County",
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344",
         "pubDate": "Mon, 24 Aug 2026 15:47:26 GMT",
-        "first_seen": "2026-08-24T15:56:18Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.751435,
-          38.227885
-        ]
-      },
-      "properties": {
-        "incident_id": "302322",
-        "route": "I-65",
-        "mm_start": 134.0,
-        "mm_end": 134.0,
-        "title": "I-65 North at MM 134.0 Area of Jackson/Woodbine Ramps in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
-        "pubDate": "Mon, 24 Aug 2026 15:48:26 GMT",
         "first_seen": "2026-08-24T15:56:18Z"
       }
     },
