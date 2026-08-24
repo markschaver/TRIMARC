@@ -11746,6 +11746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.658522,
+          38.217737
+        ]
+      },
+      "properties": {
+        "incident_id": "302283",
+        "route": "I-264",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-264 East at MM 16.5 At Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0170.",
+        "pubDate": "Mon, 24 Aug 2026 09:14:53 GMT",
+        "first_seen": "2026-08-24T09:26:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.65699,
           38.218526
         ]
