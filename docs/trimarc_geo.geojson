@@ -5146,6 +5146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751158,
+          38.189968
+        ]
+      },
+      "properties": {
+        "incident_id": "302359",
+        "route": "I-264",
+        "mm_start": 10.9,
+        "mm_end": 10.9,
+        "title": "I-264 West at MM 10.9 Just Past Crittenden Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Mon, 24 Aug 2026 19:22:37 GMT",
+        "first_seen": "2026-08-24T19:45:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.749331,
           38.189777
         ]
@@ -39926,6 +39946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701432,
+          38.114142
+        ]
+      },
+      "properties": {
+        "incident_id": "302363",
+        "route": "I-65",
+        "mm_start": 125.1,
+        "mm_end": 125.1,
+        "title": "I-65 South at MM 125.1 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area",
+        "pubDate": "Mon, 24 Aug 2026 19:40:55 GMT",
+        "first_seen": "2026-08-24T19:45:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701492,
           38.115592
         ]
@@ -40139,6 +40179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 19 Aug 2026 01:58:13 GMT",
         "first_seen": "2026-08-19T03:00:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701552,
+          38.117041
+        ]
+      },
+      "properties": {
+        "incident_id": "302355",
+        "route": "I-65",
+        "mm_start": 125.3,
+        "mm_end": 125.3,
+        "title": "I-65 North at MM 125.3 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 24 Aug 2026 19:04:56 GMT",
+        "first_seen": "2026-08-24T19:45:47Z"
       }
     },
     {
@@ -45039,6 +45099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Tue, 18 Aug 2026 17:34:26 GMT",
         "first_seen": "2026-08-18T17:44:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "302356",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 South at MM 129.1 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Mon, 24 Aug 2026 19:10:52 GMT",
+        "first_seen": "2026-08-24T19:45:47Z"
       }
     },
     {
