@@ -4946,6 +4946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.756653,
+          38.190123
+        ]
+      },
+      "properties": {
+        "incident_id": "302382",
+        "route": "I-264",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-264 East at MM 10.6 Area of Crittenden Drive in Jefferson County",
+        "description": "Crash : Freeway Service Patrol advises of a crash in the area",
+        "pubDate": "Mon, 24 Aug 2026 20:45:55 GMT",
+        "first_seen": "2026-08-24T21:11:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.754815,
           38.190138
         ]
@@ -44086,6 +44106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720458,
+          38.161841
+        ]
+      },
+      "properties": {
+        "incident_id": "302379",
+        "route": "I-65",
+        "mm_start": 128.6,
+        "mm_end": 128.6,
+        "title": "I-65 South at MM 128.6 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Mon, 24 Aug 2026 20:39:17 GMT",
+        "first_seen": "2026-08-24T21:11:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720639,
           38.163285
         ]
@@ -46239,6 +46279,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1313.",
         "pubDate": "Thu, 30 Jul 2026 18:03:04 GMT",
         "first_seen": "2026-07-30T18:11:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.733415,
+          38.196165
+        ]
+      },
+      "properties": {
+        "incident_id": "302385",
+        "route": "I-65",
+        "mm_start": 131.2,
+        "mm_end": 131.2,
+        "title": "I-65 South at MM 131.2 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Mon, 24 Aug 2026 21:01:09 GMT",
+        "first_seen": "2026-08-24T21:11:08Z"
       }
     },
     {
