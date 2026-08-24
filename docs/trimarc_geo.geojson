@@ -2286,6 +2286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.823636,
+          38.213042
+        ]
+      },
+      "properties": {
+        "incident_id": "302407",
+        "route": "I-264",
+        "mm_start": 4.7,
+        "mm_end": 4.7,
+        "title": "I-264 West at MM 4.7 Area of Cane run road in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Mon, 24 Aug 2026 23:22:45 GMT",
+        "first_seen": "2026-08-24T23:37:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82476,
           38.211905
         ]
@@ -40099,6 +40119,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area",
         "pubDate": "Mon, 24 Aug 2026 19:40:55 GMT",
         "first_seen": "2026-08-24T19:45:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701432,
+          38.114142
+        ]
+      },
+      "properties": {
+        "incident_id": "302408",
+        "route": "I-65",
+        "mm_start": 125.1,
+        "mm_end": 125.1,
+        "title": "I-65 South at MM 125.1 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 24 Aug 2026 23:30:23 GMT",
+        "first_seen": "2026-08-24T23:37:08Z"
       }
     },
     {
