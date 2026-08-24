@@ -46646,6 +46646,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751499,
+          38.226447
+        ]
+      },
+      "properties": {
+        "incident_id": "302321",
+        "route": "I-65",
+        "mm_start": 133.9,
+        "mm_end": 133.9,
+        "title": "I-65 South at MM 133.9 Area of Jackson St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Mon, 24 Aug 2026 15:47:26 GMT",
+        "first_seen": "2026-08-24T15:56:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751435,
+          38.227885
+        ]
+      },
+      "properties": {
+        "incident_id": "302322",
+        "route": "I-65",
+        "mm_start": 134.0,
+        "mm_end": 134.0,
+        "title": "I-65 North at MM 134.0 Area of Jackson/Woodbine Ramps in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Incident reported in the area",
+        "pubDate": "Mon, 24 Aug 2026 15:48:26 GMT",
+        "first_seen": "2026-08-24T15:56:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750784,
           38.233652
         ]
