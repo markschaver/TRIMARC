@@ -34386,6 +34386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.519842,
+          38.222784
+        ]
+      },
+      "properties": {
+        "incident_id": "302501",
+        "route": "I-64",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-64 West at MM 18.1 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Tue, 25 Aug 2026 18:50:59 GMT",
+        "first_seen": "2026-08-25T18:58:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.518019,
           38.222679
         ]
@@ -39399,6 +39419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Tue, 18 Aug 2026 11:46:01 GMT",
         "first_seen": "2026-08-18T12:03:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.70105,
+          38.105447
+        ]
+      },
+      "properties": {
+        "incident_id": "302498",
+        "route": "I-65",
+        "mm_start": 124.5,
+        "mm_end": 124.5,
+        "title": "I-65 South at MM 124.5 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 25 Aug 2026 18:46:53 GMT",
+        "first_seen": "2026-08-25T18:58:08Z"
       }
     },
     {
@@ -47859,6 +47899,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1348",
         "pubDate": "Tue, 25 Aug 2026 04:01:50 GMT",
         "first_seen": "2026-08-25T04:54:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752738,
+          38.241992
+        ]
+      },
+      "properties": {
+        "incident_id": "302495",
+        "route": "I-65",
+        "mm_start": 135.0,
+        "mm_end": 135.0,
+        "title": "I-65 South at MM 135.0 Area of South 1st Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356",
+        "pubDate": "Tue, 25 Aug 2026 18:41:57 GMT",
+        "first_seen": "2026-08-25T18:58:08Z"
       }
     },
     {
