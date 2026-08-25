@@ -33166,6 +33166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.547463,
+          38.223651
+        ]
+      },
+      "properties": {
+        "incident_id": "302562",
+        "route": "I-64",
+        "mm_start": 16.6,
+        "mm_end": 16.6,
+        "title": "I-64 East at MM 16.6 Approaching Blankenbaker Pkwy. in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Tue, 25 Aug 2026 22:25:36 GMT",
+        "first_seen": "2026-08-25T23:51:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.5456,
           38.223743
         ]
