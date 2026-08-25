@@ -10566,6 +10566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.67933,
+          38.20589
+        ]
+      },
+      "properties": {
+        "incident_id": "302463",
+        "route": "I-264",
+        "mm_start": 15.1,
+        "mm_end": 15.1,
+        "title": "I-264 East at MM 15.1 Approaching Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Tue, 25 Aug 2026 11:59:23 GMT",
+        "first_seen": "2026-08-25T12:03:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.67789,
           38.206787
         ]
@@ -23786,6 +23806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.579988,
+          38.313988
+        ]
+      },
+      "properties": {
+        "incident_id": "302459",
+        "route": "I-265",
+        "mm_start": 34.6,
+        "mm_end": 34.6,
+        "title": "I-265 North at MM 34.6 Area of I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_841_0349",
+        "pubDate": "Tue, 25 Aug 2026 11:36:15 GMT",
+        "first_seen": "2026-08-25T12:03:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.581496,
           38.314811
         ]
@@ -23999,6 +24039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0003_EB",
         "pubDate": "Fri, 10 Jul 2026 13:52:29 GMT",
         "first_seen": "2026-07-10T13:57:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.821379,
+          38.277961
+        ]
+      },
+      "properties": {
+        "incident_id": "302460",
+        "route": "I-64",
+        "mm_start": 0.2,
+        "mm_end": 0.2,
+        "title": "I-64 West at MM 0.2 On Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0003_WB",
+        "pubDate": "Tue, 25 Aug 2026 11:40:02 GMT",
+        "first_seen": "2026-08-25T12:03:56Z"
       }
     },
     {
@@ -50659,6 +50719,26 @@
         "description": "Crash : Incident reported in the area",
         "pubDate": "Thu, 09 Jul 2026 17:12:11 GMT",
         "first_seen": "2026-07-09T17:55:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.631441,
+          38.294088
+        ]
+      },
+      "properties": {
+        "incident_id": "302462",
+        "route": "I-71",
+        "mm_start": 6.0,
+        "mm_end": 6.0,
+        "title": "I-71 South at MM 6.0 Area of US-42 Overpass in Jefferson County",
+        "description": "Crash : Metrosafe reports a crash in the area",
+        "pubDate": "Tue, 25 Aug 2026 11:54:17 GMT",
+        "first_seen": "2026-08-25T12:03:56Z"
       }
     },
     {
