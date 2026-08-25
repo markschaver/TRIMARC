@@ -47506,6 +47506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751455,
+          38.220699
+        ]
+      },
+      "properties": {
+        "incident_id": "302483",
+        "route": "I-65",
+        "mm_start": 133.5,
+        "mm_end": 133.5,
+        "title": "I-65 North at MM 133.5 Approaching Preston Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Tue, 25 Aug 2026 16:19:27 GMT",
+        "first_seen": "2026-08-25T16:56:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751167,
           38.222135
         ]
@@ -51526,6 +51546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.603317,
+          38.303958
+        ]
+      },
+      "properties": {
+        "incident_id": "302485",
+        "route": "I-71",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-71 South at MM 7.7 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Tue, 25 Aug 2026 16:41:40 GMT",
+        "first_seen": "2026-08-25T16:56:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.601773,
           38.304735
         ]
@@ -51679,6 +51719,26 @@
         "description": "Disabled Vehicle-Occupied : Disabled vehicle on the right shoulder",
         "pubDate": "Thu, 23 Jul 2026 21:05:45 GMT",
         "first_seen": "2026-07-23T21:27:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.598684,
+          38.30629
+        ]
+      },
+      "properties": {
+        "incident_id": "302484",
+        "route": "I-71",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-71 South at MM 8.0 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Tue, 25 Aug 2026 16:40:08 GMT",
+        "first_seen": "2026-08-25T16:56:46Z"
       }
     },
     {
