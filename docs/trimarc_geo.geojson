@@ -47366,6 +47366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751435,
+          38.227885
+        ]
+      },
+      "properties": {
+        "incident_id": "302440",
+        "route": "I-65",
+        "mm_start": 134.0,
+        "mm_end": 134.0,
+        "title": "I-65 South at MM 134.0 Area of St Catherine St in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Tue, 25 Aug 2026 05:40:02 GMT",
+        "first_seen": "2026-08-25T06:04:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750784,
           38.233652
         ]
