@@ -29126,6 +29126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.689312,
+          38.241975
+        ]
+      },
+      "properties": {
+        "incident_id": "302442",
+        "route": "I-64",
+        "mm_start": 8.6,
+        "mm_end": 8.6,
+        "title": "I-64 East at MM 8.6 Area of Alta Vista Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Tue, 25 Aug 2026 07:00:29 GMT",
+        "first_seen": "2026-08-25T07:59:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.687499,
           38.242084
         ]
@@ -35279,6 +35299,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Wed, 19 Aug 2026 09:46:07 GMT",
         "first_seen": "2026-08-19T09:59:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495926,
+          38.222334
+        ]
+      },
+      "properties": {
+        "incident_id": "302444",
+        "route": "I-64",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-64 East at MM 19.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 25 Aug 2026 07:43:41 GMT",
+        "first_seen": "2026-08-25T07:59:20Z"
       }
     },
     {
@@ -52699,6 +52739,26 @@
         "description": "Disabled Vehicle-Occupied : MetroSafe advises of a disabled vehicle in the area.",
         "pubDate": "Tue, 18 Aug 2026 12:45:06 GMT",
         "first_seen": "2026-08-18T13:08:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.571617,
+          38.318103
+        ]
+      },
+      "properties": {
+        "incident_id": "302443",
+        "route": "I-71",
+        "mm_start": 9.7,
+        "mm_end": 9.7,
+        "title": "I-71 North at MM 9.7 North of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
+        "pubDate": "Tue, 25 Aug 2026 07:11:11 GMT",
+        "first_seen": "2026-08-25T07:59:20Z"
       }
     },
     {
