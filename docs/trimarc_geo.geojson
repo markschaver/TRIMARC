@@ -47226,6 +47226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "302437",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 South at MM 133.6 At Arthur St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Tue, 25 Aug 2026 04:31:40 GMT",
+        "first_seen": "2026-08-25T04:54:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
@@ -47419,6 +47439,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1356.",
         "pubDate": "Sun, 23 Aug 2026 20:49:00 GMT",
         "first_seen": "2026-08-23T20:59:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752738,
+          38.241992
+        ]
+      },
+      "properties": {
+        "incident_id": "302435",
+        "route": "I-65",
+        "mm_start": 135.0,
+        "mm_end": 135.0,
+        "title": "I-65 North at MM 135.0 Area of Broadway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1348",
+        "pubDate": "Tue, 25 Aug 2026 04:01:50 GMT",
+        "first_seen": "2026-08-25T04:54:24Z"
       }
     },
     {
