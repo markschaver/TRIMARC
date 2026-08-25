@@ -3506,6 +3506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "302428",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 East at MM 8.0 Area of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Tue, 25 Aug 2026 03:03:15 GMT",
+        "first_seen": "2026-08-25T04:00:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
@@ -48999,6 +49019,26 @@
         "description": "Crash : Crash in this area.",
         "pubDate": "Sat, 01 Aug 2026 22:15:20 GMT",
         "first_seen": "2026-08-01T22:21:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.65516,
+          38.29316
+        ]
+      },
+      "properties": {
+        "incident_id": "302429",
+        "route": "I-71",
+        "mm_start": 4.5,
+        "mm_end": 4.5,
+        "title": "I-71 South at MM 4.5 South of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
+        "pubDate": "Tue, 25 Aug 2026 03:21:06 GMT",
+        "first_seen": "2026-08-25T04:00:44Z"
       }
     },
     {
