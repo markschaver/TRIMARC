@@ -9051,6 +9051,26 @@
         ]
       },
       "properties": {
+        "incident_id": "302480",
+        "route": "I-264",
+        "mm_start": 14.0,
+        "mm_end": 14.2,
+        "title": "I-264 West between MM 14.0 and 14.2 Area of Newburg Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Tue, 25 Aug 2026 15:47:32 GMT",
+        "first_seen": "2026-08-25T16:01:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.696159,
+          38.200602
+        ]
+      },
+      "properties": {
         "incident_id": "294385",
         "route": "I-264",
         "mm_start": 14.1,
