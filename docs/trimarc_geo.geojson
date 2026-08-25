@@ -29026,6 +29026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.691131,
+          38.241871
+        ]
+      },
+      "properties": {
+        "incident_id": "302457",
+        "route": "I-64",
+        "mm_start": 8.5,
+        "mm_end": 8.5,
+        "title": "I-64 West at MM 8.5 Approaching Cochran Hill Tunnels in Jefferson County",
+        "description": "Pedestrian : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Tue, 25 Aug 2026 11:21:40 GMT",
+        "first_seen": "2026-08-25T11:31:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.689312,
           38.241975
         ]
