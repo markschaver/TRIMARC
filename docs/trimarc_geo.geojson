@@ -39266,6 +39266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.700859,
+          38.101102
+        ]
+      },
+      "properties": {
+        "incident_id": "302546",
+        "route": "I-65",
+        "mm_start": 124.2,
+        "mm_end": 124.2,
+        "title": "I-65 South at MM 124.2 Area of Barricks Road in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Tue, 25 Aug 2026 21:10:37 GMT",
+        "first_seen": "2026-08-25T21:32:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.700923,
           38.10255
         ]
@@ -40159,6 +40179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Sat, 22 Aug 2026 12:14:32 GMT",
         "first_seen": "2026-08-22T12:54:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "302548",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 25 Aug 2026 21:12:36 GMT",
+        "first_seen": "2026-08-25T21:32:07Z"
       }
     },
     {
@@ -51806,6 +51846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.603317,
+          38.303958
+        ]
+      },
+      "properties": {
+        "incident_id": "302543",
+        "route": "I-71",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-71 North at MM 7.7 Area of Barbour Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Tue, 25 Aug 2026 20:57:45 GMT",
+        "first_seen": "2026-08-25T21:32:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.601773,
           38.304735
         ]
@@ -53359,6 +53419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
         "pubDate": "Thu, 18 Jun 2026 20:19:01 GMT",
         "first_seen": "2026-06-18T20:37:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.569828,
+          38.31845
+        ]
+      },
+      "properties": {
+        "incident_id": "302547",
+        "route": "I-71",
+        "mm_start": 9.8,
+        "mm_end": 9.8,
+        "title": "I-71 South at MM 9.8 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
+        "pubDate": "Tue, 25 Aug 2026 21:12:10 GMT",
+        "first_seen": "2026-08-25T21:32:07Z"
       }
     },
     {
