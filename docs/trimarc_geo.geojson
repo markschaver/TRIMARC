@@ -2106,6 +2106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822435,
+          38.220144
+        ]
+      },
+      "properties": {
+        "incident_id": "302427",
+        "route": "I-264",
+        "mm_start": 4.2,
+        "mm_end": 4.2,
+        "title": "I-264 West at MM 4.2 Area of Bells Ln in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Tue, 25 Aug 2026 02:57:55 GMT",
+        "first_seen": "2026-08-25T03:02:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822516,
           38.218696
         ]
@@ -26159,6 +26179,26 @@
         "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0041.",
         "pubDate": "Fri, 21 Aug 2026 07:32:24 GMT",
         "first_seen": "2026-08-21T07:58:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.756679,
+          38.258759
+        ]
+      },
+      "properties": {
+        "incident_id": "302424",
+        "route": "I-64",
+        "mm_start": 4.0,
+        "mm_end": 4.7,
+        "title": "I-64 West between MM 4.7 and 4.0 Between Slugger Field and 9th Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0050.",
+        "pubDate": "Tue, 25 Aug 2026 02:29:16 GMT",
+        "first_seen": "2026-08-25T03:02:05Z"
       }
     },
     {
