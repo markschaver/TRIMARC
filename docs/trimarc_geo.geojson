@@ -3306,6 +3306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.809047,
+          38.185423
+        ]
+      },
+      "properties": {
+        "incident_id": "302528",
+        "route": "I-264",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-264 East at MM 7.7 Area of Dixie Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Tue, 25 Aug 2026 20:02:08 GMT",
+        "first_seen": "2026-08-25T20:47:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807224,
           38.185593
         ]
@@ -26386,6 +26406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.761214,
+          38.258653
+        ]
+      },
+      "properties": {
+        "incident_id": "302536",
+        "route": "I-64",
+        "mm_start": 4.1,
+        "mm_end": 4.1,
+        "title": "I-64 West at MM 4.1 Approaching 9th street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0041",
+        "pubDate": "Tue, 25 Aug 2026 20:24:26 GMT",
+        "first_seen": "2026-08-25T20:47:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.757583,
           38.2588
         ]
@@ -29799,6 +29839,26 @@
         "description": "Medical Emergency : Incident reported in the area",
         "pubDate": "Sat, 08 Aug 2026 11:46:46 GMT",
         "first_seen": "2026-08-08T12:02:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669765,
+          38.238437
+        ]
+      },
+      "properties": {
+        "incident_id": "302537",
+        "route": "I-64",
+        "mm_start": 9.7,
+        "mm_end": 9.7,
+        "title": "I-64 East at MM 9.7 Just Past Grinstead Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Tue, 25 Aug 2026 20:26:34 GMT",
+        "first_seen": "2026-08-25T20:47:04Z"
       }
     },
     {
@@ -47839,6 +47899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344",
         "pubDate": "Fri, 21 Aug 2026 21:29:36 GMT",
         "first_seen": "2026-08-21T21:40:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.750784,
+          38.233652
+        ]
+      },
+      "properties": {
+        "incident_id": "302538",
+        "route": "I-65",
+        "mm_start": 134.4,
+        "mm_end": 134.4,
+        "title": "I-65 North at MM 134.4 Before St. Catherine Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Tue, 25 Aug 2026 20:36:06 GMT",
+        "first_seen": "2026-08-25T20:47:04Z"
       }
     },
     {
