@@ -32786,6 +32786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.552941,
+          38.223369
+        ]
+      },
+      "properties": {
+        "incident_id": "302493",
+        "route": "I-64",
+        "mm_start": 16.3,
+        "mm_end": 16.3,
+        "title": "I-64 East at MM 16.3 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Tue, 25 Aug 2026 17:57:26 GMT",
+        "first_seen": "2026-08-25T18:04:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.551118,
           38.223462
         ]
