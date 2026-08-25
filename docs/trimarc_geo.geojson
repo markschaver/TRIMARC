@@ -2726,6 +2726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82911,
+          38.195559
+        ]
+      },
+      "properties": {
+        "incident_id": "302419",
+        "route": "I-264",
+        "mm_start": 6.0,
+        "mm_end": 6.0,
+        "title": "I-264 West at MM 6.0 Area of Crums Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0060",
+        "pubDate": "Tue, 25 Aug 2026 01:17:04 GMT",
+        "first_seen": "2026-08-25T01:46:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82969,
           38.194184
         ]
