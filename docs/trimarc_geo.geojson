@@ -47426,6 +47426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.734647,
+          38.200379
+        ]
+      },
+      "properties": {
+        "incident_id": "302645",
+        "route": "I-65",
+        "mm_start": 131.5,
+        "mm_end": 131.5,
+        "title": "I-65 North at MM 131.5 Area of I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1313",
+        "pubDate": "Wed, 26 Aug 2026 17:55:00 GMT",
+        "first_seen": "2026-08-26T18:17:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.735659,
           38.201585
         ]
