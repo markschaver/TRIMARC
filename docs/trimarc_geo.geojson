@@ -21706,6 +21706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.505206,
+          38.225923
+        ]
+      },
+      "properties": {
+        "incident_id": "302595",
+        "route": "I-265",
+        "mm_start": 25.7,
+        "mm_end": 25.7,
+        "title": "I-265 South at MM 25.7 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Wed, 26 Aug 2026 10:27:26 GMT",
+        "first_seen": "2026-08-26T10:44:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.505065,
           38.227375
         ]
