@@ -47586,6 +47586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "302616",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 North at MM 132.0 North of I-264 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Wed, 26 Aug 2026 12:43:24 GMT",
+        "first_seen": "2026-08-26T12:59:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743166,
           38.205718
         ]
@@ -51326,6 +51346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.633208,
+          38.293695
+        ]
+      },
+      "properties": {
+        "incident_id": "302617",
+        "route": "I-71",
+        "mm_start": 5.9,
+        "mm_end": 5.9,
+        "title": "I-71 South at MM 5.9 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Wed, 26 Aug 2026 12:50:54 GMT",
+        "first_seen": "2026-08-26T12:59:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.631441,
           38.294088
         ]
@@ -53159,6 +53199,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Tue, 25 Aug 2026 19:33:08 GMT",
         "first_seen": "2026-08-25T19:38:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.584791,
+          38.313284
+        ]
+      },
+      "properties": {
+        "incident_id": "302618",
+        "route": "I-71",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-71 North at MM 8.9 Area of I-265 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Wed, 26 Aug 2026 12:54:02 GMT",
+        "first_seen": "2026-08-26T12:59:48Z"
       }
     },
     {
