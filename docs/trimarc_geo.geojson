@@ -47246,6 +47246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.727808,
+          38.188738
+        ]
+      },
+      "properties": {
+        "incident_id": "302626",
+        "route": "I-65",
+        "mm_start": 130.6,
+        "mm_end": 130.6,
+        "title": "I-65 North at MM 130.6 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Wed, 26 Aug 2026 14:51:32 GMT",
+        "first_seen": "2026-08-26T14:55:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729886,
           38.191125
         ]
