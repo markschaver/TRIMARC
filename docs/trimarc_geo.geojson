@@ -26446,6 +26446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.761214,
+          38.258653
+        ]
+      },
+      "properties": {
+        "incident_id": "302576",
+        "route": "I-64",
+        "mm_start": 4.1,
+        "mm_end": 4.1,
+        "title": "I-64 East at MM 4.1 Approaching 9th Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0041",
+        "pubDate": "Wed, 26 Aug 2026 00:52:03 GMT",
+        "first_seen": "2026-08-26T01:37:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.757583,
           38.2588
         ]
@@ -28959,6 +28979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
         "pubDate": "Tue, 25 Aug 2026 21:44:06 GMT",
         "first_seen": "2026-08-25T22:00:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.698338,
+          38.245554
+        ]
+      },
+      "properties": {
+        "incident_id": "302573",
+        "route": "I-64",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-64 East at MM 8.0 Area of Grinstead Drive in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Wed, 26 Aug 2026 00:22:00 GMT",
+        "first_seen": "2026-08-26T01:37:45Z"
       }
     },
     {
