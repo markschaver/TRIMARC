@@ -29986,6 +29986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.673457,
+          38.238902
+        ]
+      },
+      "properties": {
+        "incident_id": "302634",
+        "route": "I-64",
+        "mm_start": 9.5,
+        "mm_end": 9.5,
+        "title": "I-64 West at MM 9.5 Area of Pee Wee Reese Rd in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Wed, 26 Aug 2026 15:45:07 GMT",
+        "first_seen": "2026-08-26T16:22:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.669765,
           38.238437
         ]
