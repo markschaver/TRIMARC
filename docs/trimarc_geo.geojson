@@ -36206,6 +36206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.490441,
+          38.222132
+        ]
+      },
+      "properties": {
+        "incident_id": "302602",
+        "route": "I-64",
+        "mm_start": 19.7,
+        "mm_end": 19.7,
+        "title": "I-64 East at MM 19.7 Area of English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 26 Aug 2026 11:08:04 GMT",
+        "first_seen": "2026-08-26T11:14:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.488612,
           38.222073
         ]
