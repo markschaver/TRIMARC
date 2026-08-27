@@ -5506,6 +5506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.747523,
+          38.189534
+        ]
+      },
+      "properties": {
+        "incident_id": "302705",
+        "route": "I-264",
+        "mm_start": 11.1,
+        "mm_end": 11.1,
+        "title": "I-264 West at MM 11.1 Area of Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Wed, 26 Aug 2026 22:04:51 GMT",
+        "first_seen": "2026-08-27T00:16:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.745703,
           38.189358
         ]
@@ -8606,6 +8626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "302700",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 East at MM 13.6 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 26 Aug 2026 21:53:18 GMT",
+        "first_seen": "2026-08-27T00:16:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702939,
           38.198495
         ]
@@ -8679,6 +8719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
         "pubDate": "Sun, 09 Aug 2026 19:44:58 GMT",
         "first_seen": "2026-08-09T20:04:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.702939,
+          38.198495
+        ]
+      },
+      "properties": {
+        "incident_id": "302702",
+        "route": "I-264",
+        "mm_start": 13.7,
+        "mm_end": 13.7,
+        "title": "I-264 West at MM 13.7 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 26 Aug 2026 21:54:45 GMT",
+        "first_seen": "2026-08-27T00:16:02Z"
       }
     },
     {
@@ -41079,6 +41139,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1252",
         "pubDate": "Fri, 21 Aug 2026 21:40:22 GMT",
         "first_seen": "2026-08-21T22:00:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701492,
+          38.115592
+        ]
+      },
+      "properties": {
+        "incident_id": "302719",
+        "route": "I-65",
+        "mm_start": 125.2,
+        "mm_end": 125.2,
+        "title": "I-65 North at MM 125.2 At I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Thu, 27 Aug 2026 00:01:35 GMT",
+        "first_seen": "2026-08-27T00:16:02Z"
       }
     },
     {
