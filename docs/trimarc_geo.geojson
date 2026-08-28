@@ -35626,6 +35626,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.503272,
+          38.222569
+        ]
+      },
+      "properties": {
+        "incident_id": "302940",
+        "route": "I-64",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-64 West at MM 19.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Fri, 28 Aug 2026 16:01:45 GMT",
+        "first_seen": "2026-08-28T16:56:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.503272,
+          38.222569
+        ]
+      },
+      "properties": {
+        "incident_id": "302942",
+        "route": "I-64",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-64 West at MM 19.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 28 Aug 2026 16:45:20 GMT",
+        "first_seen": "2026-08-28T16:56:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.50142,
           38.222507
         ]
@@ -48959,6 +48999,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
         "pubDate": "Wed, 12 Aug 2026 13:08:06 GMT",
         "first_seen": "2026-08-12T13:48:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.746096,
+          38.252298
+        ]
+      },
+      "properties": {
+        "incident_id": "302939",
+        "route": "I-65",
+        "mm_start": 135.9,
+        "mm_end": 135.9,
+        "title": "I-65 North at MM 135.9 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1356",
+        "pubDate": "Fri, 28 Aug 2026 15:43:51 GMT",
+        "first_seen": "2026-08-28T16:56:39Z"
       }
     },
     {
