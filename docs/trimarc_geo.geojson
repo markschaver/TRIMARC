@@ -27706,6 +27706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.739687,
+          38.258437
+        ]
+      },
+      "properties": {
+        "incident_id": "303082",
+        "route": "I-64",
+        "mm_start": 5.3,
+        "mm_end": 5.3,
+        "title": "I-64 West at MM 5.3 Under I-65 in Jefferson County",
+        "description": "Medical Emergency : Medical emergency in the area",
+        "pubDate": "Sat, 29 Aug 2026 20:33:46 GMT",
+        "first_seen": "2026-08-29T22:34:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.738461,
           38.259469
         ]
@@ -30239,6 +30259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
         "pubDate": "Sun, 16 Aug 2026 11:28:44 GMT",
         "first_seen": "2026-08-16T11:50:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.68043,
+          38.240987
+        ]
+      },
+      "properties": {
+        "incident_id": "303080",
+        "route": "I-64",
+        "mm_start": 9.1,
+        "mm_end": 9.1,
+        "title": "I-64 East at MM 9.1 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sat, 29 Aug 2026 19:58:55 GMT",
+        "first_seen": "2026-08-29T22:34:53Z"
       }
     },
     {
@@ -45399,6 +45439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
         "pubDate": "Sun, 02 Aug 2026 20:45:07 GMT",
         "first_seen": "2026-08-02T21:06:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.716722,
+          38.155224
+        ]
+      },
+      "properties": {
+        "incident_id": "303085",
+        "route": "I-65",
+        "mm_start": 128.1,
+        "mm_end": 128.1,
+        "title": "I-65 South at MM 128.1 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be vewed on CCTV_05_65_1283.",
+        "pubDate": "Sat, 29 Aug 2026 21:37:42 GMT",
+        "first_seen": "2026-08-29T22:34:53Z"
       }
     },
     {
