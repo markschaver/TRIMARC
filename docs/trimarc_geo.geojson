@@ -1066,6 +1066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807029,
+          38.250154
+        ]
+      },
+      "properties": {
+        "incident_id": "303069",
+        "route": "I-264",
+        "mm_start": 1.9,
+        "mm_end": 1.9,
+        "title": "I-264 West at MM 1.9 Area of River Park Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016.",
+        "pubDate": "Sat, 29 Aug 2026 17:43:42 GMT",
+        "first_seen": "2026-08-29T19:56:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807773,
           38.24884
         ]
@@ -6199,6 +6219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
         "pubDate": "Tue, 11 Aug 2026 21:31:56 GMT",
         "first_seen": "2026-08-11T21:52:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.734702,
+          38.189921
+        ]
+      },
+      "properties": {
+        "incident_id": "303075",
+        "route": "I-264",
+        "mm_start": 11.8,
+        "mm_end": 11.8,
+        "title": "I-264 West at MM 11.8 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sat, 29 Aug 2026 19:10:41 GMT",
+        "first_seen": "2026-08-29T19:56:32Z"
       }
     },
     {
@@ -48986,6 +49026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75094,
+          38.23076
+        ]
+      },
+      "properties": {
+        "incident_id": "303074",
+        "route": "I-65",
+        "mm_start": 134.2,
+        "mm_end": 134.2,
+        "title": "I-65 South at MM 134.2 Area of Jackson Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344.",
+        "pubDate": "Sat, 29 Aug 2026 19:00:24 GMT",
+        "first_seen": "2026-08-29T19:56:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.750784,
           38.233652
         ]
@@ -51359,6 +51419,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0051",
         "pubDate": "Mon, 17 Aug 2026 10:58:08 GMT",
         "first_seen": "2026-08-17T11:03:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.646166,
+          38.288677
+        ]
+      },
+      "properties": {
+        "incident_id": "303068",
+        "route": "I-71",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-71 South at MM 5.1 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
+        "pubDate": "Sat, 29 Aug 2026 17:28:13 GMT",
+        "first_seen": "2026-08-29T19:56:32Z"
       }
     },
     {
@@ -54619,6 +54699,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Tue, 25 Aug 2026 21:12:10 GMT",
         "first_seen": "2026-08-25T21:32:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.569828,
+          38.31845
+        ]
+      },
+      "properties": {
+        "incident_id": "303078",
+        "route": "I-71",
+        "mm_start": 9.8,
+        "mm_end": 9.8,
+        "title": "I-71 South at MM 9.8 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
+        "pubDate": "Sat, 29 Aug 2026 19:36:54 GMT",
+        "first_seen": "2026-08-29T19:56:32Z"
       }
     },
     {
