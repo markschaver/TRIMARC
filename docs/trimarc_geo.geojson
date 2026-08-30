@@ -39126,6 +39126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.43749,
+          38.219433
+        ]
+      },
+      "properties": {
+        "incident_id": "303094",
+        "route": "I-64",
+        "mm_start": 22.6,
+        "mm_end": 22.6,
+        "title": "I-64 West at MM 22.6 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0238.",
+        "pubDate": "Sun, 30 Aug 2026 02:12:08 GMT",
+        "first_seen": "2026-08-30T05:55:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.435669,
           38.219291
         ]
