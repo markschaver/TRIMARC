@@ -45026,6 +45026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.712862,
+          38.14865
+        ]
+      },
+      "properties": {
+        "incident_id": "303089",
+        "route": "I-65",
+        "mm_start": 127.6,
+        "mm_end": 127.6,
+        "title": "I-65 South at MM 127.6 Approaching Outer Loop Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
+        "pubDate": "Sat, 29 Aug 2026 23:00:10 GMT",
+        "first_seen": "2026-08-30T00:44:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.713587,
           38.149979
         ]
@@ -47739,6 +47759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Thu, 20 Aug 2026 14:17:47 GMT",
         "first_seen": "2026-08-20T14:55:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720703,
+          38.180328
+        ]
+      },
+      "properties": {
+        "incident_id": "303091",
+        "route": "I-65",
+        "mm_start": 129.9,
+        "mm_end": 129.9,
+        "title": "I-65 South at MM 129.9 Area of Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Sat, 29 Aug 2026 23:34:00 GMT",
+        "first_seen": "2026-08-30T00:44:44Z"
       }
     },
     {
