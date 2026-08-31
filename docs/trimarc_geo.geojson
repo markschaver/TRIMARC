@@ -4626,6 +4626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.771335,
+          38.18962
+        ]
+      },
+      "properties": {
+        "incident_id": "303170",
+        "route": "I-264",
+        "mm_start": 9.8,
+        "mm_end": 9.8,
+        "title": "I-264 East at MM 9.8 Area of Southern Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Mon, 31 Aug 2026 11:19:24 GMT",
+        "first_seen": "2026-08-31T13:30:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.769499,
           38.189707
         ]
@@ -16346,6 +16366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.623032,
+          38.259704
+        ]
+      },
+      "properties": {
+        "incident_id": "303180",
+        "route": "I-264",
+        "mm_start": 20.5,
+        "mm_end": 20.5,
+        "title": "I-264 West at MM 20.5 Area of Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Mon, 31 Aug 2026 11:53:34 GMT",
+        "first_seen": "2026-08-31T13:30:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.62319,
           38.261146
         ]
@@ -19959,6 +19999,26 @@
         "description": "Crash : Incident reported in the area",
         "pubDate": "Tue, 28 Jul 2026 17:50:04 GMT",
         "first_seen": "2026-07-28T18:34:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.602296,
+          38.130886
+        ]
+      },
+      "properties": {
+        "incident_id": "303187",
+        "route": "I-265",
+        "mm_start": 16.0,
+        "mm_end": 16.0,
+        "title": "I-265 East at MM 16.0 Before Beulah Church Rd in Jefferson County",
+        "description": "Crash : Metrosafe reports a crash in the area",
+        "pubDate": "Mon, 31 Aug 2026 12:40:02 GMT",
+        "first_seen": "2026-08-31T13:30:28Z"
       }
     },
     {
@@ -37686,6 +37746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.481296,
+          38.221837
+        ]
+      },
+      "properties": {
+        "incident_id": "303177",
+        "route": "I-64",
+        "mm_start": 20.2,
+        "mm_end": 20.2,
+        "title": "I-64 West at MM 20.2 Approaching English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Mon, 31 Aug 2026 11:45:15 GMT",
+        "first_seen": "2026-08-31T13:30:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.477638,
           38.221719
         ]
@@ -52399,6 +52479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Fri, 28 Aug 2026 02:49:13 GMT",
         "first_seen": "2026-08-28T04:31:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "303171",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 North at MM 5.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Mon, 31 Aug 2026 11:24:56 GMT",
+        "first_seen": "2026-08-31T13:30:28Z"
       }
     },
     {
