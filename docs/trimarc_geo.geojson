@@ -5866,6 +5866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.742031,
+          38.189484
+        ]
+      },
+      "properties": {
+        "incident_id": "303225",
+        "route": "I-264",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-264 West at MM 11.4 Area of Freedom Way in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Mon, 31 Aug 2026 19:28:19 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.740199,
           38.189592
         ]
@@ -11339,6 +11359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Sat, 15 Aug 2026 07:17:27 GMT",
         "first_seen": "2026-08-15T07:53:26Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "303222",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 East at MM 15.6 Over Bardstown Road in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Mon, 31 Aug 2026 19:08:47 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
       }
     },
     {
@@ -19526,6 +19566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.638934,
+          38.118752
+        ]
+      },
+      "properties": {
+        "incident_id": "303224",
+        "route": "I-265",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-265 East at MM 13.8 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Mon, 31 Aug 2026 19:16:48 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.637132,
           38.119027
         ]
@@ -21959,6 +22019,26 @@
         "description": "Disabled Vehicle-Occupied : May be Viewed on CCTV_05_265_0256",
         "pubDate": "Thu, 18 Jun 2026 23:35:58 GMT",
         "first_seen": "2026-06-18T23:57:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.505901,
+          38.218699
+        ]
+      },
+      "properties": {
+        "incident_id": "303215",
+        "route": "I-265",
+        "mm_start": 25.2,
+        "mm_end": 25.2,
+        "title": "I-265 South at MM 25.2 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Mon, 31 Aug 2026 17:44:01 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
       }
     },
     {
@@ -26439,6 +26519,26 @@
         "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0030.",
         "pubDate": "Wed, 19 Aug 2026 03:27:46 GMT",
         "first_seen": "2026-08-19T03:59:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.778235,
+          38.26577
+        ]
+      },
+      "properties": {
+        "incident_id": "303220",
+        "route": "I-64",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-64 West at MM 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0030",
+        "pubDate": "Mon, 31 Aug 2026 18:56:33 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
       }
     },
     {
@@ -36359,6 +36459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Mon, 10 Aug 2026 15:08:41 GMT",
         "first_seen": "2026-08-10T16:09:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.499582,
+          38.222449
+        ]
+      },
+      "properties": {
+        "incident_id": "303216",
+        "route": "I-64",
+        "mm_start": 19.2,
+        "mm_end": 19.2,
+        "title": "I-64 West at MM 19.2 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Mon, 31 Aug 2026 17:54:04 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
       }
     },
     {
@@ -51859,6 +51979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
         "pubDate": "Sat, 29 Aug 2026 17:28:13 GMT",
         "first_seen": "2026-08-29T19:56:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.646166,
+          38.288677
+        ]
+      },
+      "properties": {
+        "incident_id": "303219",
+        "route": "I-71",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-71 North at MM 5.1 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0051",
+        "pubDate": "Mon, 31 Aug 2026 18:43:19 GMT",
+        "first_seen": "2026-08-31T19:41:44Z"
       }
     },
     {
