@@ -7926,6 +7926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "303355",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 East at MM 13.1 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 01 Sep 2026 16:46:11 GMT",
+        "first_seen": "2026-09-01T17:14:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710076,
           38.19394
         ]
@@ -17079,6 +17099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
         "pubDate": "Sat, 29 Aug 2026 07:38:41 GMT",
         "first_seen": "2026-08-29T07:46:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63497,
+          38.278809
+        ]
+      },
+      "properties": {
+        "incident_id": "303335",
+        "route": "I-264",
+        "mm_start": 22.0,
+        "mm_end": 22.0,
+        "title": "I-264 West at MM 22.0 Area of Brownsboro Rd. in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0221.",
+        "pubDate": "Tue, 01 Sep 2026 13:49:37 GMT",
+        "first_seen": "2026-09-01T17:14:23Z"
       }
     },
     {
@@ -42166,6 +42206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701432,
+          38.114142
+        ]
+      },
+      "properties": {
+        "incident_id": "303343",
+        "route": "I-65",
+        "mm_start": 125.1,
+        "mm_end": 125.1,
+        "title": "I-65 South at MM 125.1 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 01 Sep 2026 15:21:21 GMT",
+        "first_seen": "2026-09-01T17:14:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701492,
           38.115592
         ]
@@ -53699,6 +53759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Wed, 22 Jul 2026 05:34:01 GMT",
         "first_seen": "2026-07-22T06:01:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.609681,
+          38.30113
+        ]
+      },
+      "properties": {
+        "incident_id": "303356",
+        "route": "I-71",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-71 North at MM 7.3 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Tue, 01 Sep 2026 17:08:58 GMT",
+        "first_seen": "2026-09-01T17:14:23Z"
       }
     },
     {
