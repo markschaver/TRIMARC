@@ -306,6 +306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808411,
+          38.269773
+        ]
+      },
+      "properties": {
+        "incident_id": "303275",
+        "route": "I-264",
+        "mm_start": 0.5,
+        "mm_end": 0.5,
+        "title": "I-264 West at MM 0.5 Area of Bank Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Mon, 31 Aug 2026 23:57:02 GMT",
+        "first_seen": "2026-09-01T01:59:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808136,
           38.268336
         ]
