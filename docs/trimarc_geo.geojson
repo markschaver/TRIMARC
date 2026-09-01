@@ -13686,6 +13686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.644304,
+          38.224387
+        ]
+      },
+      "properties": {
+        "incident_id": "303319",
+        "route": "I-264",
+        "mm_start": 17.4,
+        "mm_end": 17.4,
+        "title": "I-264 East at MM 17.4 Area of Tayolorsville Rd in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Tue, 01 Sep 2026 12:26:44 GMT",
+        "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.642737,
           38.225118
         ]
@@ -19346,6 +19366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.642534,
+          38.118204
+        ]
+      },
+      "properties": {
+        "incident_id": "303313",
+        "route": "I-265",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-265 East at MM 13.6 Area of Smryna Pkwy. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Tue, 01 Sep 2026 11:38:40 GMT",
+        "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.640734,
           38.118478
         ]
@@ -21999,6 +22039,26 @@
         "description": "Disabled Vehicle-Occupied : Metrosafe reports an incident in the area",
         "pubDate": "Sat, 22 Aug 2026 15:17:25 GMT",
         "first_seen": "2026-08-22T15:30:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.506454,
+          38.212919
+        ]
+      },
+      "properties": {
+        "incident_id": "303312",
+        "route": "I-265",
+        "mm_start": 24.8,
+        "mm_end": 24.8,
+        "title": "I-265 South at MM 24.8 Area of S Pope Lick Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Tue, 01 Sep 2026 11:24:43 GMT",
+        "first_seen": "2026-09-01T12:46:49Z"
       }
     },
     {
@@ -44946,6 +45006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "303300",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 01 Sep 2026 10:09:53 GMT",
+        "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.709409,
           38.141946
         ]
@@ -54339,6 +54419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
         "pubDate": "Tue, 28 Jul 2026 17:33:00 GMT",
         "first_seen": "2026-07-28T17:46:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.592507,
+          38.309401
+        ]
+      },
+      "properties": {
+        "incident_id": "303316",
+        "route": "I-71",
+        "mm_start": 8.4,
+        "mm_end": 8.4,
+        "title": "I-71 South at MM 8.4 South of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Tue, 01 Sep 2026 12:00:56 GMT",
+        "first_seen": "2026-09-01T12:46:49Z"
       }
     },
     {
