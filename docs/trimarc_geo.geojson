@@ -19206,6 +19206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.649731,
+          38.117066
+        ]
+      },
+      "properties": {
+        "incident_id": "303466",
+        "route": "I-265",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-265 West at MM 13.2 Area of Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 02 Sep 2026 10:36:23 GMT",
+        "first_seen": "2026-09-02T13:52:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.647931,
           38.117341
         ]
@@ -19859,6 +19879,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0135",
         "pubDate": "Fri, 21 Aug 2026 17:25:48 GMT",
         "first_seen": "2026-08-21T17:32:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.635338,
+          38.11931
+        ]
+      },
+      "properties": {
+        "incident_id": "303484",
+        "route": "I-265",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-265 West at MM 14.0 Approaching Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 02 Sep 2026 12:24:01 GMT",
+        "first_seen": "2026-09-02T13:52:48Z"
       }
     },
     {
@@ -29286,6 +29326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720435,
+          38.255095
+        ]
+      },
+      "properties": {
+        "incident_id": "303483",
+        "route": "I-64",
+        "mm_start": 6.6,
+        "mm_end": 6.6,
+        "title": "I-64 East at MM 6.6 Area of Story Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Wed, 02 Sep 2026 12:20:56 GMT",
+        "first_seen": "2026-09-02T13:52:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719376,
           38.25388
         ]
@@ -36739,6 +36799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
         "pubDate": "Wed, 12 Aug 2026 20:21:34 GMT",
         "first_seen": "2026-08-12T21:04:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50142,
+          38.222507
+        ]
+      },
+      "properties": {
+        "incident_id": "303480",
+        "route": "I-64",
+        "mm_start": 19.1,
+        "mm_end": 19.1,
+        "title": "I-64 East at MM 19.1 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 02 Sep 2026 11:58:27 GMT",
+        "first_seen": "2026-09-02T13:52:48Z"
       }
     },
     {
@@ -47939,6 +48019,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Mon, 24 Aug 2026 19:10:52 GMT",
         "first_seen": "2026-08-24T19:45:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "303485",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 North at MM 129.1 Approaching Grade Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Wed, 02 Sep 2026 12:24:33 GMT",
+        "first_seen": "2026-09-02T13:52:48Z"
       }
     },
     {
