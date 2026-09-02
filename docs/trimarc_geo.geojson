@@ -766,6 +766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805078,
+          38.260169
+        ]
+      },
+      "properties": {
+        "incident_id": "303457",
+        "route": "I-264",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-264 West at MM 1.2 Ramp from River Park Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Wed, 02 Sep 2026 07:24:41 GMT",
+        "first_seen": "2026-09-02T09:39:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80523,
           38.258724
         ]
@@ -23819,6 +23839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
         "pubDate": "Mon, 17 Aug 2026 17:32:00 GMT",
         "first_seen": "2026-08-17T17:58:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.500405,
+          38.275027
+        ]
+      },
+      "properties": {
+        "incident_id": "303462",
+        "route": "I-265",
+        "mm_start": 29.1,
+        "mm_end": 29.1,
+        "title": "I-265 South at MM 29.1 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0287.",
+        "pubDate": "Wed, 02 Sep 2026 09:27:33 GMT",
+        "first_seen": "2026-09-02T09:39:47Z"
       }
     },
     {
