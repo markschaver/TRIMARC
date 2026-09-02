@@ -25186,6 +25186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821379,
+          38.277961
+        ]
+      },
+      "properties": {
+        "incident_id": "303600",
+        "route": "I-64",
+        "mm_start": 0.2,
+        "mm_end": 0.2,
+        "title": "I-64 West at MM 0.2 On Sherman Minton Bridge in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0003_WB",
+        "pubDate": "Wed, 02 Sep 2026 23:02:04 GMT",
+        "first_seen": "2026-09-02T23:09:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.820199,
           38.276862
         ]
@@ -28879,6 +28899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055.",
         "pubDate": "Sat, 29 Aug 2026 13:07:14 GMT",
         "first_seen": "2026-08-29T13:43:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.735366,
+          38.260766
+        ]
+      },
+      "properties": {
+        "incident_id": "303595",
+        "route": "I-64",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-64 East at MM 5.6 Area of I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Wed, 02 Sep 2026 22:34:59 GMT",
+        "first_seen": "2026-09-02T23:09:03Z"
       }
     },
     {
@@ -54539,6 +54579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Tue, 25 Aug 2026 20:57:45 GMT",
         "first_seen": "2026-08-25T21:32:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.603317,
+          38.303958
+        ]
+      },
+      "properties": {
+        "incident_id": "303588",
+        "route": "I-71",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-71 North at MM 7.7 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Wed, 02 Sep 2026 22:03:00 GMT",
+        "first_seen": "2026-09-02T23:09:03Z"
       }
     },
     {
