@@ -13246,6 +13246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "303686",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 West at MM 17.0 Area of Taylorsville Rd in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 03 Sep 2026 14:46:31 GMT",
+        "first_seen": "2026-09-03T14:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.649028,
           38.222229
         ]
@@ -24106,6 +24126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.500405,
+          38.275027
+        ]
+      },
+      "properties": {
+        "incident_id": "303668",
+        "route": "I-265",
+        "mm_start": 29.1,
+        "mm_end": 29.1,
+        "title": "I-265 South at MM 29.1 Area of Old Henry Rd in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0287",
+        "pubDate": "Thu, 03 Sep 2026 12:53:47 GMT",
+        "first_seen": "2026-09-03T14:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.500125,
           38.277916
         ]
@@ -33526,6 +33566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.575719,
+          38.222819
+        ]
+      },
+      "properties": {
+        "incident_id": "303684",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 16.1,
+        "title": "I-64 North between MM 16.1 and 14.0 Area of Blakenbaker Pkwy in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 03 Sep 2026 14:21:42 GMT",
+        "first_seen": "2026-09-03T14:56:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.591998,
           38.227502
         ]
@@ -33639,6 +33699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
         "pubDate": "Mon, 13 Jul 2026 21:01:10 GMT",
         "first_seen": "2026-07-13T21:08:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.59029,
+          38.226965
+        ]
+      },
+      "properties": {
+        "incident_id": "303681",
+        "route": "I-64",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-64 East at MM 14.2 Area of Blaknebaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Thu, 03 Sep 2026 14:01:33 GMT",
+        "first_seen": "2026-09-03T14:56:03Z"
       }
     },
     {
