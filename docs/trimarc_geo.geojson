@@ -9866,6 +9866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.692557,
+          38.201221
+        ]
+      },
+      "properties": {
+        "incident_id": "303628",
+        "route": "I-264",
+        "mm_start": 14.3,
+        "mm_end": 14.3,
+        "title": "I-264 West at MM 14.3 Area of Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_264_0145.",
+        "pubDate": "Thu, 03 Sep 2026 04:43:27 GMT",
+        "first_seen": "2026-09-03T05:50:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.690764,
           38.201531
         ]
@@ -11259,6 +11279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
         "pubDate": "Sun, 09 Aug 2026 19:08:03 GMT",
         "first_seen": "2026-08-09T19:36:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.675179,
+          38.208745
+        ]
+      },
+      "properties": {
+        "incident_id": "303618",
+        "route": "I-264",
+        "mm_start": 15.4,
+        "mm_end": 15.4,
+        "title": "I-264 East at MM 15.4 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 03 Sep 2026 01:55:41 GMT",
+        "first_seen": "2026-09-03T05:50:11Z"
       }
     },
     {
@@ -15419,6 +15459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Mon, 10 Aug 2026 16:42:37 GMT",
         "first_seen": "2026-08-10T17:09:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.627395,
+          38.233073
+        ]
+      },
+      "properties": {
+        "incident_id": "303629",
+        "route": "I-264",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-264 East at MM 18.5 Area of I-64 (east End) in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Thu, 03 Sep 2026 05:07:22 GMT",
+        "first_seen": "2026-09-03T05:50:11Z"
       }
     },
     {
@@ -25399,6 +25459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008.",
         "pubDate": "Sat, 15 Aug 2026 14:49:55 GMT",
         "first_seen": "2026-08-15T14:59:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.81736,
+          38.275139
+        ]
+      },
+      "properties": {
+        "incident_id": "303626",
+        "route": "I-64",
+        "mm_start": 0.5,
+        "mm_end": 0.5,
+        "title": "I-64 East at MM 0.5 Approaching I-264 (West End) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008",
+        "pubDate": "Thu, 03 Sep 2026 04:18:11 GMT",
+        "first_seen": "2026-09-03T05:50:11Z"
       }
     },
     {
