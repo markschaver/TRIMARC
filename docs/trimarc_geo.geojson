@@ -1046,6 +1046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.80661,
+          38.251571
+        ]
+      },
+      "properties": {
+        "incident_id": "303826",
+        "route": "I-264",
+        "mm_start": 1.8,
+        "mm_end": 1.8,
+        "title": "I-264 West at MM 1.8 Area of River Park Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Fri, 04 Sep 2026 10:49:09 GMT",
+        "first_seen": "2026-09-04T11:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.807029,
           38.250154
         ]
@@ -8639,6 +8659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
         "pubDate": "Fri, 28 Aug 2026 22:40:34 GMT",
         "first_seen": "2026-08-29T00:56:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.707146,
+          38.19569
+        ]
+      },
+      "properties": {
+        "incident_id": "303827",
+        "route": "I-264",
+        "mm_start": 13.4,
+        "mm_end": 13.4,
+        "title": "I-264 East at MM 13.4 Area of Poplar Level Raod in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Fri, 04 Sep 2026 11:00:22 GMT",
+        "first_seen": "2026-09-04T11:36:05Z"
       }
     },
     {
@@ -16639,6 +16679,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0199",
         "pubDate": "Wed, 22 Jul 2026 20:28:08 GMT",
         "first_seen": "2026-07-22T20:55:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.619166,
+          38.253238
+        ]
+      },
+      "properties": {
+        "incident_id": "303824",
+        "route": "I-264",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-264 East at MM 20.0 Area of Shelbyville Rd in Jefferson County",
+        "description": "Abandoned Vehicle : LMPD reports an abandoned vehicle in the area",
+        "pubDate": "Fri, 04 Sep 2026 10:42:33 GMT",
+        "first_seen": "2026-09-04T11:36:05Z"
       }
     },
     {
@@ -38506,6 +38566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.486783,
+          38.222014
+        ]
+      },
+      "properties": {
+        "incident_id": "303825",
+        "route": "I-64",
+        "mm_start": 19.9,
+        "mm_end": 19.9,
+        "title": "I-64 East at MM 19.9 Under I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 04 Sep 2026 10:45:11 GMT",
+        "first_seen": "2026-09-04T11:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.484954,
           38.221955
         ]
@@ -46619,6 +46699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Sat, 29 Aug 2026 23:00:10 GMT",
         "first_seen": "2026-08-30T00:44:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.712862,
+          38.14865
+        ]
+      },
+      "properties": {
+        "incident_id": "303817",
+        "route": "I-65",
+        "mm_start": 127.6,
+        "mm_end": 127.6,
+        "title": "I-65 North at MM 127.6 North of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Fri, 04 Sep 2026 08:51:23 GMT",
+        "first_seen": "2026-09-04T11:36:05Z"
       }
     },
     {
