@@ -15626,6 +15626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.627395,
+          38.233073
+        ]
+      },
+      "properties": {
+        "incident_id": "303870",
+        "route": "I-264",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-264 East at MM 18.5 Area of I-64 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Fri, 04 Sep 2026 17:51:02 GMT",
+        "first_seen": "2026-09-04T18:25:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.626005,
           38.234016
         ]
@@ -23239,6 +23259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0268.",
         "pubDate": "Mon, 06 Jul 2026 01:14:59 GMT",
         "first_seen": "2026-07-06T01:41:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.504236,
+          38.236027
+        ]
+      },
+      "properties": {
+        "incident_id": "303871",
+        "route": "I-265",
+        "mm_start": 26.4,
+        "mm_end": 26.4,
+        "title": "I-265 South at MM 26.4 Area of Shelbyville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Fri, 04 Sep 2026 18:04:19 GMT",
+        "first_seen": "2026-09-04T18:25:36Z"
       }
     },
     {
@@ -43839,6 +43879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Mon, 31 Aug 2026 19:55:43 GMT",
         "first_seen": "2026-08-31T23:26:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "303872",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 04 Sep 2026 18:16:59 GMT",
+        "first_seen": "2026-09-04T18:25:36Z"
       }
     },
     {
