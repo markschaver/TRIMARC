@@ -38966,6 +38966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.481296,
+          38.221837
+        ]
+      },
+      "properties": {
+        "incident_id": "303849",
+        "route": "I-64",
+        "mm_start": 20.2,
+        "mm_end": 20.2,
+        "title": "I-64 East at MM 20.2 Area of English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Fri, 04 Sep 2026 13:57:16 GMT",
+        "first_seen": "2026-09-04T15:06:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.477638,
           38.221719
         ]
@@ -54019,6 +54039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Mon, 31 Aug 2026 11:24:56 GMT",
         "first_seen": "2026-08-31T13:30:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "303852",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 South at MM 5.7 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Fri, 04 Sep 2026 14:48:48 GMT",
+        "first_seen": "2026-09-04T15:06:44Z"
       }
     },
     {
