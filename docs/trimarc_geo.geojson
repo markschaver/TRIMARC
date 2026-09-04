@@ -3466,6 +3466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807224,
+          38.185593
+        ]
+      },
+      "properties": {
+        "incident_id": "303810",
+        "route": "I-264",
+        "mm_start": 7.8,
+        "mm_end": 7.8,
+        "title": "I-264 East at MM 7.8 Area of Dixie Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0075.",
+        "pubDate": "Fri, 04 Sep 2026 04:53:26 GMT",
+        "first_seen": "2026-09-04T06:23:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.8054,
           38.185753
         ]
