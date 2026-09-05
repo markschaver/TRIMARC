@@ -55786,6 +55786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.603317,
+          38.303958
+        ]
+      },
+      "properties": {
+        "incident_id": "304021",
+        "route": "I-71",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-71 North at MM 7.7 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082.",
+        "pubDate": "Sat, 05 Sep 2026 17:55:52 GMT",
+        "first_seen": "2026-09-05T18:00:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.601773,
           38.304735
         ]
@@ -57399,6 +57419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
         "pubDate": "Tue, 25 Aug 2026 07:11:11 GMT",
         "first_seen": "2026-08-25T07:59:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.571617,
+          38.318103
+        ]
+      },
+      "properties": {
+        "incident_id": "304018",
+        "route": "I-71",
+        "mm_start": 9.7,
+        "mm_end": 9.7,
+        "title": "I-71 North at MM 9.7 Into / Out of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
+        "pubDate": "Sat, 05 Sep 2026 16:58:45 GMT",
+        "first_seen": "2026-09-05T18:00:43Z"
       }
     },
     {
