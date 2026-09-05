@@ -33986,6 +33986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.591998,
+          38.227502
+        ]
+      },
+      "properties": {
+        "incident_id": "303964",
+        "route": "I-64",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-64 East at MM 14.1 Approaching Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Fri, 04 Sep 2026 23:22:26 GMT",
+        "first_seen": "2026-09-05T00:49:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.59029,
           38.226965
         ]
@@ -45099,6 +45119,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1252",
         "pubDate": "Fri, 04 Sep 2026 22:47:03 GMT",
         "first_seen": "2026-09-04T22:57:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701973,
+          38.127185
+        ]
+      },
+      "properties": {
+        "incident_id": "303968",
+        "route": "I-65",
+        "mm_start": 126.0,
+        "mm_end": 126.0,
+        "title": "I-65 North at MM 126.0 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Sat, 05 Sep 2026 00:30:40 GMT",
+        "first_seen": "2026-09-05T00:49:29Z"
       }
     },
     {
