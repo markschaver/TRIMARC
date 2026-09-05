@@ -13226,6 +13226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.652228,
+          38.220772
+        ]
+      },
+      "properties": {
+        "incident_id": "303993",
+        "route": "I-264",
+        "mm_start": 16.9,
+        "mm_end": 16.9,
+        "title": "I-264 East at MM 16.9 At Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
+        "pubDate": "Sat, 05 Sep 2026 11:30:40 GMT",
+        "first_seen": "2026-09-05T12:48:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.650619,
           38.221512
         ]
@@ -22426,6 +22446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.50887,
+          38.19128
+        ]
+      },
+      "properties": {
+        "incident_id": "303997",
+        "route": "I-265",
+        "mm_start": 23.3,
+        "mm_end": 23.3,
+        "title": "I-265 South at MM 23.3 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0231.",
+        "pubDate": "Sat, 05 Sep 2026 11:47:52 GMT",
+        "first_seen": "2026-09-05T12:48:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.508629,
           38.192716
         ]
@@ -26359,6 +26399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Mon, 17 Aug 2026 11:41:32 GMT",
         "first_seen": "2026-08-17T12:01:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.806987,
+          38.276908
+        ]
+      },
+      "properties": {
+        "incident_id": "303999",
+        "route": "I-64",
+        "mm_start": 1.1,
+        "mm_end": 1.1,
+        "title": "I-64 West at MM 1.1 Area of I-264 West End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012.",
+        "pubDate": "Sat, 05 Sep 2026 12:14:45 GMT",
+        "first_seen": "2026-09-05T12:48:15Z"
       }
     },
     {
@@ -30866,6 +30926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.697292,
+          38.244377
+        ]
+      },
+      "properties": {
+        "incident_id": "303990",
+        "route": "I-64",
+        "mm_start": 8.1,
+        "mm_end": 8.1,
+        "title": "I-64 East at MM 8.1 Just Past Cochran Hill Tunnel in Jefferson County",
+        "description": "Crash : Crash in this area.",
+        "pubDate": "Sat, 05 Sep 2026 10:37:14 GMT",
+        "first_seen": "2026-09-05T12:48:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.696131,
           38.243281
         ]
@@ -32739,6 +32819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Thu, 30 Jul 2026 21:09:06 GMT",
         "first_seen": "2026-07-30T21:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.624606,
+          38.237936
+        ]
+      },
+      "properties": {
+        "incident_id": "303992",
+        "route": "I-64",
+        "mm_start": 12.2,
+        "mm_end": 12.2,
+        "title": "I-64 East at MM 12.2 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sat, 05 Sep 2026 11:20:25 GMT",
+        "first_seen": "2026-09-05T12:48:15Z"
       }
     },
     {
