@@ -46806,6 +46806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "304060",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sun, 06 Sep 2026 11:09:36 GMT",
+        "first_seen": "2026-09-06T12:20:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.709409,
           38.141946
         ]
@@ -49119,6 +49139,26 @@
         "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
         "pubDate": "Sat, 08 Aug 2026 11:49:54 GMT",
         "first_seen": "2026-08-08T12:02:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "304061",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 North at MM 128.9 Area of Fern Vallely Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289.",
+        "pubDate": "Sun, 06 Sep 2026 11:16:15 GMT",
+        "first_seen": "2026-09-06T12:20:28Z"
       }
     },
     {
@@ -53359,6 +53399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
         "pubDate": "Thu, 23 Jul 2026 12:40:39 GMT",
         "first_seen": "2026-07-23T13:02:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.675258,
+          38.288571
+        ]
+      },
+      "properties": {
+        "incident_id": "304062",
+        "route": "I-71",
+        "mm_start": 3.3,
+        "mm_end": 3.3,
+        "title": "I-71 South at MM 3.3 Approaching Zorn Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
+        "pubDate": "Sun, 06 Sep 2026 11:21:44 GMT",
+        "first_seen": "2026-09-06T12:20:28Z"
       }
     },
     {
