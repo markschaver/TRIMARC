@@ -1366,6 +1366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.813762,
+          38.243354
+        ]
+      },
+      "properties": {
+        "incident_id": "304057",
+        "route": "I-264",
+        "mm_start": 2.5,
+        "mm_end": 2.5,
+        "title": "I-264 East at MM 2.5 Area of Virgina Ave. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0027.",
+        "pubDate": "Sun, 06 Sep 2026 08:16:22 GMT",
+        "first_seen": "2026-09-06T08:31:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.814702,
           38.242112
         ]
@@ -16959,6 +16979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Wed, 19 Aug 2026 18:08:59 GMT",
         "first_seen": "2026-08-19T18:54:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621855,
+          38.257004
+        ]
+      },
+      "properties": {
+        "incident_id": "304055",
+        "route": "I-264",
+        "mm_start": 20.3,
+        "mm_end": 20.3,
+        "title": "I-264 West at MM 20.3 Just Past Westport Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_2008.",
+        "pubDate": "Sun, 06 Sep 2026 07:04:44 GMT",
+        "first_seen": "2026-09-06T08:31:17Z"
       }
     },
     {
