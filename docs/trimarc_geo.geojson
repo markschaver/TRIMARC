@@ -3286,6 +3286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.818211,
+          38.185419
+        ]
+      },
+      "properties": {
+        "incident_id": "304128",
+        "route": "I-264",
+        "mm_start": 7.2,
+        "mm_end": 7.2,
+        "title": "I-264 East at MM 7.2 Area of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Mon, 07 Sep 2026 11:18:36 GMT",
+        "first_seen": "2026-09-07T12:36:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.814551,
           38.185171
         ]
@@ -13259,6 +13279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Thu, 03 Sep 2026 20:12:32 GMT",
         "first_seen": "2026-09-03T21:16:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.653827,
+          38.220044
+        ]
+      },
+      "properties": {
+        "incident_id": "304131",
+        "route": "I-264",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-264 East at MM 16.8 Area of Taylorsville Rd in Jefferson County",
+        "description": "Abandoned Vehicle : May be vi8ewe on CCTV_05_264_0170",
+        "pubDate": "Mon, 07 Sep 2026 11:54:49 GMT",
+        "first_seen": "2026-09-07T12:36:57Z"
       }
     },
     {
@@ -28419,6 +28459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
         "pubDate": "Fri, 26 Jun 2026 21:13:19 GMT",
         "first_seen": "2026-06-26T21:47:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.755774,
+          38.258721
+        ]
+      },
+      "properties": {
+        "incident_id": "304134",
+        "route": "I-64",
+        "mm_start": 4.4,
+        "mm_end": 4.4,
+        "title": "I-64 East at MM 4.4 Area of 9th St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050",
+        "pubDate": "Mon, 07 Sep 2026 12:20:14 GMT",
+        "first_seen": "2026-09-07T12:36:57Z"
       }
     },
     {
@@ -45819,6 +45879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Fri, 04 Sep 2026 19:28:58 GMT",
         "first_seen": "2026-09-04T20:57:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.702742,
+          38.130015
+        ]
+      },
+      "properties": {
+        "incident_id": "304133",
+        "route": "I-65",
+        "mm_start": 126.2,
+        "mm_end": 126.2,
+        "title": "I-65 East at MM 126.2 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Mon, 07 Sep 2026 12:11:14 GMT",
+        "first_seen": "2026-09-07T12:36:57Z"
       }
     },
     {
