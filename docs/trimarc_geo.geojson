@@ -3786,6 +3786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.801745,
+          38.186077
+        ]
+      },
+      "properties": {
+        "incident_id": "304195",
+        "route": "I-264",
+        "mm_start": 8.1,
+        "mm_end": 8.1,
+        "title": "I-264 East at MM 8.1 East of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Tue, 08 Sep 2026 02:35:14 GMT",
+        "first_seen": "2026-09-08T06:28:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.796264,
           38.186527
         ]
@@ -47079,6 +47099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
         "pubDate": "Sun, 06 Sep 2026 11:09:36 GMT",
         "first_seen": "2026-09-06T12:20:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "304194",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 08 Sep 2026 02:02:42 GMT",
+        "first_seen": "2026-09-08T06:28:30Z"
       }
     },
     {
