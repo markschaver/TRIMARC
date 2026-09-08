@@ -18226,6 +18226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.698834,
+          38.114067
+        ]
+      },
+      "properties": {
+        "incident_id": "304309",
+        "route": "I-265",
+        "mm_start": 10.4,
+        "mm_end": 10.4,
+        "title": "I-265 West at MM 10.4 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 08 Sep 2026 23:16:09 GMT",
+        "first_seen": "2026-09-08T23:41:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.697087,
           38.11363
         ]
@@ -38646,6 +38666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.495926,
+          38.222334
+        ]
+      },
+      "properties": {
+        "incident_id": "304308",
+        "route": "I-64",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-64 East at MM 19.4 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 08 Sep 2026 23:11:17 GMT",
+        "first_seen": "2026-09-08T23:41:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.494095,
           38.222274
         ]
@@ -52119,6 +52159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330",
         "pubDate": "Tue, 01 Sep 2026 21:58:37 GMT",
         "first_seen": "2026-09-01T22:32:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751888,
+          38.219291
+        ]
+      },
+      "properties": {
+        "incident_id": "304305",
+        "route": "I-65",
+        "mm_start": 133.4,
+        "mm_end": 133.4,
+        "title": "I-65 South at MM 133.4 Area of Arthur Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Tue, 08 Sep 2026 22:54:17 GMT",
+        "first_seen": "2026-09-08T23:41:41Z"
       }
     },
     {
