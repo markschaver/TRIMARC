@@ -8486,6 +8486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "304214",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Area of Poplar Level Road in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 08 Sep 2026 11:07:47 GMT",
+        "first_seen": "2026-09-08T11:40:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -13099,6 +13119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Fri, 21 Aug 2026 19:29:17 GMT",
         "first_seen": "2026-08-21T19:58:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.655425,
+          38.219299
+        ]
+      },
+      "properties": {
+        "incident_id": "304212",
+        "route": "I-264",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-264 East at MM 16.7 Area of Taylorsville Road in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV-05_264_0170",
+        "pubDate": "Tue, 08 Sep 2026 10:48:07 GMT",
+        "first_seen": "2026-09-08T11:40:29Z"
       }
     },
     {
@@ -40219,6 +40259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214.",
         "pubDate": "Sat, 15 Aug 2026 14:52:01 GMT",
         "first_seen": "2026-08-15T14:59:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "304204",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 West at MM 21.0 Area of Gilliland Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Tue, 08 Sep 2026 07:59:38 GMT",
+        "first_seen": "2026-09-08T11:40:29Z"
       }
     },
     {
