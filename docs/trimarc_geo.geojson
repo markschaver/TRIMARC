@@ -50146,6 +50146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720478,
+          38.170527
+        ]
+      },
+      "properties": {
+        "incident_id": "304229",
+        "route": "I-65",
+        "mm_start": 129.2,
+        "mm_end": 129.2,
+        "title": "I-65 North at MM 129.2 Approaching Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Tue, 08 Sep 2026 14:58:36 GMT",
+        "first_seen": "2026-09-08T15:20:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.72038,
           38.171975
         ]
