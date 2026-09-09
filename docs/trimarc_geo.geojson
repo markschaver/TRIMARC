@@ -446,6 +446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.807533,
+          38.266974
+        ]
+      },
+      "properties": {
+        "incident_id": "304347",
+        "route": "I-264",
+        "mm_start": 0.7,
+        "mm_end": 0.7,
+        "title": "I-264 West at MM 0.7 Area of Bank Street in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_264_0007.",
+        "pubDate": "Wed, 09 Sep 2026 09:50:47 GMT",
+        "first_seen": "2026-09-09T11:57:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80662,
           38.265716
         ]
@@ -6879,6 +6899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
         "pubDate": "Sun, 06 Sep 2026 21:10:23 GMT",
         "first_seen": "2026-09-06T21:44:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.727374,
+          38.190362
+        ]
+      },
+      "properties": {
+        "incident_id": "304354",
+        "route": "I-264",
+        "mm_start": 12.2,
+        "mm_end": 12.2,
+        "title": "I-264 West at MM 12.2 Area of I-65 in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_1307",
+        "pubDate": "Wed, 09 Sep 2026 11:19:36 GMT",
+        "first_seen": "2026-09-09T11:57:08Z"
       }
     },
     {
@@ -14319,6 +14359,26 @@
         "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0170",
         "pubDate": "Tue, 01 Sep 2026 12:26:44 GMT",
         "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644304,
+          38.224387
+        ]
+      },
+      "properties": {
+        "incident_id": "304357",
+        "route": "I-264",
+        "mm_start": 17.4,
+        "mm_end": 17.4,
+        "title": "I-264 East at MM 17.4 At Breckenridge Ln. in Jefferson County",
+        "description": "Crash : May be viewed no CCTV_05_264_0179.",
+        "pubDate": "Wed, 09 Sep 2026 11:26:34 GMT",
+        "first_seen": "2026-09-09T11:57:08Z"
       }
     },
     {
@@ -33786,6 +33846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.607553,
+          38.232433
+        ]
+      },
+      "properties": {
+        "incident_id": "304361",
+        "route": "I-64",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-64 East at MM 13.2 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131",
+        "pubDate": "Wed, 09 Sep 2026 11:42:16 GMT",
+        "first_seen": "2026-09-09T11:57:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.605816,
           38.231883
         ]
@@ -43799,6 +43879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Thu, 03 Sep 2026 20:04:10 GMT",
         "first_seen": "2026-09-03T21:16:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "304350",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Area of I-265 in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 09 Sep 2026 10:46:11 GMT",
+        "first_seen": "2026-09-09T11:57:08Z"
       }
     },
     {
