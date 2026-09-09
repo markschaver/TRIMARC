@@ -33626,6 +33626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.610983,
+          38.233566
+        ]
+      },
+      "properties": {
+        "incident_id": "304334",
+        "route": "I-64",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-64 East at MM 13.0 East of I-264 (East End) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131",
+        "pubDate": "Wed, 09 Sep 2026 05:31:01 GMT",
+        "first_seen": "2026-09-09T06:43:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.609274,
           38.232983
         ]
@@ -52719,6 +52739,26 @@
         "description": "Pedestrian : May be viewed on CCTV_05_65_1356",
         "pubDate": "Sat, 01 Aug 2026 01:36:35 GMT",
         "first_seen": "2026-08-01T01:41:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751045,
+          38.250427
+        ]
+      },
+      "properties": {
+        "incident_id": "304339",
+        "route": "I-65",
+        "mm_start": 135.6,
+        "mm_end": 135.6,
+        "title": "I-65 South at MM 135.6 Area of Brook Street in Jefferson County",
+        "description": "Construction / Road Work : May be viewed on camera CCTV_05_65_1356.",
+        "pubDate": "Wed, 09 Sep 2026 06:35:22 GMT",
+        "first_seen": "2026-09-09T06:43:59Z"
       }
     },
     {
