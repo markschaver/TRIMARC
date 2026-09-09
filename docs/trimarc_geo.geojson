@@ -6166,6 +6166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.740199,
+          38.189592
+        ]
+      },
+      "properties": {
+        "incident_id": "304384",
+        "route": "I-264",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-264 East at MM 11.5 Area of Freedon Way in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Wed, 09 Sep 2026 15:07:02 GMT",
+        "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.738366,
           38.189701
         ]
@@ -42026,6 +42046,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.430207,
+          38.218868
+        ]
+      },
+      "properties": {
+        "incident_id": "304394",
+        "route": "I-64",
+        "mm_start": 23.0,
+        "mm_end": 23.0,
+        "title": "I-64 West at MM 23.0 Area of Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed onCCTV_05_64_0238",
+        "pubDate": "Wed, 09 Sep 2026 16:06:47 GMT",
+        "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.430207,
+          38.218868
+        ]
+      },
+      "properties": {
+        "incident_id": "304377",
+        "route": "I-64",
+        "mm_start": 23.0,
+        "mm_end": 23.0,
+        "title": "I-64 West at MM 23.0 Area of Clark Station Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Wed, 09 Sep 2026 13:56:49 GMT",
+        "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.428386,
           38.218727
         ]
@@ -45126,6 +45186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701677,
+          38.119937
+        ]
+      },
+      "properties": {
+        "incident_id": "304397",
+        "route": "I-65",
+        "mm_start": 125.5,
+        "mm_end": 125.5,
+        "title": "I-65 South at MM 125.5 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 09 Sep 2026 16:18:49 GMT",
+        "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701716,
           38.12139
         ]
@@ -45379,6 +45459,26 @@
         "description": "Disabled Vehicle-Occupied : TRIMARC advises of disabled vehicle in the area.",
         "pubDate": "Tue, 25 Aug 2026 19:14:15 GMT",
         "first_seen": "2026-08-25T19:38:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "304389",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 North at MM 125.6 Area of Outer Loop in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 09 Sep 2026 15:31:13 GMT",
+        "first_seen": "2026-09-09T16:29:13Z"
       }
     },
     {
