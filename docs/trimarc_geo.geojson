@@ -2646,6 +2646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827871,
+          38.205516
+        ]
+      },
+      "properties": {
+        "incident_id": "304320",
+        "route": "I-264",
+        "mm_start": 5.3,
+        "mm_end": 5.3,
+        "title": "I-264 West at MM 5.3 Approaching Cane Run Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Wed, 09 Sep 2026 01:13:25 GMT",
+        "first_seen": "2026-09-09T01:36:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827591,
           38.204081
         ]
@@ -17839,6 +17859,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
         "pubDate": "Sat, 22 Aug 2026 08:26:41 GMT",
         "first_seen": "2026-08-22T08:34:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.635571,
+          38.279365
+        ]
+      },
+      "properties": {
+        "incident_id": "304315",
+        "route": "I-264",
+        "mm_start": 21.8,
+        "mm_end": 22.3,
+        "title": "I-264 East between MM 21.8 and 22.3 At Brownsboro Road in Jefferson County",
+        "description": "Construction / Road Work : Beginning at 8 p.m. Tuesday, Sept. 8, to 6 a.m. Wednesday, Sept. 9: \u2022 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange. \u2022 The left lane of I-71 North at the I-264 interchange will be closed. Beginning at 8 p.m. Wednesday, Sept. 9, to 6 a.m. Thursday, Sept. 10: \u2022 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange.",
+        "pubDate": "Wed, 09 Sep 2026 00:00:00 GMT",
+        "first_seen": "2026-09-09T01:36:01Z"
       }
     },
     {
