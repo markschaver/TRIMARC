@@ -45326,6 +45326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "304477",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Wed, 09 Sep 2026 23:48:49 GMT",
+        "first_seen": "2026-09-09T23:55:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701677,
           38.119937
         ]
@@ -57419,6 +57439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
         "pubDate": "Tue, 25 Aug 2026 16:40:08 GMT",
         "first_seen": "2026-08-25T16:56:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.598684,
+          38.30629
+        ]
+      },
+      "properties": {
+        "incident_id": "304475",
+        "route": "I-71",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-71 South at MM 8.0 Area of Barbour Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Wed, 09 Sep 2026 23:30:29 GMT",
+        "first_seen": "2026-09-09T23:55:53Z"
       }
     },
     {
