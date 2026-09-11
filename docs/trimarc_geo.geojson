@@ -8046,6 +8046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.713027,
+          38.192205
+        ]
+      },
+      "properties": {
+        "incident_id": "304714",
+        "route": "I-264",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-264 East at MM 13.0 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Fri, 11 Sep 2026 17:27:58 GMT",
+        "first_seen": "2026-09-11T17:38:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.711542,
           38.19306
         ]
@@ -59139,6 +59159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Thu, 23 Jul 2026 23:25:23 GMT",
         "first_seen": "2026-07-23T23:50:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.580154,
+          38.315583
+        ]
+      },
+      "properties": {
+        "incident_id": "304703",
+        "route": "I-71",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-71 South at MM 9.2 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
+        "pubDate": "Fri, 11 Sep 2026 15:49:59 GMT",
+        "first_seen": "2026-09-11T17:38:34Z"
       }
     },
     {
