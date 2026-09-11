@@ -6246,6 +6246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.740199,
+          38.189592
+        ]
+      },
+      "properties": {
+        "incident_id": "304744",
+        "route": "I-264",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-264 West at MM 11.5 Area of Freedom Way in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Fri, 11 Sep 2026 19:50:32 GMT",
+        "first_seen": "2026-09-11T20:02:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.738366,
           38.189701
         ]
@@ -10599,6 +10619,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Tue, 28 Jul 2026 00:16:54 GMT",
         "first_seen": "2026-07-28T00:42:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.690764,
+          38.201531
+        ]
+      },
+      "properties": {
+        "incident_id": "304745",
+        "route": "I-264",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-264 West at MM 14.4 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 11 Sep 2026 19:52:24 GMT",
+        "first_seen": "2026-09-11T20:02:37Z"
       }
     },
     {
@@ -20719,6 +20759,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0135",
         "pubDate": "Tue, 01 Sep 2026 11:38:40 GMT",
         "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642534,
+          38.118204
+        ]
+      },
+      "properties": {
+        "incident_id": "304736",
+        "route": "I-265",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-265 East at MM 13.6 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 11 Sep 2026 19:15:04 GMT",
+        "first_seen": "2026-09-11T20:02:37Z"
       }
     },
     {
@@ -47726,6 +47786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705716,
+          38.135313
+        ]
+      },
+      "properties": {
+        "incident_id": "304741",
+        "route": "I-65",
+        "mm_start": 126.6,
+        "mm_end": 126.6,
+        "title": "I-65 North at MM 126.6 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Fri, 11 Sep 2026 19:32:08 GMT",
+        "first_seen": "2026-09-11T20:02:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.706462,
           38.136634
         ]
@@ -52379,6 +52459,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1307",
         "pubDate": "Wed, 09 Sep 2026 20:58:30 GMT",
         "first_seen": "2026-09-09T21:53:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.731961,
+          38.193518
+        ]
+      },
+      "properties": {
+        "incident_id": "304718",
+        "route": "I-65",
+        "mm_start": 131.0,
+        "mm_end": 131.0,
+        "title": "I-65 North at MM 131.0 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313.",
+        "pubDate": "Fri, 11 Sep 2026 17:58:19 GMT",
+        "first_seen": "2026-09-11T20:02:37Z"
       }
     },
     {
