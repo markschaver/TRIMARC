@@ -9766,6 +9766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.699695,
+          38.199842
+        ]
+      },
+      "properties": {
+        "incident_id": "304824",
+        "route": "I-264",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-264 West at MM 13.9 Approaching Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 12 Sep 2026 15:15:04 GMT",
+        "first_seen": "2026-09-12T16:19:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.697945,
           38.200283
         ]
@@ -12539,6 +12559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Tue, 11 Aug 2026 13:00:31 GMT",
         "first_seen": "2026-08-11T13:24:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.667673,
+          38.212951
+        ]
+      },
+      "properties": {
+        "incident_id": "304818",
+        "route": "I-264",
+        "mm_start": 15.9,
+        "mm_end": 15.9,
+        "title": "I-264 West at MM 15.9 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Sat, 12 Sep 2026 13:46:58 GMT",
+        "first_seen": "2026-09-12T16:19:59Z"
       }
     },
     {
@@ -57999,6 +58039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Tue, 01 Sep 2026 17:08:58 GMT",
         "first_seen": "2026-09-01T17:14:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.609681,
+          38.30113
+        ]
+      },
+      "properties": {
+        "incident_id": "304825",
+        "route": "I-71",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-71 North at MM 7.3 Approaching I-264 in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_71_0074.",
+        "pubDate": "Sat, 12 Sep 2026 15:43:51 GMT",
+        "first_seen": "2026-09-12T16:19:59Z"
       }
     },
     {
