@@ -8766,6 +8766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "304837",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 12 Sep 2026 19:36:06 GMT",
+        "first_seen": "2026-09-12T20:58:41Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -19316,9 +19336,9 @@
         "mm_start": 11.0,
         "mm_end": 11.0,
         "title": "I-265 East at MM 11.0 Approaching Preston Highway in Jefferson County",
-        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0117.",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
         "pubDate": "Sat, 12 Sep 2026 16:32:45 GMT",
-        "first_seen": "2026-09-12T18:37:03Z"
+        "first_seen": "2026-09-12T20:58:41Z"
       }
     },
     {
