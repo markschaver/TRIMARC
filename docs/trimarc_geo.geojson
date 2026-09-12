@@ -14366,6 +14366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.647456,
+          38.222946
+        ]
+      },
+      "properties": {
+        "incident_id": "304784",
+        "route": "I-264",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-264 East at MM 17.2 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Sat, 12 Sep 2026 00:09:48 GMT",
+        "first_seen": "2026-09-12T00:41:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.645885,
           38.223663
         ]
@@ -17199,6 +17219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
         "pubDate": "Tue, 21 Jul 2026 21:29:55 GMT",
         "first_seen": "2026-07-21T21:50:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.620119,
+          38.247559
+        ]
+      },
+      "properties": {
+        "incident_id": "304785",
+        "route": "I-264",
+        "mm_start": 19.6,
+        "mm_end": 19.6,
+        "title": "I-264 East at MM 19.6 Approaching Shelbyville R.d in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Sat, 12 Sep 2026 00:24:01 GMT",
+        "first_seen": "2026-09-12T00:41:30Z"
       }
     },
     {
@@ -27419,6 +27459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Mon, 17 Aug 2026 11:41:32 GMT",
         "first_seen": "2026-08-17T12:01:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.808611,
+          38.276277
+        ]
+      },
+      "properties": {
+        "incident_id": "304783",
+        "route": "I-64",
+        "mm_start": 1.0,
+        "mm_end": 1.0,
+        "title": "I-64 West at MM 1.0 Area of I-264 WE in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0012",
+        "pubDate": "Fri, 11 Sep 2026 23:58:11 GMT",
+        "first_seen": "2026-09-12T00:41:30Z"
       }
     },
     {
@@ -50399,6 +50459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
         "pubDate": "Sun, 30 Aug 2026 17:37:35 GMT",
         "first_seen": "2026-08-30T18:46:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "304782",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 South at MM 128.7 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 11 Sep 2026 23:33:16 GMT",
+        "first_seen": "2026-09-12T00:41:30Z"
       }
     },
     {
