@@ -19306,6 +19306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.688366,
+          38.111426
+        ]
+      },
+      "properties": {
+        "incident_id": "304826",
+        "route": "I-265",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-265 East at MM 11.0 Approaching Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0117.",
+        "pubDate": "Sat, 12 Sep 2026 16:32:45 GMT",
+        "first_seen": "2026-09-12T18:37:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.684876,
           38.11056
         ]
@@ -30279,6 +30299,26 @@
         "description": "Medical Emergency : Medical emergency in the area",
         "pubDate": "Sat, 29 Aug 2026 20:33:46 GMT",
         "first_seen": "2026-08-29T22:34:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.739687,
+          38.258437
+        ]
+      },
+      "properties": {
+        "incident_id": "304827",
+        "route": "I-64",
+        "mm_start": 5.3,
+        "mm_end": 5.3,
+        "title": "I-64 East at MM 5.3 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055.",
+        "pubDate": "Sat, 12 Sep 2026 17:17:05 GMT",
+        "first_seen": "2026-09-12T18:37:03Z"
       }
     },
     {
@@ -55779,6 +55819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048",
         "pubDate": "Fri, 07 Aug 2026 15:44:17 GMT",
         "first_seen": "2026-08-07T16:01:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.664216,
+          38.293467
+        ]
+      },
+      "properties": {
+        "incident_id": "304829",
+        "route": "I-71",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-71 South at MM 4.0 Approaching Zorn Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037.",
+        "pubDate": "Sat, 12 Sep 2026 17:43:35 GMT",
+        "first_seen": "2026-09-12T18:37:03Z"
       }
     },
     {
