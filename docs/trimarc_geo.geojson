@@ -2706,6 +2706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.828082,
+          38.20696
+        ]
+      },
+      "properties": {
+        "incident_id": "304803",
+        "route": "I-264",
+        "mm_start": 5.2,
+        "mm_end": 5.2,
+        "title": "I-264 East at MM 5.2 Area of Cane Run Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052.",
+        "pubDate": "Sat, 12 Sep 2026 10:44:34 GMT",
+        "first_seen": "2026-09-12T13:01:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827871,
           38.205516
         ]
@@ -25226,6 +25246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.501811,
+          38.260579
+        ]
+      },
+      "properties": {
+        "incident_id": "304804",
+        "route": "I-265",
+        "mm_start": 28.1,
+        "mm_end": 28.1,
+        "title": "I-265 South at MM 28.1 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
+        "pubDate": "Sat, 12 Sep 2026 11:03:51 GMT",
+        "first_seen": "2026-09-12T13:01:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.50167,
           38.262024
         ]
@@ -32719,6 +32759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
         "pubDate": "Sun, 16 Aug 2026 11:32:58 GMT",
         "first_seen": "2026-08-16T11:50:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.683886,
+          38.2419
+        ]
+      },
+      "properties": {
+        "incident_id": "304806",
+        "route": "I-64",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-64 West at MM 8.9 Approaching Cochran Hill Tunnel in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sat, 12 Sep 2026 11:22:16 GMT",
+        "first_seen": "2026-09-12T13:01:58Z"
       }
     },
     {
@@ -48639,6 +48699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Tue, 08 Sep 2026 02:02:42 GMT",
         "first_seen": "2026-09-08T06:28:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "304808",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 South at MM 127.0 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Sat, 12 Sep 2026 11:35:26 GMT",
+        "first_seen": "2026-09-12T13:01:58Z"
       }
     },
     {
