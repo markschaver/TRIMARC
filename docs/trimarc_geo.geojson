@@ -9486,6 +9486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "304873",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 West at MM 13.6 Area of Poplar Level Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sun, 13 Sep 2026 12:48:22 GMT",
+        "first_seen": "2026-09-13T14:59:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702939,
           38.198495
         ]
@@ -42206,6 +42226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.459357,
+          38.221098
+        ]
+      },
+      "properties": {
+        "incident_id": "304879",
+        "route": "I-64",
+        "mm_start": 21.4,
+        "mm_end": 21.4,
+        "title": "I-64 East at MM 21.4 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214.",
+        "pubDate": "Sun, 13 Sep 2026 14:38:37 GMT",
+        "first_seen": "2026-09-13T14:59:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.457534,
           38.220975
         ]
@@ -42899,6 +42939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Tue, 11 Aug 2026 18:43:23 GMT",
         "first_seen": "2026-08-11T19:47:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.432028,
+          38.219009
+        ]
+      },
+      "properties": {
+        "incident_id": "304868",
+        "route": "I-64",
+        "mm_start": 22.9,
+        "mm_end": 22.9,
+        "title": "I-64 East at MM 22.9 Approaching Shelby County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
+        "pubDate": "Sun, 13 Sep 2026 11:53:59 GMT",
+        "first_seen": "2026-09-13T14:59:40Z"
       }
     },
     {
@@ -53339,6 +53399,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1317",
         "pubDate": "Wed, 26 Aug 2026 12:43:24 GMT",
         "first_seen": "2026-08-26T12:59:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "304865",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 North at MM 132.0 Approaching Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317.",
+        "pubDate": "Sun, 13 Sep 2026 11:27:47 GMT",
+        "first_seen": "2026-09-13T14:59:40Z"
       }
     },
     {
