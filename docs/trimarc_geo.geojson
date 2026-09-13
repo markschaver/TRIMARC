@@ -50266,6 +50266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.71836,
+          38.157823
+        ]
+      },
+      "properties": {
+        "incident_id": "304910",
+        "route": "I-65",
+        "mm_start": 128.3,
+        "mm_end": 128.3,
+        "title": "I-65 North at MM 128.3 At Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
+        "pubDate": "Sun, 13 Sep 2026 22:18:03 GMT",
+        "first_seen": "2026-09-13T23:01:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719173,
           38.159131
         ]
@@ -54519,6 +54539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356",
         "pubDate": "Wed, 12 Aug 2026 17:09:29 GMT",
         "first_seen": "2026-08-12T17:13:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.749459,
+          38.251138
+        ]
+      },
+      "properties": {
+        "incident_id": "304909",
+        "route": "I-65",
+        "mm_start": 135.7,
+        "mm_end": 135.7,
+        "title": "I-65 North at MM 135.7 Approaching Muhammad Ali Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356.",
+        "pubDate": "Sun, 13 Sep 2026 22:17:01 GMT",
+        "first_seen": "2026-09-13T23:01:19Z"
       }
     },
     {
