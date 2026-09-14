@@ -5466,6 +5466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.756653,
+          38.190123
+        ]
+      },
+      "properties": {
+        "incident_id": "304944",
+        "route": "I-264",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-264 West at MM 10.6 Area of Southern Pakway in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Mon, 14 Sep 2026 12:53:53 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.754815,
           38.190138
         ]
@@ -18679,6 +18699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0221.",
         "pubDate": "Sun, 16 Aug 2026 22:55:02 GMT",
         "first_seen": "2026-08-16T23:23:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.639847,
+          38.283171
+        ]
+      },
+      "properties": {
+        "incident_id": "304940",
+        "route": "I-264",
+        "mm_start": 22.4,
+        "mm_end": 22.4,
+        "title": "I-264 East at MM 22.4 Approaching I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0221.",
+        "pubDate": "Mon, 14 Sep 2026 12:11:25 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
       }
     },
     {
@@ -42146,6 +42186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.463003,
+          38.221249
+        ]
+      },
+      "properties": {
+        "incident_id": "304923",
+        "route": "I-64",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-64 West at MM 21.2 Area of Eastwood Fisherville in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Mon, 14 Sep 2026 10:55:24 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.461173,
           38.221186
         ]
@@ -45886,6 +45946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701492,
+          38.115592
+        ]
+      },
+      "properties": {
+        "incident_id": "304925",
+        "route": "I-65",
+        "mm_start": 125.2,
+        "mm_end": 125.2,
+        "title": "I-65 South at MM 125.2 Area of I-265 in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Mon, 14 Sep 2026 11:01:42 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701552,
           38.117041
         ]
@@ -49339,6 +49419,26 @@
         "description": "Crash : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Sun, 23 Aug 2026 08:59:25 GMT",
         "first_seen": "2026-08-23T09:31:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7101,
+          38.143288
+        ]
+      },
+      "properties": {
+        "incident_id": "304927",
+        "route": "I-65",
+        "mm_start": 127.2,
+        "mm_end": 127.2,
+        "title": "I-65 South at MM 127.2 Area of Outer Loop in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Mon, 14 Sep 2026 11:08:01 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
       }
     },
     {
@@ -53839,6 +53939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
         "pubDate": "Sat, 22 Aug 2026 02:46:56 GMT",
         "first_seen": "2026-08-22T02:57:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752539,
+          38.213527
+        ]
+      },
+      "properties": {
+        "incident_id": "304943",
+        "route": "I-65",
+        "mm_start": 133.0,
+        "mm_end": 133.0,
+        "title": "I-65 North at MM 133.0 Area of Eastern Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Mon, 14 Sep 2026 12:34:36 GMT",
+        "first_seen": "2026-09-14T13:13:02Z"
       }
     },
     {
