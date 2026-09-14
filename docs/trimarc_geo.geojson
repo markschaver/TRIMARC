@@ -2846,6 +2846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827591,
+          38.204081
+        ]
+      },
+      "properties": {
+        "incident_id": "304974",
+        "route": "I-264",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-264 East at MM 5.4 Area of Cane Run Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Mon, 14 Sep 2026 18:21:21 GMT",
+        "first_seen": "2026-09-14T18:40:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82744,
           38.202644
         ]
