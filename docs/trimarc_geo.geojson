@@ -2346,6 +2346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822435,
+          38.220144
+        ]
+      },
+      "properties": {
+        "incident_id": "305045",
+        "route": "I-264",
+        "mm_start": 4.2,
+        "mm_end": 4.2,
+        "title": "I-264 West at MM 4.2 Area of Bells Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Tue, 15 Sep 2026 04:57:05 GMT",
+        "first_seen": "2026-09-15T05:25:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822516,
           38.218696
         ]
