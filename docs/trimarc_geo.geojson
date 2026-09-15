@@ -7006,6 +7006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.731038,
+          38.190142
+        ]
+      },
+      "properties": {
+        "incident_id": "305053",
+        "route": "I-264",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-264 West at MM 12.0 At I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Tue, 15 Sep 2026 09:07:36 GMT",
+        "first_seen": "2026-09-15T10:19:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729206,
           38.190252
         ]
@@ -54539,6 +54559,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1337",
         "pubDate": "Thu, 27 Aug 2026 19:39:42 GMT",
         "first_seen": "2026-08-27T20:32:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75095,
+          38.223577
+        ]
+      },
+      "properties": {
+        "incident_id": "305054",
+        "route": "I-65",
+        "mm_start": 133.7,
+        "mm_end": 133.7,
+        "title": "I-65 North at MM 133.7 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1337.",
+        "pubDate": "Tue, 15 Sep 2026 09:56:26 GMT",
+        "first_seen": "2026-09-15T10:19:52Z"
       }
     },
     {
