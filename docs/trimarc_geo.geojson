@@ -20146,6 +20146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.679431,
+          38.110063
+        ]
+      },
+      "properties": {
+        "incident_id": "305192",
+        "route": "I-265",
+        "mm_start": 11.5,
+        "mm_end": 11.5,
+        "title": "I-265 East at MM 11.5 At Preston Hwy in Jefferson County",
+        "description": "Vehicle Fire : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Wed, 16 Sep 2026 04:52:30 GMT",
+        "first_seen": "2026-09-16T05:09:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.677593,
           38.110162
         ]
@@ -28459,6 +28479,26 @@
         "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0022.",
         "pubDate": "Thu, 30 Jul 2026 07:05:22 GMT",
         "first_seen": "2026-07-30T07:38:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.783521,
+          38.271462
+        ]
+      },
+      "properties": {
+        "incident_id": "305184",
+        "route": "I-64",
+        "mm_start": 2.0,
+        "mm_end": 3.0,
+        "title": "I-64 East between MM 2.0 and 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0022.",
+        "pubDate": "Wed, 16 Sep 2026 02:50:23 GMT",
+        "first_seen": "2026-09-16T05:09:07Z"
       }
     },
     {
