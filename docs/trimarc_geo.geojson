@@ -53806,6 +53806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.725669,
+          38.186373
+        ]
+      },
+      "properties": {
+        "incident_id": "305259",
+        "route": "I-65",
+        "mm_start": 130.4,
+        "mm_end": 130.4,
+        "title": "I-65 North at MM 130.4 Collector I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Wed, 16 Sep 2026 18:30:59 GMT",
+        "first_seen": "2026-09-16T18:45:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.726768,
           38.187547
         ]
@@ -55059,6 +55079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1344.",
         "pubDate": "Sun, 23 Aug 2026 22:37:55 GMT",
         "first_seen": "2026-08-23T22:59:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751155,
+          38.225023
+        ]
+      },
+      "properties": {
+        "incident_id": "305257",
+        "route": "I-65",
+        "mm_start": 133.8,
+        "mm_end": 133.8,
+        "title": "I-65 North at MM 133.8 Area of Preston St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Wed, 16 Sep 2026 17:30:38 GMT",
+        "first_seen": "2026-09-16T18:45:40Z"
       }
     },
     {
