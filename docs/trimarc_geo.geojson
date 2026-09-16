@@ -3266,6 +3266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.830417,
+          38.189943
+        ]
+      },
+      "properties": {
+        "incident_id": "305310",
+        "route": "I-264",
+        "mm_start": 6.4,
+        "mm_end": 6.4,
+        "title": "I-264 West at MM 6.4 Approaching Cane Run Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0065",
+        "pubDate": "Wed, 16 Sep 2026 21:40:29 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.829763,
           38.188591
         ]
@@ -3399,6 +3419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
         "pubDate": "Tue, 04 Aug 2026 03:18:51 GMT",
         "first_seen": "2026-08-04T03:52:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.823699,
+          38.185796
+        ]
+      },
+      "properties": {
+        "incident_id": "305308",
+        "route": "I-264",
+        "mm_start": 6.9,
+        "mm_end": 6.9,
+        "title": "I-264 East at MM 6.9 Approaching Dixie Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Wed, 16 Sep 2026 21:38:23 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
       }
     },
     {
@@ -21426,6 +21466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.642534,
+          38.118204
+        ]
+      },
+      "properties": {
+        "incident_id": "305279",
+        "route": "I-265",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-265 East at MM 13.6 Area of Smyrna Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Wed, 16 Sep 2026 20:19:59 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.640734,
           38.118478
         ]
@@ -36486,6 +36546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.585211,
+          38.225344
+        ]
+      },
+      "properties": {
+        "incident_id": "305311",
+        "route": "I-64",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-64 West at MM 14.5 Just Past Hurstbourne Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Wed, 16 Sep 2026 21:41:17 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.583519,
           38.224807
         ]
@@ -42279,6 +42359,26 @@
         "description": "Abandoned Vehicle : May be viewed on CCTV_05_64_0214",
         "pubDate": "Wed, 16 Sep 2026 11:06:18 GMT",
         "first_seen": "2026-09-16T14:49:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "305264",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 16 Sep 2026 18:53:56 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
       }
     },
     {
@@ -54386,6 +54486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.741607,
+          38.204947
+        ]
+      },
+      "properties": {
+        "incident_id": "305292",
+        "route": "I-65",
+        "mm_start": 132.0,
+        "mm_end": 132.0,
+        "title": "I-65 North at MM 132.0 Area of Fairgrounds in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1317",
+        "pubDate": "Wed, 16 Sep 2026 20:56:59 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743166,
           38.205718
         ]
@@ -55399,6 +55519,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1356.",
         "pubDate": "Sat, 15 Aug 2026 20:12:34 GMT",
         "first_seen": "2026-08-15T20:32:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751982,
+          38.249208
+        ]
+      },
+      "properties": {
+        "incident_id": "305291",
+        "route": "I-65",
+        "mm_start": 135.5,
+        "mm_end": 135.5,
+        "title": "I-65 South at MM 135.5 Area of South 1st street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1356",
+        "pubDate": "Wed, 16 Sep 2026 20:50:28 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
       }
     },
     {
@@ -56919,6 +57059,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
         "pubDate": "Sun, 06 Sep 2026 11:21:44 GMT",
         "first_seen": "2026-09-06T12:20:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.673823,
+          38.289467
+        ]
+      },
+      "properties": {
+        "incident_id": "305305",
+        "route": "I-71",
+        "mm_start": 3.4,
+        "mm_end": 3.4,
+        "title": "I-71 South at MM 3.4 Approaching Zorn Ave. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
+        "pubDate": "Wed, 16 Sep 2026 21:23:08 GMT",
+        "first_seen": "2026-09-16T21:58:03Z"
       }
     },
     {
