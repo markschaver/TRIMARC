@@ -28586,6 +28586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.783521,
+          38.271462
+        ]
+      },
+      "properties": {
+        "incident_id": "305349",
+        "route": "I-64",
+        "mm_start": 2.0,
+        "mm_end": 3.0,
+        "title": "I-64 East between MM 2.0 and 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0022.",
+        "pubDate": "Thu, 17 Sep 2026 02:46:22 GMT",
+        "first_seen": "2026-09-17T05:09:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.789368,
           38.27478
         ]
@@ -55439,6 +55459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344.",
         "pubDate": "Sat, 29 Aug 2026 13:29:46 GMT",
         "first_seen": "2026-08-29T13:43:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752716,
+          38.237695
+        ]
+      },
+      "properties": {
+        "incident_id": "305352",
+        "route": "I-65",
+        "mm_start": 134.7,
+        "mm_end": 134.7,
+        "title": "I-65 South at MM 134.7 Area of St Catherine St in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Thu, 17 Sep 2026 03:38:44 GMT",
+        "first_seen": "2026-09-17T05:09:21Z"
       }
     },
     {
