@@ -3106,6 +3106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82969,
+          38.194184
+        ]
+      },
+      "properties": {
+        "incident_id": "305359",
+        "route": "I-264",
+        "mm_start": 6.1,
+        "mm_end": 6.1,
+        "title": "I-264 West at MM 6.1 Area of Bells Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0060",
+        "pubDate": "Thu, 17 Sep 2026 07:25:48 GMT",
+        "first_seen": "2026-09-17T10:00:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.830263,
           38.192805
         ]
@@ -36086,6 +36106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.593736,
+          38.228041
+        ]
+      },
+      "properties": {
+        "incident_id": "305366",
+        "route": "I-64",
+        "mm_start": 14.0,
+        "mm_end": 14.0,
+        "title": "I-64 West at MM 14.0 Area of Hurstbourne Pkwy in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Thu, 17 Sep 2026 09:46:32 GMT",
+        "first_seen": "2026-09-17T10:00:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.591998,
           38.227502
         ]
@@ -48539,6 +48579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Fri, 07 Aug 2026 22:18:51 GMT",
         "first_seen": "2026-08-07T22:40:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.702239,
+          38.128624
+        ]
+      },
+      "properties": {
+        "incident_id": "305360",
+        "route": "I-65",
+        "mm_start": 126.1,
+        "mm_end": 126.1,
+        "title": "I-65 South at MM 126.1 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 17 Sep 2026 07:59:02 GMT",
+        "first_seen": "2026-09-17T10:00:47Z"
       }
     },
     {
