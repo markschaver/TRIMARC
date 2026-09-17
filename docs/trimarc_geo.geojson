@@ -246,6 +246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808637,
+          38.271204
+        ]
+      },
+      "properties": {
+        "incident_id": "305454",
+        "route": "I-264",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-264 West at MM 0.4 Approaching I-64 WE in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0007",
+        "pubDate": "Thu, 17 Sep 2026 18:42:10 GMT",
+        "first_seen": "2026-09-17T19:03:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808411,
           38.269773
         ]
@@ -50006,6 +50026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708715,
+          38.140603
+        ]
+      },
+      "properties": {
+        "incident_id": "305447",
+        "route": "I-65",
+        "mm_start": 127.0,
+        "mm_end": 127.0,
+        "title": "I-65 North at MM 127.0 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Thu, 17 Sep 2026 17:29:49 GMT",
+        "first_seen": "2026-09-17T19:03:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.709409,
           38.141946
         ]
@@ -52899,6 +52939,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1289",
         "pubDate": "Wed, 02 Sep 2026 12:24:33 GMT",
         "first_seen": "2026-09-02T13:52:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "305455",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 North at MM 129.1 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Thu, 17 Sep 2026 18:44:39 GMT",
+        "first_seen": "2026-09-17T19:03:03Z"
       }
     },
     {
@@ -57006,6 +57066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.689606,
+          38.279613
+        ]
+      },
+      "properties": {
+        "incident_id": "305452",
+        "route": "I-71",
+        "mm_start": 2.3,
+        "mm_end": 2.3,
+        "title": "I-71 South at MM 2.3 Approaching Zorn Ave. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0030.",
+        "pubDate": "Thu, 17 Sep 2026 18:11:56 GMT",
+        "first_seen": "2026-09-17T19:03:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.688171,
           38.280509
         ]
@@ -58899,6 +58979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Fri, 04 Sep 2026 14:48:48 GMT",
         "first_seen": "2026-09-04T15:06:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636748,
+          38.292932
+        ]
+      },
+      "properties": {
+        "incident_id": "305444",
+        "route": "I-71",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-71 North at MM 5.7 Just Past I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055.",
+        "pubDate": "Thu, 17 Sep 2026 17:19:10 GMT",
+        "first_seen": "2026-09-17T19:03:03Z"
       }
     },
     {
