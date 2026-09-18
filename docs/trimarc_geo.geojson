@@ -3046,6 +3046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82801,
+          38.19833
+        ]
+      },
+      "properties": {
+        "incident_id": "305626",
+        "route": "I-264",
+        "mm_start": 5.8,
+        "mm_end": 5.8,
+        "title": "I-264 West at MM 5.8 Area of Crums Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0060.",
+        "pubDate": "Fri, 18 Sep 2026 17:52:41 GMT",
+        "first_seen": "2026-09-18T19:59:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.828531,
           38.196934
         ]
@@ -11626,6 +11646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.683939,
+          38.203511
+        ]
+      },
+      "properties": {
+        "incident_id": "305642",
+        "route": "I-264",
+        "mm_start": 14.8,
+        "mm_end": 14.8,
+        "title": "I-264 West at MM 14.8 Before Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 18 Sep 2026 18:58:25 GMT",
+        "first_seen": "2026-09-18T19:59:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.682399,
           38.204293
         ]
@@ -11719,6 +11759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
         "pubDate": "Sun, 09 Aug 2026 16:30:14 GMT",
         "first_seen": "2026-08-09T16:39:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.682399,
+          38.204293
+        ]
+      },
+      "properties": {
+        "incident_id": "305638",
+        "route": "I-264",
+        "mm_start": 14.9,
+        "mm_end": 14.9,
+        "title": "I-264 West at MM 14.9 Before Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 18 Sep 2026 18:51:22 GMT",
+        "first_seen": "2026-09-18T19:59:34Z"
       }
     },
     {
@@ -52526,6 +52586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "305628",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 North at MM 128.8 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 18 Sep 2026 17:57:50 GMT",
+        "first_seen": "2026-09-18T19:59:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720588,
           38.166185
         ]
@@ -55619,6 +55699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
         "pubDate": "Tue, 25 Aug 2026 04:31:40 GMT",
         "first_seen": "2026-08-25T04:54:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "305636",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 North at MM 133.6 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Fri, 18 Sep 2026 18:44:36 GMT",
+        "first_seen": "2026-09-18T19:59:34Z"
       }
     },
     {
