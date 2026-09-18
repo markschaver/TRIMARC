@@ -37066,6 +37066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.580124,
+          38.223742
+        ]
+      },
+      "properties": {
+        "incident_id": "305577",
+        "route": "I-64",
+        "mm_start": 14.8,
+        "mm_end": 14.8,
+        "title": "I-64 East at MM 14.8 Area of Hurstbourne Lane in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_5_64_0150",
+        "pubDate": "Fri, 18 Sep 2026 12:30:18 GMT",
+        "first_seen": "2026-09-18T14:14:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.578375,
           38.2233
         ]
@@ -58759,6 +58779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Mon, 14 Sep 2026 20:30:20 GMT",
         "first_seen": "2026-09-14T22:05:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.640037,
+          38.291732
+        ]
+      },
+      "properties": {
+        "incident_id": "305583",
+        "route": "I-71",
+        "mm_start": 5.5,
+        "mm_end": 5.5,
+        "title": "I-71 North at MM 5.5 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Fri, 18 Sep 2026 13:25:26 GMT",
+        "first_seen": "2026-09-18T14:14:04Z"
       }
     },
     {
