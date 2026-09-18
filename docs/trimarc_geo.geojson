@@ -9046,6 +9046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "305617",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 West at MM 13.2 Area of Poplar Level Rd. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Fri, 18 Sep 2026 16:58:45 GMT",
+        "first_seen": "2026-09-18T17:43:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -56079,6 +56099,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1356.",
         "pubDate": "Sat, 15 Aug 2026 20:12:34 GMT",
         "first_seen": "2026-08-15T20:32:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752083,
+          38.247766
+        ]
+      },
+      "properties": {
+        "incident_id": "305622",
+        "route": "I-65",
+        "mm_start": 135.4,
+        "mm_end": 135.4,
+        "title": "I-65 South at MM 135.4 Area of Broadway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be veiwed on CCTV_05_65_1356.",
+        "pubDate": "Fri, 18 Sep 2026 17:17:54 GMT",
+        "first_seen": "2026-09-18T17:43:12Z"
       }
     },
     {
