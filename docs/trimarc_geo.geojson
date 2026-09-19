@@ -10746,6 +10746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "305749",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 West at MM 14.2 Just Past Newburg Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 19 Sep 2026 16:11:49 GMT",
+        "first_seen": "2026-09-19T16:44:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -12799,6 +12819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Thu, 17 Sep 2026 23:29:58 GMT",
         "first_seen": "2026-09-18T00:22:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "305738",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 West at MM 15.6 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Sat, 19 Sep 2026 13:42:08 GMT",
+        "first_seen": "2026-09-19T16:44:47Z"
       }
     },
     {
@@ -24859,6 +24899,26 @@
         "description": "Abandoned Vehicle : May be viewed on CCTV_05_265_0256",
         "pubDate": "Tue, 23 Jun 2026 21:11:58 GMT",
         "first_seen": "2026-06-24T01:00:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.505622,
+          38.221588
+        ]
+      },
+      "properties": {
+        "incident_id": "305743",
+        "route": "I-265",
+        "mm_start": 25.4,
+        "mm_end": 25.4,
+        "title": "I-265 South at MM 25.4 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256.",
+        "pubDate": "Sat, 19 Sep 2026 14:48:55 GMT",
+        "first_seen": "2026-09-19T16:44:47Z"
       }
     },
     {
