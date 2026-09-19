@@ -12506,6 +12506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.675179,
+          38.208745
+        ]
+      },
+      "properties": {
+        "incident_id": "305733",
+        "route": "I-264",
+        "mm_start": 15.4,
+        "mm_end": 15.4,
+        "title": "I-264 West at MM 15.4 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Sat, 19 Sep 2026 13:05:30 GMT",
+        "first_seen": "2026-09-19T13:27:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.673752,
           38.209668
         ]
@@ -42966,6 +42986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "305730",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 Area of Beckley Creek Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Sat, 19 Sep 2026 11:24:59 GMT",
+        "first_seen": "2026-09-19T13:27:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.464834,
           38.221306
         ]
@@ -59139,6 +59179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Fri, 18 Sep 2026 13:25:26 GMT",
         "first_seen": "2026-09-18T14:14:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.640037,
+          38.291732
+        ]
+      },
+      "properties": {
+        "incident_id": "305727",
+        "route": "I-71",
+        "mm_start": 5.5,
+        "mm_end": 5.5,
+        "title": "I-71 South at MM 5.5 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
+        "pubDate": "Sat, 19 Sep 2026 10:35:50 GMT",
+        "first_seen": "2026-09-19T13:27:32Z"
       }
     },
     {
