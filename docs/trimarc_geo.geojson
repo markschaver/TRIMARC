@@ -28966,6 +28966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.783521,
+          38.271462
+        ]
+      },
+      "properties": {
+        "incident_id": "305712",
+        "route": "I-64",
+        "mm_start": 2.0,
+        "mm_end": 3.0,
+        "title": "I-64 East between MM 2.0 and 3.0 Area of 22nd Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0022.",
+        "pubDate": "Sat, 19 Sep 2026 02:37:17 GMT",
+        "first_seen": "2026-09-19T05:08:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.789368,
           38.27478
         ]
@@ -41259,6 +41279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
         "pubDate": "Fri, 18 Sep 2026 22:22:47 GMT",
         "first_seen": "2026-09-18T22:30:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.494095,
+          38.222274
+        ]
+      },
+      "properties": {
+        "incident_id": "305707",
+        "route": "I-64",
+        "mm_start": 19.5,
+        "mm_end": 19.5,
+        "title": "I-64 East at MM 19.5 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Sat, 19 Sep 2026 01:42:36 GMT",
+        "first_seen": "2026-09-19T05:08:16Z"
       }
     },
     {
@@ -57359,6 +57399,26 @@
         "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of overnight traffic impacts on Interstate 71 North beginning Monday, July 20, as part of the $50 million I-71 widening and improvement project in Louisville [links-1.govdelivery.com]. To safely facilitate bridge construction, I-71 North will be reduced to one lane each night from 8 p.m. to 5 a.m., with brief rolling closures occurring between midnight and 4 a.m., on the following dates: Beginning at 8 p.m. on Monday, July 20, through 5 a.m. on Tuesday, July 21 Beginning at 8 p.m. on Tuesday, July 21, through 5 a.m. on Wednesday, July 22 Beginning at 8 p.m. on Wednesday, July 22, through 5 a.m. on Thursday, July 23 During the overnight rolling closures (between midnight and 4 a.m.), motorists traveling on I-71 North will be diverted to exit at Exit 2 (Zorn Avenue) and immediately re-enter the interstate using the I-71 North on-ramp. This short, signed detour will be used while traffic is temporarily stopped to allow crews to safely set bridge beams between midnight and 4 a.m. To help minimize delays, traffic signals at the I-71/Zorn Avenue interchange will be placed in flashing mode, and flaggers will be stationed at all approaches to efficiently direct motorists through the interchange. Additionally, brief closures of Zorn Avenue are possible to allow crews to safely move and set bridge beams. Motorists should reduce speed, follow posted signage and flagger directions, and allow extra travel time during the scheduled overnight work.",
         "pubDate": "Tue, 21 Jul 2026 00:00:05 GMT",
         "first_seen": "2026-07-21T00:44:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.675975,
+          38.288123
+        ]
+      },
+      "properties": {
+        "incident_id": "305697",
+        "route": "I-71",
+        "mm_start": 1.5,
+        "mm_end": 5.0,
+        "title": "I-71 South between MM 5.0 and 1.5 Between I-264 and Zorn Avenue in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of an overnight closure of Interstate 71 South tonight, Sept. 18, in Louisville. I-71 South will be closed from the I-71/I-264 (Watterson Expressway) interchange to mile point 1.5 (near Zorn Avenue) from 9 p.m. tonight, Sept. 18, through 6 a.m. Saturday, Sept. 19. Additionally, the I-264 East ramp to I-71 South will be closed during this timeframe.",
+        "pubDate": "Sat, 19 Sep 2026 01:00:00 GMT",
+        "first_seen": "2026-09-19T05:08:16Z"
       }
     },
     {
