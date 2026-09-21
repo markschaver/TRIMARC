@@ -5246,6 +5246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.767664,
+          38.18977
+        ]
+      },
+      "properties": {
+        "incident_id": "305894",
+        "route": "I-264",
+        "mm_start": 10.0,
+        "mm_end": 10.0,
+        "title": "I-264 East at MM 10.0 At Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : MetroSafe reports a disabled vehicle in the area.",
+        "pubDate": "Mon, 21 Sep 2026 15:38:20 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.765829,
           38.189834
         ]
@@ -9706,6 +9726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705744,
+          38.196614
+        ]
+      },
+      "properties": {
+        "incident_id": "305913",
+        "route": "I-264",
+        "mm_start": 13.5,
+        "mm_end": 13.5,
+        "title": "I-264 East at MM 13.5 Area of Poplar Level Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Mon, 21 Sep 2026 17:43:13 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.704399,
           38.197615
         ]
@@ -12906,6 +12946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.672239,
+          38.210502
+        ]
+      },
+      "properties": {
+        "incident_id": "305927",
+        "route": "I-264",
+        "mm_start": 15.6,
+        "mm_end": 15.6,
+        "title": "I-264 West at MM 15.6 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Mon, 21 Sep 2026 19:05:01 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.670722,
           38.211321
         ]
@@ -13859,6 +13919,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0156",
         "pubDate": "Tue, 01 Sep 2026 22:06:34 GMT",
         "first_seen": "2026-09-01T22:32:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.661583,
+          38.216152
+        ]
+      },
+      "properties": {
+        "incident_id": "305925",
+        "route": "I-264",
+        "mm_start": 16.3,
+        "mm_end": 16.3,
+        "title": "I-264 West at MM 16.3 Between Taylorsville and Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 21 Sep 2026 19:01:23 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
       }
     },
     {
@@ -27726,6 +27806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.579988,
+          38.313988
+        ]
+      },
+      "properties": {
+        "incident_id": "305917",
+        "route": "I-265",
+        "mm_start": 34.6,
+        "mm_end": 34.6,
+        "title": "I-265 South at MM 34.6 Area of I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0340",
+        "pubDate": "Mon, 21 Sep 2026 17:58:41 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.581496,
           38.314811
         ]
@@ -39566,6 +39666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.527103,
+          38.223335
+        ]
+      },
+      "properties": {
+        "incident_id": "305911",
+        "route": "I-64",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-64 East at MM 17.7 Just Past Blakenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Mon, 21 Sep 2026 17:35:36 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.525281,
           38.223276
         ]
@@ -50206,6 +50326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.705716,
+          38.135313
+        ]
+      },
+      "properties": {
+        "incident_id": "305919",
+        "route": "I-65",
+        "mm_start": 126.6,
+        "mm_end": 126.6,
+        "title": "I-65 South at MM 126.6 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Mon, 21 Sep 2026 18:43:19 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.706462,
           38.136634
         ]
@@ -53866,6 +54006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720515,
+          38.169079
+        ]
+      },
+      "properties": {
+        "incident_id": "305921",
+        "route": "I-65",
+        "mm_start": 129.1,
+        "mm_end": 129.1,
+        "title": "I-65 South at MM 129.1 Approaching Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Mon, 21 Sep 2026 18:46:36 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720478,
           38.170527
         ]
@@ -54179,6 +54339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Wed, 05 Aug 2026 20:33:53 GMT",
         "first_seen": "2026-08-05T21:56:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720048,
+          38.173401
+        ]
+      },
+      "properties": {
+        "incident_id": "305898",
+        "route": "I-65",
+        "mm_start": 129.4,
+        "mm_end": 129.4,
+        "title": "I-65 South at MM 129.4 Area of Preston Highway in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Mon, 21 Sep 2026 16:03:42 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
       }
     },
     {
@@ -55239,6 +55419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313.",
         "pubDate": "Fri, 11 Sep 2026 17:58:19 GMT",
         "first_seen": "2026-09-11T20:02:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.731961,
+          38.193518
+        ]
+      },
+      "properties": {
+        "incident_id": "305907",
+        "route": "I-65",
+        "mm_start": 131.0,
+        "mm_end": 131.0,
+        "title": "I-65 South at MM 131.0 At I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313.",
+        "pubDate": "Mon, 21 Sep 2026 17:21:58 GMT",
+        "first_seen": "2026-09-21T19:09:44Z"
       }
     },
     {
