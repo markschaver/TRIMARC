@@ -2386,6 +2386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822435,
+          38.220144
+        ]
+      },
+      "properties": {
+        "incident_id": "305985",
+        "route": "I-264",
+        "mm_start": 4.2,
+        "mm_end": 4.2,
+        "title": "I-264 West at MM 4.2 Approaching Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Tue, 22 Sep 2026 00:43:22 GMT",
+        "first_seen": "2026-09-22T01:13:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822516,
           38.218696
         ]
@@ -19379,6 +19399,26 @@
         "description": "Construction / Road Work : Beginning at 8 p.m. Thursday, Sept. 10, to 6 a.m. Friday, Sept. 11: \u2022 I-264 West traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 West via the on-ramp located on the opposite side of the existing interchange. Beginning at 8 p.m. Friday, Sept. 11, to 6 a.m. Saturday, Sept. 12: \u2022 I-264 West traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 West via the on-ramp located on the opposite side of the existing interchange. The interstate project is expected to be completed by the Fall of 2027. The work is being carried out by Cleary Construction Inc. of Monroe County, Kentucky. More details, including project timelines and traffic impacts [links-1.govdelivery.com], will be shared online as work progresses. Motorists are encouraged to sign up for email and text alerts [links 1.govdelivery.com] regarding weekly traffic impacts pertaining to the project.",
         "pubDate": "Fri, 11 Sep 2026 00:00:24 GMT",
         "first_seen": "2026-09-11T00:24:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.635571,
+          38.279365
+        ]
+      },
+      "properties": {
+        "incident_id": "305979",
+        "route": "I-264",
+        "mm_start": 21.9,
+        "mm_end": 22.2,
+        "title": "I-264 East between MM 21.9 and 22.2 At Brownsboro Rd in Jefferson County",
+        "description": "Construction / Road Work : Beginning at 8 p.m. Monday, Sept. 21, to 6 a.m. Tuesday, Sept. 22: \u00b7 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange. Beginning at 8 p.m. Tuesday, Sept. 22, to 6 a.m. Wednesday, Sept. 23: \u00b7 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange.",
+        "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+        "first_seen": "2026-09-22T01:13:15Z"
       }
     },
     {
@@ -50126,6 +50166,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704969,
+          38.133993
+        ]
+      },
+      "properties": {
+        "incident_id": "305983",
+        "route": "I-65",
+        "mm_start": 126.5,
+        "mm_end": 126.5,
+        "title": "I-65 South at MM 126.5 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Tue, 22 Sep 2026 00:15:39 GMT",
+        "first_seen": "2026-09-22T01:13:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.705716,
           38.135313
         ]
@@ -57699,6 +57759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1368.",
         "pubDate": "Wed, 29 Jul 2026 15:28:00 GMT",
         "first_seen": "2026-07-29T15:40:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.744505,
+          38.267627
+        ]
+      },
+      "properties": {
+        "incident_id": "305982",
+        "route": "I-65",
+        "mm_start": 137.1,
+        "mm_end": 137.1,
+        "title": "I-65 South at MM 137.1 On Kennedy Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1370",
+        "pubDate": "Tue, 22 Sep 2026 00:12:37 GMT",
+        "first_seen": "2026-09-22T01:13:15Z"
       }
     },
     {
