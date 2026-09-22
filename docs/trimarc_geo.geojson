@@ -14186,6 +14186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.658522,
+          38.217737
+        ]
+      },
+      "properties": {
+        "incident_id": "306015",
+        "route": "I-264",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-264 West at MM 16.5 Area of Taylorsville Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Tue, 22 Sep 2026 11:50:57 GMT",
+        "first_seen": "2026-09-22T11:58:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.65699,
           38.218526
         ]
@@ -27359,6 +27379,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
         "pubDate": "Wed, 19 Aug 2026 15:58:11 GMT",
         "first_seen": "2026-08-19T16:35:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.540726,
+          38.292802
+        ]
+      },
+      "properties": {
+        "incident_id": "306013",
+        "route": "I-265",
+        "mm_start": 32.0,
+        "mm_end": 32.0,
+        "title": "I-265 North at MM 32.0 Approaching Westport Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Tue, 22 Sep 2026 11:43:34 GMT",
+        "first_seen": "2026-09-22T11:58:16Z"
       }
     },
     {
@@ -42366,6 +42406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.488612,
+          38.222073
+        ]
+      },
+      "properties": {
+        "incident_id": "305992",
+        "route": "I-64",
+        "mm_start": 19.8,
+        "mm_end": 19.8,
+        "title": "I-64 East at MM 19.8 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Tue, 22 Sep 2026 06:38:58 GMT",
+        "first_seen": "2026-09-22T11:58:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.486783,
           38.222014
         ]
@@ -48779,6 +48839,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 09 Sep 2026 15:31:13 GMT",
         "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701716,
+          38.12139
+        ]
+      },
+      "properties": {
+        "incident_id": "306014",
+        "route": "I-65",
+        "mm_start": 125.6,
+        "mm_end": 125.6,
+        "title": "I-65 North at MM 125.6 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 22 Sep 2026 11:49:23 GMT",
+        "first_seen": "2026-09-22T11:58:16Z"
       }
     },
     {
