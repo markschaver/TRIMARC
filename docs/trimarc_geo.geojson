@@ -19475,10 +19475,10 @@
         "route": "I-264",
         "mm_start": 21.9,
         "mm_end": 22.2,
-        "title": "I-264 East between MM 21.9 and 22.2 At Brownsboro Rd in Jefferson County",
-        "description": "Construction / Road Work : Beginning at 8 p.m. Monday, Sept. 21, to 6 a.m. Tuesday, Sept. 22: \u00b7 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange. Beginning at 8 p.m. Tuesday, Sept. 22, to 6 a.m. Wednesday, Sept. 23: \u00b7 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange.",
+        "title": "I-264 East-West between MM 21.9 and 22.2 At Brownsboro Rd in Jefferson County",
+        "description": "Construction / Road Work : Beginning at 8 p.m. Monday, Sept. 21, to 6 a.m. Tuesday, Sept. 22: \u00b7 I-264 East traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 East via the on-ramp located on the opposite side of the existing interchange. Beginning at 8 p.m. Tuesday, Sept. 22, to 6 a.m. Wednesday, Sept. 23: \u00b7 I-264 West traffic will be diverted via the U.S. 42 (Brownsboro Road) off-ramp at Exit 22. Drivers will cross U.S. 42 (Brownsboro Road) and rejoin I-264 West via the on-ramp located on the opposite side of the existing interchange.",
         "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
-        "first_seen": "2026-09-22T01:13:15Z"
+        "first_seen": "2026-09-23T01:25:18Z"
       }
     },
     {
@@ -54739,6 +54739,26 @@
         "description": "Abandoned Vehicle : May be viewed on CCTV_05_65_1297",
         "pubDate": "Mon, 21 Sep 2026 16:03:42 GMT",
         "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720048,
+          38.173401
+        ]
+      },
+      "properties": {
+        "incident_id": "306115",
+        "route": "I-65",
+        "mm_start": 129.4,
+        "mm_end": 129.4,
+        "title": "I-65 North at MM 129.4 Area of Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Wed, 23 Sep 2026 01:04:28 GMT",
+        "first_seen": "2026-09-23T01:25:18Z"
       }
     },
     {
