@@ -27286,6 +27286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.507744,
+          38.285788
+        ]
+      },
+      "properties": {
+        "incident_id": "306235",
+        "route": "I-265",
+        "mm_start": 30.1,
+        "mm_end": 30.1,
+        "title": "I-265 North at MM 30.1 Approaching La Grange Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Wed, 23 Sep 2026 23:23:26 GMT",
+        "first_seen": "2026-09-24T01:25:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.516869,
           38.28673
         ]
@@ -46046,6 +46066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.421103,
+          38.218162
+        ]
+      },
+      "properties": {
+        "incident_id": "306248",
+        "route": "I-64",
+        "mm_start": 23.5,
+        "mm_end": 23.5,
+        "title": "I-64 West at MM 23.5 Area of Clark Station Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Thu, 24 Sep 2026 01:16:04 GMT",
+        "first_seen": "2026-09-24T01:25:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.419282,
           38.218021
         ]
@@ -60239,6 +60279,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0051",
         "pubDate": "Thu, 13 Aug 2026 10:52:39 GMT",
         "first_seen": "2026-08-13T11:30:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.645283,
+          38.288837
+        ]
+      },
+      "properties": {
+        "incident_id": "306239",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 5.4,
+        "title": "I-71 North between MM 4.9 and 5.4 Area of I-264 in Jefferson County",
+        "description": "Construction / Road Work : Beginning at 8 p.m. Wednesday, Sept. 23, to 6 a.m. Thursday, Sept. 24: \u00b7 The left lane of I-71 North at the I-264 interchange will be closed. The interstate project is expected to be completed by the Fall of 2027. The work is being carried out by Cleary Construction Inc. of Monroe County, Kentucky. More details, including project timelines and traffic impacts [links-1.govdelivery.com], will be shared online as work progresses. Motorists are encouraged to sign up for email and text alerts [links-1.govdelivery.com] regarding weekly traffic impacts pertaining to the project.",
+        "pubDate": "Thu, 24 Sep 2026 00:00:00 GMT",
+        "first_seen": "2026-09-24T01:25:58Z"
       }
     },
     {
