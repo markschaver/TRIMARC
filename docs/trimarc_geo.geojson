@@ -29486,6 +29486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805203,
+          38.277162
+        ]
+      },
+      "properties": {
+        "incident_id": "306291",
+        "route": "I-64",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-64 West at MM 1.2 Area of I-264 WE in Jefferson County",
+        "description": "Crash : Metro Safe reports a non injury accident in the area",
+        "pubDate": "Thu, 24 Sep 2026 11:53:37 GMT",
+        "first_seen": "2026-09-24T12:15:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80339,
           38.277281
         ]
@@ -31826,6 +31846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744948,
+          38.258258
+        ]
+      },
+      "properties": {
+        "incident_id": "306273",
+        "route": "I-64",
+        "mm_start": 5.0,
+        "mm_end": 5.0,
+        "title": "I-64 East at MM 5.0 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Thu, 24 Sep 2026 08:25:22 GMT",
+        "first_seen": "2026-09-24T12:15:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743118,
           38.257959
         ]
@@ -33379,6 +33419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
         "pubDate": "Mon, 24 Aug 2026 18:58:38 GMT",
         "first_seen": "2026-08-24T19:03:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719376,
+          38.25388
+        ]
+      },
+      "properties": {
+        "incident_id": "306274",
+        "route": "I-64",
+        "mm_start": 6.7,
+        "mm_end": 6.7,
+        "title": "I-64 West at MM 6.7 Area of Mellwood Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Thu, 24 Sep 2026 08:38:46 GMT",
+        "first_seen": "2026-09-24T12:15:32Z"
       }
     },
     {
@@ -36299,6 +36359,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0131.",
         "pubDate": "Sun, 02 Aug 2026 11:08:26 GMT",
         "first_seen": "2026-08-02T11:29:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.614327,
+          38.23486
+        ]
+      },
+      "properties": {
+        "incident_id": "306290",
+        "route": "I-64",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-64 West at MM 12.8 Area of I-264 in Jefferson County",
+        "description": "Crash : Metro Safe reports a non injury accident in the area",
+        "pubDate": "Thu, 24 Sep 2026 11:46:54 GMT",
+        "first_seen": "2026-09-24T12:15:32Z"
       }
     },
     {
