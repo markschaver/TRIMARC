@@ -21846,6 +21846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.655135,
+          38.116249
+        ]
+      },
+      "properties": {
+        "incident_id": "306482",
+        "route": "I-265",
+        "mm_start": 12.9,
+        "mm_end": 12.9,
+        "title": "I-265 West at MM 12.9 Just Past Smyrna Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
+        "pubDate": "Fri, 25 Sep 2026 19:48:52 GMT",
+        "first_seen": "2026-09-25T21:18:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.653334,
           38.116521
         ]
@@ -41246,6 +41266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.512547,
+          38.22283
+        ]
+      },
+      "properties": {
+        "incident_id": "306491",
+        "route": "I-64",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-64 East at MM 18.5 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Fri, 25 Sep 2026 20:45:53 GMT",
+        "first_seen": "2026-09-25T21:18:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.51073,
           38.222807
         ]
@@ -53406,6 +53446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.71836,
+          38.157823
+        ]
+      },
+      "properties": {
+        "incident_id": "306490",
+        "route": "I-65",
+        "mm_start": 128.3,
+        "mm_end": 128.3,
+        "title": "I-65 North at MM 128.3 At Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 25 Sep 2026 20:35:02 GMT",
+        "first_seen": "2026-09-25T21:18:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719173,
           38.159131
         ]
@@ -54919,6 +54979,26 @@
         "description": "Disabled Vehicle-Occupied : Trimarc advises of an incident in the area",
         "pubDate": "Tue, 25 Aug 2026 10:31:40 GMT",
         "first_seen": "2026-08-25T10:52:57Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "306484",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 North at MM 129.0 Just Past Fern Valley Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1289",
+        "pubDate": "Fri, 25 Sep 2026 20:01:46 GMT",
+        "first_seen": "2026-09-25T21:18:44Z"
       }
     },
     {
@@ -57339,6 +57419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
         "pubDate": "Sat, 22 Aug 2026 02:46:56 GMT",
         "first_seen": "2026-08-22T02:57:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752791,
+          38.212097
+        ]
+      },
+      "properties": {
+        "incident_id": "306494",
+        "route": "I-65",
+        "mm_start": 132.9,
+        "mm_end": 132.9,
+        "title": "I-65 North at MM 132.9 Approaching Eastern Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Fri, 25 Sep 2026 20:54:16 GMT",
+        "first_seen": "2026-09-25T21:18:44Z"
       }
     },
     {
