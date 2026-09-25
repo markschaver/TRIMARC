@@ -906,6 +906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805078,
+          38.260169
+        ]
+      },
+      "properties": {
+        "incident_id": "306467",
+        "route": "I-264",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-264 West at MM 1.2 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be Viewed on CCTV_05_264_0016",
+        "pubDate": "Fri, 25 Sep 2026 17:28:08 GMT",
+        "first_seen": "2026-09-25T17:52:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80523,
           38.258724
         ]
@@ -27459,6 +27479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
         "pubDate": "Wed, 23 Sep 2026 23:23:26 GMT",
         "first_seen": "2026-09-24T01:25:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.507744,
+          38.285788
+        ]
+      },
+      "properties": {
+        "incident_id": "306468",
+        "route": "I-265",
+        "mm_start": 30.1,
+        "mm_end": 30.1,
+        "title": "I-265 North at MM 30.1 Area of La Grange Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Fri, 25 Sep 2026 17:39:34 GMT",
+        "first_seen": "2026-09-25T17:52:28Z"
       }
     },
     {
