@@ -3086,6 +3086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827652,
+          38.199749
+        ]
+      },
+      "properties": {
+        "incident_id": "306534",
+        "route": "I-264",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-264 East at MM 5.7 Area of Crums Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0060",
+        "pubDate": "Sat, 26 Sep 2026 03:01:35 GMT",
+        "first_seen": "2026-09-26T05:01:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82801,
           38.19833
         ]
@@ -56499,6 +56519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
         "pubDate": "Tue, 22 Sep 2026 15:15:35 GMT",
         "first_seen": "2026-09-22T16:48:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.723309,
+          38.18416
+        ]
+      },
+      "properties": {
+        "incident_id": "306537",
+        "route": "I-65",
+        "mm_start": 130.2,
+        "mm_end": 130.2,
+        "title": "I-65 South at MM 130.2 Approaching Grade Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Sat, 26 Sep 2026 03:55:19 GMT",
+        "first_seen": "2026-09-26T05:01:09Z"
       }
     },
     {
