@@ -20686,6 +20686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.686623,
+          38.110983
+        ]
+      },
+      "properties": {
+        "incident_id": "306634",
+        "route": "I-265",
+        "mm_start": 11.1,
+        "mm_end": 11.1,
+        "title": "I-265 East at MM 11.1 Approaching Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Sun, 27 Sep 2026 11:14:35 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.684876,
           38.11056
         ]
@@ -24566,6 +24586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.561574,
+          38.143008
+        ]
+      },
+      "properties": {
+        "incident_id": "306630",
+        "route": "I-265",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-265 West at MM 18.5 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Crash : METROSAFE REPORTS.",
+        "pubDate": "Sun, 27 Sep 2026 10:18:23 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.552751,
           38.145009
         ]
@@ -27266,6 +27306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.501386,
+          38.264915
+        ]
+      },
+      "properties": {
+        "incident_id": "306633",
+        "route": "I-265",
+        "mm_start": 28.4,
+        "mm_end": 28.4,
+        "title": "I-265 South at MM 28.4 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
+        "pubDate": "Sun, 27 Sep 2026 11:08:43 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.501244,
           38.26636
         ]
@@ -28059,6 +28119,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0325",
         "pubDate": "Tue, 22 Sep 2026 11:43:34 GMT",
         "first_seen": "2026-09-22T11:58:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.540726,
+          38.292802
+        ]
+      },
+      "properties": {
+        "incident_id": "306632",
+        "route": "I-265",
+        "mm_start": 32.0,
+        "mm_end": 32.0,
+        "title": "I-265 North at MM 32.0 Approaching Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325.",
+        "pubDate": "Sun, 27 Sep 2026 11:02:13 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
       }
     },
     {
@@ -35739,6 +35819,26 @@
         "description": "Crash : Crash in this area.",
         "pubDate": "Sat, 25 Jul 2026 17:58:46 GMT",
         "first_seen": "2026-07-25T18:05:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.66427,
+          38.23761
+        ]
+      },
+      "properties": {
+        "incident_id": "306627",
+        "route": "I-64",
+        "mm_start": 10.0,
+        "mm_end": 10.0,
+        "title": "I-64 East at MM 10.0 Approaching Cannons Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0088.",
+        "pubDate": "Sun, 27 Sep 2026 08:36:45 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
       }
     },
     {
@@ -63999,6 +64099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
         "pubDate": "Tue, 01 Sep 2026 12:00:56 GMT",
         "first_seen": "2026-09-01T12:46:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.592507,
+          38.309401
+        ]
+      },
+      "properties": {
+        "incident_id": "306636",
+        "route": "I-71",
+        "mm_start": 8.4,
+        "mm_end": 8.4,
+        "title": "I-71 South at MM 8.4 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082.",
+        "pubDate": "Sun, 27 Sep 2026 11:30:10 GMT",
+        "first_seen": "2026-09-27T13:04:35Z"
       }
     },
     {
