@@ -14626,6 +14626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.655425,
+          38.219299
+        ]
+      },
+      "properties": {
+        "incident_id": "306664",
+        "route": "I-264",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-264 East at MM 16.7 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
+        "pubDate": "Sun, 27 Sep 2026 20:44:38 GMT",
+        "first_seen": "2026-09-27T21:07:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.653827,
           38.220044
         ]
@@ -27239,6 +27259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
         "pubDate": "Sun, 27 Sep 2026 15:13:04 GMT",
         "first_seen": "2026-09-27T17:45:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.50167,
+          38.262024
+        ]
+      },
+      "properties": {
+        "incident_id": "306657",
+        "route": "I-265",
+        "mm_start": 28.2,
+        "mm_end": 28.2,
+        "title": "I-265 South at MM 28.2 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
+        "pubDate": "Sun, 27 Sep 2026 19:13:35 GMT",
+        "first_seen": "2026-09-27T21:07:35Z"
       }
     },
     {
@@ -48426,6 +48466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "306662",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Sun, 27 Sep 2026 20:15:09 GMT",
+        "first_seen": "2026-09-27T21:07:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701242,
           38.109793
         ]
@@ -59126,6 +59186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.746096,
+          38.252298
+        ]
+      },
+      "properties": {
+        "incident_id": "306663",
+        "route": "I-65",
+        "mm_start": 135.9,
+        "mm_end": 135.9,
+        "title": "I-65 North at MM 135.9 Just Past Muhammad Ali Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1356.",
+        "pubDate": "Sun, 27 Sep 2026 20:27:55 GMT",
+        "first_seen": "2026-09-27T21:07:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.744411,
           38.252917
         ]
@@ -62459,6 +62539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Wed, 26 Aug 2026 12:50:54 GMT",
         "first_seen": "2026-08-26T12:59:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.633208,
+          38.293695
+        ]
+      },
+      "properties": {
+        "incident_id": "306666",
+        "route": "I-71",
+        "mm_start": 5.9,
+        "mm_end": 5.9,
+        "title": "I-71 South at MM 5.9 Approaching I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055.",
+        "pubDate": "Sun, 27 Sep 2026 20:57:41 GMT",
+        "first_seen": "2026-09-27T21:07:35Z"
       }
     },
     {
