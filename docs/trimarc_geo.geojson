@@ -59466,6 +59466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.740632,
+          38.25948
+        ]
+      },
+      "properties": {
+        "incident_id": "306695",
+        "route": "I-65",
+        "mm_start": 136.5,
+        "mm_end": 136.5,
+        "title": "I-65 North at MM 136.5 On Lincoln Bridge in Jefferson County",
+        "description": "Freeway Maintenance : Single lane closures will occur on I-65 North on the Lincoln Bridge from 8:00 a.m. until 4:00 p.m. to allwo crews to perform routine hands-on inspections. Motorists should heed signage and use caution when traveling through the work zone.",
+        "pubDate": "Mon, 28 Sep 2026 13:16:54 GMT",
+        "first_seen": "2026-09-28T18:38:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.740794,
           38.260995
         ]
@@ -59619,6 +59639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1368.",
         "pubDate": "Wed, 29 Jul 2026 15:28:00 GMT",
         "first_seen": "2026-07-29T15:40:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.743761,
+          38.266322
+        ]
+      },
+      "properties": {
+        "incident_id": "306722",
+        "route": "I-65",
+        "mm_start": 137.0,
+        "mm_end": 137.0,
+        "title": "I-65 South at MM 137.0 On The Kennedy Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1368",
+        "pubDate": "Mon, 28 Sep 2026 18:21:07 GMT",
+        "first_seen": "2026-09-28T18:38:07Z"
       }
     },
     {
