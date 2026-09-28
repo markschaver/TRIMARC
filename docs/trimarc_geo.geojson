@@ -8686,6 +8686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.713027,
+          38.192205
+        ]
+      },
+      "properties": {
+        "incident_id": "306684",
+        "route": "I-264",
+        "mm_start": 13.0,
+        "mm_end": 13.0,
+        "title": "I-264 West at MM 13.0 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed mon CCTV_05_264_0133",
+        "pubDate": "Mon, 28 Sep 2026 10:53:49 GMT",
+        "first_seen": "2026-09-28T11:15:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.711542,
           38.19306
         ]
@@ -17626,6 +17646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.628896,
+          38.232231
+        ]
+      },
+      "properties": {
+        "incident_id": "306685",
+        "route": "I-264",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-264 East at MM 18.4 Area of I-64 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0199",
+        "pubDate": "Mon, 28 Sep 2026 11:04:58 GMT",
+        "first_seen": "2026-09-28T11:15:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.627395,
           38.233073
         ]
@@ -22379,6 +22419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135",
         "pubDate": "Thu, 16 Jul 2026 20:37:54 GMT",
         "first_seen": "2026-07-16T21:51:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647931,
+          38.117341
+        ]
+      },
+      "properties": {
+        "incident_id": "306677",
+        "route": "I-265",
+        "mm_start": 13.3,
+        "mm_end": 13.3,
+        "title": "I-265 West at MM 13.3 At Smyrna Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0135.",
+        "pubDate": "Mon, 28 Sep 2026 05:06:57 GMT",
+        "first_seen": "2026-09-28T11:15:08Z"
       }
     },
     {
@@ -34859,6 +34919,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0079",
         "pubDate": "Sat, 05 Sep 2026 07:55:15 GMT",
         "first_seen": "2026-09-05T09:15:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.696131,
+          38.243281
+        ]
+      },
+      "properties": {
+        "incident_id": "306679",
+        "route": "I-64",
+        "mm_start": 8.2,
+        "mm_end": 8.2,
+        "title": "I-64 West at MM 8.2 Approaching Cochan Hill Tunnels in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : METROSAFE REPORTS.",
+        "pubDate": "Mon, 28 Sep 2026 10:03:40 GMT",
+        "first_seen": "2026-09-28T11:15:08Z"
       }
     },
     {
