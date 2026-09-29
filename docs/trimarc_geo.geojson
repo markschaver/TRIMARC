@@ -2886,6 +2886,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.828082,
+          38.20696
+        ]
+      },
+      "properties": {
+        "incident_id": "306802",
+        "route": "I-264",
+        "mm_start": 5.2,
+        "mm_end": 5.2,
+        "title": "I-264 West at MM 5.2 At Cane Run Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Tue, 29 Sep 2026 03:34:56 GMT",
+        "first_seen": "2026-09-29T09:36:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.827871,
           38.205516
         ]
@@ -19106,6 +19126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621855,
+          38.257004
+        ]
+      },
+      "properties": {
+        "incident_id": "306821",
+        "route": "I-264",
+        "mm_start": 20.3,
+        "mm_end": 20.3,
+        "title": "I-264 East at MM 20.3 Approaching Westport Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Tue, 29 Sep 2026 08:48:16 GMT",
+        "first_seen": "2026-09-29T09:36:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.62269,
           38.258287
         ]
@@ -32699,6 +32739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1365.",
         "pubDate": "Sun, 13 Sep 2026 08:12:38 GMT",
         "first_seen": "2026-09-13T11:24:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.741316,
+          38.257868
+        ]
+      },
+      "properties": {
+        "incident_id": "306819",
+        "route": "I-64",
+        "mm_start": 5.2,
+        "mm_end": 5.2,
+        "title": "I-64 West at MM 5.2 Under I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0053",
+        "pubDate": "Tue, 29 Sep 2026 08:01:22 GMT",
+        "first_seen": "2026-09-29T09:36:17Z"
       }
     },
     {
