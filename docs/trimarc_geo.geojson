@@ -10966,6 +10966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.696159,
+          38.200602
+        ]
+      },
+      "properties": {
+        "incident_id": "307008",
+        "route": "I-264",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-264 West at MM 14.1 Just Past Newburg Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Wed, 30 Sep 2026 19:52:23 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.694361,
           38.200913
         ]
@@ -31846,6 +31866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.763029,
+          38.258487
+        ]
+      },
+      "properties": {
+        "incident_id": "307023",
+        "route": "I-64",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-64 East at MM 4.0 At 9th Street in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_64_0040.",
+        "pubDate": "Wed, 30 Sep 2026 20:44:52 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.761214,
           38.258653
         ]
@@ -42739,6 +42779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_64_0195.",
         "pubDate": "Mon, 14 Sep 2026 01:03:02 GMT",
         "first_seen": "2026-09-14T06:19:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.497757,
+          38.222393
+        ]
+      },
+      "properties": {
+        "incident_id": "306975",
+        "route": "I-64",
+        "mm_start": 19.3,
+        "mm_end": 19.3,
+        "title": "I-64 East at MM 19.3 Area of English Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Wed, 30 Sep 2026 18:28:43 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
       }
     },
     {
@@ -56586,6 +56646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719582,
+          38.174797
+        ]
+      },
+      "properties": {
+        "incident_id": "307027",
+        "route": "I-65",
+        "mm_start": 129.5,
+        "mm_end": 129.5,
+        "title": "I-65 South at MM 129.5 Area of Grade Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Wed, 30 Sep 2026 21:12:39 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719214,
           38.176218
         ]
@@ -57759,6 +57839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317.",
         "pubDate": "Sat, 26 Sep 2026 10:45:54 GMT",
         "first_seen": "2026-09-26T14:14:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.735659,
+          38.201585
+        ]
+      },
+      "properties": {
+        "incident_id": "306999",
+        "route": "I-65",
+        "mm_start": 131.6,
+        "mm_end": 131.6,
+        "title": "I-65 North at MM 131.6 Approaching Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317.",
+        "pubDate": "Wed, 30 Sep 2026 19:24:02 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
       }
     },
     {
@@ -65339,6 +65439,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Tue, 01 Sep 2026 21:11:15 GMT",
         "first_seen": "2026-09-01T22:32:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.581708,
+          38.314827
+        ]
+      },
+      "properties": {
+        "incident_id": "306992",
+        "route": "I-71",
+        "mm_start": 9.1,
+        "mm_end": 9.1,
+        "title": "I-71 South at MM 9.1 Under I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
+        "pubDate": "Wed, 30 Sep 2026 19:07:18 GMT",
+        "first_seen": "2026-09-30T21:20:47Z"
       }
     },
     {
