@@ -54266,6 +54266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.71836,
+          38.157823
+        ]
+      },
+      "properties": {
+        "incident_id": "306932",
+        "route": "I-65",
+        "mm_start": 128.3,
+        "mm_end": 128.3,
+        "title": "I-65 South at MM 128.3 Just Past Fern Valley Rd in Jefferson County",
+        "description": "HAZMAT Spill : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Wed, 30 Sep 2026 06:39:00 GMT",
+        "first_seen": "2026-09-30T16:55:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719173,
           38.159131
         ]
@@ -60799,6 +60819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030",
         "pubDate": "Wed, 29 Jul 2026 22:05:18 GMT",
         "first_seen": "2026-07-29T22:22:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.680997,
+          38.284988
+        ]
+      },
+      "properties": {
+        "incident_id": "306972",
+        "route": "I-71",
+        "mm_start": 2.9,
+        "mm_end": 2.9,
+        "title": "I-71 North at MM 2.9 Just Past Zorn Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewd on CCTV_05_71_0030",
+        "pubDate": "Wed, 30 Sep 2026 16:47:50 GMT",
+        "first_seen": "2026-09-30T16:55:55Z"
       }
     },
     {
