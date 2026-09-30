@@ -14926,6 +14926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.653827,
+          38.220044
+        ]
+      },
+      "properties": {
+        "incident_id": "306905",
+        "route": "I-264",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-264 East at MM 16.8 Area of Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
+        "pubDate": "Tue, 29 Sep 2026 23:14:59 GMT",
+        "first_seen": "2026-09-30T00:10:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.652228,
           38.220772
         ]
@@ -20159,6 +20179,26 @@
         "description": "Crash : May be viewed on CCTV_05_71_0051",
         "pubDate": "Tue, 07 Jul 2026 21:56:13 GMT",
         "first_seen": "2026-07-07T23:09:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.64353,
+          38.286375
+        ]
+      },
+      "properties": {
+        "incident_id": "306908",
+        "route": "I-264",
+        "mm_start": 22.7,
+        "mm_end": 22.7,
+        "title": "I-264 West at MM 22.7 Before I-71 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Tue, 29 Sep 2026 23:44:51 GMT",
+        "first_seen": "2026-09-30T00:10:36Z"
       }
     },
     {
@@ -55239,6 +55279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Fri, 18 Sep 2026 17:57:50 GMT",
         "first_seen": "2026-09-18T19:59:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "306886",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 South at MM 128.8 At Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Tue, 29 Sep 2026 20:45:27 GMT",
+        "first_seen": "2026-09-30T00:10:36Z"
       }
     },
     {
