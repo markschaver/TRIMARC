@@ -946,6 +946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.805078,
+          38.260169
+        ]
+      },
+      "properties": {
+        "incident_id": "307120",
+        "route": "I-264",
+        "mm_start": 1.2,
+        "mm_end": 1.2,
+        "title": "I-264 West at MM 1.2 Area of W.Muhammad Ali in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0016",
+        "pubDate": "Thu, 01 Oct 2026 18:46:51 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80523,
           38.258724
         ]
@@ -3046,6 +3066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827591,
+          38.204081
+        ]
+      },
+      "properties": {
+        "incident_id": "307124",
+        "route": "I-264",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-264 East at MM 5.4 Area of Cane Run Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Thu, 01 Oct 2026 18:55:01 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82744,
           38.202644
         ]
@@ -4439,6 +4479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
         "pubDate": "Mon, 10 Aug 2026 22:21:58 GMT",
         "first_seen": "2026-08-10T22:50:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.788935,
+          38.186895
+        ]
+      },
+      "properties": {
+        "incident_id": "307128",
+        "route": "I-264",
+        "mm_start": 8.8,
+        "mm_end": 8.8,
+        "title": "I-264 West at MM 8.8 Just Past Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Thu, 01 Oct 2026 19:04:41 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
       }
     },
     {
@@ -17226,6 +17286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.634942,
+          38.228944
+        ]
+      },
+      "properties": {
+        "incident_id": "307130",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 18.0,
+        "title": "I-264 West at MM 18.0 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Thu, 01 Oct 2026 19:08:31 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.633424,
           38.229757
         ]
@@ -21766,6 +21846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670573,
+          38.111794
+        ]
+      },
+      "properties": {
+        "incident_id": "307131",
+        "route": "I-265",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-265 East at MM 12.0 Area of Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Thu, 01 Oct 2026 19:08:30 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.668893,
           38.112367
         ]
@@ -22859,6 +22959,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0135",
         "pubDate": "Wed, 16 Sep 2026 20:19:59 GMT",
         "first_seen": "2026-09-16T21:58:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642534,
+          38.118204
+        ]
+      },
+      "properties": {
+        "incident_id": "307134",
+        "route": "I-265",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-265 West at MM 13.6 Area of Smyrna Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0135.",
+        "pubDate": "Thu, 01 Oct 2026 19:13:20 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
       }
     },
     {
@@ -33606,6 +33726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.731769,
+          38.261027
+        ]
+      },
+      "properties": {
+        "incident_id": "307118",
+        "route": "I-64",
+        "mm_start": 5.8,
+        "mm_end": 5.8,
+        "title": "I-64 West at MM 5.8 Area of I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0058.",
+        "pubDate": "Thu, 01 Oct 2026 18:35:02 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.729966,
           38.261085
         ]
@@ -36079,6 +36219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
         "pubDate": "Fri, 04 Sep 2026 21:53:30 GMT",
         "first_seen": "2026-09-04T22:57:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.671614,
+          38.238644
+        ]
+      },
+      "properties": {
+        "incident_id": "307126",
+        "route": "I-64",
+        "mm_start": 9.6,
+        "mm_end": 9.6,
+        "title": "I-64 East at MM 9.6 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Thu, 01 Oct 2026 18:59:40 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
       }
     },
     {
@@ -51939,6 +52099,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Tue, 15 Sep 2026 18:39:46 GMT",
         "first_seen": "2026-09-15T19:02:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.704214,
+          38.132674
+        ]
+      },
+      "properties": {
+        "incident_id": "307133",
+        "route": "I-65",
+        "mm_start": 126.4,
+        "mm_end": 126.4,
+        "title": "I-65 North at MM 126.4 Area of Outer Loop in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 01 Oct 2026 19:14:48 GMT",
+        "first_seen": "2026-10-01T19:23:54Z"
       }
     },
     {
