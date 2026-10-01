@@ -8006,6 +8006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720051,
+          38.190804
+        ]
+      },
+      "properties": {
+        "incident_id": "307054",
+        "route": "I-264",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-264 East at MM 12.6 Area of I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Thu, 01 Oct 2026 00:31:39 GMT",
+        "first_seen": "2026-10-01T00:44:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.718217,
           38.190878
         ]
@@ -27759,6 +27779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
         "pubDate": "Mon, 17 Aug 2026 17:32:00 GMT",
         "first_seen": "2026-08-17T17:58:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.500545,
+          38.273583
+        ]
+      },
+      "properties": {
+        "incident_id": "307048",
+        "route": "I-265",
+        "mm_start": 29.0,
+        "mm_end": 29.0,
+        "title": "I-265 South at MM 29.0 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
+        "pubDate": "Wed, 30 Sep 2026 23:32:15 GMT",
+        "first_seen": "2026-10-01T00:44:33Z"
       }
     },
     {
