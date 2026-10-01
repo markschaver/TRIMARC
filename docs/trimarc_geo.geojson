@@ -53906,6 +53906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.714348,
+          38.151297
+        ]
+      },
+      "properties": {
+        "incident_id": "307097",
+        "route": "I-65",
+        "mm_start": 127.8,
+        "mm_end": 127.8,
+        "title": "I-65 North at MM 127.8 Between Outer Loop & Fern Valley Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1267.",
+        "pubDate": "Thu, 01 Oct 2026 12:49:55 GMT",
+        "first_seen": "2026-10-01T13:56:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.715146,
           38.152605
         ]
@@ -54499,6 +54519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Thu, 03 Sep 2026 14:54:47 GMT",
         "first_seen": "2026-09-03T18:27:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719173,
+          38.159131
+        ]
+      },
+      "properties": {
+        "incident_id": "307080",
+        "route": "I-65",
+        "mm_start": 128.4,
+        "mm_end": 128.4,
+        "title": "I-65 South at MM 128.4 Area of Fern Valley Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Thu, 01 Oct 2026 07:37:43 GMT",
+        "first_seen": "2026-10-01T13:56:10Z"
       }
     },
     {
@@ -59879,6 +59919,26 @@
         "description": "Freeway Maintenance : Single lane closures will occur on I-65 North on the Lincoln Bridge from 8:00 a.m. until 4:00 p.m. to allwo crews to perform routine hands-on inspections. Motorists should heed signage and use caution when traveling through the work zone.",
         "pubDate": "Mon, 28 Sep 2026 13:16:54 GMT",
         "first_seen": "2026-09-28T18:38:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.742274,
+          38.263713
+        ]
+      },
+      "properties": {
+        "incident_id": "307094",
+        "route": "I-65",
+        "mm_start": 136.5,
+        "mm_end": 137.1,
+        "title": "I-65 North between MM 136.5 and 137.1 On Lincoln Bridge in Jefferson County",
+        "description": "Construction / Road Work : LOUISVILLE, Ky. (Sept. 23, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of daytime lane closures on Interstate 65 North next week in downtown Louisville. A consulting engineering firm will perform a routine, hands-on inspection of the Abraham Lincoln Bridge, which carries I-65 North over the Ohio River between Kentucky and Indiana. The routine bridge inspection will require single lane closures on the Lincoln Bridge from 8 a.m. to 4 p.m. daily, beginning Monday, Sept. 28, through Friday, Oct. 2. Motorists should heed signage and use caution when traveling through the work zone.",
+        "pubDate": "Thu, 01 Oct 2026 12:00:24 GMT",
+        "first_seen": "2026-10-01T13:56:10Z"
       }
     },
     {
