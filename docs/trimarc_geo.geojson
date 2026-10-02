@@ -6946,6 +6946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.738366,
+          38.189701
+        ]
+      },
+      "properties": {
+        "incident_id": "307191",
+        "route": "I-264",
+        "mm_start": 11.6,
+        "mm_end": 11.6,
+        "title": "I-264 East at MM 11.6 Under Freedom Way in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Fri, 02 Oct 2026 01:24:12 GMT",
+        "first_seen": "2026-10-02T02:29:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.736534,
           38.189811
         ]
@@ -30619,6 +30639,26 @@
         "description": "Construction / Road Work : I-64 East and West from Second Street in downtown Louisville to the I-64/I-264 interchange near the Sherman Minton Bridge in west Louisville. Left 2 lanes are closed. Type of Work: Preventative maintenance project.",
         "pubDate": "Sun, 09 Aug 2026 23:54:17 GMT",
         "first_seen": "2026-08-10T00:35:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.787773,
+          38.274087
+        ]
+      },
+      "properties": {
+        "incident_id": "307189",
+        "route": "I-64",
+        "mm_start": 1.6,
+        "mm_end": 2.8,
+        "title": "I-64 East between MM 1.6 and 2.8 Area of 22nd Street in Jefferson County",
+        "description": "Construction / Road Work : Traffic Impacts: Lane and shoulder closures are possible. Date/Time: Daily/nightly. Project Limits: I-64 East and West from Second Street in downtown Louisville to the I-64/I-264 interchange near the Sherman Minton Bridge in west Louisville. Type of Work: Preventive maintenance project.",
+        "pubDate": "Fri, 02 Oct 2026 01:00:00 GMT",
+        "first_seen": "2026-10-02T02:29:38Z"
       }
     },
     {
@@ -64326,6 +64366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.606406,
+          38.302403
+        ]
+      },
+      "properties": {
+        "incident_id": "307185",
+        "route": "I-71",
+        "mm_start": 7.5,
+        "mm_end": 7.5,
+        "title": "I-71 South at MM 7.5 Area of Barbour Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074.",
+        "pubDate": "Fri, 02 Oct 2026 00:12:25 GMT",
+        "first_seen": "2026-10-02T02:29:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.604862,
           38.30318
         ]
@@ -64979,6 +65039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
         "pubDate": "Wed, 05 Aug 2026 13:10:39 GMT",
         "first_seen": "2026-08-05T13:22:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.595595,
+          38.307845
+        ]
+      },
+      "properties": {
+        "incident_id": "307194",
+        "route": "I-71",
+        "mm_start": 8.2,
+        "mm_end": 8.2,
+        "title": "I-71 North at MM 8.2 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082.",
+        "pubDate": "Fri, 02 Oct 2026 01:47:30 GMT",
+        "first_seen": "2026-10-02T02:29:38Z"
       }
     },
     {
