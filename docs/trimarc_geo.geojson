@@ -3086,6 +3086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.827591,
+          38.204081
+        ]
+      },
+      "properties": {
+        "incident_id": "307276",
+        "route": "I-264",
+        "mm_start": 5.4,
+        "mm_end": 5.4,
+        "title": "I-264 West at MM 5.4 At Cane Run Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0052",
+        "pubDate": "Fri, 02 Oct 2026 19:47:25 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82744,
           38.202644
         ]
@@ -13459,6 +13479,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
         "pubDate": "Fri, 31 Jul 2026 21:29:50 GMT",
         "first_seen": "2026-07-31T21:42:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.670722,
+          38.211321
+        ]
+      },
+      "properties": {
+        "incident_id": "307272",
+        "route": "I-264",
+        "mm_start": 15.7,
+        "mm_end": 15.7,
+        "title": "I-264 East at MM 15.7 At Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Fri, 02 Oct 2026 19:34:13 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
       }
     },
     {
@@ -26066,6 +26106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.506176,
+          38.215807
+        ]
+      },
+      "properties": {
+        "incident_id": "307261",
+        "route": "I-265",
+        "mm_start": 25.0,
+        "mm_end": 25.0,
+        "title": "I-265 South at MM 25.0 Ramp from I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256.",
+        "pubDate": "Fri, 02 Oct 2026 18:51:49 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.506041,
           38.217253
         ]
@@ -28706,6 +28766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.543598,
+          38.294615
+        ]
+      },
+      "properties": {
+        "incident_id": "307264",
+        "route": "I-265",
+        "mm_start": 32.2,
+        "mm_end": 32.2,
+        "title": "I-265 South at MM 32.2 Area of Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325.",
+        "pubDate": "Fri, 02 Oct 2026 19:03:49 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.547905,
           38.297334
         ]
@@ -29939,6 +30019,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0008",
         "pubDate": "Wed, 23 Sep 2026 11:16:46 GMT",
         "first_seen": "2026-09-23T12:03:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.813742,
+          38.275015
+        ]
+      },
+      "properties": {
+        "incident_id": "307268",
+        "route": "I-64",
+        "mm_start": 0.7,
+        "mm_end": 0.7,
+        "title": "I-64 East at MM 0.7 Approaching I-264 West End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008.",
+        "pubDate": "Fri, 02 Oct 2026 19:15:38 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
       }
     },
     {
@@ -52406,6 +52506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704969,
+          38.133993
+        ]
+      },
+      "properties": {
+        "incident_id": "307258",
+        "route": "I-65",
+        "mm_start": 126.5,
+        "mm_end": 126.5,
+        "title": "I-65 North at MM 126.5 Area of Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Fri, 02 Oct 2026 18:43:45 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.705716,
           38.135313
         ]
@@ -54939,6 +55059,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Thu, 01 Oct 2026 07:37:43 GMT",
         "first_seen": "2026-10-01T13:56:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719173,
+          38.159131
+        ]
+      },
+      "properties": {
+        "incident_id": "307277",
+        "route": "I-65",
+        "mm_start": 128.4,
+        "mm_end": 128.4,
+        "title": "I-65 North at MM 128.4 Area of Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 02 Oct 2026 19:50:19 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
       }
     },
     {
@@ -59619,6 +59759,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1344",
         "pubDate": "Fri, 21 Aug 2026 12:34:08 GMT",
         "first_seen": "2026-08-21T13:11:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752014,
+          38.236368
+        ]
+      },
+      "properties": {
+        "incident_id": "307266",
+        "route": "I-65",
+        "mm_start": 134.6,
+        "mm_end": 134.6,
+        "title": "I-65 South at MM 134.6 Area of St. Catherine in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1344.",
+        "pubDate": "Fri, 02 Oct 2026 19:12:09 GMT",
+        "first_seen": "2026-10-02T20:08:36Z"
       }
     },
     {
