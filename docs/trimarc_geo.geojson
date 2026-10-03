@@ -32846,6 +32846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.746723,
+          38.258542
+        ]
+      },
+      "properties": {
+        "incident_id": "307377",
+        "route": "I-64",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-64 East at MM 4.9 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050.",
+        "pubDate": "Sat, 03 Oct 2026 17:53:42 GMT",
+        "first_seen": "2026-10-03T18:19:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741316,
           38.257868
         ]
