@@ -1926,6 +1926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.817545,
+          38.236779
+        ]
+      },
+      "properties": {
+        "incident_id": "307390",
+        "route": "I-264",
+        "mm_start": 3.0,
+        "mm_end": 3.0,
+        "title": "I-264 West at MM 3.0 Area of Dumesnil Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_2i64_0027.",
+        "pubDate": "Sat, 03 Oct 2026 21:33:07 GMT",
+        "first_seen": "2026-10-03T21:40:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.818351,
           38.235487
         ]
@@ -12006,6 +12026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.687187,
+          38.20218
+        ]
+      },
+      "properties": {
+        "incident_id": "307387",
+        "route": "I-264",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-264 East at MM 14.6 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 03 Oct 2026 21:04:26 GMT",
+        "first_seen": "2026-10-03T21:40:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.685499,
           38.20276
         ]
@@ -16759,6 +16799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Tue, 22 Sep 2026 22:19:01 GMT",
         "first_seen": "2026-09-22T22:58:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.639559,
+          38.226566
+        ]
+      },
+      "properties": {
+        "incident_id": "307388",
+        "route": "I-264",
+        "mm_start": 17.7,
+        "mm_end": 17.7,
+        "title": "I-264 East at MM 17.7 Area of Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Sat, 03 Oct 2026 21:10:09 GMT",
+        "first_seen": "2026-10-03T21:40:01Z"
       }
     },
     {
@@ -57286,6 +57346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "307385",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 East at MM 129.3 Approaching Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : MetroSafe advises of a disabled vehicle in the area.",
+        "pubDate": "Sat, 03 Oct 2026 20:33:00 GMT",
+        "first_seen": "2026-10-03T21:40:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720048,
           38.173401
         ]
@@ -58259,6 +58339,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0116",
         "pubDate": "Sat, 26 Sep 2026 03:55:19 GMT",
         "first_seen": "2026-09-26T05:01:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.723309,
+          38.18416
+        ]
+      },
+      "properties": {
+        "incident_id": "307389",
+        "route": "I-65",
+        "mm_start": 130.2,
+        "mm_end": 130.2,
+        "title": "I-65 South at MM 130.2 Approaching Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
+        "pubDate": "Sat, 03 Oct 2026 21:19:54 GMT",
+        "first_seen": "2026-10-03T21:40:01Z"
       }
     },
     {
