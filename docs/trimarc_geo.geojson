@@ -6626,6 +6626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743864,
+          38.189376
+        ]
+      },
+      "properties": {
+        "incident_id": "307359",
+        "route": "I-264",
+        "mm_start": 11.3,
+        "mm_end": 11.3,
+        "title": "I-264 East at MM 11.3 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sat, 03 Oct 2026 12:38:11 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742031,
           38.189484
         ]
@@ -22406,6 +22426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.660477,
+          38.115243
+        ]
+      },
+      "properties": {
+        "incident_id": "307358",
+        "route": "I-265",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-265 South at MM 12.6 Approaching Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Sat, 03 Oct 2026 12:29:11 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.656936,
           38.115977
         ]
@@ -30186,6 +30226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.811931,
+          38.275163
+        ]
+      },
+      "properties": {
+        "incident_id": "307348",
+        "route": "I-64",
+        "mm_start": 0.8,
+        "mm_end": 0.8,
+        "title": "I-64 West at MM 0.8 Approaching Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0008.",
+        "pubDate": "Sat, 03 Oct 2026 10:50:58 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.810198,
           38.275561
         ]
@@ -33859,6 +33919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0058.",
         "pubDate": "Sun, 20 Sep 2026 10:56:44 GMT",
         "first_seen": "2026-09-20T12:07:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.735366,
+          38.260766
+        ]
+      },
+      "properties": {
+        "incident_id": "307362",
+        "route": "I-64",
+        "mm_start": 5.6,
+        "mm_end": 5.6,
+        "title": "I-64 East at MM 5.6 Area of I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055.",
+        "pubDate": "Sat, 03 Oct 2026 13:33:32 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
       }
     },
     {
@@ -41939,6 +42019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
         "pubDate": "Fri, 21 Aug 2026 18:05:30 GMT",
         "first_seen": "2026-08-21T18:56:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.523469,
+          38.223147
+        ]
+      },
+      "properties": {
+        "incident_id": "307364",
+        "route": "I-64",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-64 East at MM 17.9 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189.",
+        "pubDate": "Sat, 03 Oct 2026 13:44:59 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
       }
     },
     {
@@ -60446,6 +60546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.744411,
+          38.252917
+        ]
+      },
+      "properties": {
+        "incident_id": "307346",
+        "route": "I-65",
+        "mm_start": 136.0,
+        "mm_end": 136.0,
+        "title": "I-65 North at MM 136.0 Collector I-71/64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362.",
+        "pubDate": "Sat, 03 Oct 2026 10:40:42 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742995,
           38.253901
         ]
@@ -62679,6 +62799,26 @@
         "description": "Construction / Road Work : Beginning at 8 p.m. Wednesday, Sept. 23, to 6 a.m. Thursday, Sept. 24: \u00b7 The left lane of I-71 North at the I-264 interchange will be closed. The interstate project is expected to be completed by the Fall of 2027. The work is being carried out by Cleary Construction Inc. of Monroe County, Kentucky. More details, including project timelines and traffic impacts [links-1.govdelivery.com], will be shared online as work progresses. Motorists are encouraged to sign up for email and text alerts [links-1.govdelivery.com] regarding weekly traffic impacts pertaining to the project.",
         "pubDate": "Thu, 24 Sep 2026 00:00:00 GMT",
         "first_seen": "2026-09-24T01:25:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.649172,
+          38.290076
+        ]
+      },
+      "properties": {
+        "incident_id": "307345",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-71 North at MM 4.9 Area of I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-71 North at mile point 4.9 will be reduced to one lane and intermittent stoppages will be possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
+        "pubDate": "Sat, 03 Oct 2026 10:36:50 GMT",
+        "first_seen": "2026-10-03T14:44:14Z"
       }
     },
     {
