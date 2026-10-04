@@ -25246,6 +25246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.552751,
+          38.145009
+        ]
+      },
+      "properties": {
+        "incident_id": "307410",
+        "route": "I-265",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-265 North at MM 19.0 At Billtown Rd. in Jefferson County",
+        "description": "Crash : METROSAFE REPORTS.",
+        "pubDate": "Sun, 04 Oct 2026 09:35:48 GMT",
+        "first_seen": "2026-10-04T12:13:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.547466,
           38.146217
         ]
