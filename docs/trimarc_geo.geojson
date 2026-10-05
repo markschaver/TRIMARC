@@ -4286,6 +4286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "307564",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 West at MM 8.0 At Dixie Highway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Mon, 05 Oct 2026 21:26:12 GMT",
+        "first_seen": "2026-10-05T23:18:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
@@ -8639,6 +8659,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1307",
         "pubDate": "Tue, 15 Sep 2026 18:20:08 GMT",
         "first_seen": "2026-09-15T19:02:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "307575",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 West at MM 12.8 Approaching I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1307",
+        "pubDate": "Mon, 05 Oct 2026 22:25:15 GMT",
+        "first_seen": "2026-10-05T23:18:50Z"
       }
     },
     {
@@ -60326,6 +60366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.750784,
+          38.233652
+        ]
+      },
+      "properties": {
+        "incident_id": "307566",
+        "route": "I-65",
+        "mm_start": 134.4,
+        "mm_end": 134.4,
+        "title": "I-65 South at MM 134.4 Area of St. Catherine Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1344",
+        "pubDate": "Mon, 05 Oct 2026 21:31:04 GMT",
+        "first_seen": "2026-10-05T23:18:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75129,
           38.23504
         ]
@@ -67739,6 +67799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
         "pubDate": "Fri, 21 Aug 2026 10:37:57 GMT",
         "first_seen": "2026-08-21T10:50:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.550015,
+          38.325555
+        ]
+      },
+      "properties": {
+        "incident_id": "307549",
+        "route": "I-71",
+        "mm_start": 11.0,
+        "mm_end": 11.0,
+        "title": "I-71 North at MM 11.0 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0116",
+        "pubDate": "Mon, 05 Oct 2026 19:56:06 GMT",
+        "first_seen": "2026-10-05T23:18:50Z"
       }
     },
     {
