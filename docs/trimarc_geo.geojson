@@ -2546,6 +2546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822435,
+          38.220144
+        ]
+      },
+      "properties": {
+        "incident_id": "307608",
+        "route": "I-264",
+        "mm_start": 4.2,
+        "mm_end": 4.2,
+        "title": "I-264 East at MM 4.2 Area of Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metro Safe reports a disabled motorist in the area",
+        "pubDate": "Tue, 06 Oct 2026 10:25:06 GMT",
+        "first_seen": "2026-10-06T10:30:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822516,
           38.218696
         ]
@@ -55259,6 +55279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
         "pubDate": "Sat, 26 Sep 2026 23:59:20 GMT",
         "first_seen": "2026-09-27T01:41:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "307607",
+        "route": "I-65",
+        "mm_start": 128.0,
+        "mm_end": 130.0,
+        "title": "I-65 South between MM 130.0 and 128.0 Between I-264 and Fern Valley Road in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of lane closures on Interstate 65 South beginning Tuesday, Oct. 6. The right two lanes of I-65 South will be closed intermittently from 6 a.m. to 5 p.m. daily beginning Tuesday, Oct. 6, through Thursday, Oct. 8, between mile marker 130 (near KY 61/Preston Highway) and mile marker 128 (near KY 1747/Fern Valley Road). The intermittent daily lane closures are necessary for KYTC crews to perform routine maintenance of the interstate. Motorists should heed signage, use caution and expect delays. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com].",
+        "pubDate": "Tue, 06 Oct 2026 09:48:02 GMT",
+        "first_seen": "2026-10-06T10:30:59Z"
       }
     },
     {
