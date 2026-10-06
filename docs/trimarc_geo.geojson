@@ -17286,6 +17286,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.636448,
+          38.228117
+        ]
+      },
+      "properties": {
+        "incident_id": "307595",
+        "route": "I-264",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-264 East at MM 17.9 Area of Breckenridge Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 06 Oct 2026 03:07:09 GMT",
+        "first_seen": "2026-10-06T03:14:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.634942,
           38.228944
         ]
