@@ -4046,6 +4046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.810875,
+          38.185257
+        ]
+      },
+      "properties": {
+        "incident_id": "307755",
+        "route": "I-264",
+        "mm_start": 7.6,
+        "mm_end": 7.6,
+        "title": "I-264 East at MM 7.6 Area of Dixie Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075.",
+        "pubDate": "Wed, 07 Oct 2026 11:46:42 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.809047,
           38.185423
         ]
@@ -18566,6 +18586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.62275,
+          38.239118
+        ]
+      },
+      "properties": {
+        "incident_id": "307754",
+        "route": "I-264",
+        "mm_start": 19.0,
+        "mm_end": 19.0,
+        "title": "I-264 East at MM 19.0 At I-64 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199.",
+        "pubDate": "Wed, 07 Oct 2026 11:33:41 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.622314,
           38.240519
         ]
@@ -24619,6 +24659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
         "pubDate": "Fri, 07 Aug 2026 19:15:39 GMT",
         "first_seen": "2026-08-07T20:06:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.590171,
+          38.139639
+        ]
+      },
+      "properties": {
+        "incident_id": "307773",
+        "route": "I-265",
+        "mm_start": 16.9,
+        "mm_end": 16.9,
+        "title": "I-265 East at MM 16.9 At Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173.",
+        "pubDate": "Wed, 07 Oct 2026 13:37:52 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
       }
     },
     {
@@ -40206,6 +40266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.583519,
+          38.224807
+        ]
+      },
+      "properties": {
+        "incident_id": "307750",
+        "route": "I-64",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-64 West at MM 14.6 Area of Hurstbourne Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150.",
+        "pubDate": "Wed, 07 Oct 2026 11:01:51 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.581827,
           38.224269
         ]
@@ -48526,6 +48606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.421103,
+          38.218162
+        ]
+      },
+      "properties": {
+        "incident_id": "307770",
+        "route": "I-64",
+        "mm_start": 23.5,
+        "mm_end": 23.5,
+        "title": "I-64 West at MM 23.5 At County Line in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
+        "pubDate": "Wed, 07 Oct 2026 13:13:52 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.419282,
           38.218021
         ]
@@ -55479,6 +55579,26 @@
         "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of lane closures on Interstate 65 South beginning Tuesday, Oct. 6. The right two lanes of I-65 South will be closed intermittently from 6 a.m. to 5 p.m. daily beginning Tuesday, Oct. 6, through Thursday, Oct. 8, between mile marker 130 (near KY 61/Preston Highway) and mile marker 128 (near KY 1747/Fern Valley Road). The intermittent daily lane closures are necessary for KYTC crews to perform routine maintenance of the interstate. Motorists should heed signage, use caution and expect delays. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com].",
         "pubDate": "Tue, 06 Oct 2026 09:48:02 GMT",
         "first_seen": "2026-10-06T10:30:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "307767",
+        "route": "I-65",
+        "mm_start": 128.0,
+        "mm_end": 130.0,
+        "title": "I-65 South between MM 130.0 and 128.0 Area of Fern Valley Rd in Jefferson County",
+        "description": "Construction / Road Work : The right two lanes of I-65 South will be closed intermittently from 8:00 a.m. until 8:00 p.m. to allow crews to perform routine maintenance of the interstate. Motorists should heed signage, use caution and expect delays",
+        "pubDate": "Wed, 07 Oct 2026 12:51:34 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
       }
     },
     {
@@ -64866,6 +64986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.629771,
+          38.294643
+        ]
+      },
+      "properties": {
+        "incident_id": "307779",
+        "route": "I-71",
+        "mm_start": 6.1,
+        "mm_end": 6.1,
+        "title": "I-71 North at MM 6.1 Just Past I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055.",
+        "pubDate": "Wed, 07 Oct 2026 14:33:32 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.628201,
           38.295395
         ]
@@ -67059,6 +67199,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
         "pubDate": "Tue, 06 Oct 2026 16:50:21 GMT",
         "first_seen": "2026-10-06T16:56:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.584791,
+          38.313284
+        ]
+      },
+      "properties": {
+        "incident_id": "307766",
+        "route": "I-71",
+        "mm_start": 8.9,
+        "mm_end": 8.9,
+        "title": "I-71 North at MM 8.9 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
+        "pubDate": "Wed, 07 Oct 2026 12:36:47 GMT",
+        "first_seen": "2026-10-07T14:40:19Z"
       }
     },
     {
