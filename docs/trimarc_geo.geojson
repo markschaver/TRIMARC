@@ -10586,6 +10586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.704399,
+          38.197615
+        ]
+      },
+      "properties": {
+        "incident_id": "307935",
+        "route": "I-264",
+        "mm_start": 13.6,
+        "mm_end": 13.6,
+        "title": "I-264 West at MM 13.6 At Poplar Level Road in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Thu, 08 Oct 2026 13:44:50 GMT",
+        "first_seen": "2026-10-08T13:53:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.702939,
           38.198495
         ]
@@ -10899,6 +10919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
         "pubDate": "Sat, 12 Sep 2026 15:15:04 GMT",
         "first_seen": "2026-09-12T16:19:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.699695,
+          38.199842
+        ]
+      },
+      "properties": {
+        "incident_id": "307933",
+        "route": "I-264",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-264 East at MM 13.9 Approaching Newburg Road in Jefferson County",
+        "description": "Pedestrian : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Thu, 08 Oct 2026 13:27:35 GMT",
+        "first_seen": "2026-10-08T13:53:10Z"
       }
     },
     {
@@ -51739,6 +51779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Sat, 03 Oct 2026 07:51:36 GMT",
         "first_seen": "2026-10-03T10:04:23Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "307917",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Thu, 08 Oct 2026 12:06:14 GMT",
+        "first_seen": "2026-10-08T13:53:10Z"
       }
     },
     {
