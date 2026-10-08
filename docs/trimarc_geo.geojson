@@ -586,6 +586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.82045,
+          38.232308
+        ]
+      },
+      "properties": {
+        "incident_id": "307883",
+        "route": "I-264",
+        "mm_start": 0.7,
+        "mm_end": 6.0,
+        "title": "I-264 West between MM 6.0 and 0.7 Between Dixie Highway and Bank Street in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on camera CCTV_05_264_0041.",
+        "pubDate": "Thu, 08 Oct 2026 03:19:25 GMT",
+        "first_seen": "2026-10-08T06:16:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80662,
           38.265716
         ]
@@ -60739,6 +60759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
         "pubDate": "Fri, 18 Sep 2026 18:44:36 GMT",
         "first_seen": "2026-09-18T19:59:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "307889",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 North at MM 133.6 Area of Arthur St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Thu, 08 Oct 2026 05:59:44 GMT",
+        "first_seen": "2026-10-08T06:16:40Z"
       }
     },
     {
