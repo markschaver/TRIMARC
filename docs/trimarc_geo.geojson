@@ -11986,6 +11986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.690764,
+          38.201531
+        ]
+      },
+      "properties": {
+        "incident_id": "308025",
+        "route": "I-264",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-264 West at MM 14.4 Just Past Newburg Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Thu, 08 Oct 2026 23:49:05 GMT",
+        "first_seen": "2026-10-08T23:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.68897,
           38.201842
         ]
@@ -20759,6 +20779,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0221",
         "pubDate": "Tue, 06 Oct 2026 21:16:24 GMT",
         "first_seen": "2026-10-06T21:33:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.63863,
+          38.282083
+        ]
+      },
+      "properties": {
+        "incident_id": "308023",
+        "route": "I-264",
+        "mm_start": 22.3,
+        "mm_end": 22.3,
+        "title": "I-264 East at MM 22.3 Area of Brownboro Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Thu, 08 Oct 2026 23:38:43 GMT",
+        "first_seen": "2026-10-08T23:58:52Z"
       }
     },
     {
@@ -43326,6 +43366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.514375,
+          38.22277
+        ]
+      },
+      "properties": {
+        "incident_id": "308022",
+        "route": "I-64",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-64 East at MM 18.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Thu, 08 Oct 2026 23:36:16 GMT",
+        "first_seen": "2026-10-08T23:58:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.512547,
           38.22283
         ]
@@ -55639,6 +55699,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1267.",
         "pubDate": "Thu, 01 Oct 2026 12:49:55 GMT",
         "first_seen": "2026-10-01T13:56:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.714348,
+          38.151297
+        ]
+      },
+      "properties": {
+        "incident_id": "308005",
+        "route": "I-65",
+        "mm_start": 127.8,
+        "mm_end": 127.8,
+        "title": "I-65 North at MM 127.8 Just Past Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Thu, 08 Oct 2026 21:39:06 GMT",
+        "first_seen": "2026-10-08T23:58:52Z"
       }
     },
     {
