@@ -24786,6 +24786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.59176,
+          38.138919
+        ]
+      },
+      "properties": {
+        "incident_id": "308139",
+        "route": "I-265",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-265 West at MM 16.8 Just Past Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Fri, 09 Oct 2026 22:12:06 GMT",
+        "first_seen": "2026-10-09T23:06:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.590171,
           38.139639
         ]
@@ -29699,6 +29719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325.",
         "pubDate": "Sat, 11 Jul 2026 17:37:09 GMT",
         "first_seen": "2026-07-11T18:05:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.553632,
+          38.300967
+        ]
+      },
+      "properties": {
+        "incident_id": "308142",
+        "route": "I-265",
+        "mm_start": 32.9,
+        "mm_end": 32.9,
+        "title": "I-265 South at MM 32.9 At Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0325",
+        "pubDate": "Fri, 09 Oct 2026 22:52:18 GMT",
+        "first_seen": "2026-10-09T23:06:15Z"
       }
     },
     {
@@ -57359,6 +57399,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Tue, 29 Sep 2026 20:45:27 GMT",
         "first_seen": "2026-09-30T00:10:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720625,
+          38.164737
+        ]
+      },
+      "properties": {
+        "incident_id": "308134",
+        "route": "I-65",
+        "mm_start": 128.8,
+        "mm_end": 128.8,
+        "title": "I-65 South at MM 128.8 At Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Fri, 09 Oct 2026 21:22:20 GMT",
+        "first_seen": "2026-10-09T23:06:15Z"
       }
     },
     {
