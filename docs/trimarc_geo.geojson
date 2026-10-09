@@ -62486,6 +62486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720944,
+          38.262706
+        ]
+      },
+      "properties": {
+        "incident_id": "308094",
+        "route": "I-71",
+        "mm_start": 0.2,
+        "mm_end": 0.2,
+        "title": "I-71 South at MM 0.2 Approaching I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001.",
+        "pubDate": "Fri, 09 Oct 2026 18:18:19 GMT",
+        "first_seen": "2026-10-09T18:49:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719161,
           38.263054
         ]
@@ -63579,6 +63599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037",
         "pubDate": "Tue, 22 Sep 2026 19:59:15 GMT",
         "first_seen": "2026-09-22T20:03:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.667703,
+          38.292607
+        ]
+      },
+      "properties": {
+        "incident_id": "308078",
+        "route": "I-71",
+        "mm_start": 3.8,
+        "mm_end": 3.8,
+        "title": "I-71 South at MM 3.8 Area of Blankenbaker Pkwy, in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0037.",
+        "pubDate": "Fri, 09 Oct 2026 14:52:25 GMT",
+        "first_seen": "2026-10-09T18:49:50Z"
       }
     },
     {
