@@ -60986,6 +60986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "308062",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 North at MM 133.6 Area of Jackson St in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Fri, 09 Oct 2026 12:16:57 GMT",
+        "first_seen": "2026-10-09T13:04:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
