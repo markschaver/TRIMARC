@@ -18046,6 +18046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.633424,
+          38.229757
+        ]
+      },
+      "properties": {
+        "incident_id": "308213",
+        "route": "I-264",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-264 West at MM 18.1 At Breckenridge Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0179.",
+        "pubDate": "Sat, 10 Oct 2026 21:06:02 GMT",
+        "first_seen": "2026-10-10T22:51:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.631905,
           38.230581
         ]
@@ -59719,6 +59739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307",
         "pubDate": "Tue, 18 Aug 2026 19:23:55 GMT",
         "first_seen": "2026-08-18T19:41:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.726768,
+          38.187547
+        ]
+      },
+      "properties": {
+        "incident_id": "308218",
+        "route": "I-65",
+        "mm_start": 130.5,
+        "mm_end": 130.5,
+        "title": "I-65 North at MM 130.5 Approaching I-264 in Jefferson County",
+        "description": "Crash : Crash reported in the area",
+        "pubDate": "Sat, 10 Oct 2026 22:07:08 GMT",
+        "first_seen": "2026-10-10T22:51:19Z"
       }
     },
     {
