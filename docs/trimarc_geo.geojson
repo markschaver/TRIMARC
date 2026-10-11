@@ -30226,6 +30226,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.581496,
+          38.314811
+        ]
+      },
+      "properties": {
+        "incident_id": "308227",
+        "route": "I-265",
+        "mm_start": 34.7,
+        "mm_end": 34.7,
+        "title": "I-265 South at MM 34.7 Over I-71 in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_841_0349.",
+        "pubDate": "Sun, 11 Oct 2026 01:00:10 GMT",
+        "first_seen": "2026-10-11T01:42:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822558,
           38.279059
         ]
@@ -60739,6 +60759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1317.",
         "pubDate": "Sun, 13 Sep 2026 00:11:52 GMT",
         "first_seen": "2026-09-13T00:49:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752661,
+          38.20923
+        ]
+      },
+      "properties": {
+        "incident_id": "308223",
+        "route": "I-65",
+        "mm_start": 132.7,
+        "mm_end": 132.7,
+        "title": "I-65 South at MM 132.7 Approaching Crittenden Dr. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1327.",
+        "pubDate": "Sat, 10 Oct 2026 23:50:30 GMT",
+        "first_seen": "2026-10-11T01:42:11Z"
       }
     },
     {
