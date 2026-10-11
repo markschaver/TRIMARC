@@ -7506,6 +7506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.734702,
+          38.189921
+        ]
+      },
+      "properties": {
+        "incident_id": "308276",
+        "route": "I-264",
+        "mm_start": 11.8,
+        "mm_end": 11.8,
+        "title": "I-264 West at MM 11.8 Area of I-65 in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sun, 11 Oct 2026 19:12:15 GMT",
+        "first_seen": "2026-10-11T19:24:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.73287,
           38.190031
         ]
@@ -29079,6 +29099,46 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Wed, 23 Sep 2026 14:45:28 GMT",
         "first_seen": "2026-09-23T17:03:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.499967,
+          38.280806
+        ]
+      },
+      "properties": {
+        "incident_id": "308273",
+        "route": "I-265",
+        "mm_start": 29.5,
+        "mm_end": 29.5,
+        "title": "I-265 South at MM 29.5 Area of Old Henry in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed CCTV_05_265_0287.",
+        "pubDate": "Sun, 11 Oct 2026 18:53:04 GMT",
+        "first_seen": "2026-10-11T19:24:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.499967,
+          38.280806
+        ]
+      },
+      "properties": {
+        "incident_id": "308275",
+        "route": "I-265",
+        "mm_start": 29.5,
+        "mm_end": 29.5,
+        "title": "I-265 South at MM 29.5 Area of Old Henry Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287.",
+        "pubDate": "Sun, 11 Oct 2026 19:06:07 GMT",
+        "first_seen": "2026-10-11T19:24:33Z"
       }
     },
     {
