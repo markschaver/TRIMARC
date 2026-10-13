@@ -2606,6 +2606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822435,
+          38.220144
+        ]
+      },
+      "properties": {
+        "incident_id": "308511",
+        "route": "I-264",
+        "mm_start": 4.2,
+        "mm_end": 4.2,
+        "title": "I-264 East at MM 4.2 Area of Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Tue, 13 Oct 2026 21:15:00 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822516,
           38.218696
         ]
@@ -9499,6 +9519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
         "pubDate": "Thu, 10 Sep 2026 18:12:35 GMT",
         "first_seen": "2026-09-10T19:47:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "308478",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 East at MM 13.1 At Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Tue, 13 Oct 2026 18:45:07 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
       }
     },
     {
@@ -18579,6 +18619,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0199",
         "pubDate": "Mon, 28 Sep 2026 11:04:58 GMT",
         "first_seen": "2026-09-28T11:15:08Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628896,
+          38.232231
+        ]
+      },
+      "properties": {
+        "incident_id": "308513",
+        "route": "I-264",
+        "mm_start": 18.4,
+        "mm_end": 18.4,
+        "title": "I-264 West at MM 18.4 Just Past I-64 (east end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Tue, 13 Oct 2026 21:20:42 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
       }
     },
     {
@@ -31906,6 +31966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.80339,
+          38.277281
+        ]
+      },
+      "properties": {
+        "incident_id": "308502",
+        "route": "I-64",
+        "mm_start": 1.3,
+        "mm_end": 1.3,
+        "title": "I-64 East at MM 1.3 Just Past I-264 (west end) in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
+        "pubDate": "Tue, 13 Oct 2026 20:25:04 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.798844,
           38.277158
         ]
@@ -35199,6 +35279,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055.",
         "pubDate": "Sun, 09 Aug 2026 16:38:43 GMT",
         "first_seen": "2026-08-09T17:15:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.733578,
+          38.26097
+        ]
+      },
+      "properties": {
+        "incident_id": "308501",
+        "route": "I-64",
+        "mm_start": 5.7,
+        "mm_end": 5.7,
+        "title": "I-64 West at MM 5.7 Just Past I-71 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0055",
+        "pubDate": "Tue, 13 Oct 2026 20:21:28 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
       }
     },
     {
@@ -49879,6 +49979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
         "pubDate": "Sat, 01 Aug 2026 12:07:25 GMT",
         "first_seen": "2026-08-01T12:29:27Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41564,
+          38.217739
+        ]
+      },
+      "properties": {
+        "incident_id": "308483",
+        "route": "I-64",
+        "mm_start": 23.8,
+        "mm_end": 23.8,
+        "title": "I-64 West at MM 23.8 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Tue, 13 Oct 2026 19:05:12 GMT",
+        "first_seen": "2026-10-13T21:26:49Z"
       }
     },
     {
