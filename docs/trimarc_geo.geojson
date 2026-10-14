@@ -63026,6 +63026,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.740794,
+          38.260995
+        ]
+      },
+      "properties": {
+        "incident_id": "308532",
+        "route": "I-65",
+        "mm_start": 136.6,
+        "mm_end": 136.6,
+        "title": "I-65 South at MM 136.6 From Kennedy Bridge in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Tue, 13 Oct 2026 22:15:02 GMT",
+        "first_seen": "2026-10-14T00:32:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742646,
           38.264365
         ]
@@ -69499,6 +69519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
         "pubDate": "Tue, 01 Sep 2026 18:53:49 GMT",
         "first_seen": "2026-09-01T19:58:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.559348,
+          38.321021
+        ]
+      },
+      "properties": {
+        "incident_id": "308538",
+        "route": "I-71",
+        "mm_start": 10.4,
+        "mm_end": 10.4,
+        "title": "I-71 South at MM 10.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0103",
+        "pubDate": "Tue, 13 Oct 2026 23:03:48 GMT",
+        "first_seen": "2026-10-14T00:32:12Z"
       }
     },
     {
