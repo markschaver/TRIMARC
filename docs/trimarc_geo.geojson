@@ -27086,6 +27086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.506454,
+          38.212919
+        ]
+      },
+      "properties": {
+        "incident_id": "308603",
+        "route": "I-265",
+        "mm_start": 24.8,
+        "mm_end": 24.8,
+        "title": "I-265 West at MM 24.8 Area of Pople Lick Road in Jefferson County",
+        "description": "Crash : Metro Safe reports a accident is the area",
+        "pubDate": "Wed, 14 Oct 2026 15:06:26 GMT",
+        "first_seen": "2026-10-14T15:30:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.506176,
           38.215807
         ]
@@ -48366,6 +48386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.45571,
+          38.220837
+        ]
+      },
+      "properties": {
+        "incident_id": "308572",
+        "route": "I-64",
+        "mm_start": 21.6,
+        "mm_end": 21.6,
+        "title": "I-64 East at MM 21.6 Area of Gilliland Rd in Jefferson County",
+        "description": "Abandoned Vehicle : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Wed, 14 Oct 2026 10:55:56 GMT",
+        "first_seen": "2026-10-14T15:30:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.453887,
           38.220697
         ]
@@ -50019,6 +50059,46 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
         "pubDate": "Tue, 13 Oct 2026 19:05:12 GMT",
         "first_seen": "2026-10-13T21:26:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41564,
+          38.217739
+        ]
+      },
+      "properties": {
+        "incident_id": "308596",
+        "route": "I-64",
+        "mm_start": 23.8,
+        "mm_end": 23.8,
+        "title": "I-64 East at MM 23.8 Area of Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Wed, 14 Oct 2026 13:38:16 GMT",
+        "first_seen": "2026-10-14T15:30:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.41564,
+          38.217739
+        ]
+      },
+      "properties": {
+        "incident_id": "308595",
+        "route": "I-64",
+        "mm_start": 23.8,
+        "mm_end": 23.8,
+        "title": "I-64 West at MM 23.8 Area of Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Wed, 14 Oct 2026 13:37:26 GMT",
+        "first_seen": "2026-10-14T15:30:55Z"
       }
     },
     {
@@ -60759,6 +60839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1317",
         "pubDate": "Wed, 01 Jul 2026 21:48:10 GMT",
         "first_seen": "2026-07-01T22:02:55Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.734005,
+          38.199017
+        ]
+      },
+      "properties": {
+        "incident_id": "308605",
+        "route": "I-65",
+        "mm_start": 131.4,
+        "mm_end": 131.4,
+        "title": "I-65 North at MM 131.4 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313",
+        "pubDate": "Wed, 14 Oct 2026 15:25:57 GMT",
+        "first_seen": "2026-10-14T15:30:55Z"
       }
     },
     {
