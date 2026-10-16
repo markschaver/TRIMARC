@@ -11866,6 +11866,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "308846",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 West at MM 14.2 Area of Newburg Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Fri, 16 Oct 2026 09:38:56 GMT",
+        "first_seen": "2026-10-16T10:07:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692557,
           38.201221
         ]
@@ -15139,6 +15159,26 @@
         "description": "Roadway Debris : Metro Safe has notified State Highway to remove the debris",
         "pubDate": "Thu, 06 Aug 2026 13:13:50 GMT",
         "first_seen": "2026-08-06T13:21:43Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.660052,
+          38.216945
+        ]
+      },
+      "properties": {
+        "incident_id": "308839",
+        "route": "I-264",
+        "mm_start": 16.4,
+        "mm_end": 16.4,
+        "title": "I-264 West at MM 16.4 Approaching Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Fri, 16 Oct 2026 06:32:22 GMT",
+        "first_seen": "2026-10-16T10:07:13Z"
       }
     },
     {
@@ -36279,6 +36319,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
         "pubDate": "Wed, 02 Sep 2026 12:20:56 GMT",
         "first_seen": "2026-09-02T13:52:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720435,
+          38.255095
+        ]
+      },
+      "properties": {
+        "incident_id": "308847",
+        "route": "I-64",
+        "mm_start": 6.6,
+        "mm_end": 6.6,
+        "title": "I-64 East at MM 6.6 Area of Mellwood Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0068",
+        "pubDate": "Fri, 16 Oct 2026 09:44:54 GMT",
+        "first_seen": "2026-10-16T10:07:13Z"
       }
     },
     {
