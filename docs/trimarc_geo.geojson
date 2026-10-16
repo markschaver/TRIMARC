@@ -23086,6 +23086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670573,
+          38.111794
+        ]
+      },
+      "properties": {
+        "incident_id": "308885",
+        "route": "I-265",
+        "mm_start": 12.0,
+        "mm_end": 12.0,
+        "title": "I-265 West at MM 12.0 At I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Fri, 16 Oct 2026 17:20:00 GMT",
+        "first_seen": "2026-10-16T18:41:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.668893,
           38.112367
         ]
@@ -63686,6 +63706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.741095,
+          38.258042
+        ]
+      },
+      "properties": {
+        "incident_id": "308891",
+        "route": "I-65",
+        "mm_start": 136.4,
+        "mm_end": 136.4,
+        "title": "I-65 North at MM 136.4 Near I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362",
+        "pubDate": "Fri, 16 Oct 2026 18:32:56 GMT",
+        "first_seen": "2026-10-16T18:41:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741902,
           38.263061
         ]
@@ -63739,6 +63779,26 @@
         "description": "Construction / Road Work : LOUISVILLE, Ky. (Sept. 23, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of daytime lane closures on Interstate 65 North next week in downtown Louisville. A consulting engineering firm will perform a routine, hands-on inspection of the Abraham Lincoln Bridge, which carries I-65 North over the Ohio River between Kentucky and Indiana. The routine bridge inspection will require single lane closures on the Lincoln Bridge from 8 a.m. to 4 p.m. daily, beginning Monday, Sept. 28, through Friday, Oct. 2. Motorists should heed signage and use caution when traveling through the work zone.",
         "pubDate": "Thu, 01 Oct 2026 12:00:24 GMT",
         "first_seen": "2026-10-01T13:56:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.740632,
+          38.25948
+        ]
+      },
+      "properties": {
+        "incident_id": "308877",
+        "route": "I-65",
+        "mm_start": 136.5,
+        "mm_end": 136.5,
+        "title": "I-65 South at MM 136.5 Area of I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1365",
+        "pubDate": "Fri, 16 Oct 2026 15:41:23 GMT",
+        "first_seen": "2026-10-16T18:41:20Z"
       }
     },
     {
