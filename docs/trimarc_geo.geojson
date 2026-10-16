@@ -25986,6 +25986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.577849,
+          38.141865
+        ]
+      },
+      "properties": {
+        "incident_id": "308871",
+        "route": "I-265",
+        "mm_start": 17.6,
+        "mm_end": 17.6,
+        "title": "I-265 West at MM 17.6 Area of Bardstown Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0173",
+        "pubDate": "Fri, 16 Oct 2026 13:18:54 GMT",
+        "first_seen": "2026-10-16T14:52:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.57602,
           38.141757
         ]
