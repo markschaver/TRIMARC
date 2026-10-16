@@ -1986,6 +1986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.818351,
+          38.235487
+        ]
+      },
+      "properties": {
+        "incident_id": "308837",
+        "route": "I-264",
+        "mm_start": 3.1,
+        "mm_end": 3.1,
+        "title": "I-264 West at MM 3.1 Approaching Dumesnil St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Fri, 16 Oct 2026 05:27:06 GMT",
+        "first_seen": "2026-10-16T05:37:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.819191,
           38.234215
         ]
@@ -47939,6 +47959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Fri, 02 Oct 2026 06:18:02 GMT",
         "first_seen": "2026-10-02T08:56:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "308836",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 Area of Gilliland Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 16 Oct 2026 04:42:59 GMT",
+        "first_seen": "2026-10-16T05:37:39Z"
       }
     },
     {
