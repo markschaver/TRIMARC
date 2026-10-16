@@ -41006,6 +41006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.591998,
+          38.227502
+        ]
+      },
+      "properties": {
+        "incident_id": "308938",
+        "route": "I-64",
+        "mm_start": 14.1,
+        "mm_end": 14.1,
+        "title": "I-64 East at MM 14.1 Approaching Hurstbourne Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Fri, 16 Oct 2026 21:21:37 GMT",
+        "first_seen": "2026-10-16T21:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.59029,
           38.226965
         ]
@@ -53326,6 +53346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701612,
+          38.11849
+        ]
+      },
+      "properties": {
+        "incident_id": "308942",
+        "route": "I-65",
+        "mm_start": 125.4,
+        "mm_end": 125.4,
+        "title": "I-65 South at MM 125.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Fri, 16 Oct 2026 21:35:14 GMT",
+        "first_seen": "2026-10-16T21:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701677,
           38.119937
         ]
@@ -59906,6 +59946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "308935",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 North at MM 129.3 Approaching Grade Ln. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Fri, 16 Oct 2026 21:04:37 GMT",
+        "first_seen": "2026-10-16T21:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720048,
           38.173401
         ]
@@ -62099,6 +62159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
         "pubDate": "Wed, 07 Oct 2026 19:22:35 GMT",
         "first_seen": "2026-10-07T20:11:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751703,
+          38.208004
+        ]
+      },
+      "properties": {
+        "incident_id": "308901",
+        "route": "I-65",
+        "mm_start": 132.6,
+        "mm_end": 132.6,
+        "title": "I-65 North at MM 132.6 Area of Crittenden Drive in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Fri, 16 Oct 2026 19:03:28 GMT",
+        "first_seen": "2026-10-16T21:44:36Z"
       }
     },
     {
