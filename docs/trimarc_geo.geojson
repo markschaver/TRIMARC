@@ -20546,6 +20546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.632186,
+          38.275921
+        ]
+      },
+      "properties": {
+        "incident_id": "308960",
+        "route": "I-264",
+        "mm_start": 20.7,
+        "mm_end": 22.8,
+        "title": "I-264 East between MM 20.7 and 22.8 Between Westport Road and I-71 in Jefferson County",
+        "description": "Construction / Road Work : Beginning at 8 p.m. on Friday, Oct. 16, through 6 a.m. on Monday, Oct. 19: \u2022 I-264 East will be closed from mile point 20.7 at KY 1447 (Westport Road) to the I-264/I-71 split. Motorists should plan to detour by taking I-64 East to I-265 North to I-71 South to continue on I-71 South or I-264 West to reach destinations within the closure area.",
+        "pubDate": "Sat, 17 Oct 2026 00:00:00 GMT",
+        "first_seen": "2026-10-17T04:10:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.623734,
           38.264011
         ]
@@ -61499,6 +61519,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1313.",
         "pubDate": "Wed, 16 Sep 2026 14:34:07 GMT",
         "first_seen": "2026-09-16T14:49:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.73372,
+          38.197589
+        ]
+      },
+      "properties": {
+        "incident_id": "308970",
+        "route": "I-65",
+        "mm_start": 131.3,
+        "mm_end": 131.3,
+        "title": "I-65 North at MM 131.3 Area of Phillips Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1313.",
+        "pubDate": "Sat, 17 Oct 2026 03:56:07 GMT",
+        "first_seen": "2026-10-17T04:10:10Z"
       }
     },
     {
