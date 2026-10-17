@@ -4946,6 +4946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.782248,
+          38.189211
+        ]
+      },
+      "properties": {
+        "incident_id": "309010",
+        "route": "I-264",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-264 East at MM 9.2 Area of Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Sat, 17 Oct 2026 18:28:33 GMT",
+        "first_seen": "2026-10-17T20:50:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.780469,
           38.189531
         ]
@@ -7079,6 +7099,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0116",
         "pubDate": "Wed, 16 Sep 2026 14:15:23 GMT",
         "first_seen": "2026-09-16T14:49:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.742031,
+          38.189484
+        ]
+      },
+      "properties": {
+        "incident_id": "309013",
+        "route": "I-264",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-264 West at MM 11.4 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sat, 17 Oct 2026 18:50:46 GMT",
+        "first_seen": "2026-10-17T20:50:52Z"
       }
     },
     {
@@ -17119,6 +17159,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179.",
         "pubDate": "Thu, 10 Sep 2026 16:53:36 GMT",
         "first_seen": "2026-09-10T17:13:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642737,
+          38.225118
+        ]
+      },
+      "properties": {
+        "incident_id": "309014",
+        "route": "I-264",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-264 West at MM 17.5 Approaching Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
+        "pubDate": "Sat, 17 Oct 2026 18:55:40 GMT",
+        "first_seen": "2026-10-17T20:50:52Z"
       }
     },
     {
@@ -60219,6 +60279,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1297",
         "pubDate": "Fri, 16 Oct 2026 21:04:37 GMT",
         "first_seen": "2026-10-16T21:44:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "309012",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 South at MM 129.3 Approaching Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sat, 17 Oct 2026 18:24:43 GMT",
+        "first_seen": "2026-10-17T20:50:52Z"
       }
     },
     {
