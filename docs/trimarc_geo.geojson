@@ -8506,6 +8506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720051,
+          38.190804
+        ]
+      },
+      "properties": {
+        "incident_id": "309021",
+        "route": "I-264",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-264 East at MM 12.6 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
+        "pubDate": "Sat, 17 Oct 2026 21:52:50 GMT",
+        "first_seen": "2026-10-17T22:57:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.718217,
           38.190878
         ]
@@ -11939,6 +11959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
         "pubDate": "Sat, 17 Oct 2026 10:59:27 GMT",
         "first_seen": "2026-10-17T12:26:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.694361,
+          38.200913
+        ]
+      },
+      "properties": {
+        "incident_id": "309020",
+        "route": "I-264",
+        "mm_start": 14.2,
+        "mm_end": 14.2,
+        "title": "I-264 East at MM 14.2 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 17 Oct 2026 21:22:22 GMT",
+        "first_seen": "2026-10-17T22:57:28Z"
       }
     },
     {
