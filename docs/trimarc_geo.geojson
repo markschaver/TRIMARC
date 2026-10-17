@@ -18266,6 +18266,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.634942,
+          38.228944
+        ]
+      },
+      "properties": {
+        "incident_id": "308971",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 18.0,
+        "title": "I-264 West at MM 18.0 Area of Breckenridge Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0179.",
+        "pubDate": "Sat, 17 Oct 2026 04:53:42 GMT",
+        "first_seen": "2026-10-17T08:35:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.633424,
           38.229757
         ]
@@ -20999,6 +21019,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0221.",
         "pubDate": "Sat, 01 Aug 2026 18:41:53 GMT",
         "first_seen": "2026-08-01T22:49:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.631646,
+          38.275336
+        ]
+      },
+      "properties": {
+        "incident_id": "308976",
+        "route": "I-264",
+        "mm_start": 21.7,
+        "mm_end": 21.7,
+        "title": "I-264 West at MM 21.7 Just Past Brownsboro Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0221.",
+        "pubDate": "Sat, 17 Oct 2026 07:59:51 GMT",
+        "first_seen": "2026-10-17T08:35:03Z"
       }
     },
     {
@@ -29519,6 +29559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0287",
         "pubDate": "Wed, 01 Jul 2026 20:29:39 GMT",
         "first_seen": "2026-07-01T20:42:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.500685,
+          38.272138
+        ]
+      },
+      "properties": {
+        "incident_id": "308975",
+        "route": "I-265",
+        "mm_start": 28.9,
+        "mm_end": 28.9,
+        "title": "I-265 North at MM 28.9 Just Past Old Henry Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0287.",
+        "pubDate": "Sat, 17 Oct 2026 07:49:58 GMT",
+        "first_seen": "2026-10-17T08:35:03Z"
       }
     },
     {
@@ -70479,6 +70539,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
         "pubDate": "Tue, 01 Sep 2026 18:53:49 GMT",
         "first_seen": "2026-09-01T19:58:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.561043,
+          38.320462
+        ]
+      },
+      "properties": {
+        "incident_id": "308973",
+        "route": "I-71",
+        "mm_start": 10.3,
+        "mm_end": 10.3,
+        "title": "I-71 North at MM 10.3 Just Past Brownsboro Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_71_0103.",
+        "pubDate": "Sat, 17 Oct 2026 06:01:56 GMT",
+        "first_seen": "2026-10-17T08:35:03Z"
       }
     },
     {
