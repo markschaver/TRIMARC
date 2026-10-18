@@ -30346,6 +30346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.536416,
+          38.290087
+        ]
+      },
+      "properties": {
+        "incident_id": "309025",
+        "route": "I-265",
+        "mm_start": 31.7,
+        "mm_end": 31.7,
+        "title": "I-265 South at MM 31.7 Approaching Westport Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_265_0340.",
+        "pubDate": "Sun, 18 Oct 2026 00:11:50 GMT",
+        "first_seen": "2026-10-18T00:50:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.540726,
           38.292802
         ]
