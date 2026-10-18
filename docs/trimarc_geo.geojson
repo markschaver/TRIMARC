@@ -25006,6 +25006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.637132,
+          38.119027
+        ]
+      },
+      "properties": {
+        "incident_id": "309078",
+        "route": "I-265",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-265 West at MM 13.9 Area of Smyrna Parkway in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_265_0135.",
+        "pubDate": "Sun, 18 Oct 2026 21:30:08 GMT",
+        "first_seen": "2026-10-18T21:45:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.635338,
           38.11931
         ]
@@ -35326,6 +35346,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.743118,
+          38.257959
+        ]
+      },
+      "properties": {
+        "incident_id": "309073",
+        "route": "I-64",
+        "mm_start": 5.1,
+        "mm_end": 5.1,
+        "title": "I-64 East at MM 5.1 At I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0050.",
+        "pubDate": "Sun, 18 Oct 2026 20:24:06 GMT",
+        "first_seen": "2026-10-18T21:45:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.741316,
           38.257868
         ]
@@ -42719,6 +42759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Thu, 30 Jul 2026 20:58:31 GMT",
         "first_seen": "2026-07-30T21:14:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.56388,
+          38.222815
+        ]
+      },
+      "properties": {
+        "incident_id": "309077",
+        "route": "I-64",
+        "mm_start": 15.7,
+        "mm_end": 15.7,
+        "title": "I-64 East at MM 15.7 Approaching Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Sun, 18 Oct 2026 21:15:20 GMT",
+        "first_seen": "2026-10-18T21:45:04Z"
       }
     },
     {
@@ -66959,6 +67019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055",
         "pubDate": "Tue, 07 Jul 2026 12:23:56 GMT",
         "first_seen": "2026-07-07T12:36:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644487,
+          38.289191
+        ]
+      },
+      "properties": {
+        "incident_id": "309074",
+        "route": "I-71",
+        "mm_start": 5.2,
+        "mm_end": 5.2,
+        "title": "I-71 North at MM 5.2 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0051.",
+        "pubDate": "Sun, 18 Oct 2026 20:32:20 GMT",
+        "first_seen": "2026-10-18T21:45:04Z"
       }
     },
     {
