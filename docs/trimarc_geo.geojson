@@ -146,6 +146,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.808852,
+          38.272647
+        ]
+      },
+      "properties": {
+        "incident_id": "309068",
+        "route": "I-264",
+        "mm_start": 0.3,
+        "mm_end": 0.3,
+        "title": "I-264 East at MM 0.3 Approaching Bank Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sun, 18 Oct 2026 19:19:24 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.808637,
           38.271204
         ]
@@ -4986,6 +5006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.782248,
+          38.189211
+        ]
+      },
+      "properties": {
+        "incident_id": "309061",
+        "route": "I-264",
+        "mm_start": 9.2,
+        "mm_end": 9.2,
+        "title": "I-264 East at MM 9.2 Area of Taylor Boulevard in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093.",
+        "pubDate": "Sun, 18 Oct 2026 17:45:17 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.780469,
           38.189531
         ]
@@ -7999,6 +8039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1307.",
         "pubDate": "Sun, 23 Aug 2026 01:12:44 GMT",
         "first_seen": "2026-08-23T01:39:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.729206,
+          38.190252
+        ]
+      },
+      "properties": {
+        "incident_id": "309067",
+        "route": "I-264",
+        "mm_start": 12.1,
+        "mm_end": 12.1,
+        "title": "I-264 East at MM 12.1 At I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
+        "pubDate": "Sun, 18 Oct 2026 19:09:22 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
       }
     },
     {
@@ -19746,6 +19806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.621436,
+          38.243335
+        ]
+      },
+      "properties": {
+        "incident_id": "309066",
+        "route": "I-264",
+        "mm_start": 19.3,
+        "mm_end": 19.3,
+        "title": "I-264 West at MM 19.3 Area of I-64 in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0199.",
+        "pubDate": "Sun, 18 Oct 2026 18:59:31 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.620996,
           38.244743
         ]
@@ -30939,6 +31019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0340.",
         "pubDate": "Sun, 04 Oct 2026 22:06:16 GMT",
         "first_seen": "2026-10-04T22:59:45Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.564753,
+          38.305941
+        ]
+      },
+      "properties": {
+        "incident_id": "309063",
+        "route": "I-265",
+        "mm_start": 33.6,
+        "mm_end": 33.6,
+        "title": "I-265 West at MM 33.6 Approaching Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0340.",
+        "pubDate": "Sun, 18 Oct 2026 18:17:56 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
       }
     },
     {
@@ -63619,6 +63719,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1344",
         "pubDate": "Mon, 05 Oct 2026 21:31:04 GMT",
         "first_seen": "2026-10-05T23:18:50Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.750784,
+          38.233652
+        ]
+      },
+      "properties": {
+        "incident_id": "309065",
+        "route": "I-65",
+        "mm_start": 134.4,
+        "mm_end": 134.4,
+        "title": "I-65 North at MM 134.4 Approaching St. Catherine in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344.",
+        "pubDate": "Sun, 18 Oct 2026 18:40:43 GMT",
+        "first_seen": "2026-10-18T19:26:09Z"
       }
     },
     {
