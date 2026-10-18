@@ -51086,6 +51086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.700842,
+          38.09095
+        ]
+      },
+      "properties": {
+        "incident_id": "309032",
+        "route": "I-65",
+        "mm_start": 123.5,
+        "mm_end": 123.5,
+        "title": "I-65 North at MM 123.5 Area of Hutcherson Drive in Jefferson County",
+        "description": "Crash : Report of accident in area of Hutcherson Drive",
+        "pubDate": "Sun, 18 Oct 2026 04:31:20 GMT",
+        "first_seen": "2026-10-18T05:34:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.700788,
           38.0924
         ]
