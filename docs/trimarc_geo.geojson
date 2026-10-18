@@ -63786,6 +63786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75229,
+          38.244872
+        ]
+      },
+      "properties": {
+        "incident_id": "309039",
+        "route": "I-65",
+        "mm_start": 135.2,
+        "mm_end": 135.2,
+        "title": "I-65 South at MM 135.2 Area of E. Broadway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1348.",
+        "pubDate": "Sun, 18 Oct 2026 09:41:18 GMT",
+        "first_seen": "2026-10-18T09:54:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.752109,
           38.246313
         ]
