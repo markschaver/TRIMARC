@@ -43686,6 +43686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.54373,
+          38.223808
+        ]
+      },
+      "properties": {
+        "incident_id": "309194",
+        "route": "I-64",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-64 East at MM 16.8 Approaching Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Mon, 19 Oct 2026 21:31:16 GMT",
+        "first_seen": "2026-10-19T23:56:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.541862,
           38.223807
         ]
@@ -54239,6 +54259,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252",
         "pubDate": "Wed, 09 Sep 2026 16:18:49 GMT",
         "first_seen": "2026-09-09T16:29:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.701677,
+          38.119937
+        ]
+      },
+      "properties": {
+        "incident_id": "309199",
+        "route": "I-65",
+        "mm_start": 125.5,
+        "mm_end": 125.5,
+        "title": "I-65 South at MM 125.5 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
+        "pubDate": "Mon, 19 Oct 2026 21:58:10 GMT",
+        "first_seen": "2026-10-19T23:56:42Z"
       }
     },
     {
@@ -65686,6 +65726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.69678,
+          38.275133
+        ]
+      },
+      "properties": {
+        "incident_id": "309187",
+        "route": "I-71",
+        "mm_start": 1.8,
+        "mm_end": 1.8,
+        "title": "I-71 South at MM 1.8 Approaching Zorn Avenue in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
+        "pubDate": "Mon, 19 Oct 2026 20:49:36 GMT",
+        "first_seen": "2026-10-19T23:56:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.695345,
           38.276029
         ]
@@ -67099,6 +67159,26 @@
         "description": "Construction / Road Work : I-71 North at mile point 4.9 will be reduced to one lane and intermittent stoppages will be possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
         "pubDate": "Sat, 03 Oct 2026 10:36:50 GMT",
         "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644487,
+          38.289191
+        ]
+      },
+      "properties": {
+        "incident_id": "309212",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 5.5,
+        "title": "I-71 North between MM 4.9 and 5.5 At I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-71N is reduced to one lane at MM 4.9 in Jefferson County for 10 hours due to roadwork. Intermittent stoppages are possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
+        "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+        "first_seen": "2026-10-19T23:56:42Z"
       }
     },
     {
@@ -70819,6 +70899,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Fri, 21 Aug 2026 03:42:00 GMT",
         "first_seen": "2026-08-21T03:52:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.583249,
+          38.31406
+        ]
+      },
+      "properties": {
+        "incident_id": "309210",
+        "route": "I-71",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-71 South at MM 9.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
+        "pubDate": "Mon, 19 Oct 2026 23:35:58 GMT",
+        "first_seen": "2026-10-19T23:56:42Z"
       }
     },
     {
