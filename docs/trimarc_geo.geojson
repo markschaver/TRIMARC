@@ -3706,6 +3706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.830263,
+          38.192805
+        ]
+      },
+      "properties": {
+        "incident_id": "309090",
+        "route": "I-264",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-264 East at MM 6.2 Before Garrs Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_264_0060.",
+        "pubDate": "Mon, 19 Oct 2026 01:14:38 GMT",
+        "first_seen": "2026-10-19T01:49:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.80083,
           38.186161
         ]
