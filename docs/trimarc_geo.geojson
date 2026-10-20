@@ -50586,6 +50586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.430207,
+          38.218868
+        ]
+      },
+      "properties": {
+        "incident_id": "309236",
+        "route": "I-64",
+        "mm_start": 23.0,
+        "mm_end": 23.0,
+        "title": "I-64 East at MM 23.0 West of Clark Station Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Tue, 20 Oct 2026 03:38:35 GMT",
+        "first_seen": "2026-10-20T04:35:40Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.428386,
           38.218727
         ]
