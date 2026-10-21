@@ -12946,6 +12946,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.687187,
+          38.20218
+        ]
+      },
+      "properties": {
+        "incident_id": "309373",
+        "route": "I-264",
+        "mm_start": 14.6,
+        "mm_end": 14.6,
+        "title": "I-264 East at MM 14.6 At Newburg Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Wed, 21 Oct 2026 00:14:06 GMT",
+        "first_seen": "2026-10-21T00:38:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.685499,
           38.20276
         ]
@@ -13959,6 +13979,26 @@
         "description": "Crash : May be viewed on CCTV_05_264_0156",
         "pubDate": "Mon, 24 Aug 2026 12:55:12 GMT",
         "first_seen": "2026-08-24T13:14:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.676519,
+          38.20776
+        ]
+      },
+      "properties": {
+        "incident_id": "309372",
+        "route": "I-264",
+        "mm_start": 15.3,
+        "mm_end": 15.3,
+        "title": "I-264 West at MM 15.3 Area of Bardstown Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
+        "pubDate": "Wed, 21 Oct 2026 00:06:06 GMT",
+        "first_seen": "2026-10-21T00:38:12Z"
       }
     },
     {
@@ -61606,6 +61646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719582,
+          38.174797
+        ]
+      },
+      "properties": {
+        "incident_id": "309366",
+        "route": "I-65",
+        "mm_start": 129.5,
+        "mm_end": 129.5,
+        "title": "I-65 North at MM 129.5 Area of Grade Lane/Preston Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Tue, 20 Oct 2026 23:20:59 GMT",
+        "first_seen": "2026-10-21T00:38:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719214,
           38.176218
         ]
@@ -71779,6 +71839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349",
         "pubDate": "Wed, 01 Jul 2026 09:40:27 GMT",
         "first_seen": "2026-07-01T10:08:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.576871,
+          38.316848
+        ]
+      },
+      "properties": {
+        "incident_id": "309369",
+        "route": "I-71",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-71 North at MM 9.4 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0349.",
+        "pubDate": "Tue, 20 Oct 2026 23:44:39 GMT",
+        "first_seen": "2026-10-21T00:38:12Z"
       }
     },
     {
