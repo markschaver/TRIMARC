@@ -6526,6 +6526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752979,
+          38.19009
+        ]
+      },
+      "properties": {
+        "incident_id": "309437",
+        "route": "I-264",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-264 East at MM 10.8 Approaching Crittenden Dr in Jefferson County",
+        "description": "Crash : Metro Safe reports a non injury accident in the area",
+        "pubDate": "Wed, 21 Oct 2026 15:24:14 GMT",
+        "first_seen": "2026-10-21T15:32:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751158,
           38.189968
         ]
@@ -38486,6 +38506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.694639,
+          38.242448
+        ]
+      },
+      "properties": {
+        "incident_id": "309438",
+        "route": "I-64",
+        "mm_start": 8.3,
+        "mm_end": 8.3,
+        "title": "I-64 East at MM 8.3 Area of Cochran HIll Tunnels in Jefferson County",
+        "description": "Police Activity : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Wed, 21 Oct 2026 15:24:44 GMT",
+        "first_seen": "2026-10-21T15:32:20Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.692933,
           38.241967
         ]
@@ -62839,6 +62879,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313",
         "pubDate": "Wed, 26 Aug 2026 11:32:35 GMT",
         "first_seen": "2026-08-26T11:50:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.732854,
+          38.194791
+        ]
+      },
+      "properties": {
+        "incident_id": "309436",
+        "route": "I-65",
+        "mm_start": 131.1,
+        "mm_end": 131.1,
+        "title": "I-65 South at MM 131.1 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313",
+        "pubDate": "Wed, 21 Oct 2026 15:19:38 GMT",
+        "first_seen": "2026-10-21T15:32:20Z"
       }
     },
     {
