@@ -62806,6 +62806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.731961,
+          38.193518
+        ]
+      },
+      "properties": {
+        "incident_id": "309387",
+        "route": "I-65",
+        "mm_start": 131.0,
+        "mm_end": 131.0,
+        "title": "I-65 South at MM 131.0 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1313",
+        "pubDate": "Wed, 21 Oct 2026 04:44:41 GMT",
+        "first_seen": "2026-10-21T05:20:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.732854,
           38.194791
         ]
@@ -67699,6 +67719,26 @@
         "description": "Construction / Road Work : I-71N is reduced to one lane at MM 4.9 in Jefferson County for 10 hours due to roadwork. Intermittent stoppages are possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
         "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
         "first_seen": "2026-10-19T23:56:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.644487,
+          38.289191
+        ]
+      },
+      "properties": {
+        "incident_id": "309375",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 5.5,
+        "title": "I-71 North between MM 4.9 and 5.5 At I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-71N is reduced to one lane at MM 4.9 in Jefferson County for 10 hours due to roadwork. Intermittent stoppages are possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
+        "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+        "first_seen": "2026-10-21T05:20:29Z"
       }
     },
     {
