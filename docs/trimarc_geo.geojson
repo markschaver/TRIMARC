@@ -15646,6 +15646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.660052,
+          38.216945
+        ]
+      },
+      "properties": {
+        "incident_id": "309608",
+        "route": "I-264",
+        "mm_start": 16.4,
+        "mm_end": 16.4,
+        "title": "I-264 West at MM 16.4 Just Past Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Thu, 22 Oct 2026 19:33:42 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.658522,
           38.217737
         ]
@@ -18939,6 +18959,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0179.",
         "pubDate": "Sat, 10 Oct 2026 21:06:02 GMT",
         "first_seen": "2026-10-10T22:51:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.633424,
+          38.229757
+        ]
+      },
+      "properties": {
+        "incident_id": "309624",
+        "route": "I-264",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-264 East at MM 18.1 Area of Breckenridge Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179",
+        "pubDate": "Thu, 22 Oct 2026 20:23:34 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
       }
     },
     {
@@ -22939,6 +22979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
         "pubDate": "Tue, 13 Oct 2026 14:47:34 GMT",
         "first_seen": "2026-10-13T16:21:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.684876,
+          38.11056
+        ]
+      },
+      "properties": {
+        "incident_id": "309617",
+        "route": "I-265",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-265 East at MM 11.2 Approaching Preston Hwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Thu, 22 Oct 2026 19:59:24 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
       }
     },
     {
@@ -52326,6 +52386,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.700788,
+          38.0924
+        ]
+      },
+      "properties": {
+        "incident_id": "309623",
+        "route": "I-65",
+        "mm_start": 123.6,
+        "mm_end": 123.6,
+        "title": "I-65 North at MM 123.6 Area of Blue Lick Road in Jefferson County",
+        "description": "Crash : Metrosafe reports of a crash in the area",
+        "pubDate": "Thu, 22 Oct 2026 20:19:16 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.700741,
           38.093853
         ]
@@ -60846,6 +60926,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "309628",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 North at MM 128.9 Just Past Fern Valley Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC advises of a disabled vehicle on the right shoulder",
+        "pubDate": "Thu, 22 Oct 2026 20:41:34 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720552,
           38.167632
         ]
@@ -64459,6 +64559,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1330",
         "pubDate": "Fri, 21 Aug 2026 15:15:40 GMT",
         "first_seen": "2026-08-21T15:37:04Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752196,
+          38.217863
+        ]
+      },
+      "properties": {
+        "incident_id": "309615",
+        "route": "I-65",
+        "mm_start": 133.3,
+        "mm_end": 133.3,
+        "title": "I-65 North at MM 133.3 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Thu, 22 Oct 2026 19:53:27 GMT",
+        "first_seen": "2026-10-22T20:49:48Z"
       }
     },
     {
