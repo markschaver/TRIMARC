@@ -34106,6 +34106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.786191,
+          38.273382
+        ]
+      },
+      "properties": {
+        "incident_id": "309702",
+        "route": "I-64",
+        "mm_start": 2.3,
+        "mm_end": 2.3,
+        "title": "I-64 East at MM 2.3 Area of 22nd St in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_64_0022",
+        "pubDate": "Fri, 23 Oct 2026 13:55:44 GMT",
+        "first_seen": "2026-10-23T14:21:03Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.784747,
           38.27252
         ]
@@ -42819,6 +42839,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0150",
         "pubDate": "Wed, 14 Oct 2026 18:38:27 GMT",
         "first_seen": "2026-10-14T19:42:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.585211,
+          38.225344
+        ]
+      },
+      "properties": {
+        "incident_id": "309699",
+        "route": "I-64",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-64 West at MM 14.5 Just Past Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Fri, 23 Oct 2026 13:10:18 GMT",
+        "first_seen": "2026-10-23T14:21:03Z"
       }
     },
     {
