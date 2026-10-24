@@ -21366,6 +21366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.629489,
+          38.272995
+        ]
+      },
+      "properties": {
+        "incident_id": "309780",
+        "route": "I-264",
+        "mm_start": 21.0,
+        "mm_end": 22.0,
+        "title": "I-264 West between MM 22.0 and 21.0 Between I-71 and Westport Road in Jefferson County",
+        "description": "Construction / Road Work : I-264W is closed from MM 22 to MM 21 in Jefferson County until Monday, October 26 at 6 AM due to roadwork. Detour I-71 North to I-265 South to I-64 West to reconnect with I-264 West, or by taking I-64 East to reach destinations within the closure area. The interstate project is expected to be completed by the Fall of 2027. The work is being carried out by Cleary Construction Inc. of Monroe County, Kentucky. More details, including project timelines and traffic impacts, will be shared online as work progresses. Motorists are encouraged to sign up for email and text alerts regarding weekly traffic impacts pertaining to the project.",
+        "pubDate": "Sat, 24 Oct 2026 00:16:47 GMT",
+        "first_seen": "2026-10-24T04:39:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.625531,
           38.268112
         ]
