@@ -2206,6 +2206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821447,
+          38.23032
+        ]
+      },
+      "properties": {
+        "incident_id": "309822",
+        "route": "I-264",
+        "mm_start": 3.5,
+        "mm_end": 3.5,
+        "title": "I-264 East at MM 3.5 Area of Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Blue sedan located on the right shoulder as reported on WAZE.",
+        "pubDate": "Sat, 24 Oct 2026 17:46:05 GMT",
+        "first_seen": "2026-10-24T19:19:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82163,
           38.22889
         ]
@@ -29999,6 +30019,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268.",
         "pubDate": "Fri, 02 Oct 2026 22:32:47 GMT",
         "first_seen": "2026-10-02T23:48:18Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.502368,
+          38.254803
+        ]
+      },
+      "properties": {
+        "incident_id": "309825",
+        "route": "I-265",
+        "mm_start": 27.7,
+        "mm_end": 27.7,
+        "title": "I-265 South at MM 27.7 Approaching Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0268.",
+        "pubDate": "Sat, 24 Oct 2026 18:34:02 GMT",
+        "first_seen": "2026-10-24T19:19:34Z"
       }
     },
     {
@@ -63566,6 +63606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.726768,
+          38.187547
+        ]
+      },
+      "properties": {
+        "incident_id": "309823",
+        "route": "I-65",
+        "mm_start": 130.5,
+        "mm_end": 130.5,
+        "title": "I-65 South at MM 130.5 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1307.",
+        "pubDate": "Sat, 24 Oct 2026 17:59:53 GMT",
+        "first_seen": "2026-10-24T19:19:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.727808,
           38.188738
         ]
@@ -70179,6 +70239,26 @@
         "description": "Crash : Metrosafe reports of a crash in the area",
         "pubDate": "Wed, 19 Aug 2026 22:21:04 GMT",
         "first_seen": "2026-08-19T22:42:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.628201,
+          38.295395
+        ]
+      },
+      "properties": {
+        "incident_id": "309824",
+        "route": "I-71",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-71 South at MM 6.2 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0055.",
+        "pubDate": "Sat, 24 Oct 2026 18:21:31 GMT",
+        "first_seen": "2026-10-24T19:19:34Z"
       }
     },
     {
