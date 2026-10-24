@@ -2186,6 +2186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821447,
+          38.23032
+        ]
+      },
+      "properties": {
+        "incident_id": "309788",
+        "route": "I-264",
+        "mm_start": 3.5,
+        "mm_end": 3.5,
+        "title": "I-264 East at MM 3.5 Approaching Bells Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Sat, 24 Oct 2026 06:55:56 GMT",
+        "first_seen": "2026-10-24T09:08:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82163,
           38.22889
         ]
@@ -52059,6 +52079,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238.",
         "pubDate": "Wed, 07 Oct 2026 13:13:52 GMT",
         "first_seen": "2026-10-07T14:40:19Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.421103,
+          38.218162
+        ]
+      },
+      "properties": {
+        "incident_id": "309785",
+        "route": "I-64",
+        "mm_start": 23.5,
+        "mm_end": 23.5,
+        "title": "I-64 West at MM 23.5 Area of Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Sat, 24 Oct 2026 05:23:24 GMT",
+        "first_seen": "2026-10-24T09:08:37Z"
       }
     },
     {
