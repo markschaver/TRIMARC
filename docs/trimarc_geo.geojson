@@ -2506,6 +2506,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.822249,
+          38.223083
+        ]
+      },
+      "properties": {
+        "incident_id": "309812",
+        "route": "I-264",
+        "mm_start": 4.0,
+        "mm_end": 4.0,
+        "title": "I-264 East at MM 4.0 At Bells Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041.",
+        "pubDate": "Sat, 24 Oct 2026 15:20:59 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.822349,
           38.221609
         ]
@@ -27506,6 +27526,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.537039,
+          38.151697
+        ]
+      },
+      "properties": {
+        "incident_id": "309817",
+        "route": "I-265",
+        "mm_start": 20.0,
+        "mm_end": 20.0,
+        "title": "I-265 East at MM 20.0 Just Past Billtown Rd in Jefferson County",
+        "description": "Roadway Debris : MetroSafe advises of roadway debris in the area.",
+        "pubDate": "Sat, 24 Oct 2026 16:25:22 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.533189,
           38.154799
         ]
@@ -39586,6 +39626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.682128,
+          38.241529
+        ]
+      },
+      "properties": {
+        "incident_id": "309814",
+        "route": "I-64",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-64 East at MM 9.0 Approaching Cannons Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088.",
+        "pubDate": "Sat, 24 Oct 2026 15:44:19 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.68043,
           38.240987
         ]
@@ -45519,6 +45579,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189.",
         "pubDate": "Sat, 03 Oct 2026 13:44:59 GMT",
         "first_seen": "2026-10-03T14:44:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.523469,
+          38.223147
+        ]
+      },
+      "properties": {
+        "incident_id": "309796",
+        "route": "I-64",
+        "mm_start": 17.9,
+        "mm_end": 17.9,
+        "title": "I-64 West at MM 17.9 Approaching Blankenbaker Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189.",
+        "pubDate": "Sat, 24 Oct 2026 11:29:12 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
       }
     },
     {
@@ -65166,6 +65246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751167,
+          38.222135
+        ]
+      },
+      "properties": {
+        "incident_id": "309818",
+        "route": "I-65",
+        "mm_start": 133.6,
+        "mm_end": 133.6,
+        "title": "I-65 North at MM 133.6 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337.",
+        "pubDate": "Sat, 24 Oct 2026 16:36:26 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.75095,
           38.223577
         ]
@@ -67086,6 +67186,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.70102,
+          38.272399
+        ]
+      },
+      "properties": {
+        "incident_id": "309801",
+        "route": "I-71",
+        "mm_start": 1.0,
+        "mm_end": 2.0,
+        "title": "I-71 South between MM 2.0 and 1.0 Area of Zorn Ave in Jefferson County",
+        "description": "Construction / Road Work : KY State seal Kentucky Transportation Cabinet \u2022 District 5 FOR IMMEDIATE RELEASE Media Contact: Morgan Woodrum 502.764.0481 (office) 502.408.1985 (cell) Morgan.Woodrum@ky.gov TRAFFIC ADVISORY: Lane Closure on I-71 South Beginning Saturday, Oct. 24, in Louisville Contract crews to set bridge beams LOUISVILLE, Ky. (Oct. 19, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of upcoming traffic impacts on Interstate 71 South beginning Saturday, Oct. 24, as part of the $50 million I-71 widening and improvement project in Louisville [links-1.govdelivery.com]. To safely facilitate bridge construction, I-71 South will be reduced to one lane between mile markers 2 and 0 (from the I-71/Zorn Avenue interchange to the I-65/I-71 interchange), with brief rolling closures on the following dates and times: From 7 a.m. to 7 p.m. on Saturday, Oct. 24 From 7 p.m. on Monday, Oct. 26, to 5 a.m. on Tuesday, Oct. 27 The lane closures and brief rolling closures are necessary to allow crews to safely move and set bridge beams. Motorists should reduce speed, follow posted signage and allow extra travel time during the scheduled work. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com]. ABOUT THE I-71 WIDENING AND IMPROVEMENT PROJECT The I-71 widening and improvement project is a $50 million infrastructure investment to enhance safety and improve mobility along one of Louisville's most critical travel corridors. The two-year project, focused on increasing traffic capacity and safety, will enhance regional connectivity, provide reliable travel for years to come, and support economic growth. The project spans approximately two miles of interstate from the I-65/I-71 interchange near Frankfort Avenue to the I-71/Zorn Avenue interchange. Additional improvements include the construction of a multi-use path along Zorn Avenue between the I-71/Zorn Avenue interchange and Mellwood Avenue, as well as a new median treatment at the intersection of Zorn Avenue and Mellwood Avenue to enhance safety and better define traffic movements. The project also includes the demolition and reconstruction of the I-71 bridge over Beargrass Creek, along with a latex overlay on the I-71 bridge over I-64 at mile point 0.3 to extend the structure\u2019s service life. The interstate project is expected to be completed by the Fall of 2027. Additional information, including project timelines and traffic impacts, will be shared online as work progresses. Motorists are encouraged to sign up for email alerts to receive weekly traffic updates related to the project [links-1.govdelivery.com].",
+        "pubDate": "Sat, 24 Oct 2026 11:00:00 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.706605,
           38.268659
         ]
@@ -68659,6 +68779,26 @@
         "description": "Construction / Road Work : I-71N is reduced to one lane at MM 4.9 in Jefferson County for 10 hours due to roadwork. Intermittent stoppages are possible. Motorists are encouraged to seek alternate routes during the scheduled lane reduction and intermittent stoppages. Drivers can continue westbound on I-264 to Exit 5, then use either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to access I-264 East and continue to I-71 North.",
         "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
         "first_seen": "2026-10-21T05:20:29Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.649172,
+          38.290076
+        ]
+      },
+      "properties": {
+        "incident_id": "309808",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-71 South at MM 4.9 Area of I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
+        "pubDate": "Sat, 24 Oct 2026 14:11:18 GMT",
+        "first_seen": "2026-10-24T16:50:36Z"
       }
     },
     {
