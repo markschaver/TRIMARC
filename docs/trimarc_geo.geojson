@@ -7426,6 +7426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.742031,
+          38.189484
+        ]
+      },
+      "properties": {
+        "incident_id": "309857",
+        "route": "I-264",
+        "mm_start": 11.4,
+        "mm_end": 11.4,
+        "title": "I-264 East at MM 11.4 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116.",
+        "pubDate": "Sun, 25 Oct 2026 13:39:31 GMT",
+        "first_seen": "2026-10-25T13:52:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.740199,
           38.189592
         ]
@@ -42086,6 +42106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.59719,
+          38.229139
+        ]
+      },
+      "properties": {
+        "incident_id": "309853",
+        "route": "I-64",
+        "mm_start": 13.8,
+        "mm_end": 13.8,
+        "title": "I-64 West at MM 13.8 Approaching I-264 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138.",
+        "pubDate": "Sun, 25 Oct 2026 11:30:33 GMT",
+        "first_seen": "2026-10-25T13:52:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.595463,
           38.22859
         ]
@@ -46706,6 +46746,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.506983,
+          38.222691
+        ]
+      },
+      "properties": {
+        "incident_id": "309854",
+        "route": "I-64",
+        "mm_start": 18.8,
+        "mm_end": 18.8,
+        "title": "I-64 East at MM 18.8 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be vieewd on CCTV_05_64_0189.",
+        "pubDate": "Sun, 25 Oct 2026 11:47:49 GMT",
+        "first_seen": "2026-10-25T13:52:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.505123,
           38.222624
         ]
@@ -50459,6 +50519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Thu, 17 Sep 2026 00:11:42 GMT",
         "first_seen": "2026-09-17T00:18:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.461173,
+          38.221186
+        ]
+      },
+      "properties": {
+        "incident_id": "309851",
+        "route": "I-64",
+        "mm_start": 21.3,
+        "mm_end": 21.3,
+        "title": "I-64 West at MM 21.3 Just Past Eastwood Fisherville Rd. in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_64_0214.",
+        "pubDate": "Sun, 25 Oct 2026 10:37:10 GMT",
+        "first_seen": "2026-10-25T13:52:24Z"
       }
     },
     {
