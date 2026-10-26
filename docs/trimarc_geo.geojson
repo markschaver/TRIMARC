@@ -4666,6 +4666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.803576,
+          38.185915
+        ]
+      },
+      "properties": {
+        "incident_id": "309946",
+        "route": "I-264",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-264 East at MM 8.0 Area of Dixie Hwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0075",
+        "pubDate": "Mon, 26 Oct 2026 17:11:36 GMT",
+        "first_seen": "2026-10-26T17:33:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.801745,
           38.186077
         ]
@@ -21719,6 +21739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208.",
         "pubDate": "Sun, 11 Oct 2026 14:03:52 GMT",
         "first_seen": "2026-10-11T14:47:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.626385,
+          38.269405
+        ]
+      },
+      "properties": {
+        "incident_id": "309942",
+        "route": "I-264",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-264 West at MM 21.2 Area of Westport Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0208",
+        "pubDate": "Mon, 26 Oct 2026 16:09:16 GMT",
+        "first_seen": "2026-10-26T17:33:07Z"
       }
     },
     {
