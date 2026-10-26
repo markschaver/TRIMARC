@@ -12846,6 +12846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.690764,
+          38.201531
+        ]
+      },
+      "properties": {
+        "incident_id": "309999",
+        "route": "I-264",
+        "mm_start": 14.4,
+        "mm_end": 14.4,
+        "title": "I-264 East at MM 14.4 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
+        "pubDate": "Mon, 26 Oct 2026 21:47:13 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.68897,
           38.201842
         ]
@@ -16346,6 +16366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.655425,
+          38.219299
+        ]
+      },
+      "properties": {
+        "incident_id": "309998",
+        "route": "I-264",
+        "mm_start": 16.7,
+        "mm_end": 16.7,
+        "title": "I-264 East at MM 16.7 Approaching Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 26 Oct 2026 21:44:37 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.653827,
           38.220044
         ]
@@ -17299,6 +17339,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
         "pubDate": "Sat, 12 Sep 2026 00:09:48 GMT",
         "first_seen": "2026-09-12T00:41:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.647456,
+          38.222946
+        ]
+      },
+      "properties": {
+        "incident_id": "309962",
+        "route": "I-264",
+        "mm_start": 17.2,
+        "mm_end": 17.2,
+        "title": "I-264 West at MM 17.2 Approaching Taylorsville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 26 Oct 2026 19:27:58 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
       }
     },
     {
@@ -20319,6 +20379,26 @@
         "description": "Roadway Debris : May be viewed on CCTV_05_264_0199.",
         "pubDate": "Sun, 18 Oct 2026 18:59:31 GMT",
         "first_seen": "2026-10-18T19:26:09Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.621436,
+          38.243335
+        ]
+      },
+      "properties": {
+        "incident_id": "309991",
+        "route": "I-264",
+        "mm_start": 19.3,
+        "mm_end": 19.3,
+        "title": "I-264 West at MM 19.3 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Mon, 26 Oct 2026 21:08:56 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
       }
     },
     {
@@ -32906,6 +32986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.81895,
+          38.275826
+        ]
+      },
+      "properties": {
+        "incident_id": "309993",
+        "route": "I-64",
+        "mm_start": 0.4,
+        "mm_end": 0.4,
+        "title": "I-64 East at MM 0.4 Area of Sherman Minton Bridge in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0003_EB",
+        "pubDate": "Mon, 26 Oct 2026 21:20:58 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.81736,
           38.275139
         ]
@@ -44239,6 +44339,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0171",
         "pubDate": "Tue, 25 Aug 2026 17:57:26 GMT",
         "first_seen": "2026-08-25T18:04:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.552941,
+          38.223369
+        ]
+      },
+      "properties": {
+        "incident_id": "309982",
+        "route": "I-64",
+        "mm_start": 16.3,
+        "mm_end": 16.3,
+        "title": "I-64 East at MM 16.3 Approaching Blankenbaker Pkwy. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Mon, 26 Oct 2026 20:27:05 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
       }
     },
     {
@@ -63686,6 +63806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.721533,
+          38.181625
+        ]
+      },
+      "properties": {
+        "incident_id": "310000",
+        "route": "I-65",
+        "mm_start": 130.0,
+        "mm_end": 130.0,
+        "title": "I-65 South at MM 130.0 Area of Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Mon, 26 Oct 2026 21:50:10 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.722363,
           38.182921
         ]
@@ -64946,6 +65086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751155,
+          38.225023
+        ]
+      },
+      "properties": {
+        "incident_id": "309977",
+        "route": "I-65",
+        "mm_start": 132.3,
+        "mm_end": 135.3,
+        "title": "I-65 North between MM 132.3 and 135.3 Between Crittenden Drive and Broadway in Jefferson County",
+        "description": "Construction / Road Work : Louisville, Ky. (Oct. 26, 2026) \u2013 As progress continues on the I-65 Central Corridor bridge replacement and rehabilitation project, overnight lane restrictions are scheduled on Interstate 65 for excavation work. Monday, Oct. 26 \u2013 Wednesday, Nov. 4 (9 p.m. to 6 a.m. daily): One lane closed on southbound I-65 between Chestnut and Arthur streets One lane closed on northbound I-65 between Crittenden Drive and Broadway Alternating short-term closures on the off-ramps from northbound I-65 to Jackson Street (Exit 134 A) and Woodbine Street (Exit 134 B) (one ramp will remain open at all times) At least one lane of traffic will remain open on I-65 during overnight work. Staying Informed Project information and updates can be found at I65CentralCorridor.com",
+        "pubDate": "Tue, 27 Oct 2026 01:00:00 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.74847,
           38.206747
         ]
@@ -65619,6 +65779,26 @@
         "description": "Crash : May be viewed on CCTV_05_65_1337",
         "pubDate": "Tue, 25 Aug 2026 16:19:27 GMT",
         "first_seen": "2026-08-25T16:56:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.75129,
+          38.23504
+        ]
+      },
+      "properties": {
+        "incident_id": "309975",
+        "route": "I-65",
+        "mm_start": 133.5,
+        "mm_end": 135.5,
+        "title": "I-65 South between MM 135.5 and 133.5 Between Chestnut Street and Arthur Street in Jefferson County",
+        "description": "Construction / Road Work : Louisville, Ky. (Oct. 26, 2026) \u2013 As progress continues on the I-65 Central Corridor bridge replacement and rehabilitation project, overnight lane restrictions are scheduled on Interstate 65 for excavation work. Monday, Oct. 26 \u2013 Wednesday, Nov. 4 (9 p.m. to 6 a.m. daily): One lane closed on southbound I-65 between Chestnut and Arthur streets One lane closed on northbound I-65 between Crittenden Drive and Broadway Alternating short-term closures on the off-ramps from northbound I-65 to Jackson Street (Exit 134 A) and Woodbine Street (Exit 134 B) (one ramp will remain open at all times) At least one lane of traffic will remain open on I-65 during overnight work. Staying Informed Project information and updates can be found at I65CentralCorridor.com",
+        "pubDate": "Tue, 27 Oct 2026 01:00:00 GMT",
+        "first_seen": "2026-10-26T21:53:24Z"
       }
     },
     {
