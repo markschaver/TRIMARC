@@ -63046,6 +63046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.719296,
+          38.177657
+        ]
+      },
+      "properties": {
+        "incident_id": "309893",
+        "route": "I-65",
+        "mm_start": 129.7,
+        "mm_end": 129.7,
+        "title": "I-65 South at MM 129.7 Approaching Grade Ln. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1307.",
+        "pubDate": "Mon, 26 Oct 2026 00:14:21 GMT",
+        "first_seen": "2026-10-26T00:37:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.719892,
           38.179025
         ]
