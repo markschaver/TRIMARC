@@ -16966,6 +16966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.650619,
+          38.221512
+        ]
+      },
+      "properties": {
+        "incident_id": "310004",
+        "route": "I-264",
+        "mm_start": 17.0,
+        "mm_end": 17.0,
+        "title": "I-264 West at MM 17.0 Over Taylorsville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Mon, 26 Oct 2026 22:05:46 GMT",
+        "first_seen": "2026-10-27T01:18:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.649028,
           38.222229
         ]
@@ -48086,6 +48106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.495926,
+          38.222334
+        ]
+      },
+      "properties": {
+        "incident_id": "310005",
+        "route": "I-64",
+        "mm_start": 19.4,
+        "mm_end": 19.4,
+        "title": "I-64 West at MM 19.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0195",
+        "pubDate": "Mon, 26 Oct 2026 22:10:00 GMT",
+        "first_seen": "2026-10-27T01:18:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.494095,
           38.222274
         ]
@@ -68626,6 +68666,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.670923,
+          38.291231
+        ]
+      },
+      "properties": {
+        "incident_id": "310022",
+        "route": "I-71",
+        "mm_start": 3.6,
+        "mm_end": 3.6,
+        "title": "I-71 South at MM 3.6 Area of Blankenbaker Lane in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0037",
+        "pubDate": "Tue, 27 Oct 2026 00:58:52 GMT",
+        "first_seen": "2026-10-27T01:18:07Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.669348,
           38.291982
         ]
@@ -73659,6 +73719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0349.",
         "pubDate": "Tue, 20 Oct 2026 23:44:39 GMT",
         "first_seen": "2026-10-21T00:38:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.576871,
+          38.316848
+        ]
+      },
+      "properties": {
+        "incident_id": "310019",
+        "route": "I-71",
+        "mm_start": 9.4,
+        "mm_end": 9.4,
+        "title": "I-71 South at MM 9.4 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0103",
+        "pubDate": "Tue, 27 Oct 2026 00:00:58 GMT",
+        "first_seen": "2026-10-27T01:18:07Z"
       }
     },
     {
