@@ -1546,6 +1546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.812685,
+          38.244523
+        ]
+      },
+      "properties": {
+        "incident_id": "310198",
+        "route": "I-264",
+        "mm_start": 2.4,
+        "mm_end": 2.4,
+        "title": "I-264 West at MM 2.4 Area of Virigina Ave in Jefferson County",
+        "description": "Crash : METRO SAFE reports an injury accicent in the area",
+        "pubDate": "Wed, 28 Oct 2026 12:55:48 GMT",
+        "first_seen": "2026-10-28T14:31:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.813762,
           38.243354
         ]
@@ -17899,6 +17919,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
         "pubDate": "Sat, 17 Oct 2026 18:55:40 GMT",
         "first_seen": "2026-10-17T20:50:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.642737,
+          38.225118
+        ]
+      },
+      "properties": {
+        "incident_id": "310197",
+        "route": "I-264",
+        "mm_start": 17.5,
+        "mm_end": 17.5,
+        "title": "I-264 East at MM 17.5 Area of Breckenridge Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0170",
+        "pubDate": "Wed, 28 Oct 2026 12:54:28 GMT",
+        "first_seen": "2026-10-28T14:31:39Z"
       }
     },
     {
@@ -41546,6 +41586,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.617642,
+          38.236121
+        ]
+      },
+      "properties": {
+        "incident_id": "310186",
+        "route": "I-64",
+        "mm_start": 12.6,
+        "mm_end": 12.6,
+        "title": "I-64 West at MM 12.6 Area of I-264 East End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Metrosafe reports an incident in the area",
+        "pubDate": "Wed, 28 Oct 2026 12:11:50 GMT",
+        "first_seen": "2026-10-28T14:31:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.615982,
           38.2355
         ]
@@ -41719,6 +41779,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
         "pubDate": "Fri, 07 Aug 2026 19:47:49 GMT",
         "first_seen": "2026-08-07T20:06:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.612659,
+          38.234207
+        ]
+      },
+      "properties": {
+        "incident_id": "310206",
+        "route": "I-64",
+        "mm_start": 12.9,
+        "mm_end": 12.9,
+        "title": "I-64 West at MM 12.9 Area of I-264 in Jefferson County",
+        "description": "Crash : Metro Safe Reports a non injury accident in the area",
+        "pubDate": "Wed, 28 Oct 2026 14:04:37 GMT",
+        "first_seen": "2026-10-28T14:31:39Z"
       }
     },
     {
@@ -71559,6 +71639,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Thu, 15 Oct 2026 22:25:45 GMT",
         "first_seen": "2026-10-15T22:35:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.615082,
+          38.300273
+        ]
+      },
+      "properties": {
+        "incident_id": "310199",
+        "route": "I-71",
+        "mm_start": 7.0,
+        "mm_end": 7.0,
+        "title": "I-71 South at MM 7.0 Area of Barbour Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
+        "pubDate": "Wed, 28 Oct 2026 12:58:23 GMT",
+        "first_seen": "2026-10-28T14:31:39Z"
       }
     },
     {
