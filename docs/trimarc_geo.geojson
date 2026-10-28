@@ -10106,6 +10106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.711542,
+          38.19306
+        ]
+      },
+      "properties": {
+        "incident_id": "310241",
+        "route": "I-264",
+        "mm_start": 13.1,
+        "mm_end": 13.1,
+        "title": "I-264 West at MM 13.1 Just Past Poplar Level Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133",
+        "pubDate": "Wed, 28 Oct 2026 19:22:49 GMT",
+        "first_seen": "2026-10-28T19:53:33Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.710076,
           38.19394
         ]
@@ -16679,6 +16699,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0170.",
         "pubDate": "Tue, 29 Sep 2026 23:14:59 GMT",
         "first_seen": "2026-09-30T00:10:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.653827,
+          38.220044
+        ]
+      },
+      "properties": {
+        "incident_id": "310242",
+        "route": "I-264",
+        "mm_start": 16.8,
+        "mm_end": 16.8,
+        "title": "I-264 East at MM 16.8 Area of Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 28 Oct 2026 19:24:23 GMT",
+        "first_seen": "2026-10-28T19:53:33Z"
       }
     },
     {
