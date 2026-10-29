@@ -50786,6 +50786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.466663,
+          38.221365
+        ]
+      },
+      "properties": {
+        "incident_id": "310298",
+        "route": "I-64",
+        "mm_start": 21.0,
+        "mm_end": 21.0,
+        "title": "I-64 East at MM 21.0 Area of Gilliland Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Thu, 29 Oct 2026 02:56:45 GMT",
+        "first_seen": "2026-10-29T05:26:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.464834,
           38.221306
         ]
@@ -52799,6 +52819,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Tue, 15 Sep 2026 22:10:59 GMT",
         "first_seen": "2026-09-15T22:15:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.426565,
+          38.218586
+        ]
+      },
+      "properties": {
+        "incident_id": "310300",
+        "route": "I-64",
+        "mm_start": 23.2,
+        "mm_end": 23.2,
+        "title": "I-64 East at MM 23.2 Approaching Clark Station Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0238",
+        "pubDate": "Thu, 29 Oct 2026 03:54:10 GMT",
+        "first_seen": "2026-10-29T05:26:53Z"
       }
     },
     {
