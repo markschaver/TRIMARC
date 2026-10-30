@@ -2246,6 +2246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.821447,
+          38.23032
+        ]
+      },
+      "properties": {
+        "incident_id": "310515",
+        "route": "I-264",
+        "mm_start": 3.5,
+        "mm_end": 3.5,
+        "title": "I-264 East at MM 3.5 Area of Bells Ln in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0041",
+        "pubDate": "Fri, 30 Oct 2026 18:11:20 GMT",
+        "first_seen": "2026-10-30T20:01:12Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.82163,
           38.22889
         ]
@@ -7819,6 +7839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
         "pubDate": "Fri, 21 Aug 2026 16:11:31 GMT",
         "first_seen": "2026-08-21T16:51:54Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.736534,
+          38.189811
+        ]
+      },
+      "properties": {
+        "incident_id": "310517",
+        "route": "I-264",
+        "mm_start": 11.7,
+        "mm_end": 11.7,
+        "title": "I-264 East at MM 11.7 Approaching I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Fri, 30 Oct 2026 18:47:23 GMT",
+        "first_seen": "2026-10-30T20:01:12Z"
       }
     },
     {
@@ -67439,6 +67479,26 @@
         "description": "Construction / Road Work : May be viewed on camera CCTV_05_65_1356.",
         "pubDate": "Wed, 09 Sep 2026 06:35:22 GMT",
         "first_seen": "2026-09-09T06:43:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751045,
+          38.250427
+        ]
+      },
+      "properties": {
+        "incident_id": "310523",
+        "route": "I-65",
+        "mm_start": 135.6,
+        "mm_end": 135.6,
+        "title": "I-65 North at MM 135.6 Area of Muhammad Ali Blvd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1356",
+        "pubDate": "Fri, 30 Oct 2026 19:29:04 GMT",
+        "first_seen": "2026-10-30T20:01:12Z"
       }
     },
     {
