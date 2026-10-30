@@ -51446,6 +51446,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.463003,
+          38.221249
+        ]
+      },
+      "properties": {
+        "incident_id": "310437",
+        "route": "I-64",
+        "mm_start": 21.2,
+        "mm_end": 21.2,
+        "title": "I-64 East at MM 21.2 East of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
+        "pubDate": "Fri, 30 Oct 2026 00:24:43 GMT",
+        "first_seen": "2026-10-30T01:58:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.461173,
           38.221186
         ]
@@ -60379,6 +60399,26 @@
         "description": "Disabled Vehicle-Occupied : Trimarc reports an incident in the area",
         "pubDate": "Mon, 17 Aug 2026 15:46:49 GMT",
         "first_seen": "2026-08-17T16:00:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.712164,
+          38.14731
+        ]
+      },
+      "properties": {
+        "incident_id": "310442",
+        "route": "I-65",
+        "mm_start": 127.5,
+        "mm_end": 127.5,
+        "title": "I-65 South at MM 127.5 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Fri, 30 Oct 2026 01:45:20 GMT",
+        "first_seen": "2026-10-30T01:58:10Z"
       }
     },
     {
@@ -70179,6 +70219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0048.",
         "pubDate": "Sat, 24 Oct 2026 14:11:18 GMT",
         "first_seen": "2026-10-24T16:50:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.646166,
+          38.288677
+        ]
+      },
+      "properties": {
+        "incident_id": "310433",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 5.3,
+        "title": "I-71 North between MM 4.9 and 5.3 At I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-71N is closed at MM 4.9 in Jefferson County for 10 hours due to roadwork. Motorists will be able to continue to I-264 West at Exit 5 and should detour to either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to connect with I-264 East to proceed on to I-71 North.",
+        "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+        "first_seen": "2026-10-30T01:58:10Z"
       }
     },
     {
