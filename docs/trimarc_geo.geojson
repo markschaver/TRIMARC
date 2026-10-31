@@ -13486,6 +13486,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.685499,
+          38.20276
+        ]
+      },
+      "properties": {
+        "incident_id": "310590",
+        "route": "I-264",
+        "mm_start": 14.7,
+        "mm_end": 14.7,
+        "title": "I-264 East at MM 14.7 Area of Newburg Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145.",
+        "pubDate": "Sat, 31 Oct 2026 10:38:06 GMT",
+        "first_seen": "2026-10-31T10:47:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.683939,
           38.203511
         ]
@@ -68919,6 +68939,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0030.",
         "pubDate": "Mon, 19 Oct 2026 20:49:36 GMT",
         "first_seen": "2026-10-19T23:56:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.69678,
+          38.275133
+        ]
+      },
+      "properties": {
+        "incident_id": "310586",
+        "route": "I-71",
+        "mm_start": 1.8,
+        "mm_end": 1.8,
+        "title": "I-71 South at MM 1.8 Area of Zorn Ave in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0018",
+        "pubDate": "Sat, 31 Oct 2026 08:45:02 GMT",
+        "first_seen": "2026-10-31T10:47:15Z"
       }
     },
     {
