@@ -60126,6 +60126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709409,
+          38.141946
+        ]
+      },
+      "properties": {
+        "incident_id": "310638",
+        "route": "I-65",
+        "mm_start": 127.1,
+        "mm_end": 127.1,
+        "title": "I-65 South at MM 127.1 Area of Outer Loop Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on camera CCTV_05_65_1267.",
+        "pubDate": "Sun, 01 Nov 2026 00:23:46 GMT",
+        "first_seen": "2026-11-01T02:16:28Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.7101,
           38.143288
         ]
@@ -73019,6 +73039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082.",
         "pubDate": "Sun, 16 Aug 2026 20:43:49 GMT",
         "first_seen": "2026-08-16T20:58:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.601773,
+          38.304735
+        ]
+      },
+      "properties": {
+        "incident_id": "310639",
+        "route": "I-71",
+        "mm_start": 7.8,
+        "mm_end": 7.8,
+        "title": "I-71 South at MM 7.8 Area of Barboiur Ln. in Jefferson County",
+        "description": "Crash : May be viewed on camera CCTV_05_71_0074.",
+        "pubDate": "Sun, 01 Nov 2026 00:37:37 GMT",
+        "first_seen": "2026-11-01T02:16:28Z"
       }
     },
     {
