@@ -10606,6 +10606,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.710076,
+          38.19394
+        ]
+      },
+      "properties": {
+        "incident_id": "310686",
+        "route": "I-264",
+        "mm_start": 13.2,
+        "mm_end": 13.2,
+        "title": "I-264 East at MM 13.2 Area of Poplar Level Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sun, 01 Nov 2026 23:10:31 GMT",
+        "first_seen": "2026-11-01T23:56:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708608,
           38.194818
         ]
@@ -47606,6 +47626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.512547,
+          38.22283
+        ]
+      },
+      "properties": {
+        "incident_id": "310682",
+        "route": "I-64",
+        "mm_start": 18.5,
+        "mm_end": 18.5,
+        "title": "I-64 East at MM 18.5 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0189.",
+        "pubDate": "Sun, 01 Nov 2026 22:33:38 GMT",
+        "first_seen": "2026-11-01T23:56:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.51073,
           38.222807
         ]
@@ -63859,6 +63899,26 @@
         "description": "Disabled Vehicle-Occupied : Disabled vehicle in this area.",
         "pubDate": "Sat, 17 Oct 2026 18:24:43 GMT",
         "first_seen": "2026-10-17T20:50:52Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.72038,
+          38.171975
+        ]
+      },
+      "properties": {
+        "incident_id": "310681",
+        "route": "I-65",
+        "mm_start": 129.3,
+        "mm_end": 129.3,
+        "title": "I-65 North at MM 129.3 Approaching Grade Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297.",
+        "pubDate": "Sun, 01 Nov 2026 22:06:04 GMT",
+        "first_seen": "2026-11-01T23:56:39Z"
       }
     },
     {
