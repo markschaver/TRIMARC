@@ -66846,6 +66846,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.751455,
+          38.220699
+        ]
+      },
+      "properties": {
+        "incident_id": "310674",
+        "route": "I-65",
+        "mm_start": 133.5,
+        "mm_end": 133.5,
+        "title": "I-65 South at MM 133.5 Area of Arthur Street in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1337. Traffic is navigating between vehicles.",
+        "pubDate": "Sun, 01 Nov 2026 20:19:41 GMT",
+        "first_seen": "2026-11-01T20:44:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751167,
           38.222135
         ]
