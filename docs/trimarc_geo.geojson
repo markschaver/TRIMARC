@@ -13906,6 +13906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.682399,
+          38.204293
+        ]
+      },
+      "properties": {
+        "incident_id": "310746",
+        "route": "I-264",
+        "mm_start": 14.9,
+        "mm_end": 14.9,
+        "title": "I-264 West at MM 14.9 Area of Newburg Rd in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Mon, 02 Nov 2026 15:07:40 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.680841,
           38.205079
         ]
@@ -21226,6 +21246,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.620119,
+          38.247559
+        ]
+      },
+      "properties": {
+        "incident_id": "310718",
+        "route": "I-264",
+        "mm_start": 19.6,
+        "mm_end": 19.6,
+        "title": "I-264 East at MM 19.6 Area of Shelbyville Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199.",
+        "pubDate": "Mon, 02 Nov 2026 12:35:40 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.619683,
           38.248966
         ]
@@ -23366,6 +23406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.69534,
+          38.113192
+        ]
+      },
+      "properties": {
+        "incident_id": "310739",
+        "route": "I-265",
+        "mm_start": 10.6,
+        "mm_end": 10.6,
+        "title": "I-265 East at MM 10.6 Area of I-65 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : My be viewed on CCTV_05_65_1252.",
+        "pubDate": "Mon, 02 Nov 2026 14:51:18 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.693594,
           38.112753
         ]
@@ -23919,6 +23979,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
         "pubDate": "Thu, 22 Oct 2026 19:59:24 GMT",
         "first_seen": "2026-10-22T20:49:48Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.684876,
+          38.11056
+        ]
+      },
+      "properties": {
+        "incident_id": "310744",
+        "route": "I-265",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-265 East at MM 11.2 Approaching Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117.",
+        "pubDate": "Mon, 02 Nov 2026 15:00:43 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
       }
     },
     {
@@ -34339,6 +34419,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0012",
         "pubDate": "Fri, 11 Sep 2026 23:58:11 GMT",
         "first_seen": "2026-09-12T00:41:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.808611,
+          38.276277
+        ]
+      },
+      "properties": {
+        "incident_id": "310732",
+        "route": "I-64",
+        "mm_start": 1.0,
+        "mm_end": 1.0,
+        "title": "I-64 West at MM 1.0 Approaching Sherman Minton Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012.",
+        "pubDate": "Mon, 02 Nov 2026 13:44:18 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
       }
     },
     {
@@ -67226,6 +67326,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75095,
+          38.223577
+        ]
+      },
+      "properties": {
+        "incident_id": "310737",
+        "route": "I-65",
+        "mm_start": 133.7,
+        "mm_end": 133.7,
+        "title": "I-65 North at MM 133.7 Area of Arthur Street in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337.",
+        "pubDate": "Mon, 02 Nov 2026 14:43:35 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751155,
           38.225023
         ]
@@ -73019,6 +73139,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074.",
         "pubDate": "Fri, 02 Oct 2026 00:12:25 GMT",
         "first_seen": "2026-10-02T02:29:38Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.606406,
+          38.302403
+        ]
+      },
+      "properties": {
+        "incident_id": "310712",
+        "route": "I-71",
+        "mm_start": 7.5,
+        "mm_end": 7.5,
+        "title": "I-71 North at MM 7.5 Approaching I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074.",
+        "pubDate": "Mon, 02 Nov 2026 12:13:48 GMT",
+        "first_seen": "2026-11-02T15:13:22Z"
       }
     },
     {
