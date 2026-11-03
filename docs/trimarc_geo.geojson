@@ -44406,6 +44406,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.585211,
+          38.225344
+        ]
+      },
+      "properties": {
+        "incident_id": "310835",
+        "route": "I-64",
+        "mm_start": 14.5,
+        "mm_end": 14.5,
+        "title": "I-64 West at MM 14.5 Area of Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Tue, 03 Nov 2026 03:34:23 GMT",
+        "first_seen": "2026-11-03T11:46:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.583519,
           38.224807
         ]
@@ -66406,6 +66426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.746635,
+          38.206614
+        ]
+      },
+      "properties": {
+        "incident_id": "310852",
+        "route": "I-65",
+        "mm_start": 132.3,
+        "mm_end": 132.3,
+        "title": "I-65 South at MM 132.3 Area of Crittenden Dr in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
+        "pubDate": "Tue, 03 Nov 2026 11:40:25 GMT",
+        "first_seen": "2026-11-03T11:46:25Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.74847,
           38.206747
         ]
@@ -66719,6 +66759,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1327",
         "pubDate": "Sat, 22 Aug 2026 02:46:56 GMT",
         "first_seen": "2026-08-22T02:57:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.752987,
+          38.21066
+        ]
+      },
+      "properties": {
+        "incident_id": "310851",
+        "route": "I-65",
+        "mm_start": 132.8,
+        "mm_end": 132.8,
+        "title": "I-65 North at MM 132.8 Area of Eastern Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1330",
+        "pubDate": "Tue, 03 Nov 2026 11:36:11 GMT",
+        "first_seen": "2026-11-03T11:46:25Z"
       }
     },
     {
