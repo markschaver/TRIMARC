@@ -4966,6 +4966,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.792594,
+          38.186708
+        ]
+      },
+      "properties": {
+        "incident_id": "310890",
+        "route": "I-264",
+        "mm_start": 8.6,
+        "mm_end": 8.6,
+        "title": "I-264 East at MM 8.6 Area of Taylor Blvd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0093",
+        "pubDate": "Tue, 03 Nov 2026 18:07:33 GMT",
+        "first_seen": "2026-11-03T19:17:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.790759,
           38.186795
         ]
@@ -6199,6 +6219,26 @@
         "description": "Disabled Vehicle-Occupied : MetroSafe reports a disabled vehicle in the area.",
         "pubDate": "Mon, 21 Sep 2026 15:38:20 GMT",
         "first_seen": "2026-09-21T19:09:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.767664,
+          38.18977
+        ]
+      },
+      "properties": {
+        "incident_id": "310895",
+        "route": "I-264",
+        "mm_start": 10.0,
+        "mm_end": 10.0,
+        "title": "I-264 East at MM 10.0 Area of Southern Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMARC reports a disabled motorist in the area",
+        "pubDate": "Tue, 03 Nov 2026 19:08:15 GMT",
+        "first_seen": "2026-11-03T19:17:14Z"
       }
     },
     {
@@ -31999,6 +32039,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
         "pubDate": "Mon, 12 Oct 2026 18:59:39 GMT",
         "first_seen": "2026-10-12T19:21:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.518688,
+          38.28692
+        ]
+      },
+      "properties": {
+        "incident_id": "310869",
+        "route": "I-265",
+        "mm_start": 30.4,
+        "mm_end": 31.0,
+        "title": "I-265 South between MM 31.0 and 30.4 Approaching La Grange Rd in Jefferson County",
+        "description": "Construction / Road Work : LOUISVILLE, Ky. (Oct. 30, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of daily alternating lane closures on Interstate 265 (Gene Snyder Freeway) beginning Tuesday, Nov. 3, in Louisville. The daily lane closures listed below are necessary for contract crews to perform bridge maintenance. Daily from 9 a.m. to 3 p.m. on Tuesday, Nov. 3, and Wednesday, Nov. 4: Alternating lane closures on I-265 South at mile point 30.4 (near KY 146 (La Grange Road)) Motorists should heed signage, use caution when traveling through the work zone and plan for travel delays.",
+        "pubDate": "Tue, 03 Nov 2026 14:00:00 GMT",
+        "first_seen": "2026-11-03T19:17:14Z"
       }
     },
     {
@@ -68999,6 +69059,26 @@
         "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of upcoming traffic impacts on Interstate 71 South beginning Saturday, Oct. 24, as part of the $50 million I-71 widening and improvement project in Louisville [links-1.govdelivery.com]. To safely facilitate bridge construction, I-71 South will be reduced to one lane between mile markers 2 and 0 (from the I-71/Zorn Avenue interchange to the I-65/I-71 interchange), with brief rolling closures on the following dates and times: From 7 a.m. to 7 p.m. on Saturday, Oct. 24 From 7 p.m. on Monday, Oct. 26, to 5 a.m. on Tuesday, Oct. 27 The lane closures and brief rolling closures are necessary to allow crews to safely move and set bridge beams. Motorists should reduce speed, follow posted signage and allow extra travel time during the scheduled work. The date and duration of this work may be adjusted if inclement weather or other unforeseen delays occur. For the latest traffic and travel updates across the Commonwealth of Kentucky, visit goky.ky.gov [links-1.govdelivery.com]. Information specific to District 5 counties is also available on Facebook [links-1.govdelivery.com] and X [links-1.govdelivery.com]. ABOUT THE I-71 WIDENING AND IMPROVEMENT PROJECT The I-71 widening and improvement project is a $50 million infrastructure investment to enhance safety and improve mobility along one of Louisville's most critical travel corridors. The two-year project, focused on increasing traffic capacity and safety, will enhance regional connectivity, provide reliable travel for years to come, and support economic growth. The project spans approximately two miles of interstate from the I-65/I-71 interchange near Frankfort Avenue to the I-71/Zorn Avenue interchange. Additional improvements include the construction of a multi-use path along Zorn Avenue between the I-71/Zorn Avenue interchange and Mellwood Avenue, as well as a new median treatment at the intersection of Zorn Avenue and Mellwood Avenue to enhance safety and better define traffic movements. The project also includes the demolition and reconstruction of the I-71 bridge over Beargrass Creek, along with a latex overlay on the I-71 bridge over I-64 at mile point 0.3 to extend the structure\u2019s service life. The interstate project is expected to be completed by the Fall of 2027. Additional information, including project timelines and traffic impacts, will be shared online as work progresses. Motorists are encouraged to sign up for email alerts to receive weekly traffic updates related to the project [links-1.govdelivery.com].",
         "pubDate": "Tue, 27 Oct 2026 02:56:04 GMT",
         "first_seen": "2026-10-27T06:40:37Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.722728,
+          38.262362
+        ]
+      },
+      "properties": {
+        "incident_id": "310894",
+        "route": "I-71",
+        "mm_start": 0.1,
+        "mm_end": 0.1,
+        "title": "I-71 South at MM 0.1 Area of Frankfort Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0001",
+        "pubDate": "Tue, 03 Nov 2026 18:55:51 GMT",
+        "first_seen": "2026-11-03T19:17:14Z"
       }
     },
     {
