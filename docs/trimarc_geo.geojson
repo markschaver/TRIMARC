@@ -45086,6 +45086,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.571172,
+          38.22249
+        ]
+      },
+      "properties": {
+        "incident_id": "310949",
+        "route": "I-64",
+        "mm_start": 15.3,
+        "mm_end": 15.3,
+        "title": "I-64 East at MM 15.3 Area of Hurstbourne Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0150",
+        "pubDate": "Wed, 04 Nov 2026 05:18:03 GMT",
+        "first_seen": "2026-11-04T06:26:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.569347,
           38.222532
         ]
@@ -71199,6 +71219,26 @@
         "description": "Construction / Road Work : I-71N is closed at MM 4.9 in Jefferson County for 10 hours due to roadwork. Motorists will be able to continue to I-264 West at Exit 5 and should detour to either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to connect with I-264 East to proceed on to I-71 North.",
         "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
         "first_seen": "2026-10-30T01:58:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.649172,
+          38.290076
+        ]
+      },
+      "properties": {
+        "incident_id": "310940",
+        "route": "I-71",
+        "mm_start": 4.9,
+        "mm_end": 4.9,
+        "title": "I-71 North at MM 4.9 At I-264 in Jefferson County",
+        "description": "Construction / Road Work : I-71N is closed at MM 4.9 in Jefferson County for 10 hours due to roadwork. Motorists will be able to continue to I-264 West at Exit 5 and should detour to either U.S. 42 (Brownsboro Road) at Exit 22 or KY 1447 (Westport Road) at Exit 21 to connect with I-264 East to proceed on to I-71 North.",
+        "pubDate": "Wed, 04 Nov 2026 01:00:55 GMT",
+        "first_seen": "2026-11-04T06:26:59Z"
       }
     },
     {
