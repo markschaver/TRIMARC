@@ -33046,6 +33046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.572541,
+          38.309755
+        ]
+      },
+      "properties": {
+        "incident_id": "310985",
+        "route": "I-265",
+        "mm_start": 34.1,
+        "mm_end": 34.1,
+        "title": "I-265 North at MM 34.1 Area of Brownsboro Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0340",
+        "pubDate": "Wed, 04 Nov 2026 13:43:37 GMT",
+        "first_seen": "2026-11-04T14:48:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.575524,
           38.311442
         ]
