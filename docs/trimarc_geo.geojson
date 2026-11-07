@@ -61706,6 +61706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.713968,
+          38.150638
+        ]
+      },
+      "properties": {
+        "incident_id": "311344",
+        "route": "I-65",
+        "mm_start": 127.5,
+        "mm_end": 128.0,
+        "title": "I-65 South between MM 128.0 and 127.5 Area of Fern Valley Road in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of weekend lane closures on Interstate 65 South beginning Friday, Nov. 6, in Louisville. The right two lanes of I-65 South will be closed at mile marker 128 (near KY 1747 (Fern Valley Road) beginning at 6 p.m. on Friday, Nov. 6, through 11 a.m. on Sunday, Nov. 8, for concrete slab repairs. Nearby interstate ramps will remain open throughout the duration of the work. Motorists should heed signage, use caution when traveling through the work zone and plan for travel delays.",
+        "pubDate": "Fri, 06 Nov 2026 23:00:00 GMT",
+        "first_seen": "2026-11-07T08:54:11Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.712862,
           38.14865
         ]
@@ -62219,26 +62239,6 @@
         "description": "Construction / Road Work : The right two lanes of I-65 South will be closed intermittently from 8:00 a.m. until 8:00 p.m. to allow crews to perform routine maintenance of the interstate. Motorists should heed signage, use caution and expect delays",
         "pubDate": "Thu, 08 Oct 2026 12:51:00 GMT",
         "first_seen": "2026-10-08T19:43:56Z"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.717939,
-          38.15718
-        ]
-      },
-      "properties": {
-        "incident_id": "311344",
-        "route": "I-65",
-        "mm_start": 128.0,
-        "mm_end": 128.5,
-        "title": "I-65 South between MM 128.5 and 128.0 Area of Fern Valley Road in Jefferson County",
-        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of weekend lane closures on Interstate 65 South beginning Friday, Nov. 6, in Louisville. The right two lanes of I-65 South will be closed at mile marker 128 (near KY 1747 (Fern Valley Road) beginning at 6 p.m. on Friday, Nov. 6, through 11 a.m. on Sunday, Nov. 8, for concrete slab repairs. Nearby interstate ramps will remain open throughout the duration of the work. Motorists should heed signage, use caution when traveling through the work zone and plan for travel delays.",
-        "pubDate": "Fri, 06 Nov 2026 23:00:00 GMT",
-        "first_seen": "2026-11-07T02:13:17Z"
       }
     },
     {
@@ -65459,6 +65459,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
         "pubDate": "Thu, 15 Oct 2026 13:37:26 GMT",
         "first_seen": "2026-10-15T15:16:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.719892,
+          38.179025
+        ]
+      },
+      "properties": {
+        "incident_id": "311362",
+        "route": "I-65",
+        "mm_start": 129.8,
+        "mm_end": 129.8,
+        "title": "I-65 North at MM 129.8 Ramps to I-264 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1297",
+        "pubDate": "Sat, 07 Nov 2026 05:24:10 GMT",
+        "first_seen": "2026-11-07T08:54:11Z"
       }
     },
     {
