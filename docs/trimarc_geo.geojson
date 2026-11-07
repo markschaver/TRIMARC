@@ -11066,6 +11066,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.708608,
+          38.194818
+        ]
+      },
+      "properties": {
+        "incident_id": "311418",
+        "route": "I-264",
+        "mm_start": 13.3,
+        "mm_end": 13.3,
+        "title": "I-264 West at MM 13.3 Area of Poplar Level Road in Jefferson County",
+        "description": "Roadway Debris : May be viewed on CCTV_05_264_0133.",
+        "pubDate": "Sat, 07 Nov 2026 22:31:12 GMT",
+        "first_seen": "2026-11-07T23:03:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.707146,
           38.19569
         ]
@@ -69346,6 +69366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.742995,
+          38.253901
+        ]
+      },
+      "properties": {
+        "incident_id": "311419",
+        "route": "I-65",
+        "mm_start": 136.1,
+        "mm_end": 136.1,
+        "title": "I-65 North at MM 136.1 Approaching Lincoln Bridge in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1362.",
+        "pubDate": "Sat, 07 Nov 2026 22:43:29 GMT",
+        "first_seen": "2026-11-07T23:03:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.742183,
           38.255223
         ]
@@ -76519,6 +76559,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0103.",
         "pubDate": "Sat, 17 Oct 2026 11:11:59 GMT",
         "first_seen": "2026-10-17T12:26:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.573389,
+          38.317748
+        ]
+      },
+      "properties": {
+        "incident_id": "311421",
+        "route": "I-71",
+        "mm_start": 9.6,
+        "mm_end": 9.6,
+        "title": "I-71 South at MM 9.6 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0103.",
+        "pubDate": "Sat, 07 Nov 2026 22:59:14 GMT",
+        "first_seen": "2026-11-07T23:03:32Z"
       }
     },
     {
