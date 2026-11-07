@@ -33366,6 +33366,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.566423,
+          38.306545
+        ]
+      },
+      "properties": {
+        "incident_id": "311397",
+        "route": "I-265",
+        "mm_start": 33.7,
+        "mm_end": 33.7,
+        "title": "I-265 East at MM 33.7 Area of Brownsboro Road in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0340.",
+        "pubDate": "Sat, 07 Nov 2026 17:34:35 GMT",
+        "first_seen": "2026-11-07T19:38:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.569552,
           38.308065
         ]
@@ -63399,6 +63419,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Fri, 06 Nov 2026 21:39:29 GMT",
         "first_seen": "2026-11-06T22:15:51Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720639,
+          38.163285
+        ]
+      },
+      "properties": {
+        "incident_id": "311404",
+        "route": "I-65",
+        "mm_start": 128.7,
+        "mm_end": 128.7,
+        "title": "I-65 South at MM 128.7 Area of Fern Valley in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283.",
+        "pubDate": "Sat, 07 Nov 2026 19:10:20 GMT",
+        "first_seen": "2026-11-07T19:38:00Z"
       }
     },
     {
