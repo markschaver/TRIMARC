@@ -48426,6 +48426,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.519842,
+          38.222784
+        ]
+      },
+      "properties": {
+        "incident_id": "311739",
+        "route": "I-64",
+        "mm_start": 18.1,
+        "mm_end": 18.1,
+        "title": "I-64 East at MM 18.1 Before Blankenbaker Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0189",
+        "pubDate": "Tue, 10 Nov 2026 23:18:44 GMT",
+        "first_seen": "2026-11-11T01:45:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.518019,
           38.222679
         ]
