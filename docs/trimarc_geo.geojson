@@ -31706,6 +31706,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.502831,
+          38.250476
+        ]
+      },
+      "properties": {
+        "incident_id": "311805",
+        "route": "I-265",
+        "mm_start": 27.4,
+        "mm_end": 27.4,
+        "title": "I-265 North at MM 27.4 Just Past Shelbyville Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0268",
+        "pubDate": "Wed, 11 Nov 2026 14:20:35 GMT",
+        "first_seen": "2026-11-11T17:09:36Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.50251,
           38.253358
         ]
@@ -32719,6 +32739,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
         "pubDate": "Mon, 12 Oct 2026 18:59:39 GMT",
         "first_seen": "2026-10-12T19:21:14Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.509568,
+          38.285978
+        ]
+      },
+      "properties": {
+        "incident_id": "311804",
+        "route": "I-265",
+        "mm_start": 30.2,
+        "mm_end": 30.2,
+        "title": "I-265 North at MM 30.2 At LaGrange Rd. in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0305.",
+        "pubDate": "Wed, 11 Nov 2026 14:14:31 GMT",
+        "first_seen": "2026-11-11T17:09:36Z"
       }
     },
     {
@@ -62199,6 +62239,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
         "pubDate": "Thu, 03 Sep 2026 22:42:13 GMT",
         "first_seen": "2026-09-03T23:27:17Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.711484,
+          38.145973
+        ]
+      },
+      "properties": {
+        "incident_id": "311813",
+        "route": "I-65",
+        "mm_start": 127.4,
+        "mm_end": 127.4,
+        "title": "I-65 North-South at MM 127.4 Area of Outer Loop in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 11 Nov 2026 16:37:27 GMT",
+        "first_seen": "2026-11-11T17:09:36Z"
       }
     },
     {
