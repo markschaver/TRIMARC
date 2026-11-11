@@ -39566,6 +39566,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.724776,
+          38.259826
+        ]
+      },
+      "properties": {
+        "incident_id": "311770",
+        "route": "I-64",
+        "mm_start": 6.2,
+        "mm_end": 6.2,
+        "title": "I-64 East at MM 6.2 Area of Alta Vista Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0088",
+        "pubDate": "Wed, 11 Nov 2026 06:31:12 GMT",
+        "first_seen": "2026-11-11T09:01:13Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.723562,
           38.258735
         ]
