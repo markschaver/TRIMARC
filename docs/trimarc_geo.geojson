@@ -1806,6 +1806,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.814702,
+          38.242112
+        ]
+      },
+      "properties": {
+        "incident_id": "311826",
+        "route": "I-264",
+        "mm_start": 2.6,
+        "mm_end": 2.6,
+        "title": "I-264 East at MM 2.6 Area of Virgina Ave in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0027",
+        "pubDate": "Wed, 11 Nov 2026 19:49:15 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.815492,
           38.240804
         ]
@@ -9746,6 +9766,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.716394,
+          38.191103
+        ]
+      },
+      "properties": {
+        "incident_id": "311849",
+        "route": "I-264",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-264 West at MM 12.8 Before I-65 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Wed, 11 Nov 2026 21:10:20 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.714663,
           38.191547
         ]
@@ -15679,6 +15719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156.",
         "pubDate": "Sun, 20 Sep 2026 15:37:05 GMT",
         "first_seen": "2026-09-20T16:09:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.669205,
+          38.212139
+        ]
+      },
+      "properties": {
+        "incident_id": "311874",
+        "route": "I-264",
+        "mm_start": 15.8,
+        "mm_end": 15.8,
+        "title": "I-264 West at MM 15.8 Area of Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Wed, 11 Nov 2026 23:05:25 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
       }
     },
     {
@@ -30246,6 +30306,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.506041,
+          38.217253
+        ]
+      },
+      "properties": {
+        "incident_id": "311836",
+        "route": "I-265",
+        "mm_start": 25.1,
+        "mm_end": 25.1,
+        "title": "I-265 South at MM 25.1 Just Past I-64 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Wed, 11 Nov 2026 20:37:29 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.505901,
           38.218699
         ]
@@ -40386,6 +40466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.709964,
+          38.249732
+        ]
+      },
+      "properties": {
+        "incident_id": "311847",
+        "route": "I-64",
+        "mm_start": 7.3,
+        "mm_end": 7.3,
+        "title": "I-64 East at MM 7.3 Before Grinstead Drive in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Wed, 11 Nov 2026 21:04:27 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.708159,
           38.249359
         ]
@@ -40499,6 +40599,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079.",
         "pubDate": "Thu, 08 Oct 2026 18:04:38 GMT",
         "first_seen": "2026-10-08T19:43:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.706353,
+          38.248987
+        ]
+      },
+      "properties": {
+        "incident_id": "311876",
+        "route": "I-64",
+        "mm_start": 7.5,
+        "mm_end": 7.5,
+        "title": "I-64 West at MM 7.5 Just Past Grinstead Drive in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Wed, 11 Nov 2026 23:10:15 GMT",
+        "first_seen": "2026-11-11T23:27:59Z"
       }
     },
     {
