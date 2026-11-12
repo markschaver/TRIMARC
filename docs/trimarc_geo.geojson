@@ -30686,6 +30686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.505345,
+          38.224474
+        ]
+      },
+      "properties": {
+        "incident_id": "311891",
+        "route": "I-265",
+        "mm_start": 25.6,
+        "mm_end": 25.6,
+        "title": "I-265 North at MM 25.6 Area of I-64 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0256",
+        "pubDate": "Thu, 12 Nov 2026 02:05:14 GMT",
+        "first_seen": "2026-11-12T04:04:56Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.505206,
           38.225923
         ]
