@@ -15986,6 +15986,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.667673,
+          38.212951
+        ]
+      },
+      "properties": {
+        "incident_id": "312145",
+        "route": "I-264",
+        "mm_start": 15.9,
+        "mm_end": 15.9,
+        "title": "I-264 West at MM 15.9 Approaching Bardstown Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Fri, 13 Nov 2026 22:15:32 GMT",
+        "first_seen": "2026-11-14T02:29:49Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.666156,
           38.213765
         ]
@@ -20179,6 +20199,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0179",
         "pubDate": "Thu, 05 Nov 2026 16:04:07 GMT",
         "first_seen": "2026-11-05T16:41:02Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.620557,
+          38.246151
+        ]
+      },
+      "properties": {
+        "incident_id": "312159",
+        "route": "I-264",
+        "mm_start": 18.0,
+        "mm_end": 21.0,
+        "title": "I-264 East between MM 18.0 and 21.0 Between Breckenridge Ln & Westport Rd in Jefferson County",
+        "description": "Construction / Road Work : LOUISVILLE, Ky. (Nov. 6, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of a weekend lane closure on Interstate 264 East beginning Friday, Nov. 13, in Louisville. The left lane of I-264 East between mile marker 18 (near KY 1932 (Breckenridge Lane)) and mile marker 21 (near KY 1447 (Westport Road)) will be closed from 6 p.m. on Friday, Nov. 13, to 10 a.m. on Sunday, Nov. 15, for concrete slab repairs. During the weekend lane closure, traffic will be directed onto the right two lanes of the collector-distributor near U.S. 60 (Shelbyville Road). Motorists will then merge back onto the mainline of I-264 East near KY 1447 (Westport Road). Motorists should heed signage, use caution when traveling through the work zone and plan for travel delays.",
+        "pubDate": "Fri, 13 Nov 2026 23:00:00 GMT",
+        "first_seen": "2026-11-14T02:29:49Z"
       }
     },
     {
