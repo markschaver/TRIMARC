@@ -4126,6 +4126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.830417,
+          38.189943
+        ]
+      },
+      "properties": {
+        "incident_id": "312473",
+        "route": "I-264",
+        "mm_start": 6.4,
+        "mm_end": 6.4,
+        "title": "I-264 West at MM 6.4 Before Crums Lane in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0065",
+        "pubDate": "Tue, 17 Nov 2026 22:01:12 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.829763,
           38.188591
         ]
@@ -14219,6 +14239,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0145",
         "pubDate": "Mon, 16 Nov 2026 22:04:20 GMT",
         "first_seen": "2026-11-16T23:24:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.683939,
+          38.203511
+        ]
+      },
+      "properties": {
+        "incident_id": "312434",
+        "route": "I-264",
+        "mm_start": 14.8,
+        "mm_end": 14.8,
+        "title": "I-264 East at MM 14.8 Area of Newburg Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed om CCTV_05_264_0145",
+        "pubDate": "Tue, 17 Nov 2026 17:43:23 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
       }
     },
     {
@@ -24679,6 +24719,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1252.",
         "pubDate": "Sat, 25 Jul 2026 20:02:09 GMT",
         "first_seen": "2026-07-25T20:12:15Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.691851,
+          38.11231
+        ]
+      },
+      "properties": {
+        "incident_id": "312451",
+        "route": "I-265",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-265 East at MM 10.8 Just Past I-65 in Jefferson County",
+        "description": "Crash : TRIMARC advises of crash in the area.",
+        "pubDate": "Tue, 17 Nov 2026 19:58:51 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
       }
     },
     {
@@ -36679,6 +36739,26 @@
         "description": "Freeway Maintenance : May be viewed on camera CCTV_05_64_0022.",
         "pubDate": "Sat, 19 Sep 2026 02:37:17 GMT",
         "first_seen": "2026-09-19T05:08:16Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.791,
+          38.275413
+        ]
+      },
+      "properties": {
+        "incident_id": "312436",
+        "route": "I-64",
+        "mm_start": 2.0,
+        "mm_end": 2.0,
+        "title": "I-64 East at MM 2.0 Area of 27th St in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : Freeway Service Patrol reports an incident in the area",
+        "pubDate": "Tue, 17 Nov 2026 18:11:56 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
       }
     },
     {
@@ -57926,6 +58006,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.701178,
+          38.108344
+        ]
+      },
+      "properties": {
+        "incident_id": "312471",
+        "route": "I-65",
+        "mm_start": 124.7,
+        "mm_end": 124.7,
+        "title": "I-65 South at MM 124.7 Just Past I-265 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1252",
+        "pubDate": "Tue, 17 Nov 2026 21:48:37 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.701242,
           38.109793
         ]
@@ -70106,6 +70206,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.75095,
+          38.223577
+        ]
+      },
+      "properties": {
+        "incident_id": "312467",
+        "route": "I-65",
+        "mm_start": 133.7,
+        "mm_end": 133.7,
+        "title": "I-65 North at MM 133.7 Area of Arthur St. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1337",
+        "pubDate": "Tue, 17 Nov 2026 21:04:50 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751155,
           38.225023
         ]
@@ -76666,6 +76786,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.598684,
+          38.30629
+        ]
+      },
+      "properties": {
+        "incident_id": "312475",
+        "route": "I-71",
+        "mm_start": 8.0,
+        "mm_end": 8.0,
+        "title": "I-71 South at MM 8.0 Just Past I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0082",
+        "pubDate": "Tue, 17 Nov 2026 22:06:02 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.59714,
           38.307068
         ]
@@ -77979,6 +78119,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089.",
         "pubDate": "Wed, 30 Sep 2026 19:07:18 GMT",
         "first_seen": "2026-09-30T21:20:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.581708,
+          38.314827
+        ]
+      },
+      "properties": {
+        "incident_id": "312458",
+        "route": "I-71",
+        "mm_start": 9.1,
+        "mm_end": 9.1,
+        "title": "I-71 North at MM 9.1 Under I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Tue, 17 Nov 2026 20:24:05 GMT",
+        "first_seen": "2026-11-17T22:36:05Z"
       }
     },
     {
