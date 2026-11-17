@@ -19826,6 +19826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.637981,
+          38.2273
+        ]
+      },
+      "properties": {
+        "incident_id": "312413",
+        "route": "I-264",
+        "mm_start": 17.8,
+        "mm_end": 17.8,
+        "title": "I-264 East at MM 17.8 At Breckenridge Ln. in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0179.",
+        "pubDate": "Tue, 17 Nov 2026 13:27:23 GMT",
+        "first_seen": "2026-11-17T14:30:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.636448,
           38.228117
         ]
@@ -33446,6 +33466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.507744,
+          38.285788
+        ]
+      },
+      "properties": {
+        "incident_id": "312380",
+        "route": "I-265",
+        "mm_start": 30.1,
+        "mm_end": 30.1,
+        "title": "I-265 North at MM 30.1 Area of La Grange Rd in Jefferson County",
+        "description": "Freeway Maintenance : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Tue, 17 Nov 2026 09:11:53 GMT",
+        "first_seen": "2026-11-17T14:30:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.509568,
           38.285978
         ]
@@ -34259,6 +34299,26 @@
         "description": "Crash : May be viewed on CCTV_05_265_0325",
         "pubDate": "Mon, 19 Oct 2026 13:27:41 GMT",
         "first_seen": "2026-10-19T14:59:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.558073,
+          38.303525
+        ]
+      },
+      "properties": {
+        "incident_id": "312412",
+        "route": "I-265",
+        "mm_start": 33.2,
+        "mm_end": 33.2,
+        "title": "I-265 South at MM 33.2 Just Past Brownsboro Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0340",
+        "pubDate": "Tue, 17 Nov 2026 13:19:30 GMT",
+        "first_seen": "2026-11-17T14:30:06Z"
       }
     },
     {
@@ -77846,6 +77906,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.583249,
+          38.31406
+        ]
+      },
+      "properties": {
+        "incident_id": "312418",
+        "route": "I-71",
+        "mm_start": 9.0,
+        "mm_end": 9.0,
+        "title": "I-71 North at MM 9.0 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
+        "pubDate": "Tue, 17 Nov 2026 14:06:59 GMT",
+        "first_seen": "2026-11-17T14:30:06Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.581708,
           38.314827
         ]
@@ -78579,6 +78659,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_841_0349.",
         "pubDate": "Sun, 09 Aug 2026 17:01:46 GMT",
         "first_seen": "2026-08-09T17:15:46Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.568058,
+          38.318799
+        ]
+      },
+      "properties": {
+        "incident_id": "312420",
+        "route": "I-71",
+        "mm_start": 9.9,
+        "mm_end": 9.9,
+        "title": "I-71 South at MM 9.9 Area of Chamberlain Ln in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0103",
+        "pubDate": "Tue, 17 Nov 2026 14:11:39 GMT",
+        "first_seen": "2026-11-17T14:30:06Z"
       }
     },
     {
