@@ -7046,6 +7046,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.752979,
+          38.19009
+        ]
+      },
+      "properties": {
+        "incident_id": "312526",
+        "route": "I-264",
+        "mm_start": 10.8,
+        "mm_end": 10.8,
+        "title": "I-264 East at MM 10.8 Area of Southern Parkway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : TRIMAC reports a disabled motorist in the area",
+        "pubDate": "Wed, 18 Nov 2026 11:51:30 GMT",
+        "first_seen": "2026-11-18T12:48:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.751158,
           38.189968
         ]
@@ -33606,6 +33626,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.513216,
+          38.286359
+        ]
+      },
+      "properties": {
+        "incident_id": "312535",
+        "route": "I-265",
+        "mm_start": 30.4,
+        "mm_end": 30.4,
+        "title": "I-265 North at MM 30.4 Area of La Grange Rd in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0305",
+        "pubDate": "Wed, 18 Nov 2026 12:31:12 GMT",
+        "first_seen": "2026-11-18T12:48:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.516869,
           38.28673
         ]
@@ -36479,6 +36519,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0012",
         "pubDate": "Thu, 13 Aug 2026 10:01:14 GMT",
         "first_seen": "2026-08-13T10:37:01Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.801568,
+          38.277307
+        ]
+      },
+      "properties": {
+        "incident_id": "312537",
+        "route": "I-64",
+        "mm_start": 1.4,
+        "mm_end": 1.4,
+        "title": "I-64 West at MM 1.4 Approaching I-264 West End in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0221",
+        "pubDate": "Wed, 18 Nov 2026 12:33:38 GMT",
+        "first_seen": "2026-11-18T12:48:31Z"
       }
     },
     {
@@ -55159,6 +55219,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0214",
         "pubDate": "Sat, 25 Jul 2026 00:01:46 GMT",
         "first_seen": "2026-07-25T00:09:39Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.439311,
+          38.219574
+        ]
+      },
+      "properties": {
+        "incident_id": "312532",
+        "route": "I-64",
+        "mm_start": 22.5,
+        "mm_end": 22.5,
+        "title": "I-64 West at MM 22.5 Area of Johnson Road in Jefferson County",
+        "description": "Roadway Debris : Metro Safe report road debris in the area",
+        "pubDate": "Wed, 18 Nov 2026 12:25:55 GMT",
+        "first_seen": "2026-11-18T12:48:31Z"
       }
     },
     {
