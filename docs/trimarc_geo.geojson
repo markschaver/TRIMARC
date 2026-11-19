@@ -16686,6 +16686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663113,
+          38.21536
+        ]
+      },
+      "properties": {
+        "incident_id": "312627",
+        "route": "I-264",
+        "mm_start": 16.2,
+        "mm_end": 16.2,
+        "title": "I-264 East at MM 16.2 Just Past Bardstown Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_264_0156",
+        "pubDate": "Thu, 19 Nov 2026 01:52:37 GMT",
+        "first_seen": "2026-11-19T02:37:30Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.661583,
           38.216152
         ]
@@ -45499,6 +45519,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0138",
         "pubDate": "Mon, 17 Aug 2026 11:06:09 GMT",
         "first_seen": "2026-08-17T11:42:00Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.595463,
+          38.22859
+        ]
+      },
+      "properties": {
+        "incident_id": "312623",
+        "route": "I-64",
+        "mm_start": 13.9,
+        "mm_end": 13.9,
+        "title": "I-64 West at MM 13.9 Area of Hurstbourne PKWY in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0138",
+        "pubDate": "Thu, 19 Nov 2026 01:16:41 GMT",
+        "first_seen": "2026-11-19T02:37:30Z"
       }
     },
     {
