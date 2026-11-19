@@ -40686,6 +40686,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.72251,
+          38.257513
+        ]
+      },
+      "properties": {
+        "incident_id": "312671",
+        "route": "I-64",
+        "mm_start": 6.4,
+        "mm_end": 6.4,
+        "title": "I-64 East at MM 6.4 Area of Story Ave. in Jefferson County",
+        "description": "Construction / Road Work : The right lane of I-64 East will be closed from 9:00 a.m.until 3:00 p.m.at mile 6.4 to allow crews to perform maintenance on the interstate infrastructure. Motorists are urged to follow all traffic control measures, use caution when traveling through the work zone and plan for travel delays.",
+        "pubDate": "Thu, 19 Nov 2026 14:26:47 GMT",
+        "first_seen": "2026-11-19T19:24:59Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.721466,
           38.256309
         ]
