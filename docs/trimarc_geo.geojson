@@ -44466,6 +44466,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.609274,
+          38.232983
+        ]
+      },
+      "properties": {
+        "incident_id": "312843",
+        "route": "I-64",
+        "mm_start": 12.6,
+        "mm_end": 13.6,
+        "title": "I-64 West between MM 13.6 and 12.6 Between Hurstbourne Parkway and I-264 in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of weekend lane closures on Interstate 64 West beginning Friday, Nov. 20, in Louisville. The left two lanes of I-64 West between mile point 13.6 (near KY 1747 (South Hurstbourne Parkway)) and mile point 12.6 (near the I-64/I-264 interchange) will be closed beginning at 6 p.m. on Friday, Nov. 20, through 10 p.m. on Sunday, Nov. 22, for concrete slab repairs. Nearby interstate ramps will remain open during the scheduled weekend lane closures. Motorists should heed signage, use caution when traveling through the work zone and plan for travel delays.",
+        "pubDate": "Fri, 20 Nov 2026 23:00:00 GMT",
+        "first_seen": "2026-11-21T04:11:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.615982,
           38.2355
         ]
@@ -47919,6 +47939,26 @@
         "description": "Crash : May be viewed on CCTV_05_64_0171",
         "pubDate": "Wed, 09 Sep 2026 19:09:25 GMT",
         "first_seen": "2026-09-09T19:26:24Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.549295,
+          38.223554
+        ]
+      },
+      "properties": {
+        "incident_id": "312862",
+        "route": "I-64",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-64 West at MM 16.5 West of Blankenbaker Pkwy in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
+        "pubDate": "Sat, 21 Nov 2026 03:52:10 GMT",
+        "first_seen": "2026-11-21T04:11:34Z"
       }
     },
     {
@@ -77019,6 +77059,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0074",
         "pubDate": "Thu, 24 Sep 2026 19:39:24 GMT",
         "first_seen": "2026-09-24T20:42:22Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.603317,
+          38.303958
+        ]
+      },
+      "properties": {
+        "incident_id": "312845",
+        "route": "I-71",
+        "mm_start": 7.7,
+        "mm_end": 7.7,
+        "title": "I-71 South at MM 7.7 Area of I-265 in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : may be viewed on CCTV_05_71_0082",
+        "pubDate": "Sat, 21 Nov 2026 00:12:38 GMT",
+        "first_seen": "2026-11-21T04:11:34Z"
       }
     },
     {
