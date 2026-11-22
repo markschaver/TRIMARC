@@ -26546,6 +26546,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.663848,
+          38.114115
+        ]
+      },
+      "properties": {
+        "incident_id": "312944",
+        "route": "I-265",
+        "mm_start": 12.4,
+        "mm_end": 12.4,
+        "title": "I-265 East at MM 12.4 Just Past Preston Highway in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_265_0117",
+        "pubDate": "Sun, 22 Nov 2026 15:31:44 GMT",
+        "first_seen": "2026-11-22T21:04:42Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.662167,
           38.114697
         ]
@@ -34919,6 +34939,26 @@
         "description": "Crash : METROSAFE REPORTS.",
         "pubDate": "Sun, 28 Jun 2026 00:59:04 GMT",
         "first_seen": "2026-06-28T01:23:32Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.569552,
+          38.308065
+        ]
+      },
+      "properties": {
+        "incident_id": "312966",
+        "route": "I-265",
+        "mm_start": 33.9,
+        "mm_end": 33.9,
+        "title": "I-265 North at MM 33.9 Area of Brownsboro Road in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_265_0340.",
+        "pubDate": "Sun, 22 Nov 2026 20:22:48 GMT",
+        "first_seen": "2026-11-22T21:04:42Z"
       }
     },
     {
@@ -48139,6 +48179,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0171",
         "pubDate": "Sat, 21 Nov 2026 03:52:10 GMT",
         "first_seen": "2026-11-21T04:11:34Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.549295,
+          38.223554
+        ]
+      },
+      "properties": {
+        "incident_id": "312967",
+        "route": "I-64",
+        "mm_start": 16.5,
+        "mm_end": 16.5,
+        "title": "I-64 East at MM 16.5 Approaching Blankenbaker Parkway in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0171.",
+        "pubDate": "Sun, 22 Nov 2026 20:32:34 GMT",
+        "first_seen": "2026-11-22T21:04:42Z"
       }
     },
     {
@@ -71099,6 +71159,26 @@
         "description": "Roadway Debris : May be viewed on CCTV_05_65_1344",
         "pubDate": "Tue, 25 Aug 2026 05:40:02 GMT",
         "first_seen": "2026-08-25T06:04:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.751183,
+          38.229321
+        ]
+      },
+      "properties": {
+        "incident_id": "312968",
+        "route": "I-65",
+        "mm_start": 134.1,
+        "mm_end": 134.1,
+        "title": "I-65 South at MM 134.1 Area of Floyd Street Ramp in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1344.",
+        "pubDate": "Sun, 22 Nov 2026 20:47:11 GMT",
+        "first_seen": "2026-11-22T21:04:42Z"
       }
     },
     {
