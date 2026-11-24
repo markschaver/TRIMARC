@@ -30726,6 +30726,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.507594,
+          38.200638
+        ]
+      },
+      "properties": {
+        "incident_id": "313100",
+        "route": "I-265",
+        "mm_start": 23.4,
+        "mm_end": 24.5,
+        "title": "I-265 North-South between MM 23.4 and 24.5 North of Taylorsville Rd in Jefferson County",
+        "description": "Construction / Road Work : The Kentucky Transportation Cabinet (KYTC) advises motorists of overnight alternating lane closures on Interstate 265 (Gene Snyder Freeway) beginning tonight, Nov. 23, in Louisville, as part of the $1.9 million project announced in August to establish consistent interstate route and exit numbering from Louisville into Southern Indiana [links-1.govdelivery.com]. Beginning at 9 p.m. tonight, Nov. 23, through 5 a.m. on Tuesday, Nov. 24, overnight alternating lane closures will be in place between mile point 23.40 (near KY 155 (Taylorsville Road)) and mile point 24.51 (near the I-64 and I-265 interchange). Additionally, overnight alternating lane closures will be in place between mile point 23.40 (near KY 155 (Taylorsville Road)) and mile point 24.51 (near the I-64 and I-265 interchange) from 9 p.m. on Tuesday, Nov. 24, to 5 a.m. on Wednesday, Nov. 25. Additional lane, shoulder, and ramp closures will be necessary to replace signage in project areas as work progresses. Details regarding upcoming traffic impacts will be shared when available. The project is expected to be completed by the Summer of 2027. Motorists should obey work zone traffic restrictions and plan ahead when traveling.",
+        "pubDate": "Tue, 24 Nov 2026 02:00:00 GMT",
+        "first_seen": "2026-11-24T06:05:35Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.50838,
           38.194153
         ]
@@ -41779,6 +41799,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_64_0079",
         "pubDate": "Tue, 20 Oct 2026 19:15:42 GMT",
         "first_seen": "2026-10-20T22:10:10Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.708159,
+          38.249359
+        ]
+      },
+      "properties": {
+        "incident_id": "313114",
+        "route": "I-64",
+        "mm_start": 7.4,
+        "mm_end": 7.4,
+        "title": "I-64 West at MM 7.4 Area of Grinstead Dr in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_64_0079",
+        "pubDate": "Tue, 24 Nov 2026 05:55:42 GMT",
+        "first_seen": "2026-11-24T06:05:35Z"
       }
     },
     {
