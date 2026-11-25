@@ -22826,6 +22826,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.619247,
+          38.250372
+        ]
+      },
+      "properties": {
+        "incident_id": "313303",
+        "route": "I-264",
+        "mm_start": 19.8,
+        "mm_end": 19.8,
+        "title": "I-264 East at MM 19.8 At Shelbyville Rd. in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0199",
+        "pubDate": "Wed, 25 Nov 2026 20:20:14 GMT",
+        "first_seen": "2026-11-25T20:35:21Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.618965,
           38.251801
         ]
@@ -23716,9 +23736,9 @@
         "mm_start": 21.5,
         "mm_end": 22.9,
         "title": "I-264 East-West between MM 21.5 and 22.9 Area of US-42 in Jefferson County",
-        "description": "Construction / Road Work : UPDATE (March 23, 2026) \u2013 The Kentucky Transportation Cabinet (KYTC) advises motorists of overnight lane and ramp closures on Interstate 264 East and West (Watterson Expressway) beginning Tuesday, March 24, as part of the $130 million widening and improvement project of I-264 and U.S. 42 (Brownsboro Road) [links-1.govdelivery.com]. Beginning Tuesday, March 24, at 8 p.m., through Wednesday, March 25, at 6 a.m.: Alternating lane closures will occur on I-264 East and West between mile markers 23 and 22 (from the I-264/I-71 split to U.S. 42/Brownsboro Road). Beginning Wednesday, March 25, at 8 p.m., through Thursday, March 26, at 6 a.m.: The I-264 East ramp to I-71 South will be closed. Motorists should continue on I-264 East, take I-71 North, then follow I-265 North to reconnect with I-71 South. Alternating lane closures will occur on I-264 East between mile markers 23 and 22 (from the I-264/I-71 split to U.S. 42/Brownsboro Road). Motorists should heed signage, use caution when traveling through the work zone, and plan ahead for travel delays. The highway improvement project is expected to be completed by the Fall of 2027. More details, including project timelines and traffic impacts [links-1.govdelivery.com], will be shared online as work progresses. Motorists are encouraged to sign up for email or text alerts [links-1.govdelivery.com] regarding weekly traffic impacts pertaining to the project.",
+        "description": "Construction / Road Work : To minimize extended traffic impacts in the area, the Kentucky Transportation Cabinet (KYTC) and I-264 and U.S. 42 (Brownsboro Road) Widening and Improvement Project team have combined project construction phasing into a single approach. The schedule for upcoming temporary traffic impacts listed below takes into consideration the potential for inclement weather and the upcoming Thanksgiving holiday. Beginning Friday, Nov. 20, at 8 p.m. through Monday, Nov. 23, at 6 a.m. The I-264 East on-ramp from U.S. 42 (Brownsboro Road) will be closed. The I-264 West off-ramp to U.S. 42 (Brownsboro Road) at Exit 22 will be closed. Beginning Monday, Nov. 23, at 6 a.m., through Tuesday, Nov. 24, at 6 a.m. The I-264 West on-ramp from U.S. 42 (Brownsboro Road) will be closed. Beginning Monday, Nov. 23, at 6 a.m. through Wednesday, Nov. 25, at 6 a.m. The I-264 East off-ramp to U.S. 42 (Brownsboro Road) at Exit 22 will be closed. Motorists will still be able to access KY 22 at Exit 22 and should detour by turning left onto Lime Kiln Lane to reconnect with either eastbound or westbound U.S. 42. By 6 a.m. on Monday, Nov. 23, traffic will be shifted onto the newly constructed portion of the U.S. 42 (Brownsboro Road) bridge over I-264. All temporary traffic restrictions associated with the traffic shift are expected to be lifted by 6 a.m. on Wednesday, Nov. 25. This traffic configuration will remain in place through the Summer of 2027 as crews advance construction on the remaining portion of the bridge. The upcoming traffic shift marks a significant project milestone, with construction on the $130 million project now more than halfway complete. \u200b U.S. 42 (Brownsboro Road) eastbound is reduced to one through lane west of Rudy Lane, and U.S. 42 (Brownsboro Road) westbound is reduced to one through lane at Northfield Drive. ***Turning movements from U.S. 42 (Brownsboro Road) to I-264 East and West on-ramps are not affected. These traffic control measures are expected to remain in place throughout the reconstruction of the U.S. 42 (Brownsboro Road) bridge over I-264 (Watterson Expressway). Traffic is currently shifted to the outside shoulders on I-264 East and West (Watterson Expressway) between KY 1447 (Westport Road) and I-71",
         "pubDate": "Tue, 15 Jul 2025 04:02:03 GMT",
-        "first_seen": "2026-06-14T19:03:44Z"
+        "first_seen": "2026-11-25T20:35:21Z"
       }
     },
     {
@@ -62819,6 +62839,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1283",
         "pubDate": "Fri, 06 Nov 2026 17:00:18 GMT",
         "first_seen": "2026-11-06T17:17:44Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.704969,
+          38.133993
+        ]
+      },
+      "properties": {
+        "incident_id": "313305",
+        "route": "I-65",
+        "mm_start": 126.5,
+        "mm_end": 126.5,
+        "title": "I-65 North at MM 126.5 Approaching Outer Loop in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_65_1267",
+        "pubDate": "Wed, 25 Nov 2026 20:31:57 GMT",
+        "first_seen": "2026-11-25T20:35:21Z"
       }
     },
     {
