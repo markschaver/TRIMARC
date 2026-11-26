@@ -67126,6 +67126,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.720588,
+          38.166185
+        ]
+      },
+      "properties": {
+        "incident_id": "313362",
+        "route": "I-65",
+        "mm_start": 128.9,
+        "mm_end": 128.9,
+        "title": "I-65 South at MM 128.9 Area of Fern Valley Rd in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_65_1283",
+        "pubDate": "Thu, 26 Nov 2026 12:11:29 GMT",
+        "first_seen": "2026-11-26T12:38:53Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.720552,
           38.167632
         ]
@@ -67439,6 +67459,26 @@
         "description": "Crash : Metrosafe reports of a crash in the area",
         "pubDate": "Thu, 05 Nov 2026 21:54:23 GMT",
         "first_seen": "2026-11-05T22:21:31Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.720552,
+          38.167632
+        ]
+      },
+      "properties": {
+        "incident_id": "313359",
+        "route": "I-65",
+        "mm_start": 129.0,
+        "mm_end": 129.0,
+        "title": "I-65 North-South at MM 129.0 Approaching Fern Valley Rd in Jefferson County",
+        "description": "Road Hazard : Ponding water reported in the roadway",
+        "pubDate": "Thu, 26 Nov 2026 11:08:20 GMT",
+        "first_seen": "2026-11-26T12:38:53Z"
       }
     },
     {
