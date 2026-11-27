@@ -7646,6 +7646,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.745703,
+          38.189358
+        ]
+      },
+      "properties": {
+        "incident_id": "313432",
+        "route": "I-264",
+        "mm_start": 11.2,
+        "mm_end": 11.2,
+        "title": "I-264 East at MM 11.2 Area of Airport in Jefferson County",
+        "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_264_0116",
+        "pubDate": "Fri, 27 Nov 2026 12:13:23 GMT",
+        "first_seen": "2026-11-27T13:53:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.743864,
           38.189376
         ]
@@ -45086,6 +45106,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -85.614327,
+          38.23486
+        ]
+      },
+      "properties": {
+        "incident_id": "313436",
+        "route": "I-64",
+        "mm_start": 12.8,
+        "mm_end": 12.8,
+        "title": "I-64 East at MM 12.8 Just Past I-264 (East Louisville) in Jefferson County",
+        "description": "Crash : Crash reported in the area.",
+        "pubDate": "Fri, 27 Nov 2026 13:11:15 GMT",
+        "first_seen": "2026-11-27T13:53:58Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -85.612659,
           38.234207
         ]
@@ -80019,6 +80059,26 @@
         "description": "Disabled Vehicle-Occupied : May be viewed on CCTV_05_71_0089",
         "pubDate": "Wed, 18 Nov 2026 20:53:50 GMT",
         "first_seen": "2026-11-18T21:12:47Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.578541,
+          38.316268
+        ]
+      },
+      "properties": {
+        "incident_id": "313438",
+        "route": "I-71",
+        "mm_start": 9.3,
+        "mm_end": 9.3,
+        "title": "I-71 South at MM 9.3 At I-265 in Jefferson County",
+        "description": "Crash : May be viewed on CCTV_05_71_0089.",
+        "pubDate": "Fri, 27 Nov 2026 13:44:39 GMT",
+        "first_seen": "2026-11-27T13:53:58Z"
       }
     },
     {
